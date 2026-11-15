@@ -1,0 +1,12 @@
+Tool 6
+*
+Apollo
+In a nutshell:
+B2B lead database with 275M+ contacts. Find verified emails, direct dials, and company intel for prospecting.
+I use it for:
+When building targeted lead lists. Filter by title, headcount, tech stack, funding stage, and more.
+Works with:
+n8n
+Clay
+HubSpot
+Salesforce

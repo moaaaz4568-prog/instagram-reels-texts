@@ -1,0 +1,38 @@
+What it looks
+like in action.
+
+claude
+Claude Code v2.1.143
+Welcome back Austin!
+Opus 4.7 (1M context) · Organization
+austin@theincubator.xyz's cost (per-token and per-session)
+C:\users\uaustin\desktop\claude-plugin-lock
+
+CLAUDE.md file with instructions
+
+Tips for getting started
+Run /init to create a CLAUDE.md file with instructions
+
+What's new
+Added plugin dependency enforcement: 'claude-plugin-lock'
+Added worktree.biglogoation: "none" setting
+Added projected context-wave-system to review your session
+/claudeworktree-code/demo-os
+/release-notes for more
+
+IMPROVE SYSTEM REMINDER: Run /bp:improve
+
+L SessionStart:startup says:
+
+> /ask-the-board Based on everything you know about me, what should I do to capitalize on AI?
+
++ 🎤 /remote-control 📁 File explorer 💡 Rich Input Ctrl G
+
+Type one line:
+/ask-the-board Based on everything you know
+about me, what should I
+do to capitalize on AI?
+
+You get advice that sounds
+like your
+own personal panel of mentors. Every time.

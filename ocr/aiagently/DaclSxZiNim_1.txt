@@ -1,0 +1,16 @@
+USE CASE 01
+Cancel subscriptions
+you forgot you had.
+One creator connected his bank account.
+AI found unused subscriptions and helped save $1,500/month.
+$1,500 / mo
+This is one of the biggest problem of the
+Founders..
+This AI Agent Get your all data and automatically remove the subscription
+thats not needed..
+STARTER PROMPT
+Act as my personal finance assistant.
+Analyze the last 90 days of transactions. Create a table showing every
+recurring subscription with its name, category, monthly cost, and
+annual cost. Also summarize spending by category. Identify
+subscriptions that appear unused or unnecessary.

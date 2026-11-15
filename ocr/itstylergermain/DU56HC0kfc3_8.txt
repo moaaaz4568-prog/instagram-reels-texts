@@ -1,0 +1,12 @@
+Skill #8
+★★★★★
+excalidraw-diagram-generator
+github/excalidraw-diagram-generator
+Design
+20,589
+Recommended MCP Servers
+Excalidraw
+Generate Excalidraw diagrams from natural language descriptions. Supports flowcharts, relationship diagrams, mind maps, and system architecture diagrams. Outputs .excalidraw JSON files that can be opened directly in Excalidraw.
+npx @smithery/cli@latest install github/excalidraw-diagram-generator --agent claude-code
+@itstylergermain
+save for later

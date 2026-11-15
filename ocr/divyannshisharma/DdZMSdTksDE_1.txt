@@ -1,0 +1,11 @@
+Project 1:
+Board of Advisors.
+Your personal board of advisors —
+inside Claude Code.
+“
+5 steps:
+→ Let Claude interview you
+→ Pick your board members
+→ Feed it their content
+→ Build a /ask-the-board skill
+→ Ask your question

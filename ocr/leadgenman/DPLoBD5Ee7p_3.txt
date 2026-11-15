@@ -1,0 +1,15 @@
+8. Cold Outbound
+Automate DMs, cold emails & scale your
+client acquisition. It’s muah!💋
+
+9. Knowledge of RAG
+Pinecone, Weaviate, or ChromaDB to give
+your agents memory🧠
+
+10. Deployment & Hosting
+Put your agents live using AWS,
+GCP, or Hugging Face
+
+11. Frontend/UI Skills
+Build simple dashboards to showcase
+your agents to clients (BONUS POINTS)

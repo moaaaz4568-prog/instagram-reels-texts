@@ -1,0 +1,17 @@
+Audience Research
+Agent
+
+Analyze Reddit &
+YouTube comments
+
+Extract direct
+customer quotes
+
+Include
+source
+URLs
+
+Categorize by
+pain point type
+
+Export to Google Sheets

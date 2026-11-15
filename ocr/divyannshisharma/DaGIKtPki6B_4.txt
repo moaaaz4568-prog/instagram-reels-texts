@@ -1,0 +1,40 @@
+05 Step 2: Type one simple command
+Step 2:
+Type one simple command
+YouTube
+yc lecture
+Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)
+YC Root Access
+135K subscribers
+Subscribe
+113K
+Share
+Save
+SM: views 11 years ago
+Lecturer: [Redacted] / http://cstheory.stackexchange.com/users/... Sam Altman, President of Y Combinator, and Dustin Moskovitz, Co-founder of Facebook, are ... more
+From your search From YC Root Access Sam Altman
+Start a Startup
+Building An AI
+Native Company
+HOW TO
+Stanford
+University
+>> Can people hear in the
+back?
+DEBUG CONSOLE TERMINAL PORTS 2.1.19 v + -
+bradna...@bradna-MacBook-Air:~/self-improving-kapathy-wiki$ claude
+Claude Code v2.1.19
+Sommet: 4. 7 (11 context windows)
+/bradnaautonotes/self-improving-kapathy-wiki
+/Users/brad...
+# video-url-or-path [question]
+> /watch:watch
+# auto mode on
+(shift+tab to cycle)
+/Watch:watch
+https://youtu.be/abcd1234
+# video-url-or-path
+In Claude Code, type /watch and paste the link.
+That's the entire instruction. Claude handles everything else.
+In Claude Code, type /watch and paste the link.
+That's the entire instruction. Claude handles everything else.

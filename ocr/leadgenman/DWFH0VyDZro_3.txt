@@ -1,0 +1,13 @@
+COMMANDS.md
+
+Your terminal is Claude's hands.
+It runs, fails, reads the error, and
+fixes itself.
+
+Ask:
+- What tasks eat your time every week?
+- What if you described it in English and it just ran?
+- What if it failed and fixed itself without you?
+
+You describe. It executes. That's not a chatbot.
+That's an agent.

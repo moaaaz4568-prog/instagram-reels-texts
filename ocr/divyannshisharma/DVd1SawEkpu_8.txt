@@ -1,0 +1,16 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+about-me.md - Starter
+Template
+
+# About Me
+Name: [Your name]
+Role: [What you actually do, in one specific sentence]
+Audience: [Who reads/receives your work]
+Current priority: [Your top 1–2 professional goals right now]
+Success looks like: [What a great week of output looks like
+for you]
+
+## Example of my best work
+[Paste 1–2 paragraphs of writing or work you’re proud of]

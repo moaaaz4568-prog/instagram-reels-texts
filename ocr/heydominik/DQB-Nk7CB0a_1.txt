@@ -1,0 +1,13 @@
+over the past few weeks,
+I've seen a strange pattern:
+
+10K
+0
+Sep 18
+Sep 29
+Oct 9
+
+Reels that flop after 24 hours suddenly start blowing up —
+a few days to even weeks later
+
+● So I dug into the data to figure out what's triggering it.

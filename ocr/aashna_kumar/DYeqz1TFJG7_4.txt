@@ -1,0 +1,18 @@
+@Aashna_kumar
+OUTLINE
+• Use Background Remover so your photo stands alone
+• Then click on Edit → Effects → Shadow
+• From the multiple options in shadows, choose outline. Tweak the thickness, color, and softness until it matches your vibe
+Edit
+BG Remover
+Eraser
+fx Effects
+Shadows
+None
+Glow
+Drop
+Outline
+Curved
+Backdrop
+Page lift
+Angled

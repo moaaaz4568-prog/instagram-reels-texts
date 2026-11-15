@@ -1,0 +1,13 @@
+3. SET YOUR
+(Pt 1)
+CAMERA RIGHT
+Movie1 1/10
+Exposure Mode Manual Exposure
+Exposure Mode
+File Format XAVC S 4K
+Record Setting 25p 100M
+S&Q Settings
+Proxy Recording Off
+FRAME
+RATE
+RESOLUTION

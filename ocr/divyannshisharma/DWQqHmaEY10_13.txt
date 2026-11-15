@@ -1,0 +1,38 @@
+Skill Set 12
+Marketing Skills
+DESCRIPTION
+comprehensive
+collection of 20+
+high-impact
+marketing capabilities
+designed to cover the
+full growth spectrum.
+It includes core areas
+like
+conversion rate
+optimization (CRO),
+persuasive
+copywriting, SEO
+strategies, email
+marketing sequences,
+and growth
+experimentation. This
+skill set helps you
+plan, execute, and
+scale marketing
+efforts effectively.
+coreyhaines31 / marketingskills Public
+<> Code Issues 1 Pull requests 14
+main 9 Branches 5
+coreyhaines31 Merge pull reque
+claude-plugin
+github
+skills
+tools
+.gitignore
+AGENTS.md
+CLAUDE.md
+CONTRIBUTING.md
+LICENSE
+MORE INFO
+https://lnkd.in/gNcepeAA

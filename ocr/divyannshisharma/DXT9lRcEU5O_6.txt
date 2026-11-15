@@ -1,0 +1,8 @@
+Step 6
+File Uploads
+Claude reads PDFs, spreadsheets, images, code, and docs, just upload and ask questions instead of copy-pasting.
+Step 7
+Vision
+Paste any image into chat - Claude can analyze, explain, transcribe, and give feedback instantly.
+Divyanshisharma
+6/16

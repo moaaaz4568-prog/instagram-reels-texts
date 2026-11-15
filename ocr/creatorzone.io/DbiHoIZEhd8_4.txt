@@ -1,0 +1,12 @@
+Bitrate Settings
+Bitrate Encoding
+VBR, 2 pass
+Target Bitrate
+[Mbps]
+20
+Maximum Bitrate
+[Mbps]
+24
+VBR, Pass 2
+Target Bitrate: 20Mbps
+Maximum Bitrate : Full

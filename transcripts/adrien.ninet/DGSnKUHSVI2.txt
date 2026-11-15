@@ -1,0 +1,1 @@
+This five web apps were built in one day: a streaming platform, the wardrobe generator, a video tagging tool, a resume generator, and a dating assistant tool. All you have to do is describe your idea, add some design inspiration, and you have a complete building plan generated. Then let the AI does the work for you. Comment "up" and I'll send you the link of the tool.

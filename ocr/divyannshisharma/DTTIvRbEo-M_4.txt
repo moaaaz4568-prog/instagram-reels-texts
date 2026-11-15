@@ -1,0 +1,58 @@
+Step #4
+Navigate to WhatsApp API Setup
+and select test number
+Meta
+App Dashboard
+Dashboard
+Required actions
+App settings
+App roles
+Alerts
+App Review
+Webhooks
+WhatsApp
+Quickstart
+API Setup
+Configuration
+Activity log
+Access Token
+Copy
+Generate access token
+Send and receive messages
+Step 1: Select phone numbers
+From
+Test phone numbers allow you to send free messages for 90 days. You can use your own phone number, which is subject to limits and pricing. About pricing
+Test number +1 555 123 4565
+Phone number ID 629996113528945 WhatsApp Business Account ID 1030051362386123
++9 1
+To
+Step 2: Send messages with the API
+To send a test message, copy this command, paste it into Terminal, and press enter. To create your own message template, click
+curl -X POST https://graph.facebook.com/v17.0/629996113528945/messages \
+-H "Authorization: Bearer EAAZDntZLijh7wBAJ6ZA ..." \
+-H "Content-Type: application/json" \
+-d '{
+  "messaging_product": "whatsapp",
+  "to": "+15551234565",
+  "text": {
+    "body": "Hello"
+  }
+}'
+Run in Postman
+Send message
+FHD 360Hz
+Lock
+A
+S
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl
+Step #4
+Navigate to WhatsApp API Setup
+and select test number

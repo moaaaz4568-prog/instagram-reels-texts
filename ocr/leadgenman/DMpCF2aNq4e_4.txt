@@ -1,0 +1,17 @@
+crewai
+1
+Manager
+Crew Manager
+2
+Task Queue
+3
+Researcher Agent
+4
+Writer Agent
+5
+Analyst Agent
+6
+Collaboration Hub
+7
+Final Output
+Output

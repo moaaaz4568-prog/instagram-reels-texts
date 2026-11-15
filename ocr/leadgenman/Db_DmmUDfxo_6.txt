@@ -1,0 +1,8 @@
+SKILL
+ui-ux-pro-max
+DESCRIPTION
+A searchable design database your agent queries before it picks anything. 84 styles, 192 palettes, 74 font pairings, 98 UX guidelines and 25 chart types across 22 stacks, plus a generator that reads your project and writes a full design system in seconds.
+MORE INFO
+https://github.com/nexttl
+velbuilder/ui-ux-pro-
+max-skill

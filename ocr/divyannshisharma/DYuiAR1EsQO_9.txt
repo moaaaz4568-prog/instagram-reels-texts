@@ -1,0 +1,95 @@
+The Vibe Stack
+10
+FREE LEARNING
+& REPOS
+TO
+CLAUDE
+AI-powered tools
+FREE LEARNING
+& repos to Claude
+Learn, Build, Ship with the power of Claude.
+Search free courses, guides & repos.
+For Free
+awesome-claude-resources
+A curated list of the best Claude resources
+12.5K 2.1K
+GitHub
+Learning Paths
+1 Claude Fundamentals
+Beginner
+2 Build Projects
+Intermediate
+3 Advanced Agents
+Advanced
+4 Claude Ops
+Expert
+Top Categories
+Claude Courses
+Prompt Engineering Guides
+AI Project Templates
+Open Source Repos
+Video & Tutorials
+Stats at a Glance
+120+ Courses
+350+ Repos
+50K+ Learners
+Free knowledge. Open source. Real impact.
+Learn with Claude. Build the future.
+Start Learning
+Featured Repository
+awesome-claude-resources
+A curated list of the best Claude resources
+Why learn with Claude?
+Improve code like a pro
+Build new-proof solutions
+Ship projects, faster with AI
+Join a growing builder community
+49
+decodingai/
+llm-twin-course
+Benefit: A free, hands-on engineering course (12 lessons with code).
+LLM Twin Course
+A free, hands-on course to build LLM-powered projects.
+12 lessons
+1. Introduction
+2. Setup & Environment
+3. Your First LLM App
+4. Prompt Engineering
+5. Memory & Context
+6. Tools & Functions
+7. Retrieval (RAG)
+8. Agents & Workflows
+9. Evaluation
+10. Deployment
+11. Advanced Topics
+12. Capstone Project
+Happy Building! 🚀
+50
+milannm/
+DevOps-Roadmap
+Benefit: A structured roadmap for mastering DevOps in 2026.
+milannm / DevOps-Roadmap
+Code Issues 12 Pull requests 4 Discussions Actions
+main README.md
+CODE
+README.md
+01-Linux 2 weeks ago
+02-Networking 2 weeks ago
+03-Git 3 weeks ago
+04-Docker 3 weeks ago
+05-Kubernetes 1 month ago
+06-CI/CD 1 month ago
+07-Terraform 1 month ago
+08-Monitoring 2 months ago
+09-Security 2 months ago
+Last commit
+Linux fundamentals & shell scripting 2 weeks ago
+Networking basics for DevOps 2 weeks ago
+Git & GitHub essentials 3 weeks ago
+Containerization with Docker 3 weeks ago
+Kubernetes from scratch 1 month ago
+CI/CD with Jenkins, GitHub Actions 1 month ago
+Infrastructure as Code with Terraform 1 month ago
+Monitoring with Prometheus & Grafana 2 months ago
+DevSecOps best practices 2 months ago
+Code

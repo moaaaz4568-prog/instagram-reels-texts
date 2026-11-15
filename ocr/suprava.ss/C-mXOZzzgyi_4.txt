@@ -1,0 +1,18 @@
+4.Email template:
+Hey [First Name],
+My client referred me to reach out to you regarding
+your"[Job Post Name]".
+The reason I'm reaching out is because I have a [lead
+magnet] that can help you with [Problem They're
+Facingl.
+Would you like to have a look at it?
+Sent
+pouodo
+Openrate
+Replied
+Replyrate
+120
+86
+81%
+20
+20%

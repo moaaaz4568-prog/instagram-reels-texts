@@ -1,0 +1,41 @@
+8. Supporting Skills
+
+• Python & Engineering Basics • Web Development (For Real Products) • Cloud & Infrastructure • Databases • ML Fundamentals (Just Enough) • Data Engineering • Languages Beyond Python
+
+Critical Skill Areas (Click to explore)
+1. Python & Engineering Basics
+2. Web Development (For Real Products)
+3. Cloud & Infrastructure
+4. Databases
+5. ML Fundamentals (Just Enough)
+6. Data Engineering
+7. Key Languages
+
+Core Skill Breakdown (Details)
+Python: 80%+ rtes, data, backends
+Testing: Code quality, automations
+FastAPI: Backend standard for AI
+React UI: Frontend UI
+Cloud Choice: (AWS, GCP, Azure)
+Docker: Containerization
+PostgreSQL: (Default choice for SQL)
+Vector DBs: (Pinecone, Weaviate)
+Next.js: (Frontend framework)
+APIs: (REST, GraphQL)
+Kubernetes: (Orchestration)
+DBs: (TypeScript, SQL)
+
+Skills (Metrics)
+Git Workflows: (Code versioning, collaboration) 82%
+CI/CD: (Automated testing, deployment)
+Cloud Platform Usage: (AWS, GCP, Azure)
+Vector DB Importance: 75%
+SQL Mastery Demand: 90%
+
+Applying the Skills
+Data Tools: (Pandas, NumPy, Spark)
+ML Essentials: (Scikit-learn, TensorFlow)
+Languages: (Python, SQL, TypeScript)
+
+Swipe →
+Swipe →

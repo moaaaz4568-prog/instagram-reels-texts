@@ -1,0 +1,16 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Why it works:
+
+Deterministic workflows:
+Same workflow, same steps, same order. Not "hopefully the agent remembers to test."
+
+Agents verify each other:
+The developer doesn't mark their own homework. A separate state verifier checks every story.
+
+Fresh context, every step:
+Each agent gets a clean session using Ralph loops. No context window bloat. No hallucinated state.
+
+Auto Retry and escalate:
+Failed steps retry automatically. If retries exhaust, it escalates to you. Nothing fails silently.

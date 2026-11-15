@@ -1,0 +1,20 @@
+Step #8
+supabase
+Build in a weekend
+Scale to millions
+Start your project with a Postgres database, Authentication, Instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.
+Start your project
+Request a demo
+pwc
+PIKA
+Huawei
+Audio
+Trusted by fast-growing companies worldwide
+Authentication
+Add user sign ups and logins. Extend user profiles with 3rd party data. Secure your user data with row level security.
+Edge Fu
+We use cookies to collect data and improve our services. Learn more
+Accept
+Opt out
+Privacy settings
+Use Supabase for free vector database storage

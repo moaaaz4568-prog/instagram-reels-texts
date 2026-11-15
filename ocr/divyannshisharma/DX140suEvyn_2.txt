@@ -1,0 +1,20 @@
+02
+RAG & KNOWLEDGE
+make ai answer from your own data.
+
+08 langchain 98K most popular llm framework. chains, agents, retrievers, memory. connects llms to any data source or tool. github.com/langchain-ai/langchain
+
+38K data framework for llm apps. index pdf, sql, notion, slack — query with natural language. better than langchain for pure rag. github.com/run-llama/llama_index
+
+10 rag-anything 12K multimodal rag. handles text, tables, images, charts, graphs. 6 lines to set up. github.com/HKUDS/RAG-Anything
+
+11 chroma 16K open-source vector database. store embeddings, search by similarity, filter by metadata. simplest semantic search setup. github.com/chroma-core/chroma
+
+12 weaviate 12K vector database with built-in ml models. hybrid search, multi-tenancy, scales to billions of objects. github.com/weaviate/weaviate
+
+13 haystack 18K end-to-end nlp framework for rag pipelines. modular, production-ready, works with any llm or vector db. github.com/deepset-ai/haystack
+
+14 docling 22K convert documents to structured markdown for ai. handles pdfs with tables, figures, formulas. built by ibm research. github.com/DS4SD/docling
+
+Divyanshi sharma
+02/10

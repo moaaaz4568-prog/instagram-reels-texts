@@ -1,0 +1,19 @@
+Step #9
+When chat message received
+Parameters Settings
+Make Chat Publicly Available
+Make Available in n8n Chat
+Agent Name
+Web Scraper Agent
+Agent Description
+Give me any URL to scrape, search the web for information, or crawl entire websites. I'll extract and return clean, readable content.
+Options
+No properties
+Add Field
+I wish this node would...
+FHD 360Hz
+OUTPUT
+No trigger output
+Test this trigger
+or set mock data
+Setup is simple: Toggle "Make Available in n8n Chat"

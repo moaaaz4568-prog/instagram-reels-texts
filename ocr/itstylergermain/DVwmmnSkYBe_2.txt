@@ -1,0 +1,35 @@
+Inside OpenClaw: The Agentic Workflow Architecture
+
+Telegram
+Discord
+
+Channel Adapter
+Message Ingestion & Normalization
+
+Gateway Server
+The Coordinator
+
+Agent Runner
+Context Guard
+
+LLM API Interaction
+Tool Execution
+
+Agentic Loop
+Tool Execution
+
+API Interactions
+Anthropic
+OpenAI
+
+Agentic Loop
+Local Shell Commands
+Browser Snapshots
+Browser Interactions
+Filesystem Tools
+
+Response Path
+Delivers Final Stream
+
+@itstylergermain
+save for later

@@ -1,0 +1,6 @@
+Part 3: Automated Sending Emails
+- Sends emails via Gmail with your CV
+- Automate LinkedIn msgs
+- Uses AI-personalized messages
+- Includes company-focused icebreakers for email
+- Tracks campaign performance

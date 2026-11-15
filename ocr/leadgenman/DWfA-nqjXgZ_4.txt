@@ -1,0 +1,23 @@
+20x
+Agent
+Autonomous background worker
+agent-task.txt - Notepad
+File Edit Format View Help
+You tell Claude:
+"Process all 3,000 leads from our last 6 months of webinars."
+Terminal — agent
+$ claude --background "Process 3,000 leads"
+Processed
+✓ Batch 1: 500 leads processed
+Processed
+✓ Batch 2: 500 leads processed
+✓ Batch 3: 500 leads (3 retried)
+Processed
+✓ Batch 4: 500 leads processed
+▶ Batch 5: processing...
+○ Batch 6: queued
+Progress: [====... ] 67%
+Calls skills across all records.
+Handles errors. Resumes on failure.
+Large data, long tasks. Runs while you sleep.
+@fragentman

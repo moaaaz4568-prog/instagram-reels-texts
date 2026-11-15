@@ -1,0 +1,24 @@
+Repo Stack 04
+LANGCHAIN
+DESCRIPTION
+The go-to open-source framework for building AI agents and LLM-powered apps.
+132k stars, actively maintained, and supports everything from RAG pipelines to multi-agent systems works with OpenAI, Anthropic, Gemini, and more.
+langchain-ai / langchain Public
+Code Issues 348 Pull requests 174
+master 1114 Branches
+ccurme (ccurme) release(core): 1.2...
+docs.langchain
+rag open-source
+generative-ai
+anthropic
+MORE INFO
+https://t.co/qIRw5rnzwi
+.devcontainer
+.github
+.vscode
+libs
+.dockerignore
+.editorconfig
+.gitattributes
+.gitignore
+.markdownlint.json

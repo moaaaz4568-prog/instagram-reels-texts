@@ -1,0 +1,19 @@
+Step 8
+Put It on Autopilot
+Use Scheduled Tasks (type /schedule) so it runs
+your skill on its own, like a daily brief each morning.
+Keep your computer on so it can run.
+Claude
+Home
+Projects
+Artifacts
+Cowork
+Scheduled tasks
+Settings
+Scheduled tasks
+Set up recurring tasks to run your skills automatically.
+Create scheduled task
+Daily brief
+Runs every day at 8:00 AM
+Daily brief
+/schedule

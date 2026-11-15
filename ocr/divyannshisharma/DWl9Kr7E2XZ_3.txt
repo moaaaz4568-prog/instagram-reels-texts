@@ -1,0 +1,50 @@
+divyanshisharma
+1/4 Category (Prompt 31 - 45)
+1/4 Category (Prompt 31 - 45)
+Category 1:
+Coding & Debugging
+
+31. Implement Retry Logic
+Add retry logic to a function that makes an external API call. Handle rate limits, transient errors, and use exponential backoff. [PASTE FUNCTION]
+
+32. Write a State Machine
+Implement a state machine for [DESCRIBE MACHINE] that processes [DESCRIBE JOBS]. Include SYSTEM WITH STATES, Define all states, transitions, guards, and actions.
+
+33. Build a Queue System
+Implement a job queue in [LANGUAGE] that processes [DESCRIBE JOBS]. Include priority levels, retry logic, dead letter handling, and a way to monitor queue depth.
+
+34. Create an SDK
+Design and write a basic SDK in [LANGUAGE] for the following API. Make it easy to use, well documented, and handle authentication automatically.
+
+35. Optimize a React Component
+This React component is re-rendering too often and causing performance issues. Analyze it and find the performance problems. [PASTE CODE]
+
+36. Write Integration Tests
+Write integration tests for this API endpoint that test the full request/response cycle including the database. [PASTE ENDPOINT CODE]
+
+37. Implement Search Functionality
+Implement full-text search for [DESCRIBE DATA] using [TECHNOLOGY]. Include fuzzy matching, relevance scoring, and filtering by [FIELDS].
+
+38. Build a Notification System
+Design and implement a notification system that sends [EMAIL/SMS/PUSH] notifications when [DESCRIBE TRIGGERS]. Include templates, queuing, and tracking.
+
+39. Write a Parser
+Write a parser in [LANGUAGE] that reads [DESCRIBE FORMAT] and outputs [DESCRIBE OUTPUT]. Handle malformed input gracefully.
+
+40. Design an Event System
+Design an event-driven architecture for [DESCRIBE APPLICATION]. What events should exist, how should they be structured, how services communicate?
+
+41. Implement File Upload
+Write a file upload handler in [FRAMEWORK] that accepts [FILE TYPES]. Validate its size, type, stores files in [STORAGE], and returns a URL.
+
+42. Build a Configuration System
+Design a configuration management system for [APPLICATION TYPE] that supports multiple environments, secret management, and runtime updates.
+
+43. Write a Health Check Endpoint
+Write a health check endpoint for [FRAMEWORK] that checks database connectivity, external service availability, and system resources. Return codes.
+
+44. Implement Feature Flags
+Design and implement a feature flag system that allows enabling/disabling features per user, per [PERCENTAGE OF USERS], context, performance timing, and traffic, or without deploying code.
+
+45. Create a Logging System
+Implement structured logging for [APPLICATION TYPE] that includes request IDs, user context, performance timing, and integrates with [LOGGING SERVICE].

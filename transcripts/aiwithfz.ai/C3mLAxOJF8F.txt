@@ -1,0 +1,1 @@
+Assumptions of linear regression. One, normality. Two, linear relationship. Three, independence. Four, do you know? Comment below. Read caption for more details.

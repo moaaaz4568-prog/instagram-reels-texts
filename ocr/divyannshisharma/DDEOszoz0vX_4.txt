@@ -1,0 +1,14 @@
+3
+Save and
+Run the Script
+Review and approve any permissions and run.
+Service
+Connect to an external service
+Make sure you trust name to domain Apps Script
+You may be sharing sensitive info with this site or app. You
+can always see or remove access in your Google Account.
+Learn how Google helps you share data safely.
+See name to domain Apps Script's Privacy Policy and
+Terms of Service.
+Cancel
+Allow

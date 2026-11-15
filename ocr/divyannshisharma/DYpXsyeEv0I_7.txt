@@ -1,0 +1,61 @@
+STEP 7
+SOP: Kimi K2.6 Playbook
+TEST LIKE A PRO,
+SHIP WITH CONFIDENCE
+Great engineers test everything.
+Ship only when it's solid.
+
+What to test:
+1 Functionality – Does it work as it.
+2 Edge cases – Break it. Then fix it.
+3 Performance – Is it fast and smooth?
+4 Security – Any leaks or vulnerabilities?
+5 Cross-browser / Device – It should work everywhere.
+
+Quick test commands:
+$ npm run test # Run tests
+$ npm run lint # Code quality
+$ npm run build # Production build
+$ npm run preview # Preview build
+
+Deploy with peace of mind.
+Your users will never know how hard you worked. And that's the point.
+
+Test smart. Ship clean. Sleep well.
+That's how elite engineers build legendary products.
+
+TEST IT
+TRUST IT
+SHIP IT
+
+TEST SUITE
+☑ Unit Tests
+☑ Integration Tests
+☑ E2E Tests
+☑ Security Scan
+☑ Lint & Build
+
+expected?
+
+BUILD STATUS
+SUCCESS
+
+COVERAGE
+92%
+
+NO REGRESSION
+
+Before you ship:
+☑ All tests passing
+☑ No console errors
+☑ Performance looks good
+☑ Security scan clean
+☑ Documentation updated
+☑ You reviewed your own code
+
+Know how hard it is.
+That's the point.
+
+★ If you pass all – ship it!
+
+7 / 12

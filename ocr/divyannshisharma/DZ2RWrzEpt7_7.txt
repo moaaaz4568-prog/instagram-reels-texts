@@ -1,0 +1,25 @@
+07
+DEPLOYMENT
+ship it. then scale it.
+
+49 litellm 16K one api for 100+ llms. openai format, works with claude, gpt, gemini, local models. load balancing, fallbacks, cost tracking.
+github.com/BerriAI/litellm
+
+7K build and deploy ai services. package models, create apis, deploy anywhere. from local to production kubernetes.
+github.com/bentoml/BentoML
+
+50 bentoml
+51 ray serve 34K distributed ai inference at scale. serve multiple models, autoscale, handle millions of requests. used by openai.
+github.com/ray-project/ray
+
+52 triton inference 8K nvidia's production inference server. maximum gpu utilization, dynamic batching, multi-model serving.
+github.com/triton-inference-server/server
+
+53 lorax 3K serve hundreds of lora fine-tuned models on one gpu. one base model, hundreds of adapters. 10x cost reduction.
+github.com/predibase/lorax
+
+54 supabase 73K default backend for ai apps. open-source firebase on postgres. real-time db, auth, storage, edge functions, vector search.
+github.com/supabase/supabase
+
+Divyanshi sharma
+07/10

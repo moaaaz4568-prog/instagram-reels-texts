@@ -1,0 +1,10 @@
+Primary
+Architecture Observability
+Deployments Variables Metrics
+primary-production-e1d9.up.railway.app
+ACTIVE
+n8nio/n8n
+3 minutes ago via Docker
+Deployment successful
+Click the primary URL to
+access self-hosted n8n

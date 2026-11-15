@@ -1,0 +1,24 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Step 8-10 Commits, Vercel builds and Preview
+
+• Next step is committing. I need to see it live in MDX format to catch formatting issues.
+
+• I haven’t delegated it yet because I want to refine the process and review results myself first.
+
+PR #293: https://github.com/papermark/papermark/pull/293
+
+Changes:
+1. ✅ best-virtual-data-room-due-diligence.mdx — 5 new screenshots (Papermark, Intralinks, Ideals, Ansarada, DocSend)
+2. ✅ due-diligence-data-room.mdx — updated hero image
+3. ✅ NEW: questions-to-ask-investors.mdx — 50 questions for investor meetings
+
+Previews (once Vercel builds):
+• https://papermark-vercel.app/git-link-due-diligence-updates-2026-02-10-papermark.vercel.app/blog/best-virtual-data-room-due-diligence
+• https://papermark-vercel.app/git-link-due-diligence-updates-2026-02-10-papermark.vercel.app/blog/due-diligence-data-room
+• https://papermark-vercel.app/git-link-due-diligence-updates-2026-02-10-papermark.vercel.app/blog/questions-to-ask-investors
+
+Will send you previews when build completes! 🚀
+
+12:11

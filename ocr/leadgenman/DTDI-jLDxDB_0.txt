@@ -1,0 +1,47 @@
+Single System
+Multi-Agent System
+System System
+Agentic Architectures
+
+CodeAct Agent
+The tool-use mechanism is built on the AI agent that can interact with its environment by writing and running code. This work proposes to use executable Python code to consolidate LLMs' actions into a unified action space (CodeAct)
+
+ReAct Agent
+Reasoning and acting (ReAct) framework to combine chain of thought (CoT) reasoning with external tool use ReAct prompts LLMs to generate verbal thought traces and actions for a task. ReAct overcomes issues of hallucination and error propagation prevalent in (CoT) reasoning using tools.
+
+Agentic RAG
+Agentic RAG means an AI agent-based implementation of RAG. Specifically, it adds AI agents into the RAG pipeline to orchestrate its components and generate additional actions beyond simple information retrieval and completion
+
+User
+Memory
+AI Agent
+Tools
+Memory
+AI Agent
+Tools
+Memory
+AI Agent
+Tools
+Action
+CodeAct
+Result
+Think
+Agent
+Environment
+User
+Query
+Observation
+Outcome
+Reason
+LLM 1
+LLM 2
+Query
+Tools
+Output
+Query
+Agent
+Tools
+Vector Search
+Vector Db
+Output
+Generator

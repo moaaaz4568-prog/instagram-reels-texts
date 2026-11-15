@@ -1,0 +1,19 @@
+Step 4:
+Install the browser agent
+
+Run in terminal:
+
+npm install @vercel/agent-browser
+
+Reads pages using accessibility tree not CSS selectors.
+
+Less tokens. Less bugs. More stable than Playwright.
+
+Then Claude builds all browser actions on top of it.
+
+npm-test npm install sass
+added 16 packages, and audited 17 packages in 1s
+1 package is looking for funding
+  run `npm fund` for details
+found 0 vulnerabilities
+npm-test

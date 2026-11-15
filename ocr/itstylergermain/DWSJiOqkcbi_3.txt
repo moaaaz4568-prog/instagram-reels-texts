@@ -1,0 +1,7 @@
+They Make Claude Hooks
+Hooks are rules that run automatically at any point in Claude's workflow. Before Claude writes a file, after it runs a command, the moment it finishes responding, etc
+try asking Claude for this!
+#Prompt:
+Create a hook that plays a ding sound when you finish responding so I know when to switch back to the Claude Code window on my computer.
+@itstylergermain
+save for later

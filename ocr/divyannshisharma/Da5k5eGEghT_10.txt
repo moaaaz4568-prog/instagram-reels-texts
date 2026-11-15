@@ -1,0 +1,53 @@
+Slide 11 — Tool 9: Stirling-PDF
+Platform Solutions Resources Open Source Enterprise Pricing
+Search or jump to...
+Sign in Sign up
+Notifications Fork 7.1k Star 80.7k
+Stirling-Tools / Stirling-PDF Public
+Code Issues 322 Pull requests 104 Discussions Actions Projects Security and insights
+main 395 Branches 179 Tags
+Frooodle Change default language to en-US
+9460332 11 hours ago 5.235
+add US language (#6621) 11 hours ago 5.235
+About
+#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+.stirling.c
+.devcontainer
+.github
+.tasfiles
+.vscode
+app
+devGuide
+devTools
+docker
+docs
+engine
+change default language to en-US and add US language (#6... 11 hours ago
+change default language to en-US and add US language (#6... 11 hours ago
+show chat progress and other UI/UX improvements (#6576) 2 days ago
+replace deprecated Copilot extension with Co... 4 months ago
+change default language to en-US and add US language (#6... 11 hours ago
+change default language to en-US and add US language (#6... 11 hours ago
+bump fast-xml from 3.0.6 to 3.1.2 in /dev/tools (#6... 3 weeks ago
+Portal (#6391) last week
+change default language to en-US and add US language (#6... 11 hours ago
+create agent (#6520) 17 hours ago
+java docker pdf pdf-converter
+self-hosted hacktoberfest
+pdf-manipulation pdf-merger
+pdf-merger pdf-tools pdf-editor
+pdf-web-apps pdf-ocr
+Readme
+View license
+Contributing
+Security policy
+Activity
+Custom properties
+80.7k stars
+What it does:
+Every single PDF operation you’ll ever need in one place. Merge, split, compress, sign, redact, and OCR — all free.
+What it replaces:
+Adobe Acrobat Pro — $20 a month
+Adobe charges $240 a year for this.
+Stirling-PDF does everything Adobe does for free.
+github.com/Stirling-Tools/Stirling-PDF

@@ -1,0 +1,5 @@
+5 →
+Setup a Make
+Workflow
+Copy this workflow on Make & connect your
+Google Sheet with Handwritten.

@@ -1,0 +1,11 @@
+5
+Build a Large Language Model
+You write GPT line by line in PyTorch.
+Attention stops feeling like magic.
+BUILD A
+Large Language
+Model
+Sebastian Raschka
+MANNING
+FROM
+SCRATCH

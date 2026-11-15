@@ -1,0 +1,9 @@
+SLIDE 5 / 10
+For Developers
+If you build software, this is your stack:
+Postgres / Supabase / Neon — Claude can read your database, check schemas, debug data issues without you writing SQL manually
+Sentry — Claude reads your error logs and can open a fixing PR automatically
+Docker Hub — search and manage container images
+Kubernetes — inspect your cluster in plain English
+Brave Search — Claude can search the web without you switching tabs
+The killer combo: GitHub + Sentry Claude reads a production error → proposes the fix → opens the PR. All in one move.

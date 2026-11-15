@@ -1,0 +1,25 @@
+Phase 5:
+API Integration Basics
+Understanding Web Requests
+
+GET Method
+• Retrieve data from servers – used for fetching information without modifying resources
+
+POST Method
+• Send data to create new resources – used for form submissions and data creation
+
+PUT Patch
+• Update existing resources – PUT replaces entirely, PATCH modifies partially
+
+DELETE Method
+• Remove resources from servers – used for deleting records and data cleanup
+
+Authentication
+• Header Auth, OAuth2, or API keys – secure your requests and protect sensitive data
+
+Instagram
+Divyanshi
+
+1 2 3 4 5 6
+
+SWIPE

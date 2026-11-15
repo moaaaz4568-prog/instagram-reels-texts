@@ -1,0 +1,28 @@
+10 / 11 EST LIMIT
+// BENNETTOS
+// GUARDRAILS + THE HONEST LIMIT
+WHAT STOPS IT
+RUNNING AWAY.
+A sub-agent that recursively spawns sub-agents, or a tool
+returning a 200K-token dump, multiplies a run by 10x on its own.
+The published research architecture ships no circuit breakers.
+Yours has to.
+DEPTH CAP
+Two levels of spawn. A worker's
+sub-agent cannot recruit.
+PER-RUN BUDGET
+Every ticket carries a token
+ceiling. Overrun stops and asks.
+OUTPUT TRUNCATION
+Nothing over ~2K tokens enters a
+window unsummarized.
+WINDOW AWARENESS
+Heavy Claude runs staggered across
+the 5-hour window.
+// WHERE THIS STOPS EARNING IS KEEP
+Work that splits into independent lanes pays for delegation. Work
+where every step depends on the last pays the multiplier without
+earning it. Keep that on one thread.
+@bennettos
+SWIPE →
+لا يوجد نص

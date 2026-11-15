@@ -1,0 +1,12 @@
+WITH ONE PROMPT
+Claude Can Pull In
+Your top videos and:
+Watch them
+visually
+Deep analyze
+them
+Give transcripts and analysis on topics,
+hooks, formats, and
+storytelling.
+Guide you to exactly which
+videos to make next

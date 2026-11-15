@@ -1,0 +1,11 @@
+Think OS
+
+Your thinking layer. Capture ideas, connect dots, and turn notes into action.
+
+Manus AI: Autonomous research and multi-step task execution.
+
+Obsidian (Second brain): Notes, backlinks, and knowledge graphs.
+
+Claude: Strategy, positioning, long-form thinking, ad angles.
+
+NotebookLM: Upload docs, ask questions, extract insight fast.

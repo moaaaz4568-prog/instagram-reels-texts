@@ -1,0 +1,34 @@
+50x
+Agent Team
+Multiple agents coordinating
+swarm-task.txt - Notepad
+File Edit Format View Help
+You tell Claude:
+"Run the full outreach pipeline for all open leads."
+Terminal - agent-1
+$ /find + /enrich
+✓ Scraped 6 webinar lists
+✓ Enriched 3,000 contacts
+✓ Deduplicated 412
+▶ Verifying emails...
+Terminal - agent-2
+$ /score + /draft
+✓ Scored 2,588 leads
+✓ Drafted 120 emails
+✓ Personalized intros
+▶ A/B testing subject...
+Terminal - agent-3
+$ /monitor-replies
+✓ Watching 120 threads
+✓ 18 positive replies
+✓ Flagged 3 objections
+▶ Auto-classifying...
+Terminal - agent-4
+$ /book-calls
+✓ Detected 18 intents
+✓ Booked 7 meetings
+✓ Sent confirmations
+▶ Following up on 4...
+Full parallel operations. 4 agents, 1 pipeline.
+@leadgenman
+06 / 07

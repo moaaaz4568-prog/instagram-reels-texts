@@ -1,0 +1,6 @@
+Guardrails
+Prevents:
+✘ Jailbreak attempts
+✘ Hallucinations
+✘ Harmful content
+✘ PII leaks

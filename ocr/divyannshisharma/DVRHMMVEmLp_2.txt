@@ -1,0 +1,27 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Local (Mac Mini)
+VPS (Cloudflare)
+
+Hardware cost
+$
++ AI plan
+Maximum
+Monthly server cost
+API calls +
+Lower
+On third-party servers
+Local + Online
+Models
+Online
+Models Only
+Medium Difficulty
+Higher Difficulty
+Best For
+- Personal Use
+- Sensitive Code
+- Cost Savings
+- 24/7 Availability
+- Team Access
+- Weak Local Hardware

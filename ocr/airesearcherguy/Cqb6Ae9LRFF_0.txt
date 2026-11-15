@@ -1,0 +1,8 @@
+Claude Console BETA
+Name this chat
+I had 6 eggs. I broke 2, I fried 2, I ate 2. How many eggs do I have left?
+Originally you had 6 eggs, so now you have 6 - 2 = 4 eggs
+You broke 2 eggs, so now you have 4 - 2 = 2 eggs
+You fried 2 more eggs, so now you have 2 - 2 = 0 eggs left
+You ate 2 eggs, so now you have 2 - 2 = 0 eggs left
+Therefore, the number of eggs you

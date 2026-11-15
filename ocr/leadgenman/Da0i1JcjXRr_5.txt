@@ -1,0 +1,16 @@
+DEPARTMENT 05 / 07
+Finance
+Model the numbers before you spend.
+dcf-model
+Discounted cash-flow value
+3-statements
+Full 3-statement model
+lbo-model
+Leveraged-buyout model
+comps-analysis
+Comparable-company set
+pricing
+Packaging + monetization
+pitch-deck
+Investor pitch decks
+Your CFO on call

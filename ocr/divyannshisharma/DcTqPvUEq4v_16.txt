@@ -1,0 +1,16 @@
+17 USE CASE 1
+Claude explains
+the hook, frame by frame.
+
+Claude tells you the exact words used, what's shown on screen,
+and the precise second the pattern interrupt happens.
+
+Something that used to take 10 minutes of pausing
+and scrubbing now takes one paste.
+
+Here's what made
+this hook land:
+Authority
+Pattern interrupt
+Visual + audio mismatch
+Payoff

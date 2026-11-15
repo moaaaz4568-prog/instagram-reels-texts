@@ -1,0 +1,39 @@
+Path 10:
+AI Automation Engineer
+
+What you do
+Run agentic workflows at scale with SLAs, alerts, and dashboards.
+
+Stack to learn:
+n8n
+Make.com
+Zapier
+Cursor
+Replit
+Windsurf
+
+Models:
+Claude
+ChatGPT
+Gemini
+Mistral
+Kimi
+DeepSeek
+
+Data:
+Weaviate
+Pinecone
+Qdrant
+Supabase
+Postgres
+NoSQL
+
+30-day plan
+→ Week 1: Pick one revenue-impacting workflow.
+→ Week 2: Add tool calls and retries.
+→ Week 3: Add alerts and dashboards.
+→ Week 4: Roll out to a pilot team.
+
+Metric that matters
+• SLA adherence
+• Cost per successful run

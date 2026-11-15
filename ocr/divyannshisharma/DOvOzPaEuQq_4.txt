@@ -1,0 +1,6 @@
+4
+Give your Agent a name
+and description
+Give it a clear purpose and role.
+text box
+text box

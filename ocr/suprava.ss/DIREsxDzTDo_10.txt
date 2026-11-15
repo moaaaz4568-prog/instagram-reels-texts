@@ -1,0 +1,18 @@
+5 Quick Deliverability Guide (That Actually Works)
+Even the best copy flops if you land in spam.
+Here’s the protocol I live by:
+Send from 24+ inboxes
+Rotate inboxes daily
+Don’t send from main domain (use variants like yourbrandhq.com)
+Keep it under 100 words
+Use Spintax to randomize structure
+Use lowercase greetings
+Add 1 typo to feel human
+Plain-text only (no images or links in email #1)
+Never track opens or clicks
+A/B test angles, not subject lines
+If your emails are boring, they won’t get flagged — but they won’t get replies either.
+Be brave. Be different.
+Suprava Sabat
+Co-founder, Acquisition X
+11/15

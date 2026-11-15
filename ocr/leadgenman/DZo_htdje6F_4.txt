@@ -1,0 +1,28 @@
+Step 4
+Connect Maildoso
+to Claude
+
+Find the Maildoso MCP
+Paste your API key
+Save
+
+Settings > Developer > Local MCP servers > Edit config. That opens
+claude_desktop_config.json. Add this inside "mcpServers":
+
+{
+  "maildoso-api": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "mcp-remote",
+      "https://mcp.maildoso.com/mcp",
+      "--header",
+      "Authorization: ${AUTH_HEADER}"
+    ],
+    "env": {
+      "AUTH_HEADER": "Bearer YOUR_PAT_TOKEN"
+    }
+  }
+}
+
+Save, fully restart Claude Desktop.

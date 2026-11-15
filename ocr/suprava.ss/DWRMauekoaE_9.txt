@@ -1,0 +1,5 @@
+Package all the custom skills in this project's .claude/skills/ folder into a reusable plugin called "ai-marketing-skills". Reference this project's .claude/skills/ folder into a reusable plugin called "ai-marketing-skills". Reference the official Plugin documentation for the correct format: https://docs.claude.com/docs/en/plugins
+Also define a custom slash command called /landing-page that runs this one task. it
+Once all 5 are built, give claude
+picks the right skills, runs them together, and
+delivers everything in one go.

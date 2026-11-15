@@ -1,0 +1,17 @@
+Cold email:
+- We use Apify to scrape job posts
+ We get their emails from Persana Al
+- We launch the campaign using Smartlead
+That gives us results like this ↓
+2,775
+NA ①
+NAO
+199
+13.67%
+122
+61.31%
+Sent
+Opened
+※Clicked
+Replied
+PositiveReply

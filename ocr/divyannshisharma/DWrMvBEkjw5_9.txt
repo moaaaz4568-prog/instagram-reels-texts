@@ -1,0 +1,35 @@
+MASTER AI DAILY
+@divyanshisharma
+
+Claude Code + Paperclip
+
+Old
+New
+
+LINK:
+https://youtube.com/...
+AbSSai=ZOKYzEYizhJrD
+
+SOURCE:
+https://youtube.com/...
+herk?si=weuvPzdth6_J8_5k
+
+DESCRIPTION:
+• A real AI company dashboard running 7 agents
+• What Paperclip is the free open-source tool
+• Why it hit 36,000 GitHub stars in just a few weeks and what problem it actually solves.
+• How to install and launch Paperclip under 5 minutes from one terminal command.
+• Building a company from scratch – first agent, first task, first hire.
+• How heartbeats keep agents awake, proactive, and working around the clock.
+• Agent configuration breakdown — soul, heartbeat, and tools files explained simply.
+• Set per-agent budgets so you always know exactly what each AI employee is costing you.
+• How to hire a QA agent and let your CEO delegate without you ever being involved.
+• Adding skills from GitHub to give your agents new capabilities instantly.
+• Routines — how to set up recurring workflows like nightly security checks automatically.
+• Import pre-built company templates with full agent teams already configured and ready to go.
+• How to manage API keys and secrets inside Paperclip using Claude Code as your setup partner.
+
+Divyanshisharma
+AI Agentive Expert
+
+Save for reference

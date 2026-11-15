@@ -1,0 +1,15 @@
+Step 1
+Build your sourcing agent
+Pick a template or start from blank
+Set its model and give it a role
+Accio Work
+Agents
+Accio Sourcing Expert
+Global Seller Agent
+Accio Assistant
+Chat
+Create Team
+Chat
+Create Team
+Chat
+Create Team

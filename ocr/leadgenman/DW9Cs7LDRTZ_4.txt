@@ -1,0 +1,7 @@
+Ship OS
+This is how you get it live and keep it live.
+Deploy & monitor without a DevOps team.
+Vercel: Deploy, preview URLs, and ship to production in one click.
+GitHub Actions: Automate tests, builds, and deploys on every push.
+Sentry: Catch errors in production before users complain.
+PostHog: Product analytics, session replays, and feature flags.

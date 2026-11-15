@@ -1,0 +1,28 @@
+AI Investment Rating
+Every property gets one simple score.
+87
+/100
+A+
+STRONG BUY
+Property: 123 Main St, Austin, TX
+CATEGORY
+SCORE
+SCALE
+Comparable Sales
+92
+A+
+85 – 100
+Investment Strategy
+89
+A
+70 – 84
+Rental Income
+85
+B
+55 – 69
+Market Conditions
+84
+C-F
+Below 55
+Neighborhood
+81

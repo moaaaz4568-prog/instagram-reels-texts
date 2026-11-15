@@ -1,0 +1,14 @@
+07
+Wire Up an MCP Server
+
+Wire up an MCP server for: [SERVICE / API]
+
+What I need it to do: [JOBS TO BE DONE]
+
+1. Check for an official or well-maintained existing server source -- name your src + the .mcp.json config, scoped to this project
+2. If one exists: exact install command
+3. If not: scaffold one with the MCP SDK -- tools, auth, responses error handling, typed re
+4. Add ONLY the tools I will actually use: [LIST]
+5. Wire secrets through [ENV VARS], never hardcode keys in the config file
+6. Verify the connection and call one tool end to end, show me the output
+7. Document each tool in 1 line so future sessions know when to reach for it

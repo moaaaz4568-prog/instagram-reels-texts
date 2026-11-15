@@ -1,0 +1,14 @@
+Stories they skip 🚫
+LOTS OF TEXT
+
+Stories they stay for ✅
+LITTLE TEXT
+
+We created a new AI tool
+It allows you to post on all social media platforms with 1 click of a button
+
+It uses N8N to automate the process of generating a caption for your post directly from your file / script, then uploads the file directly to Instagram, Facebook, Pinterest, Twitter and all the major platforms.
+
+It's incredibly powerful because in a few seconds it allows you to be present on all social media platforms
+
+We created a new AI tool

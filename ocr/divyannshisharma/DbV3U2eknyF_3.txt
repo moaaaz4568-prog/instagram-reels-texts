@@ -1,0 +1,53 @@
+Project 2:
+Finance Dashboard.
+
+C:\Users\quinn\desktop\claude-code\demo-os
+claude
+
+- User answered Claude's questions:
+  - How will transactions get into the tracker? - Manual entry form
+  - Which charts matter most? - Monthly income vs. expenses (bar), Spending by category (pie/donut),
+    Running balance over time (line), Top 10 merchants (bar)
+  - List directory (ctrl+o to expand)
+
+- Write finance.html
+  - Wrote 504 lines to finance.html
+  - <!doctype html>
+  - <html lang="en">
+  - <head>
+  - <meta charset="utf-8" />
+  - <meta name="viewport" content="width=device-width, initial-scale=1" />
+  - <title>Finance Tracker</title>
+  - <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  - <style>
+  - :root {
+  -   --bg: #0f1115;
+  -   ...504 lines (ctrl+o to expand)
+  - </style>
+  - </head>
+  - <body>
+  - <div id="app">
+  - ...finance.html is in demo-os/ - Double-click to open in your browser.
+
+- Done. finance.html is in demo-os/
+  - What you get
+  - - Manual entry form (date, expense/income toggle, amount, merchant, category, note)
+  - - Four charts: monthly income vs. expenses, category donut, running balance line, top 10 merchants
+  - - Month filter in the header drives the category + merchant charts and tile totals
+  - - Recent transactions table with delete
+  - - Export/Import JSON for backups
+  - - Data persists in browser localStorage (per browser, so use the same one)
+  - Seeded with ~2 months of sample data so the charts aren't empty on first open. To clear it: hit Export first
+  - if you want a backup, then in the browser console run localStorage.removeItem('finance.v1') and reload -
+  - or just delete the sample rows one by one.
+  - Verification: open it, the charts should populate from the seed data. Add one real transaction and
+  - watch the tiles + charts update.
+  - *Crunched for 2m 21s
+  - >
+
+"Build me a personal command center
+based on everything you know about me."
+
+Claude asks a few questions
+→ writes 500+ lines
+→ builds a full finance tracker. In 2 minutes.

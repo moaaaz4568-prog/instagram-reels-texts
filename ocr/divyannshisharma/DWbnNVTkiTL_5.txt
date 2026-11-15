@@ -1,0 +1,5 @@
+01 02 03 04 05 06 07 08 09 10
+Hire Your Team
+Your CEO agent hires other agents. Engineer. QA. Video editor. Content strategist. You approve the hires (or turn on auto-hiring once you trust the system). Each agent can have different skills installed. Skills come from repos like the skills.sh. Security audits exist but aren't bulletproof. GitHub stars are a directional signal, not a guarantee. Dotta's own Paperclip org: CEO, CMO, UX designer, CTO, QA engineer, blogger, content strategist. Different agents use different models depending on the task.
+STEP 03
+Your CEO hires other agents. Engineer. QA. Video editor. Content strategist. You approve the hires (or turn on auto-hiring once you trust the system). Each agent can have different skills installed. Skills come from repos like the skills.sh. Security audits exist but aren't bulletproof. GitHub stars are a directional signal, not a guarantee. Dotta's own Paperclip org: CEO, CMO, UX designer, CTO, QA engineer, blogger, content strategist. Different agents use different models depending on the task.

@@ -1,0 +1,5 @@
+What is a Trigger?
+
+“Trigger = the starting point of an automation.”
+
+The trigger defines when or what event starts the automation. Examples include a schedule (Cron), a new email, or a webhook. Without a trigger, your flow will never begin.

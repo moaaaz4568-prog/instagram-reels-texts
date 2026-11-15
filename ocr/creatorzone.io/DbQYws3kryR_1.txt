@@ -1,0 +1,11 @@
+Bio Rules:
+
+- Do not exceed 4 lines
+  (or else it'll be cut off)
+
+- Short + Clear =
+  more conversions
+
+- Make it easy and fast to understand
+
+- No buzzwords or complex phrases

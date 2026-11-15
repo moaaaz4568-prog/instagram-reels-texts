@@ -1,0 +1,8 @@
+Step 9
+Go Local with Ollama
+Free tool to run AI models on your computer
+Windows, Mac, Linux. Zero coding needed.
+The easiest way to build
+with open models
+Divyanshisharma
+10/18

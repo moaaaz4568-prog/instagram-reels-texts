@@ -1,0 +1,61 @@
+HOW TO BUILD YOUR FIRST AI AGENT
+
+1 HOW IT WORKS – THE FOUNDATIONS
+A powerful choice that can build tools using these
+tools of an AI agent is a smart assistant where
+people ask for help.
+By connecting it to other services, you give the
+agent the ability to interact with real-world data and
+services (ex: sending emails, reading news feeds,
+sending emails
+The chat agent triage mode provides a simple interface
+for you to talk to your agent
+The agent receives messages,
+decides which tool to use (if any), and formulates
+a response with the full example personality and
+instruction
+It uses Google Gemini to power its reasoning and
+retrieval (searches, etc.)
+Comes pre-equipped with two tools: Get Weather
+(fetches real-time weather) and fetch news feeds
+(aan RSS feed for latest headlines)
+Conversation memory notes allow the agent to
+remember past messages, enabling natural
+follow-up conversations
+
+2 SETUP STEPS – GET STARTED IN 2 MINUTES
+- You only need one thing:
+a free Google AI API key
+Visit ai.google.dev/api/rest
+aistudio.google.com/app/apikey
+Create a new project
+Get the API key header
+On the workflow canvas, go to the
+Chat Agent node. Select the
+Credential dropdown and
+select your API key.
+Paste your API key into the API key
+field and click Save
+Go to the Customize node and
+the "Open Chat" button in its
+parameter panel
+Try asking example questions like:
+"what's the weather in Paris?"
+or "Get me the latest tech news"
+You now have a fully functional
+AI agent who can fetch news (using
+Google Calendar to make it even
+more powerful)
+
+3 AGENT CAPABILITIES – WHAT IT DOES
+- Receives messages from the
+- Selects the right tool (get weather, email, send data, or run your
+- Responds with, including analytics-based time adjust
+- Uses its conversation memory (Gemini, Memory, Conversation
+- Keeps the context. Tools (Get Weather and Get News with ability to add more)
+- Uses Gemini for reasoning and decision-making (what tool to use)
+- Add more to expand its abilities
+- (Get Upcoming Events) To input and use Google Calendar
+- (Get Upcoming Events) Email Send and Email Read
+
+- ✅ - ✅ - ✅

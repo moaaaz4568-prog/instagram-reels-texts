@@ -1,0 +1,20 @@
+> Based on those videos, what does notebooklm believe is the number 1 claude code skill?
+> Bash(notebooklm) ask "Based on all the sources, what is the number 1 most recommended or most important Claude Code skill that creators talk about? What skill do they...
+> Running... (12s · timeout 36s)
+> ctrl+b to run in background
+> Cascading...
+New C
+powe...
+LO
+Past C
+Cursor T
+OUTLINE
+TIMELINE
+NMYT 0 0 0
+NMYT Opus 4.6 [ ] 23%
+>> bypass permissions on (shift+tab to
+Ctrl+K to generate command
+G
+Step 7: Google
+Analysis happens on Google's system.
+Claude Code spends almost zero tokens.

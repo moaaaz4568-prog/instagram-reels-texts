@@ -1,0 +1,24 @@
+User Message:
+
+Below is the content extracted from a potential client's website:
+{{Step 2 - pageContent_text}}
+
+My services:
+- Workflow audit & process mapping
+- Automation of repetitive tasks (using Make, Zapier, custom scripts, etc.)
+- Integration between apps and tools
+- Optimization & monitoring of existing workflows
+
+Your task:
+Based on the website content, generate an outline for a personalized sales deck (presentation) for this potential client. Structure the output so it can be used directly by Gamma to generate slides.
+
+Please include the following sections:
+
+1. Slide 1: Title & Introduction (a catchy title and a brief intro about workflow automation and its benefits)
+2. Slide 2: About [Client Company] (a 1-2 sentence summary of what this company does)
+3. Slide 3: Identified Needs & Opportunities (2-3 bullet points based on their site, showing areas where automation could help)
+4. Slide 4: Proposed Solutions (bullet points listing how my services could address their needs)
+5. Slide 5: Benefits of Automation (highlight the main advantages for their business)
+6. Slide 6: Next Steps / Call to Action (encourage them to book a call or reply)
+
+Make sure each slide has a short title and clear, concise content.

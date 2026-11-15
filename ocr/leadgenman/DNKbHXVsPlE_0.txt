@@ -1,0 +1,22 @@
+Evolution of AI Agents
+
+LLM Processing Flow
+1 Input Text LLM Output Text
+
+LLM with Document Processing
+2 Input Text/Document LLM Output Text/Document
+
+LLM with RAGs and Tool Use
+3 Input Text LLM Tool Use Retrieval Output Text/Document
+
+Multi-Modal LLM Workflow
+4 Input Text Image LLM Tool Use Memory Retrieval Output Text
+
+Advanced AI Agent Architecture
+5 Input Text LLM Decision Tool Use Memory Short-term Long-term Episodic Vector Database Knowledge Database
+
+Future Architecture of AI Agents
+6 Agent Orchestration Layer: Dynamic Task Planning, Multi-Agent Collaboration, Monitoring & Optimization
+AI Agents: Planning, Reflection, Tool Use, Model 1, Model 2, Model 3
+Data Storage/Retrieval Layer: Structured Database, Vector Stores, Knowledge Graphs
+Output Layer: Multi-Channel Delivery, APIs, User Interface

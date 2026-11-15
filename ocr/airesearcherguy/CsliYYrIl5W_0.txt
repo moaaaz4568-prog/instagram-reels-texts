@@ -1,0 +1,25 @@
+Clicked on:
+www.amazon.com
+Reading content
+Scrolling down
+Reading content
+Scrolling down
+failed
+Click failed
+Going back to last page
+Clicked on:
+www.amazon.com
+Reading content failed
+Clicked on:
+www.amazon.com
+failed
+Clicked on:
+clinic.amazon.com
+Click failed
+Going back to last page
+Click failed
+Clicked on:
+www.amazon.com
+Send a message
+ChatGPT may produce inaccurate information about people, places, or facts
+Regenerate response

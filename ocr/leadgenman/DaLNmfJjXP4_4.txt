@@ -1,0 +1,16 @@
+Getting Started is Simple
+warmy
+In-One Tool For Email Deliverability To Make Your Email Channel Reliable
+1. Signup with warmy.io
+2. Connect your mailbox (25-second setup)
+manthan@leadgenman.com
+English
+Default
+Unassigned
+Set up
+Sent today
+30
+Received today
+28
+Mailbox temperature
+15

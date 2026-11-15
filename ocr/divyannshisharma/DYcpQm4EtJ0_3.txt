@@ -1,0 +1,39 @@
+Claude
+Projects
+image_gen.py
+prompts.txt
+Terminal
+Recycle Bin
+03
+STEP 03
+DALL·E 3 • MS DESIGNER
+VISUAL PREPARATION
+No stock footage hunting. Python mass-generates cinematic visuals from Claude's scene-prompts automatically via API.
+Powered by DALL·E 3)
+Microsoft Designer (Powered by DALL·E 3)
+Microsoft Designer
+Search designs
+ALL SEARCH IMAGES Creation Inspiration Collections CARDS NEWS MORE
+Transform ideas into reality with AI creations
+Describe the image you want to create
+Futuristic office with holograms, 8k, cinematic lighting
+Model: DALL·E 3 Proportions: 16:9 Images: 4 Surprise me Create
+Explore ideas
+KEY BENEFIT
+Generate 10x more unique visuals in minutes, not days.
+image_gen.py
+1 import openai
+2 openai.api_key = "YOUR_OPENAI_KEY"
+3 prompts = ["Futuristic office with holograms, 8k, cinematic lighting",
+4 "A person using a neural interface, cyberpunk style"]
+5 for i, p in enumerate(prompts):
+6 response = openai.Image.create(prompt=p, n=1, size="1024x1024")
+7 print(f"Image {i} ready: {response['data'][0]['url']}")
+start
+image_gen.py
+Projects
+Terminal
+11:27 AM
+PRO TIP
+Better prompts = better visuals.
+Be specific with style, lighting, camera, and mood.

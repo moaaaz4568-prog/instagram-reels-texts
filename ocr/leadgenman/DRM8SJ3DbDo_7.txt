@@ -1,0 +1,13 @@
+Is coding required?
+No-Code Path:
+• Describe automation in plain English
+• AI handles all the technical work
+• Built-in integrations ready to use
+• Test and deploy in minutes
+Dev Path (Optional):
+• Full API access for developers
+• TypeScript and Python SDKs
+• Custom webhooks and integrations
+• Scale to 1000+ concurrent sessions
+airtop
+Imagine it. Type it. Automate it.

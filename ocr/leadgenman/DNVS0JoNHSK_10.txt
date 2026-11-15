@@ -1,0 +1,14 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+What It Looks Like In N8n
+In n8n, create a flow like this:
+1. Webhook Trigger
+Accept POST requests from Claude via MCP
+2. Notion API Node
+Use Notion's API to pull pages, tasks, notes
+3. Format Response
+Convert the response to standard MCP JSON
+(e.g. resources, metadata)
+4. Return to Claude
+n8n sends back a structured JSON response
+that Claude can reason over.

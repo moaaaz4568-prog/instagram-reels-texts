@@ -1,0 +1,17 @@
+Agentic AI Overview
+https://www.youtube.com/watch?v=kJLi0Gle3Lw
+Agentic LMs
+Interact with environments
+• Simple LM use cases involve text in and text out
+Text input → LM → Text output
+• Interact with environments
+Memory
+LM
+Reasoning & Planning
+Action
+Observation
+Environment
+@divyanshisharma
+Agentic LMs
+A Progression of Language Model Usage
+Start with Agentic AI →

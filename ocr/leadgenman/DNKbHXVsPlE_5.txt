@@ -1,0 +1,15 @@
+Advanced AI Agent Architecture
+5
+Input
+Text
+LLM
+Decision
+Output
+Text
+Memory
+Tool use
+Short term
+Long term
+Episodic
+Vector Database
+Semantic Database

@@ -1,0 +1,34 @@
+Toolformer
+https://lnkd.in/gyzreg6
+
+The New England Journal of Medicine is a registered trademark of [QA("Who is the publisher of The New England Journal of Medicine?") → Massachusetts Medical Society] the MMS.
+
+Out of 1400 participants, 400 (or [Calculator(400 / 1400) → 0.29] 29%) passed the test.
+
+The name derives from [a "tortuga", the Spanish word for [MT("tortuga") → turtle] turtle.
+
+The Brown Act is California's law [WikiSearch("Brown Act") → The Ralph M. Brown Act is an act of the California State Legislature that guarantees the public's right to attend and participate in meetings of local legislative bodies.] that requires legislative bodies, like city councils, to hold their meetings open to the public.
+
+Figure 1: Exemplary predictions of Toolformer. The model autonomously decides to call different APIs (from top to bottom: a question answering system, a calculator, a machine translation system, and a Wikipedia search engine) to obtain information that is useful for completing a piece of text.
+
+LM Dataset
+1 Sample API Calls
+x_i = Pittsburgh is also known as
+c_i^1 = What other name is Pittsburgh known by?
+r_i^1 = Pittsburgh
+x_in = the Steel City
+c_i^2 = Which country is the Steel City in?
+r_i^2 = United States
+
+2 API Calls
+3 Execute API Calls
+4 Filter API Calls
+L(x_i; c_i^1, r_i^1) < min(L(x_i; c_i^1, L(x_i))), L(x_i; c_i^2, r_i^2) < min(L(x_i; c_i^2, L(x_i)))
+
+LM Dataset with API Calls
+
+Language Models
+Solve new tasks from just a few examples
+Start with Language models →
+
+@divyanshsharma

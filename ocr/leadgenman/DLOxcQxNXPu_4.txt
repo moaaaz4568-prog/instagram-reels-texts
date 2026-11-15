@@ -1,0 +1,75 @@
+Layer 3 - Planning
+Decomposegoals intosubtasks,build hierarchical plans,
+optimize sequences(e.g.,via MDPs or tree-search),
+and simulateoutcomes.Adapttoreal-time changes.
+AlAgentArchitecture
+?
+?
+?
+Meta Learning
+Human-AI
+Reinforcement
+Voice
+Multimodal
+Unsupervised
+*
+01
+Feedback
+Interface
+Collaborative
+Models
+口
+E
+Edge
+Analytics
+Adn
+atic
+Display
+Computer Vision
+Long-term
+?
+AP
+?
+Autonomous
+?
+Short-term
+8
+ndino
+ISIO
+API
+?
+Learning
+Interaction
+Data
+Monitoring
+?
+小
+AlAgent
+?
+Distributed
+Code
+Tools
+Execution
+Perception
+Context
+Patterns
+Actions
+Tracking
+Web
+Pianning
+Sensors
+Parallel
+State
+中
+Knowledge
+Robotis
+Goals
+Heuristics
+Reasoning
+Sensor Fusion
+Logic
+Syfr
+?
+Sequential
+Neural
+Bayesian

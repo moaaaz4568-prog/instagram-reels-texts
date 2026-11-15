@@ -1,0 +1,13 @@
+2 →
+Build Your Dream
+100 List
+Make a list of your top 100 dream
+companies.
+Be precise
+Add value
+Company Name Industry Decision Maker Mailing Address LinkedIn Profile Personalization Idea
+Acme Corp. SaaS Jane Doe Marketing 123 Main St, San Francisco linkedin.com/in/janedoe Mention their recent product launch
+InnovateX Renewable Energy John Smith Head of Partnerships 456 Elm St, New York linkedin.com/in/johnsmith Highlight their award-winning sustainability campaign
+GreenEdge Solutions E-commerce Sarah Lee CEO 789 Oak St, Austin linkedin.com/in/sarahlee Refer to their recent green initiative
+NovaTech AI Solutions Mike Brown COO 321 Pine St, Seattle linkedin.com/in/mikebrown Compliment their recent AI patent
+Horizon Media Advertising Emily Carter Creative Director 654 Cedar St, Chicago linkedin.com/in/emilycarter Reference their Super Bowl ad success

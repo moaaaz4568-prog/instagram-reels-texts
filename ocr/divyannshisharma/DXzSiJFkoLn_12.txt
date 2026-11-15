@@ -1,0 +1,35 @@
+12. Workflows
+
+Custom slash commands for session tracking
+• 1.1k+ stars
+• comprehensive documentation
+• dev session logging
+Repo: https://github.com/iannuellar/claude-sessions
+
+Infrastructure approach to Skills
+• hooks that activate skills contextually
+• smart skill routing
+• example project
+Repo: https://github.com/diet103/claude-code-infrastructure-showcase
+
+Infinite agentic loop demonstration
+• 492+ stars
+• two-prompt system design
+• experimental but educational
+Repo: https://github.com/disler/infinite-agentic-loop
+
+Automation harness for multiple tools
+• 473+ stars
+• 14 plugins, 43 agents, 30 skills
+• Claude Code + infinite-agentic
+Repo: https://github.com/agentsys/agentsys
+
+Agent orchestration harness
+• 430+ stars
+• parallel agent coordination
+• session memory persistence
+Repo: https://github.com/gabrieltonnellier/citadel
+
+Divyanshi sharma
+
+Category 6/10

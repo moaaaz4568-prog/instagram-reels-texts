@@ -1,0 +1,46 @@
+Suprava Sabat
+What You Need
+• Claude Code
+• Google Sheets (free)
+• Slack (free)
+• Modal (free)
+• n8n (free)
+• Instantly or Smartlead (if running cold email)
+You own the system outright. Nothing recurring.
+* Automation Stack
+Google Sheets
+(Free)
+✓ Lead lists
+✓ Data storage
+✓ Campaign tracking
+✓ Data storage
+Memory
+Instantly/Smartlead
+(For cold email)
+✓ Sending infra
+✓ Sequences
+✓ Deliverability
+Voice
+Slack (Free)
+(Free)
+✓ Alerts
+✓ Logs
+✓ Team updates
+Feedback Loop
+Claude Code
+AI code for automations
+✓ Prompting
+✓ Code generation
+✓ Workflow decisions
+Claude Code
+n8n (Free)
+(Free)
+✓ Connect APIs
+✓ Automate flows
+Nervous System
+Modal (Free)
+(Free)
+✓ Run scripts
+✓ Process heavy tasks
+✓ Handle async jobs
+Muscles

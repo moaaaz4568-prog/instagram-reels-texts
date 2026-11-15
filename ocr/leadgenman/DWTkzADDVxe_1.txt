@@ -1,0 +1,21 @@
+What are Skills?
+
+BEFORE
+CLAUDE . md
+✗ Loads every single session
+✗ Gets bloated over time
+✗ One giant file for everything
+✗ Can not scope to a task
+✗ No on-demand loading
+✗ Hard to share across projects
+
+AFTER
+Skills/
+✓ Load on demand via /skill
+✓ Stay lean and focused
+✓ One folder per skill
+✓ Scoped to specific tasks
+✓ Auto-detected by Claude
+✓ Share across any project
+
+Skills are modular instruction files that Claude loads only when you need them.

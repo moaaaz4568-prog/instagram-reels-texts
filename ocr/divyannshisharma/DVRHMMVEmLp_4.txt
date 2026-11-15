@@ -1,0 +1,10 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Open your computer terminal
+Visit: OpenClaw – Personal AI Assistant
+Run the download command in your terminal
+Once installed, accept the permissions
+AI Model Selection Process: Opted for Opus 4.5
+Channel Selection: Telegram, WhatsApp, Discord
+Custom skills, hooks, and a few other

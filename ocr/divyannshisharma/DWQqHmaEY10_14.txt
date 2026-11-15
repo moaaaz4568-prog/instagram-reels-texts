@@ -1,0 +1,19 @@
+Skill Set 13
+Claude SEO
+AgriciDaniel / claude-seo Public
+Code Issues 2 Pull requests 3
+main 3 Branches 5
+AgriciDaniel Update title format
+claude-plugin
+eleventycontainer
+github
+agents
+docs
+extensions
+hooks
+pdf
+schema
+DESCRIPTION
+A powerful SEO-focused skill that enables in-depth website analysis and optimization. It performs full-site audits, identifies technical issues, and validates structured data like schema markup to improve search visibility. With multiple sub-skills covering on-page, technical, and content SEO, it helps ensure your website is optimized for both search engines and AI-driven discovery.
+MORE INFO
+https://linkd.in/gdPGU-7M

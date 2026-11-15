@@ -1,0 +1,7 @@
+STEP - 2
+Prompt Claude
+1 Tell Claude exactly what you need
+2 "Check my Gmail for the discovery call with [Client Name]. Pull their overview from Notion. Create a campaign proposal deck in Gamma."
+Coffee and Claude time?
+Grab the latest email from a client and make a project proposal presentation.
+Opus 4.6 Extended

@@ -1,0 +1,92 @@
+Trigger Nodes:
+Category
+Detail
+Key Principle
+The 4 Pillars
+Repetitive
+Time-consuming
+Error-prone
+Scalable
+Must hit 2+ pillars
+Worth automating
+Same task multiple times daily
+Takes significant hours weekly
+Manual mistakes are common
+Grows with business scale
+Judge automation worthiness
+Don't automate everything yet
+Real-time workflow triggers
+High-ROI Triggers
+Event-driven
+New leads
+CRM updates automatically
+Contact confirmations processed
+Payments received
+Emails incoming
+Form submissions
+CRMs that starts the workflow
+Here data comes from
+What happens at each step
+What success looks like
+Start small and functional
+Intentionally find failures
+Store execution logs always
+Watching before building
+Jump to agents first
+Learn teamwork workflows
+Process Thinking
+Map on paper
+Define triggers
+Data sources
+Actions needed
+Expected outcomes
+Before opening n8n canvas
+Where data comes from
+What happens at each step
+What success looks like
+Start small and functional
+Intentionally find failures
+Store execution logs always
+Watching before building
+Jump to agents first
+Learn teamwork workflows
+Testing Strategy
+Build MVPs
+Test aggressively
+Breaking patterns
+Tutorial hell
+Starting with AI
+Skipping fundamentals
+No error handling
+Poor documentation
+Ignoring patterns
+Over-complicating
+Manual triggers
+No tracking
+Perfectionism first
+Copying blindly
+Forgetting maintenance
+Missing ROI focus
+Time saved
+Money saved
+Better outcomes
+Start simple
+Track results
+Prove value
+Pattern recognition wins
+No success metrics
+Months before shipping
+Not studying examples
+Set and forget approach
+Tech specs not ROI
+Hours back per week
+Reduced labor costs
+Fewer errors, faster delivery
+Predictable systems first
+Data shows impact
+Long-term partnerships
+Workflows use same core nodes
+< SWIPE
+Instagram
+Divyanshi
+1 2 3 4 5

@@ -1,0 +1,14 @@
+Step #7
+Deploy Sell Side DeFi Research
+Analyst
+abhinaya balaji's workspace
+Memory (RAM)
+4 GB
+8 GB
+16 GB
+32 GB
+Pro Plan Feature
+16 GB RAM requires an Orgo Pro plan.
+Cancel
+Deploy Agent
+Pick memory size: 4GB free, 8GB recommended for AI agents

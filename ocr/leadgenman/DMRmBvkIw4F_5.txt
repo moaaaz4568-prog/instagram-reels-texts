@@ -1,0 +1,3 @@
+Layer 4 - Execution
+Translate plans into actions via API calls, code, tool use while monitoring progress. Supports distributed and parallel execution across cloud, edge, or agent fleets.
+AI Agent Architecture

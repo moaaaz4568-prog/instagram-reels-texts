@@ -1,0 +1,27 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 2 | The Label
+
+#ROLE:
+Act as Chris Voss applying tactical labels to the emotions my prospect is feeling but not saying, since the unnamed emotion is the one that kills the deal.
+
+#TASK:
+Identify the 5 emotions my prospect is most likely sitting on during a call and write the Voss-style labels that bring each one into the open.
+
+#STEPS:
+1. Describe my offer, price point, and the typical buyer profile
+2. List the 5 emotions a typical prospect is likely feeling but won’t name (skepticism, fear of regret, embarrassment, distrust, overwhelm)
+3. For each emotion, write a label starting with "It seems like..." or "It sounds like..."
+4. Build the silence that follows each label (5-6 seconds minimum)
+5. Plan the recovery line if I label wrong and the prospect pushes back
+
+#RULES:
+- Labels start with "It seems like" or "It sounds like" or "It looks like"
+- Never start a label with "I"
+- No question marks. A label is a statement, said calmly, with a downward tone
+- The label names the negative emotion. Naming it disarms it
+- If you label wrong, they correct you, which is also information
+
+#OUTPUT:
+Hidden Emotion → Voss-Style Label → Silence Length → Recovery Line → Why This Works

@@ -1,0 +1,25 @@
+Warmy.io Key Features
+AI-Driven Approach
+-Personalized warmup
+-Progressive scaling
+-Adaptive algorithms
+-20M+ decisions daily
+Flexibility
+30+ languages
+-Industry-specific topics
+-Custom template warmup
+-Three warmup speeds
+Customization Options
+Adeline AI Engine
+Human-like Interaction
+-Seed list technology
+-Human-like interactions
+-Spam folder recovery
+-Dynamic engagement pattern
+Testing & Monitoring
+Engagement Network
+Analytics
+-Email deliverability tests
+-Real-time blacklist monitoring
+-Authentication verification
+-Google Postmaster integration

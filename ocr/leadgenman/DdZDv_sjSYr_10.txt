@@ -1,0 +1,16 @@
+10. CLAUDE CODE
+COURSE
+(🔥)
+CLAUDE
+CODE
+COURSE
+1:21:37
+Claude Code Full Course – Autonomous Goals, MC...
+@freecodecamp
+5.4K likes 184K views 1mo ago
+A free 81 minute course that takes you from install to
+shipping. Native setup inside VS Code, wiring up MCP servers,
+and the goal command that keeps Claude working until your
+written requirements are actually met. That last part is the
+whole idea of spec driven work: write the target once, let the
+agent iterate against it.

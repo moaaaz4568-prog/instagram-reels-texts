@@ -1,0 +1,23 @@
+Autoresearch
+What you'll get:
+• Autonomous LLM training system.
+• Automates data collection, training, and evaluation pipelines.
+karpathy / autoresearch
+Code
+Issues 47
+Pull requests 110
+Discussions
+3 Branches 0 Tags
+Enhance README with more project d
+master
+.karpathy
+.gitignore
+.python-version
+README.md
+analysis.ipynb
+prepare.py
+program.md
+progress.png
+pyproject.toml
+train.py
+14

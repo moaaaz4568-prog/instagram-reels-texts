@@ -1,0 +1,51 @@
+SLIDE 14
+One command
+does it all.
+The magic command:
+$ graphify --obsidian
+This takes all 591 ideas
+and turns each one into its own
+note — automatically linked
+to every other related note.
+README MIT License Security
+Full command reference
+$ graphify
+$ graphify /path
+$ graphify /path --mode deep
+$ graphify /path --update
+$ graphify /path --directed
+$ graphify /path --cluster-only
+$ graphify /path --noviz
+$ graphify /path --obsidian
+$ graphify /path --svg
+$ graphify /path --graphml
+$ graphify /path --mermaid
+$ graphify /path --mp
+$ graphify add https://arxiv.org/abs/1706.03762
+$ graphify add video-url
+$ graphify add note "Note" --contributor "Name"
+$ graphify query --what is attention to the optimizer?
+$ graphify query --c15 --context 1500
+$ graphify path "Digestif#Introduction" "Response"
+$ graphify explain "Swiss cheese model"
+$ graphify uninstall
+$ graphify uninstall --purge
+$ graphify uninstall --progress
+$ graphify hook install
+$ graphify hook uninstall
+# run on current directory
+# run on a specific folder
+# more aggressive relationship extraction
+# re-extract only changed files
+# preserve edge direction
+# sketch clustering on existing graph
+# skip HNURLs from markdown links
+# generate Obsidian vault
+# build agent-crawable markdown wiki
+# export graph svg
+# export graph for / Edg
+# export for Gephi, xfy for Neo4j
+# generate cyber. txt files
+# auto-synac for csv change files
+# start NLP stove server
+This changes everything. Let's set it up.

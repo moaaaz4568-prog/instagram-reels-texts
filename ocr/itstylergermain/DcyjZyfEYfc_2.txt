@@ -1,0 +1,11 @@
+/GAUNTLET
+
+Run a Gauntlet Loop on [GOAL] against [REFERENCE].
+
+Split it into judgeable pieces. Give each to a builder and a fresh critic.
+
+Compare the output to the reference, fix the biggest gap, and repeat until it wins or I stop.
+
+@its Tylergermain
+
+save for later

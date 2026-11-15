@@ -1,0 +1,16 @@
+@A.ALIRAZA1
+04 / 07
+* ANALYTICS & RESEARCH
+PROMPT 13 / 33
+Here is my last week of metrics: [paste]. Build a 1-page HTML dashboard showing revenue booked, content reach, and rate.
+PROMPT 14 / 33
+Here is the last 30 days vs previous 30 of my Instagram metrics: [paste]. Tell me what changed and what to do. Be direct, not nice.
+PROMPT 15 / 33
+Use Tavily to scrape my top 3 competitors: [list]. Pull their offers, pricing, and lead magnets. Output a side-by-side comparison.
+PROMPT 16 / 33
+Here is my Search Console export: [paste]. Find keywords I rank 5 to 15 for. Suggest content updates to push them into the top 3.
+PROMPT 17 / 33
+Here are my client call transcripts: [paste]. Extract every objection. Cluster them and tell me the top 5 to address publicly in content.
+PROMPT 18 / 33
+Here is my YouTube data from the last 90 days: [paste]. Find where retention drops hardest. Suggest hook edits for those moments.
+SWIPE →

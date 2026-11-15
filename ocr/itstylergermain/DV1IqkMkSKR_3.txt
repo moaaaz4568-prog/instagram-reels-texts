@@ -1,0 +1,9 @@
+The Extension.
+I would use Claude Code through a VS Code
+"extension"...
+I'd click on the 5th option in the left-hand menu,
+and search for Claude...
+this is what you want
+Now I'd get started...
+@itsstylergermain
+save for later

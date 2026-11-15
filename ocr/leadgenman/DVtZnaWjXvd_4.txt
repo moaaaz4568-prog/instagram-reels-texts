@@ -1,0 +1,9 @@
+5 free resources.rtf — Edited
+B I U S Helvetica Regular 18
+Books:
+1. Mastering Claude AI: Practical Journey from First Prompts to Pro: https://www.amazon.com/Mastering-Claude-AI-Practical-Journey/dp/B0FLJFY8BD
+https://www.chirpbooks.com/audiobooks/claude-llm-by-anthropic-by-etu-code
+2. Claude LLM by Anthropic (Audiobook): https://www.oreilly.com/library/view/ai-engineering/97810981607969
+3. AI Engineering by Chip Huyen: https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/10981607969
+4. Designing Machine Learning Systems: https://www.amazon.com/Self-Aware-Being-Claude-AI/dp/B0FLJFY8BD
+5. A Self-Aware Being by Claude AI:

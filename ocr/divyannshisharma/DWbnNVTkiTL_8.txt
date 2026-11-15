@@ -1,0 +1,10 @@
+01 02 03 04 05 06 07 08 09 10
+Beyond Code: Paperclip in the Real World
+Security Review Firm
+Using an agentic structure to run automated, deep-dive security audits on client systems. They even used Paperclip to audit Paperclip's own codebase.
+Dental Practice & Foundation
+A dentist acting as the "CEO" to orchestrate complex scheduling, family logistics, and non-profit foundation management.
+Blue-Collar Lead Generation
+A roofing company deploying agents to cross-reference recent hail data with satellite imagery and neighborhood insurance probabilities to feed human sales reps.
+REAL USE
+The tool has been live for about three weeks. Early adopters include: A security review company using Paperclip to run automated security audits on client systems (they even audited Paperclip itself). A dentist organizing foundation work and family logistics. A roofing company exploring AI agents that find leads by cross-referencing hail data and satellite imagery with neighborhood insurance coverage. Marketing firms setting up agent teams alongside human teams.

@@ -1,0 +1,14 @@
+Step #4
+Okay, so the plan looks amazing. Everything looks straightforward. One thing I want to add on is one additional agent that can act as our content reviewer agent. The role of this agent is to look at the PowerPoint and look for any weird discrepancies or overlapping of text, so I can avoid having to review it myself. Once you create this sub-agent, execute this whole workflow end-to-end.
+I love this addition—a QA agent that reviews the final deck for visual issues is a great way to catch problems before you ever see it. Let me first create the full workflow.
+Writing...
+Progress
+Artifacts
+Outputs created during that custom skill, then here.
+Context
+Selected folders
+Cowork Agents
+Reply...
+Plus 4.5
+Claude is AI and can make mistakes. Please double-check responses.
+Add custom agents like QA reviewers automatically

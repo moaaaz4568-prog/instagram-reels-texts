@@ -1,0 +1,17 @@
+@carasouls • claude tactics
+ISSUE • 04
+WHAT YOU GET
+An Anthropic
+key.
+Your code
+can't tell.
+~/projects/claude-tactics - zsh
+$ export ANTHROPIC_API_KEY= "sk-ant-............"
+$ claude
+→ ready. claude-opus-4-8
+$ — same SDK, same endpoints, same Opus.
+Loaded.
+$
+Drop it in. Same endpoints, same `messages` API. It just works.
+PAGE 03 / 06
+what to do with it →

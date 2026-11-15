@@ -1,0 +1,11 @@
+09
+Pull + run Gemma 4:26b
+
+> Typed "hi" model instantly shows Thinking...
+> Reasoning visible in terminal, not hidden
+> 17GB downloaded, sha256 verified, model live
+
+Made by
+DivyanshSharma
+
+10 →

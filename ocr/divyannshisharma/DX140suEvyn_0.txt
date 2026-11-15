@@ -1,0 +1,60 @@
+67 Best Open-Source AI
+Repositories in April 2026
+01
+LLM INFERENCE
+llama
+98K
+run llama, mistral, qwen, gemma locally with one command.
+supports gpu acceleration, rest api, openai-compatible endpoints.
+github.com/ollama/ollama
+lama.cpp
+72K
+llm inference in pure c++. runs on cpu, gpu, apple silicon. if ollama
+is the car, llama.cpp is the engine.
+github.com/ggerganov/llama.cpp
+llm
+44K
+high throughput llm serving for production. continuous batching,
+paged attention, openai-compatible api.
+github.com/Mu澜-proj/llm
+vllm
+28K
+desktop app for running local llm models. download from hugging face,
+get an openai-compatible local server. best for non-developers.
+github.com/mu澜-proj/vllm
+studio
+26K
+open-source chatgpt alternative that runs 100% offline. clean ui,
+model management, local api, no data leaves your machine.
+github.com/ai-human/studio
+text-gen-webui
+42K
+swiss army knife for local lms. every model format, every backend,
+character mode, notebook mode, api modes.
+github.com/oobabooga/text-generation-webui
+localai
+26K
+self-hosted openai drop-in replacement. same api, local models.
+swap gpt/dalle without changing a line of code.
+github.com/mudler/LocalAI
+Diyarshah sharma
+01/10
+02
+RAG &
+make ai answer
+03
+AI AGE
+let the model act
+09 llama
+10 rag
+11 chr
+12 we
+13 he
+14 d
+15 autog
+16 crew
+17 lang
+18 agi
+19 sr
+20
+21

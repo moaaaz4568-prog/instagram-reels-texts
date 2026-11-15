@@ -1,0 +1,16 @@
+Step #8
+tavily
+Overview
+API Usage
+Monthly plan
+118 / 1,000 Credits
+Copied API Key to clipboard
+Configure your requests to the Research API. To learn more, see the documentation page.
+API Keys
+The key is used to authenticate your requests to the Research API.
+NAME TYPE USAGE KEY OPTIONS
+default dev 118 tvIy-dev-***************************
+Remote MCP
+Connect directly to Tavily's remote MCP server for a seamless experience without local installation or configuration. Select your desired API key and click the button below to generate the MCP connection URL. For examples on how to use the remote MCP, click here.
+Get your Tavily API key for
+web search capabilities

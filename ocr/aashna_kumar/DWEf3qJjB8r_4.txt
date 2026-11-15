@@ -1,0 +1,11 @@
+@aashna_kumar
+3. BIO THAT CONVERTS PROMPT
+Write me 5 Instagram bio options that naturally sell my digital product.
+My product is [product name].
+It helps [target audience] to [result]. My name is [name].
+Include:
+• Who I help
+• What result they get
+• A simple CTA to click the link in bio
+Each bio must be under 150 characters.
+Make it sound human, warm, and real. Not salesy. Not robotic.

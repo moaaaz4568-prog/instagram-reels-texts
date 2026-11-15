@@ -1,0 +1,13 @@
+Step #8
+VAPI
+Assistants
+YT receptionist
+Voice Configuration
+Provider
+11labs
+Add Voice ID Manually - Alex
+Model
+Eleven_turbo_v2_5
+Additional Configuration
+Transcriber
+Select ElevenLabs Eleven_turbo_v2_5 for natural-sounding voice

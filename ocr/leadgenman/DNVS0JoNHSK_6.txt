@@ -1,0 +1,17 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+Sales On Autopilot
+An AI assistant using MCP can:
+1. Pull live data from 100s of sources
+2. Filter, score, and enrich your leads
+3. Deliver pre-qualified prospects in minutes
+Tools used:
+❄️ Claude (MCP client)
+🔶 Gradio (MCP server)
+🟦 Clay (lead enrichment + outreach)
+All triggered by a simple prompt.
+What happens:
+↪️ Claude analyzes all companies in parallel
+↪️ Pushes enriched data to Clay
+↪️ Tailored outreach at scale
+Save hours + credits. Move faster than anyone else.

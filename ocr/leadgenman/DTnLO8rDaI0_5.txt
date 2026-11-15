@@ -1,0 +1,13 @@
+Tool 5
+Bright
+Bright Data
+In a nutshell:
+Enterprise-grade proxy network and web scraping platform.
+Access any website with IPs, pre-built scrapers & unblocking tech.
+I use it for:
+When I need to scrape sites that block everything else. Handles LinkedIn, Google, and any site with serious anti-bot protection.
+Works with:
+n8n
+Agno
+CrewAI
+Make.com

@@ -1,0 +1,13 @@
+Anthropic released...
+CLAUDE CODE
+AGENT TEAMS
+(plus Opus 4.6 release)
+Welcome to the Claude Code research preview!
+CLAUDE
+CODE
+Agent teams
+Login successful. Press Enter to continue.
+Agent Teams
+Claude Code can now run multiple AI agents in parallel on the same project, in their own sessions. Now you can have full code review processes, coordinated automatically. This was shipped with Opus 4.6, which is also big news.
+@its Tyler germain
+save for later

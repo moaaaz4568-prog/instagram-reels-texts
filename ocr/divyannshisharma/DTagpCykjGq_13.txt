@@ -1,0 +1,27 @@
+Step #13
+Build AI agents that automate
+your entire workflow
+Untitled notebook
+Chat
+Sources
++ Add sources
+Try Deep Research for an in-depth report and new sources!
+Search the web for new sources
+Deep Research Report: The Paradigm Shift in Autonomo...
+2024 in Review - n8n Blog
+AI Agent Tool node documentation | n8n Docs
+AI Agent Integrations | Workflow automation with n8n
+AI Data Extraction with Dynamic Prompts and Airtable...
+AI Workflow Automation Platform & Tools - n8n
+Advanced AI Workflow Automation Software & Tools - ...
+Trigger node.
+You can connect the trigger node to your canvas. It supports streaming responses, allowing the user to see the answer generated in real...
+2. Add the AI Agent Node
+Connect the AI Agent Node to your trigger. This node serves as the "foreman" of your workflow, reasoning through tasks and delegating work to other nodes.
+• Configuration: You must select the specific type of agent. A common choice for robust automation is the Tools Agent, which can use external APIs and tools to perform actions and retrieve information (optimized for "doing" aka the Plan and Execute approach). For complex, multi-step strategies, Other options include the Conversational Agent (optimized for "chatting") and the ReAct Agent (for complex, multi-step reasoning).
+• System Message: In node options, you can define a "System Message". This tells the AI who it is and how it should behave (e.g. You are a helpful assistant providing information about, multi...
+3. Connect Chat Model (The Brain)
+37 sources
+FHD 360Hz
+Alt Gr
+Ctrl

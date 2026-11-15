@@ -1,0 +1,24 @@
+THE SHEET, ROWS 1 TO 14 OF 50
+Ranked by comments, comment-driven only (comments per like), out of 25,924 scraped posts. Competitor counts include their bot's public replies.
+
+50 posts that pulled the most leads from comments - Sheet1
+
+| account | comments | likes | per like | what they commented for | keyword |
+|---|---|---|---|---|---|
+| 1 | @sebintell | 93,337 | 13,449 | 6.94 | a tool + training | Video |
+| 2 | @bennett.spooner | 38,633 | 26,427 | 1.462 | a tool | founder |
+| 3 | @nick_saraev | 32,401 | 40,872 | 0.793 | a tool | PLUGIN |
+| 4 | @nateherkai | 31,902 | 14,839 | 2.15 | (see hook) | DIE |
+| 5 | @nateherkai | 29,480 | 8,341 | 3.534 | a tool | WEBSI... |
+| 6 | @sebintell | 27,538 | 23,135 | 1.19 | 100 commands (doc) | GPT |
+| 7 | @zero.canon_ | 27,430 | 4,468 | 6.139 | an access guide (PDF) | STUDE... |
+| 8 | @kallawaymarketing | 26,555 | 27,770 | 0.956 | a tool + training | /analyze |
+| 9 | @shedoesai | 26,274 | 10,570 | 2.486 | a guide | guide |
+| 10 | @jen_gottlieb | 22,522 | 16,134 | 1.396 | a guide | story |
+| 11 | @seb.ai | 22,133 | 10,554 | 2.097 | a tool + the setup | TRADI... |
+| 12 | @kallawaymarketing | 20,037 | 6,605 | 3.034 | a (see hook) | Collecti... |
+| 13 | @zero.canon_ | 19,909 | 12,336 | 1.614 | (see hook) | AUTO |
+| 14 | @seb.ai | 16,990 | 7,692 | 2.209 | a tool + the setup | TEAM |
+
+Swipe for what the 50 have in common →
+columns 8 to 14 are in the sheet

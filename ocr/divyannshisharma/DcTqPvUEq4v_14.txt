@@ -1,0 +1,14 @@
+15
+OVERS ALMOST EVERYTHING
+The free tier
+covers almost everything.
+groq
+Rate Limit Headers
+In addition to the limits table, responses from the Groq API contain rate limit headers to help you
+understand your usage.
+$
+Groq's free tier gives you
+2 hours of transcription per hour.
+Most people will never even
+come close to hitting that limit.
+FREE

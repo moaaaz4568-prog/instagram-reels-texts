@@ -1,0 +1,35 @@
+4. Official Repos
+
+AI-powered security review GitHub Action for Claude in PRs
+• 2.8k+ stars
+• analyzes PR diffs for vulnerabilities
+• drop-in CI/CD integration
+Repo: https://github.com/anthropics/claude-code-security-review
+
+Hub Action
+Actions trigger analysis
+• diff reviews + patch suggestions
+• follows your repo conventions
+Repo: https://github.com/anthropics/claude-code-action
+
+Official GitHub MCP server
+• direct access to repos, PRs, issues, CI/CD
+• read-only mode via X-MCP-Readable
+• the most-used server in the ecosystem
+Repo: https://github.com/github/github-mcp-server
+
+Official Anthropic cookbook with recipes
+• notebooks, agents, tool-use patterns
+• RAG, classification, summarization
+• maintained by Anthropic team
+Repo: https://github.com/anthropics/anthropic-cookbook
+
+Free Anthropic courses
+• prompt engineering fundamentals
+• API usage, agents, AI Fluency
+• direct from the source
+Repo: https://github.com/anthropics/courses
+
+Divyanshi sharma
+
+Category 2/10

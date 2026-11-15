@@ -1,0 +1,25 @@
+finds companies building ai right now 18 / 20
+GitHub
+langchain-ai / langchain
+public repository
+Public
+Fork
+Star
+143k
+Used by
+your lead
+list
++ thousands
+★ 143k
+Python
+WHAT IT DOES
+the framework for building
+llm apps and ai agents.
+WHO TO MINE IT FOR
+everyone in this list is
+building ai right now. they
+need infra, ops and hands.
+THE EXACT LINK
+github.com/langchain-ai/langchain/network/dependen
+ts
+● the github method

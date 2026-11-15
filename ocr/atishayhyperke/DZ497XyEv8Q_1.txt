@@ -1,0 +1,4 @@
+Step 1: Build the lead list
+I pull raw lead lists using Apify and LinkedIn scrapers.
+Raw export:
+up to 200,000 companies. The bigger and dirtier the list, the better. Filtering happens next.

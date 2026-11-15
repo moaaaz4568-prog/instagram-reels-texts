@@ -1,0 +1,13 @@
+1. ChatGPT
+The All-Rounder
+
+Best for: Creativity, writing, coding, strategy, workflow automation.
+
+Strengths:
+• Works with text, image, audio, and code all in one place.
+• Remembers context from project to project.
+• Highly customizable via GPTs and automation tools.
+
+Keep in mind: On very specific or obscure topics, it may “guess.”
+
+Use it when you need one smart assistant for everything, from writing to planning to coding.

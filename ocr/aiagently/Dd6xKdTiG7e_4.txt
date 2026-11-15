@@ -1,0 +1,10 @@
+Step 4
+Tell It Who You Are
+Add a few context files so it works like you would:
+what you do, your tone, and your dos and don'ts.
+aboutme.md
+what you do
+myvoice.md
+your tone
+myrules.md
+dos & don'ts

@@ -1,0 +1,11 @@
+Ben Sigman
+@bensig
+X.com
+
+Excited to announce a new open-source, free-to-use memory tool I have been developing with my good friend @MillaJovovich.
+
+The project is called MemPalace and it is an agentic memory tool that scored 100% on LongMemEval - the industry standard benchmark for memory... this is higher on than any other published results - free or paid - and it is available now on GitHub.
+
+You can check out Milla’s video about it on her Instagram.
+
+I’ll also put some links in the comments below - please try it out, critique it, fork it, contribute to it - and join our discord.

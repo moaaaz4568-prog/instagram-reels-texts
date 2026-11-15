@@ -1,0 +1,2 @@
+From 12 calls, worst case
+you close 2 customers.

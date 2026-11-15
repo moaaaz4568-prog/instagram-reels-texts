@@ -1,0 +1,19 @@
+Claude Code v2.1.12
+Welcome back!
+Tips for getting started
+Run /init to create a CLAUDE.md file with instructions for Claude
+Note: You have launched claude in your home directory. For the best experience, we recommend
+Recent activity
+No recent activity
+C:\Users\User
+/model to try Opus 4.5
+/clear
+(no content)
+can you write a simple
+F10 360m
+Comment “Send”
+below to get the guide.
+Q W E R T Y U I O P
+A S D F G H J K L
+Z X C V B N M
+Ctrl Alt

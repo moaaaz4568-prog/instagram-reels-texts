@@ -1,0 +1,28 @@
+STEP 2
+SOP: Kimi K2.6 Playbook
+INSTALL IT
+IN 60 SECONDS
+Get Kimi K2.6 running inside
+your repo in under a minute.
+That's it.
+You now have an
+AI engineer inside
+your repo.
+1 Install Kimi CLI
+$ curl -LSsf https://code.kimi.com/install.sh | bash
+One-liner install. That's it.
+2 Login
+$ kimi login
+Authenticate once. Secure. Fast.
+3 Enter your project
+$ cd your-project && kimi
+You're in. AI engineer activated.
+Setup once.
+Leverage forever.
+What just happened?
+✨ Kimi installed
+✅ CLI in cli
+✅ You authenticated
+✅ Kimi entered your workspace
+✅ AI engineer is now ready
+2 / 12

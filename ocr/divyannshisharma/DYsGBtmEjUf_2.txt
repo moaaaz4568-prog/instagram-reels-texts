@@ -1,0 +1,30 @@
+02
+Tell Claude
+who you are
+
+Before Claude can help you well, it needs to understand you. Most people skip this step entirely and wonder why Claude gives them answers that feel slightly off. Paste this into your Project and fill in every field honestly. The more specific you are, the better every single response becomes.
+
+You
+Better answers start with better context.
+
+FOCUS PLAN GROW
+
+NOTES
+GOALS
+
+GROWTH
+
+My name is [your name].
+I work as [your role name]. My main responsibilities are [2–3 things you actually do day to day].
+Right now my biggest goals are [1–3 specific goals you’re working toward].
+I use Claude mostly for [list your main use cases — writing, research, analysis, learning, coding, etc.].
+My background and knowledge level: [what you know well, what you’re learning, what you’re new to].
+How I like to receive information: [e.g. direct and concise / detailed with examples / step by step / no bullet points / short paragraphs].
+Things I don’t want: [e.g. don’t add disclaimers, don’t use corporate language, don’t repeat what I just said back to me, don’t start with “Great question”].
+Topics and areas I care about: [your interests, industry, niche].
+
+Save this inside your Project’s knowledge base.
+Claude will read it at the start of every conversation in this Project.
+
+Divyanshi sharma
+02/18

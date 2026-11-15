@@ -1,0 +1,45 @@
+03
+Turn that into
+Custom Instructions
+
+Pasting your background is a good start. But Custom Instructions go further. They tell Claude not just who you are, but exactly how to behave with you by default.
+
+Paste this prompt into Claude after you’ve filled in the template above:
+
+I’ve told you about myself.
+Write me a set of custom instructions for this Claude Project.
+The instructions should:
+– Describe who I am and what I do
+– Set my default communication style and format
+– Tell Claude what to never do when working with me
+– Define the tone I want in every response
+– Include any default behaviors I would want in every session
+
+Write them in second person, as if Claude is reading rules about how to help me.
+Be specific. No generic advice. Under 400 words.
+
+Take the output and paste it into your Project Instructions.
+Claude’s permanent mode for all Project conversations.
+
+Divyanshi sharma
+
+03/18
+
+Good instructions unlock better answers.
+
+WHO I AM
+STYLE & TONE
+CUSTOM INSTRUCTIONS
+DEFAULT BEHAVIORS
+HOW I WORK
+GUIDANCE FOR BETTER RESULTS
+
+Make it:
+Specific
+Actionable
+Personal
+Under 400 words
+
+Lead time
+10–15
+minutes

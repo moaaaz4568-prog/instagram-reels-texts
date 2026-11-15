@@ -1,0 +1,11 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Claude is not one tool. It’s six.
+
+Cowork → desktop app that works on your files
+Model → most of you use the wrong Claude
+Excel → an AI inside your spreadsheets
+Plugins → turn Claude into a specialist for your job
+Artifacts → interactive outputs you can use
+Projects → persistent context folders that remembers

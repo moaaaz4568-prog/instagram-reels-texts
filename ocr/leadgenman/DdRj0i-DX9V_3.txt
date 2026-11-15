@@ -1,0 +1,13 @@
+Now add other requirements:
+
+Own the output
+Own the quality of AI-generated outputs in your scope. Know when AI output is production-ready and when it is not.
+
+Judgment
+I want to see you balance LLM-generated code against your own judgment. I get itchy when a candidate uses an LLM to think through how the project should be completed. It’s not enough to screenshot the Figma, upload it to Claude Code, and ask it to solve the problem. You know how to architect. Show me!
+
+Taste
+The engineers who create the most leverage are the ones with product taste and architectural judgment.
+
+Explain it
+Someone can use AI to cover for weak coding or debugging. They generate a solution fast, then can’t explain why it works.

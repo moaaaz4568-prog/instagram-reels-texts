@@ -1,0 +1,53 @@
+Layer 3: Knowledge
+53 Skills
+Productivity (5)
+gog, hifiLynx, things-mac, apple-reminders, trello
+Notes (4)
+obsidian, notion, apple-notes, bear-notes
+Dev (4)
+github, coding-agent, tmux, session-logs
+Chat & Social (6)
+slack, discord, mail, imsg, bluebubbles, bird
+Security (1)
+1password
+Voice (4)
+sag, openai-whisper, openai-whisper-api, sherpa-onnx-tts
+Creative (5)
+canvas, openai-image-gen, nano-banana-pro, video-frames, gifgrep, canvas
+Music & Home (6)
+spotify-player, sonoscli, blucifi, songsse, openhue, eightctl
+System & Utility (8)
+clawhub, skill-creator, healthcheck, summarize, weather, peakaboo, nano-pdf
+Comms (2)
+voice-call, capsnap
+Lifestyle
+food-ordering, cli, goplace, places, blogwriter
+@divyansharma
+
+Layer 2: Advanced
+17 Tools — Browser, Memory, Automation
+memory_search
+browser
+image
+memory_get
+Layer 1: Core
+8 Tools — File, Exec, Web
+read
+write
+edit
+exec
+web_search
+web_fetch
+process
+apply_patch
+sessions_list
+cron
+sessions_send
+message
+gateway
+
+OpenClaw
+YOUR OPENCLAW NEEDS
+THIS MISSION CONTROL:
+COMPLETE ROADMAP
+SWIPE FOR MORE

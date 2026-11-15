@@ -1,0 +1,4 @@
+PROMPTS THAT GENERATE HOOK IDEAS
+• Based on these post ideas [paste ideas], generate 10 different hook angles for each using curiosity, mistakes, myths, contrarian opinions, storytelling, and surprising facts.
+• Turn this boring topic into 10 scroll-stopping hooks: [topic]. Make them simple, specific, and highly relatable.
+• Write hooks that would make someone in [audience] immediately think, "This is about me."

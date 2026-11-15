@@ -1,0 +1,6 @@
+FLOP
+Not using a hook
+GOOD
+Using a hook
+VIRAL
+Stealing a hook

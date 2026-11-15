@@ -1,0 +1,26 @@
+Step #6
+INPUT
+Schema Table
+No input connected
+OUTPUT
+Schema Table JSON
+No output data
+Execute step
+or set mock data
+Method
+POST
+URL
+Authentication
+None
+Send Query Parameters
+Send Headers
+Specify Headers
+Using Headers Below
+Header Parameters
+Name
+Value
+F10 360Hz
+Custom HTTP request unlocks low thinking mode. Gives control.
+Z X C V B N M
+Alt Gr
+Ctrl

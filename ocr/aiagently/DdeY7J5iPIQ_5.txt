@@ -1,0 +1,41 @@
+STEP 05
+BUILD YOUR
+EXPERT AGENT
+Now choose what you want your agent
+to learn.
+1 Choose your goal
+Example:
+Want an AI Video Editor?
+Your Agent
+AI Video Editor
+2 Find the best resources
+Find the 10 best editing tutorials
+on YouTube.
+YouTube Tutorials
+Video Editing Tutorials (Beginner to Pro)
+YouTube • 12:36
+Cinematic Editing Techniques
+YouTube • 18:42
+Advanced Editing in Premiere Pro
+YouTube • 22:17
+Top 10
+10 YouTube videos
+3 Give them to Claude
+Tell Claude to study those videos.
+Claude
+Study these tutorials and turn
+the best techniques into an
+editing skill.
+4 Your expert agent is ready
+Now you have an AI editing agent
+trained around those techniques.
+AI Video Editor Agent
+Trained
+Learnt from:
+10 YouTube editing tutorials
+Best editing techniques
+Pro workflows & shortcuts
+Now you have
+a personal AI
+video editing
+expert.

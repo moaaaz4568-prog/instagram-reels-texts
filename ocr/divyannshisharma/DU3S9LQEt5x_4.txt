@@ -1,0 +1,66 @@
+Diyanshi | Agentic AI Expert
+@diyanshisharma
+
+Helps users discover and install agent skills when they
+ask questions like "how do I do X":
+https://clawdhub.com/JimLiuxinghai/find-skills
+
+English
+
+Search...
+Ctrl K
+
+Get started Channels Agents Tools Models Infrastructure Reference Help
+Sub-Agents
+Multi-Agent Sandbox & Tools
+
+Skills and extensions
+Slash Commands
+Skills
+Skills Config
+Clawdhub
+Plugins
+Voice Call Plugin
+Zalo Personal Plugin
+
+Automation
+Hooks
+SOUL Evil Hook
+
+AgentsSkills-compatible skill folders to teach
+the agent how to use
+tools. Each skill is a directory containing a SKILL.md with
+instructions. OpenClaw loads bundled skills plus optional lo
+filters the m at load time based on environment, config, and
+
+Skills
+Locations and precedence
+Skills are loaded from three places:
+1. Bundled skills: shipped with the install (npm package or
+(~/.openclaw/skills
+2. Managed locale skills: ~/.openclaw/skills
+3. Workspace skills: <workspace>/skills
+If a skill name conflicts, precedence is:
+
+E on this page
+Locations and precedence
+Skills (OpenClaw)
+Skills (OpenClaw)
+Per-agent vs share
+Plugins + skills
+Clawdhub (install a
+Security notes
+Format (AgentSkill
+compatible)
+Gating (load-time
+(~/.openclaw/opene
+Config overrides
+Environment inject
+run)
+Session snapshot (s
+Space SKILLS: <works
+Remote macos nodes
+gateway)
+Skills watcher (au
+
+not appear to be full

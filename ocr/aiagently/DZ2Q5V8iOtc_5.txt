@@ -1,0 +1,8 @@
+Prompt #4
+The Single Point of Failure Scan
+
+"Audit my business for single points of failure. These are the things where if one element breaks, the whole operation stalls.
+
+Check across these categories: → People (key person dependency) → Tools and platforms (what if this tool goes down or changes pricing?) → Revenue (customer concentration, channel dependency) → Supply chain (single suppliers, single distribution channels) For each vulnerability you find, rate it: how likely is it to happen and how badly does it hurt if it does.
+
+Here’s how my business operates: [DESCRIBE YOUR TEAM, TOOLS, REVENUE SOURCES, AND KEY DEPENDENCIES]"

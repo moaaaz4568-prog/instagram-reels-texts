@@ -1,0 +1,22 @@
+07 / 12 OBSIDIAN VAULT YOUR BUSINESS OS
+BUILT TO RUN. DESIGNED TO WIN.
+Content Without the Bottleneck
+The Draft Engine is the simplest system in the vault.
+1. DROP IT
+Drop a file in your QUEUE folder named: DRAFT-linkedInpost-[topic].md
+2. ADD WHAT MATTERS
+Add any specific notes, angles, or data points you want included.
+3. SYSTEM PICKS IT UP
+The system reads your research brief on the topic, applies your voice profile from CLAUDE.md, and drops a complete first draft into GENERATED/drafts.
+4. BUILT FOR SPEED
+Editing time: under 10 minutes for 80% of pieces.
+WEEKLY CONTENT PERFORMANCE PULL
+Every Monday morning, the content performance workflow also pulls last week’s numbers across every platform –
+Top posts
+Lowest performers
+The specific pattern explaining the difference
+What to do more of next week
+QUEUE
+DRAFT-linkedInpost-[topic].md
+DRAFT ENGINE
+GENERATED/drafts

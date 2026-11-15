@@ -1,0 +1,1 @@
+How I made this text effect. Add your text. Duplicate it, go on animation, then loop and choose pixel bounce. Adjust it to your liking and decrease the opacity a bit. Then just add sound effects and you're done. Save this for later.

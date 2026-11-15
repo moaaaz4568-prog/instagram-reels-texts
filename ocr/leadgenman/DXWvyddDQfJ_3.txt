@@ -1,0 +1,12 @@
+/compact
+Claude forgetting?
+Fix it.
+Long session killing Claude's memory?
+/compact compresses everything so it stops losing
+what you said 5 minutes ago. Context stays tight. No
+rerunning prompts.
+BEFORE
+12,847 tokens
+AFTER
+4,211 tokens
+/compact

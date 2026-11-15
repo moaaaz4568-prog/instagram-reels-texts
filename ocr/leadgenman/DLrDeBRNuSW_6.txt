@@ -1,0 +1,9 @@
+SLM (Small Language Model)
+Input Processing
+Compact Tokenization
+Optimized Embeddings
+Efficient Transformer
+Model Quantization
+Memory Optimization
+Edge Deployment
+Output Generation

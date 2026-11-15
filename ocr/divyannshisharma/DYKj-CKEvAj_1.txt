@@ -1,0 +1,7 @@
+#1: SUPABASE
+Manage postgres migrations, run Supabase locally,
+deploy edge functions. Postgres backups. Generating
+types from your database schema.
+github.com/supabase/cli
+Divyanshi sharma
+01/10

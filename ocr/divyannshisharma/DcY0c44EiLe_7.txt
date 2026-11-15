@@ -1,0 +1,11 @@
+Connector 4:
+Supabase (Claude’s memory)
+
+Claude forgets. Supabase remembers.
+A permanent home for your data, outside the chat.
+
+Chats disappear
+Supabase keeps it
+
+Claude forgets everything between chats.
+Supabase doesn’t. Connect it once and your data has a permanent home outside the conversation — tables, trakers, pipelines, all of it.

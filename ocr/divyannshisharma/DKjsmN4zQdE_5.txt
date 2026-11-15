@@ -1,0 +1,14 @@
+Step 4 →
+Get Your SimilarWeb
+API Key
+Find your API key & replace in the script with your
+API key.
+SimilarWeb
+Generate
+your API key
+Add your API
+API key
+key in the
+script
+Generated Keys
+Generate a New API Key

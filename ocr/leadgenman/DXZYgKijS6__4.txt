@@ -1,0 +1,45 @@
+-skills
+Code
+Issues
+Pull request
+awesome-claude
+master
+Bra
+55 Commits
+6 months ago
+6 months ago
+6 months ago
+6 months ago
+6 months ago
+6 months ago
+2 months ago
+1 hour ago
+3 months ago
+Code
+About
+A curated list of awesome Skills, resources, and tools customizing Claude AI wo
+artifacts-builder
+brand-guidelines
+canvas-design
+changelog-generator
+competitive-ads-extractor
+composio-skills
+connect-apps-plugin
+connect-apps
+feat: add multiple new ...
+feat: add multiple new ...
+feat: add initial skills
+feat: add initial skills
+reorganize: move comp...
+update connect-apps s...
+Add connect skill (#46)
+Readme
+Contributing
+Activity
+Custom properties
+This is how I grow my business.
+• Brand Guidelines Skill - Applies your brand colours and typography to every artifact. Decks all come out consistent.
+• Competitive Ads Extractor - Pulls competitor ads from ad libraries. Claude analyses their messaging and surfaces what is actually converting.
+• Lead Research Assistant - Analyses your product, finds target companies, qualifies leads, and writes the outreach angle for you.
+Skills that earn.
+Marketing Stack

@@ -1,0 +1,49 @@
+divyanshisharma
+2/4 Category (Prompt 51- 65)
+Category 2:
+AI Workflows
+
+51. Design an AI Agent
+Design an AI agent that can [DESCRIBE GOAL]. What tools does it need, what decisions should it make autonomously, and what should require human approval? and how should it handle failures?
+
+52. Build a Prompt Chain
+Write a system prompt for an AI assistant that works as a [DESCRIBE ROLE] for [DESCRIBE COMPANY/USE CASE]. Define its personality, capabilities, limitations and how it should handle edge cases.
+
+53. Create a System Prompt
+Write a system prompt for an AI assistant that helps explain output steps, define what each step does and how it explains outputs and how should it handle anomalies?
+
+54. Evaluate Prompt Quality
+Evaluate this prompt and tell me everything that's wrong with it. Then rewrite it to be more effective. What criteria did you use to judge the output, and what embedding model should be used for recall and retrieval?
+
+55. Design a RAG System
+Design a Retrieval Augmented Generation system for [DESCRIBE USE CASE]. What documents should be indexed, how should it be chunked, what embedding model should be used for recall, and how should retrieved documents be presented?
+
+56. Build a Classification Pipeline
+Design an AI classification pipeline that categorizes [DESCRIBE INPUTS] into [DESCRIBE CATEGORIES]. Include data preprocessing, model selection, confidence thresholds, and edge cases.
+
+57. Create an Extraction Prompt
+Write a prompt that extracts [DESCRIBE INFORMATION] from [DESCRIBE DOCUMENT] into a structured JSON. Handle missing fields gracefully and flag uncertain extractions.
+
+58. Design a Multi-Agent System
+Design a multi-agent system where [NUMBERS] AI agents collaborate to accomplish [DESCRIBE GOAL]. Define each agent's role, how they communicate, and how conflicts are resolved.
+
+59. Build an AI Evaluation Framework
+Design a framework for evaluating the quality of AI outputs for [DESCRIBE USE CASE]. What metrics should be used, how should they be measured, and what does good look like versus bad look like?
+
+60. Create a Summarization Pipeline
+Design a pipeline that processes [DESCRIBE CONTENT TYPE] and produces [DESCRIBE SUMMARY FORMAT]. Handle varying lengths, extract key entities, and flag content that needs human review.
+
+61. Design a Content Moderation System
+Design an AI content moderation pipeline for [DESCRIBE PLATFORM]. What categories of content need to be detected, what thresholds trigger action, how should appeals be managed?
+
+62. Build a Question Answering System
+Design a question answering system over [DESCRIBE KNOWLEDGE BASE]. How should documents be preprocessed, what retrieval strategy works best, and how confidence is communicated?
+
+63. Create a Data Enrichment Workflow
+Design a workflow that takes [DESCRIBE INPUT DATA] and enriches it with [DESCRIBE ADDITIONAL INFORMATION] using AI. Define the steps, prompts, and how to handle failures.
+
+64. Design an AI Writing Assistant
+Design an AI writing assistant for [DESCRIBE USE CASE]. What capabilities should it have, what constraints should it operate under, and how should it handle requests outside its scope?
+
+65. Build a Feedback Loop System
+Design a system where AI outputs are evaluated, feedback is collected, and the system improves over time for [DESCRIBE USE CASE]. How is quality measured and what triggers retraining?

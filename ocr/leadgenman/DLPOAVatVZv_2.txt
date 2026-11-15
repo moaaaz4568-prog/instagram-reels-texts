@@ -1,0 +1,16 @@
+New Project
+Deploy your app to production effortlessly
+What can we help with?
+Deploy from GitHubrepo
+Deploy a template
+Deploy PostgreSQL
+Deploy Redis
+Deploy MongoDB
+Click'Deploy a template'
+and choose n8n.
+It's THAT simple!
+云
+F8
+&
+7
+8

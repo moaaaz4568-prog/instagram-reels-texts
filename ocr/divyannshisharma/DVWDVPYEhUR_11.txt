@@ -1,0 +1,28 @@
+Step #11
+Deploy Sell Side DeFi Research
+Analyst
+Memory (RAM)
+Pro Plan Feature
+16 GB RAM requires an Orgo Pro plan.
+Anthropic API Key
+Get your key from Anthropic Console
+Cancel
+Deploy Agent
+4 GB
+Standard
+workloads
+8 GB
+Best
+AI & development
+16 GB
+Heavy workloads
+32 GB
+Large datasets
+Free Tier
+Paid Plan
+Paid Plan
+Paid Plan
+FHD
+144Hz
+Paste your Claude API key into
+ClawdBody deployment screen

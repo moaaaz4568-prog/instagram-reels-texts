@@ -1,0 +1,11 @@
+Apollo: Best Go-To-Market
+Platform with AI built in
+
+Show me all deals closing this quarter sorted by probability score.
+Highlight any deals that need attention based on engagement
+drop-off or stalled progress, and suggest next best actions for each.
+
+• End-to-end sales execution
+• All lead data synced at one place
+• Centralized deal management
+• Seamless CRM integrations

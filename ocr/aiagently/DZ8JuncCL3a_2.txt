@@ -1,0 +1,23 @@
+2. Go to Customize
+This is where you can upgrade Claude from a simple
+chatbot into a specialized AI assistant with custom skills.
+Chat
+Cowork
+Code
++ New chat
+Projects
+Artifacts
+Customize
+Recents
+Remixed artifact
+Converting YouTube transcripts to Fac...
+Creating super-marketing specialist pr...
+AI agents for local business growth an...
+Building a Gumroad landing page
+Automating content creation digital pro...
+LinkedIn summary for AI agency founde...
+Setting up the n8n MCP connector
+Finding short available domains
+Evening, Usamaa
+How can I help you today?
+Opus 4.8 Max

@@ -1,0 +1,2 @@
+PREDICTABLE = BORING
+When you sequence events with "and, then," the story becomes extremely predictable.

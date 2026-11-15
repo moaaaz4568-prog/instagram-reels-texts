@@ -1,0 +1,2 @@
+7. PikzelsAI
+Generate thumbnails

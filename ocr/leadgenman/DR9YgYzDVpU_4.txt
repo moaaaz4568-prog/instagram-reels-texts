@@ -1,0 +1,10 @@
+Kit = everything you need in one
+place
+Deployment options (Vertex AI,
+Cloud Run, local)
+Session management (memory
+across conversations)
+This replaces scattered libraries
+with one standardized package
+K
+Kit

@@ -1,0 +1,18 @@
+Beginner AI Agencies think AI is
+What Real AI System Actually Is
+Chatbot
+Automation
+AI Interface Layer
+Agent Orchestration
+Core Business Rules
+Context & Memory
+Data Foundation
+Connected Tools
+Approval Checkpoints
+LLM Routing
+Testing & Evals
+Security & Access
+Tracking & Logs
+Learning Loops
+Content Refinement
+Comment “AI” for full stack guide

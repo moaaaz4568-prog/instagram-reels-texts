@@ -1,0 +1,8 @@
+Perplexity Releases
+COMPUTER
+Perplexity Computer
+Computer works.
+Everything AI can do, Perplexity Computer does for you.
+What should we work on next?
+Perplexity launched Computer: a super agent that uses 19 AI models to research, code, design, and deploy projects end-to-end. It spawns its own subagents. $200/mo on Perplexity Max.
+@itsylergermain

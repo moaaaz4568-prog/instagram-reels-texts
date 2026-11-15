@@ -1,0 +1,15 @@
+Step 2 →
+Product Marketing
+with ChatGPT
+
+Persona Research: Ask ChatGPT to map execs' learning paths and adoption stages.mpts give better GTM results.
+
+Positioning Work: Define category dynamics and create assets like landing pages and storyboards.
+
+Messaging Grader: Build an app to grade one-pagers on audience fit and differentiation.
+
+Imagine you are a data executive at a larger public company. Your team is using an older data stack with technologies like [Competitor 1], [Competitor 2] and [Competitor 3]. How are you thinking about modernizing your data stack? What are you using to learn about your migration process?
+
+I think these suggestions are more in line with how an IC Data Engineer would keep up with news. Can you push a bit to see what other learning paths exist for these executives?
+
+I would love to construct these insights into an adoption map that I can use at my Company. Can you build me an adoption map that goes from awareness to consideration to purchase and help me identify events, content and campaigns that can help move these executives between stages.

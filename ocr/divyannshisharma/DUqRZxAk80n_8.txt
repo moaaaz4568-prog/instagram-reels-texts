@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Step 7. Upload images to our AWS
+• We have a separate website connected to our AWS bucket to add screenshots for website
+• Now it is accessible via browser by bot. Very comfortable.
+Upload a File to S3
+Choose File
+no file selected
+Upload

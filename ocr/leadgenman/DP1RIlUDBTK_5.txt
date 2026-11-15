@@ -1,0 +1,6 @@
+How They Work Together
+Trigger → Node → Flow. All inside the Workspace.
+Workspace = the container
+Trigger = the starting point
+Node = the steps
+Flow = the end-to-end process

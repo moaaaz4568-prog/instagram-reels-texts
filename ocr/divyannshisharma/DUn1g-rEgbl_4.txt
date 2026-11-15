@@ -1,0 +1,37 @@
+Divyanshi | Agentic AI Expert
+@divyanshicharrma
+
+CONTEXT ENGINEERING:
+
+PARALLEL FOUNDATION
+TERMINAL SESSIONS
+(1-5)
+SYSTEM NOTIFICATIONS
+(Term2)
+ALWAYS START IN PLAN MODE
+Seamless Context & File Transfer
+between local & web
+
+SMART CORE & SHARED BRAIN
+OPUS 4.5 (Thinking Mode)
+OPTIONS
+SLASH COMMANDS
+AGENTS
+POST-TOOL-USE HOOK (Formatting)
+
+AUTOMATION, SAFETY & TOOLS
+PROMPTS
+
+Write
+Save context in scratchpads
+
+Select
+Choose what enters via RAG
+
+Compress
+Summarize verbose info
+
+Isolate
+Different threads - diff contexts
+
+People billing $200+/hour use context architecture

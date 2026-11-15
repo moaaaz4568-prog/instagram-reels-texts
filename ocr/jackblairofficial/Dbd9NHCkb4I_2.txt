@@ -1,0 +1,12 @@
+SALE
+EXIT
+$18,995
+$21,500
+Wrong Room
+SALE
+SALE
+SALE
+SALE
+Right Room
+Payment Received
+Commission

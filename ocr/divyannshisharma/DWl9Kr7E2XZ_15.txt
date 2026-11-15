@@ -1,0 +1,49 @@
+divyanshisharma
+4/4 Category (Prompt 181 - 195)
+Category 4:
+Automation
+
+181. Automate Sales Forecasting
+Design an automation that pulls data from [CRM AND OTHER SOURCES], applies [DESCRIBE FORECASTING MODEL], generates weekly forecast reports, and flags deals needing attention.
+
+182. Content Moderation Pipeline
+Design an automation that receives content support tickets, categorizes them, assigns priority, routes to the right team, and tracks resolution time against SLAs.
+
+183. Automate IT Ticket Routing
+Design an automation that receives IT support tickets, categorizes them, assigns priority, routes to the right team, and tracks resolution time against SLAs.
+
+184. Subscription Management System
+Design automations for managing [DESCRIBE SUBSCRIPTION BUSINESS]. Handle signups, upgrades, downgrades, failed payments, renewals, and cancellations automatically.
+
+185. Market Research Collection
+Design an automation that monitors intelligence on [TOPIC OF INTEREST], filters results for relevance, deduplicates, and delivers a curated daily briefing.
+
+186. Build an A/B Testing Automation
+Design a system that sets up A/B tests for [DESCRIBE WHAT IS BEING TESTED], monitors results, determines statistical significance, implements winners, and documents learnings.
+
+187. Automate Expense Management
+Design an automation that processes expense submissions, validates against [DESCRIBE POLICY], gathers approver approval, rejects non-compliant expenses, and exports to payroll.
+
+188. Build a User Lifecycle Automation
+Design automated workflows for each stage of the user lifecycle for [DESCRIBE PRODUCT/PROCESS]. Identify at-risk users, trigger re-engagement, and win-back.
+
+189. Quality Assurance Testing
+Design an automated QA pipeline for [DESCRIBE APPLICATION]. What tests run on each commit? What runs nightly, and what blocks deployment if it fails?
+
+190. Data Quality Monitoring System
+Design an automation that monitors [DESCRIBE DATA SOURCES] for quality issues, alerts when data is missing or anomalous, and generates data quality scorecards.
+
+191. Automate Partner Reporting
+Design an automation that compiles [DESCRIBE PARTNER PROGRAM] performance data into partner-specific reports, and distributes them on a defined schedule.
+
+192. Customer Communication
+Design an automation that triggers personalized communications to customers based on [DESCRIBE BEHAVIORS OR EVENTS]. What messages are sent, when, and which channels?
+
+193. Product Analytics Reporting
+Design an automation that pulls product usage data from [DESCRIBE SOURCES], calculates key metrics, generates a weekly product health report, and distributes it to stakeholders.
+
+194. Build a Security Scanning Pipeline
+Design an automated security scanning program. [DESCRIBE WHAT IS BEING SCANNED]. What tools run, what findings are critical versus informational, and how are remediations tracked?
+
+195. Automate Vendor Management
+Design automations for vendor management including onboarding, contract renewals, performance reviews, invoice processing, and off-boarding.

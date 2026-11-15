@@ -1,0 +1,6 @@
+Owners?
+Even if you aren't writing the code, you own the output.
+AI writes the code. It doesn't get paged
+at 3am. It doesn't sit in the postmortem.
+Ownership was never about typing.
+Files changed 24

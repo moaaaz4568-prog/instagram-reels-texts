@@ -1,0 +1,15 @@
+This was 13 minutes from
+Anthropic's stage in Japan.
+Most people will never see it.
+
+Three ways to start today:
+type /claude-api in Claude Code,
+run ant beta:agents create in
+your terminal, or grab a cookbook
+and copy a working example.
+
+Save this.
+Send it to one developer
+building with AI. The agent
+era isn't coming —
+it's already here.

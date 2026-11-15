@@ -1,0 +1,6 @@
+What is a Node?
+
+“Node = a function block. Each has a specific task.”
+
+Examples: HTTP Request, Send Email, Google Sheets, Discord.
+You simply drag & drop, configure inputs and outputs, and n8n executes them one by one in order.

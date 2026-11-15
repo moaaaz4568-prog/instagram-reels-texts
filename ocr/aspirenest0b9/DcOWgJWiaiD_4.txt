@@ -1,0 +1,58 @@
+SEARCH VISIBILITY OS
+GEO AUDIT / OUTPUT
+05 / 06
+See exactly why AI
+is ignoring your brand
+We audit your site for AI visibility gaps so you can fix what
+matters and get recommended by AI.
+OVERALL SCORE
+62
+/ 100
++12 vs last audit
+CATEGORY SCORES
+AI Usability 78
+Brand Authority 65
+Technical GEO 72
+Content Quality 61
+Schema 28
+0 25 50 75 100
+AI PLATFORM READINESS
+ChatGPT
+READY
+74
+Perplexity
+READY
+69
+Google AI Overviews
+PARTIAL
+58
+Gemini
+WEAK
+47
+CRITICAL
+Pricing page invisible
+to AI crawlers
+HIGH
+Schema markup
+nearly absent
+MEDIUM
+LLM.txt needs
+improvement
+PRIORITIZED ACTION PLAN
+1 QUICK WINS
+Add core schema
+2 THIS MONTH
+Fix crawler access
+3 THIS QUARTER
+Build brand authority
+DIAGNOSE
+Find visibility gaps
+PRIORITIZE
+Focus on what
+matters most
+FIX
+Implement the
+right fixes
+IMPROVE
+Increase AI
+visibility & trust

@@ -1,0 +1,3 @@
+3
+Give your AI agent a prompt
+Use SEO keywords to write a blog draft.

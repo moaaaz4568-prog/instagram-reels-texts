@@ -1,0 +1,31 @@
+Design & Content
+For designers + writers
+
+Image Gen Bot
+by Matt
+An outer-loop assistant for stills and clips. It gathers
+brand and references, writes a Grok Imagine prompt,
+generates the image or video, cuts the background
+on FAL, and iterates until you lock the result.
+This AI bot was created by a third-party user, not by SpaceXAI. It may act on
+your behalf. By clicking "Add to Grok Bot", you accept the terms.
+
+Add to Grok Bot
+
+Figma Bro
+Builds real Figma
+components + layouts.
+https://x.ai/bot/VHMdljGjGpq
+DSJR7dW6Gz
+
+Writing Bot
+Revises without
+losing your voice.
+https://x.ai/bot/gJ4waNMu
+QoJkQCGX77yF3
+
+Image Gen Bot
+Finds refs → writes
+prompts → iterates.
+https://x.ai/bot/pHPQfGzCZO
+ynABubI0pwx

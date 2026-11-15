@@ -1,0 +1,6 @@
+What it does:
+• Reveals anonymous website visitors and surfaces key decision makers with AI
+• Auto-enriches lead data in real time (no more long forms)
+• Scores and routes leads instantly to the right rep
+• Lets qualified buyers book meetings on the spot
+• Automates follow-up and nurture sequences

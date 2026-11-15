@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+Part 2: Connect Claude to
+Your Vault
+• Step 1: Download the Claude App
+Download and install the Claude desktop app
+• Step 2: Open Your Vault in Claude Code
+Connect Claude Code to your Obsidian vault folder
+• Step 3: Enable the Obsidian CLI
+Enable the Obsidian Command Line Interface

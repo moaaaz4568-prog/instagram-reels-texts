@@ -1,0 +1,20 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+BUILD YOUR KNOWLEDGE
+ASSISTANT:
+
+RAG = AI grounded in YOUR documents (no hallucinations)
+
+NotebookLM
+Upload PDFs, get AI expert with citations
+
+Claude Projects
+Persistent workspace with your files
+
+Documents
+Vector database
+Embeddings
+Grounded answers
+
+Domain-specific expertise without coding

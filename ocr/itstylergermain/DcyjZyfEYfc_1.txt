@@ -1,0 +1,13 @@
+/GRILL-ME
+
+Before you start, interview me one question at a time.
+
+Push back on vague answers and ask for real examples.
+
+Do not begin until you know the goal, audience, constraints, edge cases, and what “done” means.
+
+Then turn my answers into a five-bullet brief and ask me to approve it.
+
+@itsylergermain
+
+save for later

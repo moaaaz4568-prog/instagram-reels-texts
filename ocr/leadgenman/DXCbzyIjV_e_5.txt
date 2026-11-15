@@ -1,0 +1,21 @@
+STEP 4 OF 5
+Let Claude Cook
+Your AI sous-chef. Describe, review, iterate.
+$ claude "build the dashboard with charts"
+Reading 14 files...
+Creating app/dashboard/page.tsx
+Done. Created 8 files in 45s.
+• Plain English -> production code
+• Reviews its own work
+• 10x faster than solo
+GitHub Actions
+Auto-validate every push.
+$ git push origin main
+✓ ESLint passed
+✓ 47 tests passed (8s)
+✓ Build succeeded (42s)
+• Runs on every push
+• Lint + test + build pipeline
+• Catches bugs before deploy
+Chef's tip:
+Give Claude a CLAUDE.md with project rules. It follows them.

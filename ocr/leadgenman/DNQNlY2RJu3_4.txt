@@ -1,0 +1,14 @@
+AI AGENTS NODE
+
+The AI Agents node enables large language models to not just respond but plan, decide, and act within your workflows. It connects LLMs to tools, APIs, and data sources, creating fully autonomous task execution.
+
+Key Capabilities:
+
+Autonomous Decision-Making: Agents decide the best next step without manual input.
+Tool Integration: Seamlessly use APIs, databases, and third-party services.
+Context Awareness: Retains relevant information for accurate, multi-step execution.
+Multi-Task Handling: Can manage complex workflows involving multiple tools.
+
+Typical Flow
+
+Instruction Received → Plan Creation → Action Execution → Result Handling

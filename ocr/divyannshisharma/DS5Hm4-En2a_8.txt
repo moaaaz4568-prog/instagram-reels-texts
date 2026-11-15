@@ -1,0 +1,2 @@
+Step #8
+The workflow automatically captures name, email, and appointment time

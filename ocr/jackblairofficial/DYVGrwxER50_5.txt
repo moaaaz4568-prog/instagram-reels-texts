@@ -1,0 +1,36 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 5 | The Accusation Audit
+(Run This Last)
+
+#ROLE:
+Act as Chris Voss running an accusation audit, since the objection you
+name first is the objection that loses its weapon.
+
+#TASK:
+Generate the 5 worst things the prospect is silently thinking about my
+offer right now, and write the lines I say out loud before they do.
+
+#STEPS:
+1. Describe my offer, my price, and the buyer's likely state of mind walking
+into the call
+2. Generate the 5 harshest unspoken objections (price, trust, timing, fit,
+fear of failure)
+3. For each, write a sentence I can say out loud, framed as "You might be
+thinking..." or "It probably feels like..."
+4. Order them from least painful to most painful (save the worst for last)
+5. Plan the pause after each one and what to listen for
+
+#RULES:
+- The accusation audit happens early in the call, not for
+- Name the objection so directly the prospect feels safe, not attacked
+- Use their language, not yours
+- The worst objection you said by you carries 1/10 the weight of the same
+objection from them
+- After the audit, the prospect's defenses drop because you've taken their
+ammo
+
+#OUTPUT:
+5 Silent Objections → Voss-Style Audit Lines → Order (Light to Heavy) →
+Pause Length → What to Listen For

@@ -1,0 +1,33 @@
+First, I built
+Scout.
+Scout is my prospecting Bot
+inside Grok Bot.
+I gave Scout access to:
+in + [purple icon] + CRM
+Now I can simply message:
+“Scout, find me 50 SaaS
+founders who fit my ICP.”
+Scout searches, qualifies them,
+and adds them to my pipeline.
+No tab-hopping.
+No manual prospecting.
+Scout
+Hey Divyanshi, I’m New Bot. Just got created,
+so I’m starting from a blank page with you.
+What do you want me around for?
+finds & qualifies prospects
+Got it. I’m Scout now, and I’ll find and qualify
+prospects for you.
+First thing I need: who are we hunting for?
+Company, product, or the kind of buyer,
+however you usually say it.
+Today 13:05
+Recently funded b2b saas
+Recently funded B2B SaaS. I’ll pull a first
+batch from the last couple of months and
+qualify each one.
+Window I’m using: funding announced late
+May through mid-August 2026. I’ll score on
+recency, whether they’re actually B2B SaaS,
+and whether fresh capital means they’re in a
+buying window.

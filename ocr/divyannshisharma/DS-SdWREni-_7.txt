@@ -1,0 +1,6 @@
+Agent Node Basics
+Each agent lets you set:
+Instructions (role/task)
+Output format (text/JSON/widget)
+Model (GPT-5, 4.1, O3, etc.)
+Tools (web search, code interpreter, MCP, widgets)

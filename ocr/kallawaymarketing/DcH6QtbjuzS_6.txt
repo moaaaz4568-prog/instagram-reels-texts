@@ -1,0 +1,4 @@
+Comment
+'MCP'
+for a full setup guide plus 5 example content workflows I use
+in my own version to make better content.

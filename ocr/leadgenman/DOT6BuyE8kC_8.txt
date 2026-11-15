@@ -1,0 +1,9 @@
+Relationship
+AI Agent vs AI Automation Relationship
+Every AI Agent is AI Automation, but not vice versa
+Think of it like this: AI Agent is a smart robot that can
+decide, while AI Automation is a simple machine
+following fixed tasks.a
+AI Agent
+AI
+Automation

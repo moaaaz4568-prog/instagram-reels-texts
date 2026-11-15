@@ -1,0 +1,15 @@
+Try Rocket.new Today!
+rocket
+What do you want to build today?
+What can Rocket build for you today?
+Import Figma
+Develop
+Iterate
+Deploy
+Prompt
+Ask Rocket in your natural language or give requirements. Or import Figma URL/file to convert.
+Rocket will generate stunning and well researched website/app or your natural language or convert your design into code.
+Customize your app - iteratively. Refine with natural language or make changes to code via code editor.
+Download your code, deploy on web, or push to GitHub as you wish and take it forward.
+What you will build with
+rocket

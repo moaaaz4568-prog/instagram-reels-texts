@@ -1,0 +1,17 @@
+PART 8
+API & Infrastructure 🏗️
+
+48. FastAPI: The Python web framework for serving AI applications. Exceptional documentation. Pydantic validation built in.
+🔗 https://github.com/tiangolo/fastapi
+
+49. Portkey Gateway: Route requests to 250+ LLMs through one API. Switch models without changing code.
+🔗 https://github.com/Portkey-AI/gateway
+
+50. OmniRoute: API proxy for 44+ AI providers. Load balancing, fallbacks, and cost optimization.
+🔗 https://github.com/diegosouzapw/OmniRoute
+
+51. Immr: Trace and evaluate agent behavior. See exactly what your agents are doing and measure whether they are doing it well.
+🔗 https://github.com/immr-ai/immr
+
+52. Codebase Memory MCP: Convert your codebase into a persistent knowledge graph. Claude remembers your entire project structure across sessions.
+🔗 https://github.com/DeusData/codebase-memory-mcp

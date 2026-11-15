@@ -1,0 +1,14 @@
+workers)
+gres
+utes ago via Docker
+Redis
+3 minutes ago via Docker
+Image
+curve-volume
+Primary
+primary-production-e1d9.up.r...
+3 minutes ago via Docker
+Image
+- Deployment ready!
+- PostgreSQL and Redis
+are already setup.

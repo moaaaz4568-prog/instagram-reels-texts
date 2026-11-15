@@ -1,0 +1,49 @@
+THE BUILDING BLOCKS
+OF AUTOMATION
+
+Claude Skills: Your AI Standard
+Operating Procedure (SOP)
+A Skill is a persistent instruction folder (SKILL.md)
+that teaches Claude repeatable processes.
+
+Claude Projects: Persistent Context Hubs
+Dedicated workspaces to organize files and
+instructions by client, research topic, or series.
+
+Plugins: Skills with Tool Connections
+Bundles that connect Claude to external tools
+like HubSpot, Slack, Salesforce, and Jira.
+
+POWERING THE COWORK ENGINE
+
+I want to create
+a Skill for...
+
+Build a Skill with
+Natural Language
+Type a natural language prompt and
+Claude automatically creates
+the SKILL.md file.
+
+/review-contract
+/call-prep
+/reconciliation
+
+Automation via
+Slash Commands
+Use commands to trigger
+multi-step workflows
+
+Direct Local File
+Folder Access
+Cowork can read, edit, and write to
+local folders to create Word,
+PowerPoint, and PDFs.
+
+@divyanshisharma
+
+HOW I MADE CLAUDE
+COWORK 10X MORE USEFUL
+THANCHATGPT IN 5 MINUTES
+
+SWIPE FOR MORE

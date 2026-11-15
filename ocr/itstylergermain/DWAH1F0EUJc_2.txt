@@ -1,0 +1,25 @@
+...and now it can search
+any file (videos, audio, etc.)
+
+try this one
+
+Build a multimodal memory system using Gemini Embedding 2.
+Store every piece of media I send or you generate – images,
+video, audio, files – in a /media-memory directory with a
+metadata schema covering filename, type, timestamp, source,
+natural language description, extracted text/transcript,
+and semantic tags.
+
+Embed each item with Gemini Embedding 2 and store vectors
+in a local Chroma DB instance.
+
+Build a /skills/media-memory skill that handles ingestion,
+embedding, and search with both semantic similarity and
+structured metadata filtering (type, date, tags, source).
+
+Update CLAUDE.md so you automatically log all media and
+query this system when a past asset seems relevant.
+
+@itstylergermain
+
+save for later

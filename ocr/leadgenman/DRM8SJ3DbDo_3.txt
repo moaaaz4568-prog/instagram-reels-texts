@@ -1,0 +1,14 @@
+Build your First Browser Agent
+
+• With Airtop’s Agent, you can build, test,deploy and monitor reliable AI browser agents that navigate websites, extract data, and automate web tasks.
+
+• Example:
+→ Monitor LinkedIn for posts mentioning "lead generation"
+→ Extract engaged users from competitor's viral posts
+→ Respond to Tweets with Human in the Loop
+→ Track competitor activity and send daily Slack alerts
+→ Find Sales Opportunities in HubSpot with Slack Alerts
+
+Agent Builder
+
+Agent Browser

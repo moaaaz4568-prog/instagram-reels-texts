@@ -1,0 +1,10 @@
+#7
+Connect Telegram by sending your first message
+to activate
+Connect your Telegram
+Follow these steps
+1. Open the chat by clicking on the BotFather message.
+2. Click the Start button to send a message to your bot.
+3. Click the button below to confirm that you sent the
+first message.
+I have sent a message

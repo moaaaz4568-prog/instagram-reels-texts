@@ -1,0 +1,25 @@
+2
+THE PROBLEM + THE 3 TIERS
+There’s a full automation stack
+But most people never use it.
+THE AUTOMATION STACK
+LOOP
+TIER 1 · THE MANUAL
+/loop · CronCreate · CronList · CronDelete
+Session-scoped. Up to 50 tasks. Auto-expires after 7 days.
+Dies when you close the terminal.
+PERSISTENT LAYER
+TIER 2 · THE PERSISTENT LAYER
+Desktop scheduled tasks · Auto Mode · Permissions
+Survives restarts. Runs while the machine is awake.
+macOS and Windows only. Linux uses /loop or system cron.
+CLOUD LAYER
+TIER 3 · THE CLOUD LAYER
+Routines · schedule · API trigger · GitHub event
+Anthropic-hosted. Laptop can be off. Released April 14, 2026.
+All paid plans in research preview.
+Most people use Claude like this:
+open it, type a prompt, read the answer, close the tab,
+come back tomorrow and repeat.
+That’s supposed to work FOR you
+is still waiting on YOU to show up.

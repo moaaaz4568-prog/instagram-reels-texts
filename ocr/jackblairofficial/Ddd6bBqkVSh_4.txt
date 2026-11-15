@@ -1,0 +1,16 @@
+Jack Blair
+@jackblairofficial
+
+4. He let the room arrive on its own.
+
+"I'm not going to talk you into anything.
+What did your gut already decide?"
+Spence never told a jury what to do. The
+decision they reach themselves is the one
+that holds. The last prompt makes Claude
+the jury. Here's what it does:
+
+It plays a buyer who has half decided but won't say it. When
+you're done it grades the call out of 10, quotes the moment you
+stopped letting him arrive and started pushing, and writes the
+Spence line that would have held the verdict.

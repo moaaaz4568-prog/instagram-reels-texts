@@ -1,0 +1,42 @@
+Step #8
+API keys
+Save your key
+Do not share your API key. If it's leaked, anyone can use it.
+View usage for API key
+NAME
+N8N
+chatbot
+voice testing
+TypingMind
+CREATED BY
+Eduard Hilbergert
+Eduard Hilbergert
+Eduard Hilbergert
+Eduard Hilbergert
+PERMISSIONS
+All
+All
+All
+All
+Copy
+Copy
+Copy
+Copy
+Permissions
+Read and write API resources
+Done
+Claim free tokens
+Get free tokens on traffic shared with OpenAI. Valid until April 30, 2025.
+FHD 360Hz
+W
+A
+S
+D
+Z
+X
+C
+V
+B
+N
+M
+Create and copy your OpenAI API Key

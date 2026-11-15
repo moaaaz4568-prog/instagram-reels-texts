@@ -1,0 +1,36 @@
+// BENNETTOS
+04 / 11
+// THE RESEARCH
+ORCHESTRATION IS
+THE TOKEN BILL.
+Anthropic measured their own multi-agent system. The
+numbers are why the delegation layer is the only place
+worth optimizing.
+15x
+tokens of a plain chat for the
+same task, once you go multi-
+agent. A single agent already
+runs ~4x.
+// WHERE THE MULTIPLIER COMES FROM
+Retries dragging
+Orchestrator + verification
+The actual work
+Cost compounds at every handoff
+a pricing problem.
+80%
+of performance variance on
+their browsing eval is
+explained by token usage
+alone.
+Context copied agent →
+agent
+Orchestrator + verification
+dragging dependents
+An architecture problem, not
+SWIPE →
+// SOURCES: ANTHROPIC ENGINEERING
+BROWSECOMP ANALYSIS
+@bennettos
+SWIPE →
+@bennettos
+SWIPE →

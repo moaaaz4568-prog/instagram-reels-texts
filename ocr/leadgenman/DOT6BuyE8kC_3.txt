@@ -1,0 +1,12 @@
+Working
+Think, Act and Learn System
+AI Agent is the framework that perceives, reasons, and acts autonomously.
+Think of it like a smart website chatbot that understands questions and replies instantly to help you effectively.
+AI Agent
+User Input
+LLM
+Decision
+Loop
+API Calls
+Tools Called
+Output

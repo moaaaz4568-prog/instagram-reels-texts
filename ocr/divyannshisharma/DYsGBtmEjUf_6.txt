@@ -1,0 +1,19 @@
+06
+Style cloning
+YOUR VOICE
+CLONED VOICE
+When Claude writes in your voice without examples, it writes in its own voice.
+The output is grammatically correct and completely wrong in tone. It sounds like AI because it is.
+• Give Claude three to five examples of your own writing.
+• Ask it to analyze your patterns, not just describe your style.
+Here are 3 examples of my writing:
+[paste sample 1]
+[paste sample 2]
+[paste sample 3]
+Analyze my writing style in detail.
+Look at: sentence length, rhythm, vocabulary choices, how I open and close paragraphs, what I avoid, how formal or informal I am, and any patterns that make my writing distinct.
+After this, when I ask you to write anything for me, match this style exactly.
+Do not default to your own patterns.
+After that analysis, it writes like you, not like a polished corporate assistant.
+Divyanshi sharma
+06/18

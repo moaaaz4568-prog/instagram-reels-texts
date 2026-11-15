@@ -1,0 +1,7 @@
+2.
+Identify decision makers
+Extract the list of hiring companies and enrich it with decision makers, LinkedIn url, contacts etc.
+Identify decision-makers
+CEOs & Co-Founders
+VP / Head of Sales
+VP of Business Dev

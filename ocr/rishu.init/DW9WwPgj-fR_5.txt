@@ -1,0 +1,6 @@
+Start coding
+with Claude
+Code today
+$ npm install -g @anthropic-ai/claude-code
+Try Claude Code Free →
+claude.ai/code · Free · Mac · Linux · Windows WSL

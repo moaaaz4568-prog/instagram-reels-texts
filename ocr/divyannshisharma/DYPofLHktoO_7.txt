@@ -1,0 +1,26 @@
+STEP 07 – THE UNLOCK
+CLAUDE MCP
+STEP 07 OF 09
+Plug it into Claude.
+07
+WHAT TO DO
+Connect Granola → Claude via MCP.
+WHAT HAPPENS
+Claude reads all your meetings. Finds patterns, generates content, pulls deep insights.
+Connect Granola to your meeting history. Ask questions about your work and use your conversation context to get things done.
+Tool permissions
+Choose when Claude is allowed to use these tools.
+Read-only tools
+get_meeting_transcript
+get_meetings
+list_meetings
+query_granola_meetings
+Customize
+Skills
+Connectors
+Granola
+MCP iOS Brain
+DR
+THINK OF IT AS
+Giving your brain to a genius
+08 / 10

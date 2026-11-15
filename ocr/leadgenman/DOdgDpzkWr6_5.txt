@@ -1,0 +1,17 @@
+Reflection Pattern
+Legend
+Processing
+Tool use
+Agentic Workflow
+UI
+Tools
+User Query
+Execute Task
+Result
+Generate Response
+Reflection
+Response
+Reflect
+Reflected Response
+Response not ok
+Final Response

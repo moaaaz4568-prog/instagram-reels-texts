@@ -1,0 +1,76 @@
+divyanshisharma
+(217 to 240)
+Dev & Technical
+/regex
+write the regex
+Dev & Technical
+/ci
+write as a CLI command
+Dev & Technical
+/bash
+write as bash script
+Dev & Technical
+/python
+write in Python
+Dev & Technical
+/js
+write in JavaScript
+Dev & Technical
+/typescript
+write in TypeScript
+Dev & Technical
+/readable
+most readable version
+Dev & Technical
+/one-liner
+fit in one line of code
+Dev & Technical
+/async
+async version
+Dev & Technical
+/no-code
+no-code solution only
+Dev & Technical
+/terse
+most compact version
+Dev & Technical
+/oop
+object-oriented style
+Dev & Technical
+/security
+security-focused review
+Dev & Technical
+/accessibility
+accessibility audit
+Dev & Technical
+/state
+state management approach
+Dev & Technical
+/deploy
+deployment checklist
+Dev & Technical
+/functional
+functional programming style
+Dev & Technical
+/error-handling
+focus on error handling
+Dev & Technical
+/performance
+performance-focused
+Dev & Technical
+/edge-cases
+focus on edge cases
+Dev & Technical
+/mobile-first
+mobile-first approach
+Dev & Technical
+/dark-mode
+dark mode implementation
+Dev & Technical
+/seo
+SEO optimized version
+Dev & Technical
+/env
+environment setup guide
+Dev & Technical
+Swipe →

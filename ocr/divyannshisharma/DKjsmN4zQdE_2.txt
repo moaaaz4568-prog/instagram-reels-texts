@@ -1,0 +1,25 @@
+Step 1 →
+Open Google Apps
+Script
+Google
+Sheets
+Extensions
+Apps Script
+Name -> Domain (Clearbit API)
+File Edit View Insert Format Data Tools Extensions Help
+100%
+A B
+companyName domainName
+lemlist lemlist.com
+Alan alan.com
+Praiz praiz.io
+Lavender lavender.ai
+datagamma datagamma.com
+n8n n8n.io
+Nolen nolen.so
+AppSheet
+Add-ons
+Macros
+Apps Script
+Apps Script
+SerpApi - Search Engine Results and Ranks

@@ -1,0 +1,11 @@
+04 / 11
+04
+GSD
+Task Manager
+Turn vague goals into ship-ready Claude Code tasks instantly.
+AI-powered task manager built for Claude Code. Break down epics, track progress and stay focused — all from the terminal.
+Task Breakdown
+Progress Track
+Claude Native
+github.com/getgsd/gsd
+04

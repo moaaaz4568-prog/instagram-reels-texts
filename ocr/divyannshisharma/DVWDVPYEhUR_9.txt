@@ -1,0 +1,36 @@
+Step #9
+Your plan
+Evaluation access
+Commercial use.
+This free plan is for evaluating Claude's capabilities before commercial use.
+Create an API key
+Create a key to integrate a client SDK.
+Create API key
+Create in Workspace:
+Default
+Name your key:
+Claude
+Add
+Cancel
+Organization
+Profile
+Appearance
+Organization
+Workspaces
+Billing
+Limits
+API Keys
+Privacy controls
+FHD 360Hz
+Lock
+A
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl
+Click 'Create Key' and name it (like 'ClawdBodies' or 'My Agent')

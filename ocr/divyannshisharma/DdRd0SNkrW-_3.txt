@@ -1,0 +1,23 @@
+SLIDE 4 / 10
+The 5
+Universal Ones
+Install these first. They work for everyone.
+GitHub — read PRs, issues, code search
+across your whole org from the terminal
+Context7 — stops Claude from making up
+fake API docs. Pulls real, current documentation
+at the moment you ask
+Playwright — gives Claude a real browser
+it can control. Click buttons, fill forms,
+take screenshots
+Filesystem — lets Claude access files
+on your computer beyond just the current folder
+Brave Search — Claude can search the web
+without you switching tabs
+Install These First
+5 tools you'll use right away
+GitHub
+Docs
+Browser
+Files
+Search

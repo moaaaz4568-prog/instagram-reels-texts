@@ -1,0 +1,42 @@
+SLIDE 9 | THEN IT BUILT A PREDICTION TOOL
+A PREDICTION TOOL
+then it built a
+prediction tool.
+Reorder Prediction Simulator
+Adjust the shopper and order parameters to predict the probability that a
+product will be reordered. Powered by a Random Forest trained on 100,000 real
+order records.
+80.3%
+Accuracy
+0.878
+ROC AUC
+100K
+Training Rows
+5
+Key Features
+TRY A PRESET SCENARIO
+Weekly Banana Buyer
+Sporadic Snacker
+Bulk Pantry Stocker
+Daily Fresh Buyer
+Order Parameters
+Days Since Prior Order
+Cart Position (1 = first added)
+User's Total Past Orders
+Product Historical Reorder Rate
+7
+6
+1
+10
+60%
+Predicted Reorder Probability
+63%
+reorder probability
+A 63% reorder probability suggests this
+product is sometimes repurchased but isn't
+highly consistent.
+Not just analysis — an interactive simulator. It
+trained itself on 100,000 real orders and hit
+80.3% accuracy predicting whether a customer
+reorders. A junior analyst would've taken days.
+The agent took minutes.

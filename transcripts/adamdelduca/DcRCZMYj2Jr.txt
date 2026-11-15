@@ -1,0 +1,1 @@
+No speech detected in the provided audio segment. The content consists entirely of background music and sound effects.

@@ -1,0 +1,55 @@
+2. Retrieval Augmented Generation
+
+• Injecting custom data into LLMs • Vector search + semantic retrieval • Tools like Elasticsearch, Qdrant • Chunking strategies (this matters more than people think) • Handling real world data: PDFs, web pages, transcripts
+Practice projects: FAQ assistant Document, Q&A system, Internal knowledge search
+
+Ground LLMs on your data for accurate, up-to-date responses
+
+Data Sources
+Documents
+Web Pages
+PDFs
+Databases
+APIs
+
+Ingestion & Chunking
+Split documents into manageable chunks
+
+Chunking
+[0.21, 0.21, ...]
+[0.11, 0.52, ...]
+[0.73, 0.31, ...]
+
+Embedding
+Convert chunks into embedding vectors
+
+Vector Database
+Store and index vectors for fast similarity search
+
+Retrieve & Generate
+User Query
+"What is quantum computing?"
+Retrieves top K most relevant chunks
+LLM uses context + retrieved chunks
+Generated Response
+
+How Retrieval-Augmented Generation Works
+User asks a question
+System converts query to embedding
+Searches vector DB for relevant chunks
+Retrieves top K most relevant chunks
+LLM uses context + retrieved chunks
+Generates accurate, context-aware response
+
+More Accurate
+Uses your data as source of truth
+Up-to-Date
+Reflects latest information in your data
+Reduced Hallucinations
+Grounded with retrieved evidence
+Scalable
+Works with data of any size
+Secure & Private
+Your data stays in your infrastructure
+
+Swipe →

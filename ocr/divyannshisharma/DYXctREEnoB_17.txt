@@ -1,0 +1,41 @@
+NotebookLM
+11 tools.
+15 / 18
+Photo
+Enhancement
+* Real-ESRGAN
+Open source super-resolution
+upscaling model
+Photo Enhancement open source
+* Upscayl
+Open source desktop AI image
+upscaler app
+Photo Enhancement open source
+* GFPGAN
+Tencent open source blind face
+restoration
+Photo Enhancement open source
+* CodeFormer
+Open source face restoration via
+code prediction
+Photo Enhancement open source
+* RestoreFormer++
+Open source high-quality face
+restoration
+Photo Enhancement open source
+* DeOldify
+Open source AI colorization of
+old photos/video
+Photo Enhancement open source
+* DDCOLOR
+Open source dual decoder image
+colorization
+Photo Enhancement open source
+* rembg
+Open source Python background
+removal library
+Photo Enhancement open source
+* Real-CUGAN
+Open source AI upscaler optimized
+for anime
+Photo Enhancement open source

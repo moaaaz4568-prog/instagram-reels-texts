@@ -1,0 +1,19 @@
+Skill Set 08
+File Search
+DESCRIPTION
+Equips you with advanced code navigation techniques using powerful tools like ripgrep and ast-grep. It enables lightning-fast searching, pattern recognition, and structural analysis across large codebases, helping you quickly locate files, understand dependencies, and work more efficiently in complex environments.
+massgen / MassGen Public
+Code Issues 46 Pull requests 8
+main 402 Branches
+Henry-811 Merge pull request #1
+devcontainer
+github
+assets
+docs
+massgen
+opencv
+scripts
+specs/002-testing-strategy
+webui
+MORE INFO
+https://lnkd.in/gwMsDzJq

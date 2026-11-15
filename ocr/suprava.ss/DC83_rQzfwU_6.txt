@@ -1,0 +1,14 @@
+Apply Research to
+Email Templates
+
+① Use Lead Formatter to segment and format your leads
+so you can create the below email
+
+Example:
+"Hi [FirstName],
+Have you overcome [Pain-point] at {{CompanyName}}?
+Our clients within [Industry] have tried [Past solutions] to
+solve but failed
+We [How you solve pain point]
+CTA
+Thanks, [Your Name]"

@@ -1,0 +1,4 @@
+Step 1
+Open Claude Code
+in VS Code on your
+Desktop

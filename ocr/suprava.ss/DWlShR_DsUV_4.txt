@@ -1,0 +1,22 @@
+EMAIL 4
+
+Subject: before your new AEs ramp
+"Noticed you're hiring 3 AEs right now. Most Series A teams waste the first 60-90 days figuring out ICP while the sales team sits on an empty pipeline. We build the GTM foundation before your AEs even start.
+
+Helped [Company] cut ramp time from 90 to 28 days. Brain automatically calculates what that means for them conversation?"
+
+Subject: Content opportunity for [Company]
+"Hey [Name], we build content engines for SaaS teams that drive organic growth and inbound pipeline.
+
+A lot of companies in your space are leaving traffic on the table by not owning key search terms. I'd love to show you what that could look like for [Company]. Free for a call?"
+
+Why it worked
+
+Trigger-Based Personalization
+public hiring data used as the entry point. Feels personal, scales infinitely
+
+Stage-Specific Pain
+named the exact problem that happens at Series A, not a generic growth problem
+
+Before/After Anchor
+90 to 28 days. Brain automatically calculates what that means for them

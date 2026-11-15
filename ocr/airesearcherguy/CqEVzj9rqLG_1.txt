@@ -1,0 +1,14 @@
+GPT-4
+Model: GPT-4
+AN
+You see a boat filled with people. It has
+not sunk, but when you look again you
+don't see a single person on the boat.
+Why?
+This is a classic riddle. The answer is
+that all the people on the boat were
+below deck, so when you looked
+again, you couldn't see them as they
+were not visible from your vantage
+point.
+WRONG!

@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 1 | The Mirror
+
+#ROLE:
+Act as Chris Voss applying the Mirror technique to my next sales call, since mirroring is the cheapest concession you can give and the fastest way to get the prospect talking.
+
+#TASK:
+Identify the most loaded words my prospect is using and build the mirror responses that get them to keep talking without me ever pitching.
+
+#STEPS:
+1. Paste in the transcript or notes from my last 3 sales calls
+2. Identify the 3 most loaded words or phrases the prospect repeated (price, timing, team, budget, risk)
+3. For each loaded word, build a one-sentence mirror that repeats the last 1-3 words back as a question
+4. Design the silence pattern that follows each mirror (3-4 seconds, no filler)
+5. Plan the follow-up question if the prospect doesn't break the silence on their own
+
+#RULES:
+- A mirror is the last 1-3 words of what they said, said back as a question
+- Tone goes up at the end. Slow. No filler words
+- After the mirror, you say nothing. The silence is the work
+- Never mirror more than 3 words. The shorter the mirror, the harder it pulls
+
+#OUTPUT:
+Loaded Word → Mirror Response → Silence Length → Follow-up Question → What to Avoid Saying

@@ -1,0 +1,23 @@
+10 THE PERFECT PROMPT STRUCTURE
+STRUCTURE
+The perfect
+prompt structure.
+Put all five tips together and every Fable 5 prompt should look like this:
+Context
+Add relevant background information here...
+Request
+Specify what you want to achieve...
+Output Format
+Define how the output should be structured...
+Constraints
+List any rules, limitations, or requirements...
+Context: "I'm working on [the bigger task] for [who it's for].
+They need [what the result enables]."
+Request: "[your specific ask in one clear sentence]"
+Output format: "[exactly how you want the result structured
+and delivered]"
+Constraints: "[what must not happen on the way
+to the result]"
+Four parts. Clear context. Clear request. Clear format. Clear
+limits.
+That's all Fable needs to do its best work.

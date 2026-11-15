@@ -1,0 +1,15 @@
+Step #3
+Deploy Sell Side DeFi Research
+Analyst
+Orgo API Key Required
+Templates are deployed to Orgo VMs. Enter your API key to continue.
+Orgo API Key
+Enter your Orgo API key
+Validate
+Get API key
+Anthropic API Key
+sk-ant-api03...
+Get your key from Anthropic Console
+Cancel
+Deploy Agent
+You'll need 2 API keys: Orgo (for cloud computer) + Claude (for AI brain)

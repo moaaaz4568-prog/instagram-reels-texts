@@ -1,0 +1,8 @@
+Prompt #1
+The Real-World Practice:
+Don't explain [CONCEPT].
+Put me in a realistic scenario where I need to apply it.
+If I make a mistake, don't reveal the answer.
+Instead, ask guiding questions that help me identify my own error.
+Let me try at least two times before explaining the correct solution.
+Continue giving me new scenarios until I can solve them confidently without help.

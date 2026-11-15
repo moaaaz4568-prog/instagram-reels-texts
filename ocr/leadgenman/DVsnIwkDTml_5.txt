@@ -1,0 +1,34 @@
+STEP - 3
+Claude does the work
+
+1. Gmail – Pulls your client call notes and email threads
+2. Gamma – Builds a full presentation from the context
+3. Notion – Grabs your client briefs (optional)
+
+Uninstall
+Account
+Privacy
+Billing
+Usage
+Capabilities
+Connectors
+Claude Code
+Gamma
+Choose whether Claude is allowed to use these tools.
+Interactive tools 1
+Rate
+Only-tools 1
+Generation status
+Folders
+Themes
+App-only tools 1
+Always allow
+Always allow
+Always allow
+
+Grab my latest mail from client about automation and make a project presentation with Gamma
+Thinking about retrieving client automation correspondence and create for the latest client email about automation.
+I’ll search your Gmail and load the Gamma tool
+Used Gmail integration, used a tool
+Used Gmail integration, used a tool
+Retrieving presentation materials with Gamma...

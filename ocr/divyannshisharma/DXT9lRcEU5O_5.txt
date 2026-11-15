@@ -1,0 +1,17 @@
+can you give me this visual:
+VISUAL 5: Simple bar chart — "Browsing Data = 1x" vs "Voice Data = 30x" ad
+bid value. Clean, bold, screenshot-bait. Make this one yourself — it'll get
+screenshotted and shared on its own.
+WHAT YOUR DATA IS WORTH TO ADVERTISERS
+USERS
+Voice data commands a 30x premium
+30x
+1x
+Browsing data
+Voice data
+Step 5
+Code Execution
+Claude runs it, upload a CSV, ask a question, get charts,
+tables, and insights instantly, no setup needed.
+Divyanshisharma
+5/16

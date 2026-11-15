@@ -1,0 +1,24 @@
+Path 5:
+Creative Technologist / Storyteller
+
+What you do
+Blend design, interactivity, and agents for demos, learning tools, and campaigns.
+
+Stack to learn
+Gemini
+Claude
+ElevenLabs
+Suno
+Replit
+Higgsfield
+Gamma
+
+30-day plan
+→ Week 1: Prototype a "show, don't tell" demo.
+→ Week 2: Add voice or visuals.
+→ Week 3: Wrap with one-click run.
+→ Week 4: Share and iterate.
+
+Metric that matters
+• Completion rate
+• Shares/saves

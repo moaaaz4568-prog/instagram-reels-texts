@@ -1,0 +1,14 @@
+STEP 2
+Give Your Agent a Tool
+Connect with
+Google Calendar
+This is where it gets powerful.
+Create a
+Custom Function / Tool
+in Retell:
+</> check_availability
+Your agent can now ask:
+"Is Saturday at 2 available?"
+Instead of guessing,
+Retell sends the request
+to your backend.

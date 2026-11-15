@@ -1,0 +1,5 @@
+2. AI Prompting
+The art of getting useful output from ChatGPT and Claude. Learn role-prompting, chain-of-thought, and how to build a prompt library you can reuse forever.
+What you can make:
+$500 to $2K per custom GPT build
+$1K to $3K/month for prompt systems

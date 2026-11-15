@@ -1,0 +1,48 @@
+RAG Agent
+When chat message received
+Chat Router
+Mistral
+Tool
+Vector Store Tool
+Memory
+Vector Store
+Memory
+Supabase Vector
+Store
+OpenAI Chat Model
+Postgres Chat
+Memory
+Embeddings OpenAI
+Uploading doc to vectorstore
+Google Drive Trigger
+FileCreated
+Google Drive
+Get File
+Extract from File
+Extract From Text File
+Embeddings
+Embeddings OpenAI
+Default Data
+Loader2
+Text Splitter
+Recursive Character
+Done!
+Your RAG Agent is ready.
+- Drop files → Auto indexed
+- Ask questions → Get answers
+- Works with any document type
+- Your private document AI
+Comment “RAG” to get it!
+Session: 946
+80
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+3
+5
+0

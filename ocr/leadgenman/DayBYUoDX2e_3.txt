@@ -1,0 +1,20 @@
+Path 1:
+No-Code / Low-Code Builder
+What you do
+Design automations and simple agents that remove busywork for teams.
+Stack to learn
+n8n
+Zapier
+Emergent
+Make
+Base44
+Lovable
+Replit
+30-day plan
+→ Week 1: Map one process. Define inputs, outputs, and edge cases.
+→ Week 2: Automate with n8n or Make.com. Add a manual fallback.
+→ Week 3: Add a lightweight AI step (summaries, routing).
+→ Week 4: Instrument runs. Track time saved and errors.
+Metric that matters
+• Minutes saved per run
+• Error rate

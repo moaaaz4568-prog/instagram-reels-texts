@@ -1,0 +1,9 @@
+Prompt #4
+The Feynman Learning Test:
+I just finished learning [TOPIC].
+I’ll explain it as if I’m teaching a 10-year-old.
+Interrupt me whenever I:
+Use jargon without explaining it
+Skip an important reasoning step
+Oversimplify something until it becomes inaccurate
+After I’m done, identify the weak points in my explanation and explain what they reveal about the gaps in my understanding.

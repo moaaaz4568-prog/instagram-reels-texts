@@ -1,0 +1,24 @@
+News Synthesizer
+Find top 5 important news weekly
+Auto-update Notion database
+Structured by date
+Schedule as recurring task
+Enable Deep Research, in-depth analysis.
+NOTION COLUMN TO FILL:
+- Date (today's date)
+- Source
+- Research
+TURN ON DEEP RESEARCH
+searchingland
+September 2025 State of Search & AI I GPO Blog
+AI search optimization? GEO's SEOs can't agree on a name
+It's 2025. Do You Know Where AI Is Getting Information From Ch...
+Google AI Overviews explained: Updates and Changes ...
+Google is still 20x bigger than ChatGPT in search
+Digital Marketing News Roundup - September 2025
+searchingland
+gpo
+searchingland
+gpo
+searchingland
+nelipatl

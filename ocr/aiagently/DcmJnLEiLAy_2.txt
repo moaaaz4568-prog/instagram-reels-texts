@@ -1,0 +1,14 @@
+2.
+Attention Span
+attention, not tokens
+Claude, but finally human-friendly.
+Makes AI answers shorter, clearer, and easier
+to scan with ~43% less output while keeping
+the actual work untouched.
+version v0.7
+styles 3
+work unchanged
+license AGPL-3.0
+for Claude Code
+Stars 872
+English · Español · 中文

@@ -1,0 +1,19 @@
+Claude-Code.exe -- InstallShield Wizard
+File Edit View Help
+InstallShield Wizard
+Welcome to the
+Claude Code Setup
+Wizard
+The best alternative to Cursor, v0,
+and every other AI tool charging you.
+Click Next to continue.
+Command Prompt -- claude.exe
+Microsoft(R) Windows 95 is inspired.
+(C) Anthropic. All rights reserved.
+C:\> claude --version
+claude-opus-4-6 v2.0.1 [ready]
+C:\> _
+Claude
+Code
+< Back Next > Cancel
+Start Claude -- Welcome 4:20 PM

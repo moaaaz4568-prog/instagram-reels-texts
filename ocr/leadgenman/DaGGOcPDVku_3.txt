@@ -1,0 +1,11 @@
+8. Loops & Routines
+Your agent keeps working while your laptop is closed. This is the money maker
+
+9. Managed Agents
+Cloud-hosted, always-on managed Agents run the work on agents that run the work for you 24/7
+
+10. Multi-Model Orchestration
+Cheap models for the grunt work, frontier models for the thinking. Cuts cost 90%
+
+11. Evals & Verification
+Anyone can spin up agents. Proving they actually work is the real edge (BONUS POINTS)

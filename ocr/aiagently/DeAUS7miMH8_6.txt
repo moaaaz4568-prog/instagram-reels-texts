@@ -1,0 +1,45 @@
+Step 6
+CREATE THE NEXT AD
+WITH HIGGSFIELD
+
+1 Take Claude’s best
+recommendation.
+Ask:
+“Create 5 Meta ad concepts based on the strongest
+opportunity you found. Give me the hook, script,
+visual direction and CTA for each.”
+Claude 4.5
+
+*Claude
+“Create 5 Meta ad concepts based on the strongest
+opportunity you found. Give me the hook, script,
+visual direction and CTA for each.”
+Claude 4.5
+
+2 Open Higgsfield →
+Seedance 2.5.
+Give Seedance your winning concept.
+Add your:
+• Product
+• Images
+• Script
+• Visual direction
+
+Higgsfield
+Seedance 2.5
+Turn your ideas into stunning videos.
+Create a 15s ad video for my product:
+Here is the concept, script, visual direction...
+Images Script Visual direction
+Product
+Generate
+
+3 Generate multiple
+versions.
+Now AI is doing the
+creative production.
+Version 1
+Version 2
+Version 3
+Version 4
+Version 5

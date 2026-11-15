@@ -1,0 +1,14 @@
+AI Agent
+Think, Act, Learn System
+It is an intelligent system that independently perceives its environment, makes decisions, and takes actions to accomplish tasks or goals without human intervention.
+Think
+Act
+Learn
+Repeat
+User Input
+AI Agent
+Output
+LLM
+Memory
+Get Email
+Send Email

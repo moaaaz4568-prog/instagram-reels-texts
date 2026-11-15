@@ -1,0 +1,29 @@
+9.
+Find Companies
+With Chrome
+Extensions →
+Co-Marketing
+
+Claude
+
+WORKFLOW:
+
+1 Prospeo
+Find Companies
+With Chrome
+Extensions
+
+2 Chrome Extension
+Filter
+Filter for
+Chrome Extension
+Companies
+
+3 Export List
+Export
+Companies
+
+4 Claude
+"Generate
+co-marketing
+pitches."

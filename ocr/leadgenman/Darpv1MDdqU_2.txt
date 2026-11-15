@@ -1,0 +1,15 @@
+Open
+Move to Bin
+Comment "COURSE" for 30-day series
+Claude Code
+Rename
+Compress "Claude Code course"
+Duplicate
+Make Alias
+Copy
+Share...
+Tags...
+Import from iPhone
+Quick Actions
+New Terminal at Folder
+New Terminal Tab at Folder

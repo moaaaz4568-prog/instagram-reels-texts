@@ -1,0 +1,37 @@
+04
+PROMPTS & EVALS
+VALS
+stop guessing, start measuring.
+
+29 dspy
+22K
+programming — not prompting — lms. dspy optimizes prompts automatically. from stanford nlp.
+github.com/stanfordnlp/dspy
+
+30 guidance
+20K
+control llm output structure with code. interleave generation with logic, force json schemas, constrain outputs.
+github.com/guidance-ai/guidance
+
+31 outlines
+11K
+structured text generation. force valid json, regex patterns, specific formats. guaranteed output structure.
+github.com/dottxt-ai/outlines
+
+32 promptfoo
+6K
+test and eval your prompts. run automated tests, compare models, catch regressions. unit tests for ai.
+github.com/promptfoo/promptfoo
+
+33 braintrust
+3K
+eval framework for llm apps. track quality across model versions, prompts, configurations. because vibes aren't a metric.
+github.com/brainaid/langchain
+
+34 instructor
+9K
+structured outputs via pydantic. define a schema, get back a validated python object. works with openai, anthropic, google.
+github.com/instructor-ai/instructor
+
+Divyanshi sharma
+04/10

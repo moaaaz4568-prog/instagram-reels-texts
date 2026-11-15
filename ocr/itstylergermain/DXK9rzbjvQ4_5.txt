@@ -1,0 +1,26 @@
+Claude Skills.
+Skills are the real game-changer, because they create repeatable processes that your Claude Code can do the same way, every time.
+Each skill is a folder, with a skill.md file and other reference files / scripts as needed.
+You can make skills for anything you want. Claude can create them for you.
+@itsylergermain
+FILE STRUCTURE
+my-project/ ← your repo root
+CLAUDE.md
+.claude/ project memory
+inside .claude/
+settings.json
+commands/ slash commands
+skills/ — THE KEY FOLDER
+write/
+SKILL.md
+mi-diagram/
+SKILL.md
+wr-pr/
+SKILL.md
+gemini/
+SKILL.md
+review/
+Each skill = one folder + one SKILL.md
+The folder name becomes the skill name
+No config, no registration — just drop it in!
+save for later

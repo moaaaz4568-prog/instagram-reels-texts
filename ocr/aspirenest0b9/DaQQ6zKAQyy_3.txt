@@ -1,0 +1,17 @@
+Punit Kumar
+Competitive intelligence
+> /market competitors https://company.com
+Claude identifies your competitors automatically, then compares pricing, messaging, offers, and positioning side by side.
+> /market competitors
+Finding competitors... 7 found
+Comparing pricing... comparing landing pages...
+generating report
+✓ Analyzing positioning -
+METRIC	YOU	COMPETITORS
+Pricing	Clear	Hidden
+Content Strategy	Ahead	Behind
+CTA Clarity	Weak	Strong
+SEO	Fair	Strong
+Social Proof	Strong	Limited
+Market Gap	Opportunity	—
+swipe >>

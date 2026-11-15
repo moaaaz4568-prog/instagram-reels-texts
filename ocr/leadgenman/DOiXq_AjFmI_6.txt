@@ -1,0 +1,8 @@
+Loop Over Items
+Iterates over an array or list of elements, executing operations on each of them.
+Use cases:
+• Process multiple files: Upload each file from a list to Google Drive one by one.
+• Send personalized emails: Loop through a list of recipients and generate a unique message for each.
+Loop Over Items
+done
+loop

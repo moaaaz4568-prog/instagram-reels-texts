@@ -1,0 +1,16 @@
+@carasouls • claude tactics
+ISSUE • 04
+WHAT TO DO WITH IT
+Burn it.
+Loop it.
+Four places that $315/mo of free Opus actually changes the game.
+01 CLAUDE CODE
+Free Opus in your terminal — the killer use. →
+02 AGENTIC LOOPS
+Build agents that don’t quit at the $5 mark. →
+03 ANY ANTHROPIC SDK
+Drop into existing apps. Zero refactor. →
+04 PROMPT CACHING
+Cache context. Stretch every dollar 5× further. →
+PAGE 04 / 06
+the catch →

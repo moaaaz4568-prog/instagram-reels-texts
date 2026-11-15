@@ -1,0 +1,26 @@
+Slide 3
+Technique 1
+The self-correction loop
+
+we don't do one and done here.
+
+NORMAL APPROACH
+you ask → model answers → done.
+
+LOOP APPROACH
+model runs a task → something grades the output against a rubric → model sees the feedback → model corrects itself → repeats until it gets it right
+
+Think of it like a student taking a practice test, seeing the wrong answers marked, fixing them, and taking it again — except this happens automatically, in minutes.
+
+Fable 5 is genuinely good at this. Earlier models were not.
+
+Goal-driven loops: two implementations
+
+| | Claude Code / goal | Claude Managed Agent Outcomes |
+|---|---|---|
+| Goal | Measurable end state | Rubric with gradable criteria |
+| The judge | Independent grader model (Haiku) | Independent grader sub-agent |
+| The loop | Not-met grade → revise | Iterate → clause in the condition |
+| Bound | Turn / time iterations | max_iterations |
+| Feedback | Grader model feedback | Grader sub-agent feedback |
+| Exit | Auto-cesses / interrupt | Rubric pass on met or /goal clear |

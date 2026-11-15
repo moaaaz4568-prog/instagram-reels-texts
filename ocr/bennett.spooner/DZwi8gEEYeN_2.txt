@@ -1,0 +1,15 @@
+3/7
+2. the deployment
+hostinger
+managed hosting. dead simple to ship on.
+$10/mo
+railway
+zero-config deploys, best DX.
+$5/mo
+hetzner vps
+total control, cheapest raw compute.
+$5/mo
+domain
+do you even saaS if you don't have one?
+$1-14/yr
+@bennettX.ai

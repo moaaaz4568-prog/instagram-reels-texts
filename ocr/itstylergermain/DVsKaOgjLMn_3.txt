@@ -1,0 +1,6 @@
+Google Releases a CLI for Workspace
+@googleworkspace/cli
+The dynamic gws CLI for all of Google Workspace.
+Google shipped an open-source CLI for Workspace, which is one tool that gives you access to Gmail, Calendar, Drive, Sheets, and more, built for both humans and AI agents. Structured JSON output means any agent, including Claude Code, can plug straight in.
+@itsTylerGermain
+save for later

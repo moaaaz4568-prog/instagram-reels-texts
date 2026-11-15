@@ -1,0 +1,12 @@
+AI Terminology
+Key AI Terms Explained
+AI - The science of making machines think, learn, and act like humans.
+ML - Teaches machines to learn from data.
+NM - Brain-inspired systems that spot patterns.
+DL - Multi-layered learning for complex tasks.
+Transformers - Model that understand the context in data.
+Gen AI - AI that creates, not just analyzes.
+GPT - A language model that generates text.
+LLM - AI trained on massive amount of text.
+GPT5 - The newest, smartest GPT version.
+ChatGPT - Your everyday AI assistant for ideas and writing.

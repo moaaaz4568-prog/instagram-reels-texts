@@ -1,0 +1,19 @@
+Claude Code v2.1.37
+Claude Pro
+C:\Users\
+Select model
+Switch between Claude models. Applies to this session and
+Code sessions. For other/previous model names, specify with
+1. Default (recommended)
+2. Sonnet
+3. Haiku
+High effort (default)
+Use /fast to turn on Fast mode (Opus 4
+16.
+Enter to confirm
+Esc to exit
+@divyanshisharma
+CLAUDE + OPENCLAW
+REPLACES A $120K
+MARKETING AGENCY
+SWIPE FOR MORE

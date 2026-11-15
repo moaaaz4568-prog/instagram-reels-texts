@@ -1,0 +1,6 @@
+Step #6
+VAPI
+Assistants
+YT receptionist
+Call Transcript
+Add your System prompt and click call assistant

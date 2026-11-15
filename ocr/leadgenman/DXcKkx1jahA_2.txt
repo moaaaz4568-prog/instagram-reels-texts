@@ -1,0 +1,8 @@
+GPT
+ChatGPT | Claude | Gemini | DeepSeek
+
+This is the layer you already use every day. A **trained model** that takes your **prompt** and *turns it into a response*.
+
+On its own, it has **no memory**, **no tools**, **no way to take action**. It just **predicts** and **generates**, one word at a time.
+
+It stands for **Generative Pre-trained Transformer**, the *tech* that started the whole **AI** boom.

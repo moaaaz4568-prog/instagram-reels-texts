@@ -1,0 +1,59 @@
+2. BUILD THE APP
+FIRST:
+OPEN VS CODE
+1
+Install VS Code
+Download and install
+Visual Studio Code.
+Visual Studio Code
+Code editing. Redefined.
+Download for Windows
+Claude Code
+Code editing. Redefined.
+Anthropic 125K 4.9
+Install
+2
+Install the
+Claude Code
+extension
+Search for "Claude Code"
+in the Extensions tab
+and install it.
+Claude Code
+Supercharge your coding
+with Claude AI
+4.9
+Install
+3
+Create a new folder
+→ WhatsApp Agent
+EXPLORER
+FOLDERS
+New Folder
+WhatsApp Agent
+4
+Open that folder
+in VS Code
+File Edit Selection View Go Run Terminal Help
+Open Folder...
+Open Recent
+WhatsApp Agent
+~/Documents/WhatsApp Agent
+5
+Open Claude Code
+Click the Claude icon
+in the sidebar.
+CLAUDE CODE
+Welcome to Claude Code
+Your AI coding partner
+Start a new session
+Now tell Claude:
+"Build a WhatsApp AI sales agent
+with a customer conversation dashboard."
+Claude creates the app structure for you.
+Don't write the code yourself. Let Claude do it.
+Claude:
+WhatsApp AI sales agent
+customer conversation dashboard."
+app structure for you.
+yourself. Let Claude do it.

@@ -1,0 +1,37 @@
+STEP 1:
+DUMP IT ALL IN.
+
+Collect everything Claude keeps forgetting:
+- Your stack + conventions
+- Commands, ports, gotchas
+- Do's and don'ts
+- How you like things done
+
+rules.md
+stack.md
+ports.md
+s.txt
+gotchas.md
+style.md
+db.md
+api.md
+todo.md
+tests.md
+md
+deploy.sh
+env.md
+routes.md
+hooks.md
+agents.md
+skills.md
+theme.md
+lint.md
+auth.md
+cache.md
+cron.md
+flags.md
+build.md
+seo.md
+icons.md
+
+Dump it all into one CLAUDE.md.

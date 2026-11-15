@@ -1,0 +1,13 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Stop "Model-Hopping" (And
+Dodging Rate Limits)
+• Free API credits + model switching = broken context
+The Trap
+Free tiers = fast rate limits + instant bans
+The Problem
+Model switching breaks task context
+The Fix
+Use one stable paid Brain + one Worker
+The Hack
+Enable automatic fallback models

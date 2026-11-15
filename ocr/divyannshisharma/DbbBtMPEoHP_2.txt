@@ -1,0 +1,21 @@
+Plugin 1 –
+Slack Plugin
+(MCP)
+
+Bridges team chat
+and focused work.
+
+Cursor
+Chat History About
+
+Today
+You are a senior AI automation engineer and full-stack architect....
+Cursor
+👋 Welcome to Cursor in Slack, @divyanshi. Tag @Cursor in this app or any public channel to start an agent run....
+Cursor
+Hello from Cursor's Cloud Agents!...
+Cursor
+
+Bridges the gap between team chat and my editor. Cursor pulls direct context from channel threads, mentions, and assigned tasks without me leaving the app.
+
+It reads real activity signals to prepare my workspace proactively.

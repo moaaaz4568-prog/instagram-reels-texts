@@ -1,0 +1,41 @@
+Use Case 3:
+your logged-in
+accounts.
+
+Chat
+Cowork
+Code
+Generic coding session
+Preview
+
+New session
+Search
+Scheduled
+Dispatch
+Customize
+
+All projects
+Scheduled
+Skool wins engagement Daily
+AI news roundup Daily
+Notification responses Custom
+Youtube comment replies Daily
+
+Today
+Generic coding session
+Yesterday
+Update Skool wins response prompts
+
+Nate
+Max plan
+
+Bash cd /Users/nateh/OneDrive/Desktop/Scheduled Automations/ && python scripts/post_comment.py --url "https://www.skool.com/ai-automation-society-123456/post/123456789" --comment "This is an automated comment from my Skool automation!" --api-key "sk-..."
+
+4m 59s • 4.9k tokens
+
+Can it run Skool while you're logged in? Yes — reuse your session or hand off after a manual login. First runs were messy (double-likes, a crash). After feedback with zero input, and once even dropped a birthday comment nobody asked for.
+
+Reply...
+Ask permissions
+
+C:\Users\...\Desktop\Scheduled Automations

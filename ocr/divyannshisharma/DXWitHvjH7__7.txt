@@ -1,0 +1,17 @@
+PART 7
+RAG 🔍
+Search, Data & RAG 🔍
+41. GPT Researcher: Autonomous research agent that produces compiled reports. Give it a topic, get back a thorough analysis with sources.
+🔗 https://github.com/assafelovic/gpt-researcher
+42. Firecrawl: Turn any website into LLM-ready data. Web scraping designed specifically for AI pipelines.
+🔗 https://github.com/mendableai/firecrawl
+43. Vanna AI: Natural language to SQL. Ask questions in English, get database queries back. For anyone who needs data from databases without writing SQL.
+🔗 https://github.com/vanna-ai/vanna
+44. Instructor: Get structured JSON outputs from any LLM using Pydantic models. Works with OpenAI, Anthropic, Google, and 15+ providers. What production AI engineers actually use.
+🔗 https://python.useinstructor.com
+45. Chroma: Open-source vector database. The simplest way to add semantic search and long-term memory to your AI applications.
+🔗 https://github.com/chroma-core/chroma
+46. dlt: LLM-native data pipelines from 5,000+ sources. Get data from anywhere into your AI workflow.
+🔗 https://github.com/dlt-hub/dlt
+47. ExtractThinker: ORM for document intelligence. Extract structured data from any document type.
+🔗 https://github.com/enoch3712/ExtractThinker

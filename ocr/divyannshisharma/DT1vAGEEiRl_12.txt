@@ -1,0 +1,3 @@
+Step #12
+The agent reads errors & fixes itself.
+You're no longer the debugger.

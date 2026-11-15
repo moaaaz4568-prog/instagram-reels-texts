@@ -1,0 +1,17 @@
+Step 02.
+GIVE IT One Role (job)
+Tell Claude exactly what you want.
+“Check my new leads and write a personal follow-up for each one.”
+Example.
+Keep it simple.
+Claude
+Chat
+Cowork
+Projects
+Artifacts
+Customize
+Claude
+Good afternoon, Usamaa
+Check my new leads and write a personal follow-up for each one.
+Claude 4
+Research

@@ -1,0 +1,33 @@
+Setup is
+a non-event.
+
+File Edit Selection ...
+playwright-homepage.png - Browser Automation Demo - Visual Studio Code
+playwright-homepage.png
+screenshots
+playwright-homepage.png
+package-lock.json
+package.json
+
+hey Claude Code! I want to use Playwright...
+> cd C:/Users/matej/OneDrive/Desktop/Bro
+> npx playwright@latest install
+Out: Title page: Fast and reliable end-to-end
+Screenshots saved to: C:\Users\matej\One
+
+Everything is working. Here's what was set up:
+* Playwright installed with Chromium,
+Firefox, and WebKit browsers.
+* Demo script at demo.js — launches
+Chromium, visits playwright.dev, prints
+the page title, and saves a full-page screenshot
+* Screenshot saved to
+screenshots/playwright-homepage.png
+You're all set to start automating. You can modify
+demo.js or create new scripts — just
+ctrl + esc to focus or unfocus Claude
+> Bypass permiss... settings/local...
+
+Told it to figure out install + build a plan. It installed Playwright,
+opened a real browser, hit a live site, saved a screenshot.
+First try, no errors.

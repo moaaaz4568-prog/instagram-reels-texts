@@ -1,0 +1,38 @@
+THE ULTIMATE
+TOP 100
+CLAUDE CODE
+TIPS
+// Practical.
+// Actionable.
+// Built for real
+// builders.
+skill.md
+name: social-media-manager
+description: >
+  Create viral content, analyze performance,
+  and manage social media growth.
+arguments:
+  platform:
+    allowed-tools: Read, Write, Edit,
+    Execution, Notification
+  # Skills
+  10 Content Creation
+  11 Post Scheduling
+  12 Competitor Analysis
+  13 Trend Research
+  14 Growth Hacking
+  15 Performance Tracking
+Save Hours
+Every Week
+Real-World
+Use Cases
+Battle-Tested
+Workflows
+Level Up
+Your Builds
+Signal tips to think better,
+ship faster, and unlock the full power of
+Claude Code.
+STAFF
+CONTENT
+CALENDAR

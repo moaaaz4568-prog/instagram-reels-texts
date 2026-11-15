@@ -1,0 +1,24 @@
+STEP 3
+Add the
+Claude Skill.
+Add granola-meeting-os
+inside Claude Skills.
+granola-meeting-os
+Added by You
+Last updated May 27, 2026
+Trigger Slash command + auto
+Description
+Builds an interactive visual dashboard from a Granola meeting — pulls the transcript, classifies the meeting type (brainstorm, planning, sales call, 1:1, retro, customer interview, decision, kickoff, status), and renders a tailored dashboard. Brainstorms become idea boards, planning sessions become timelines, sales calls become visual one-pagers, you can see board decisions, action items, open questions, interfaces decisions, action items, open questions, and the quotes that actually mattered. Use this skill whenever the user references a Granola meeting and want it visualized, recapped, dashboarded, or one-paged — including casual phrasing like "why", "recap my last call", "what happened in my Granola today", "recap the standup", or "build a board from my brainstorm". Reach for it even when the user doesn't say "dashboard" — if there's a Granola meeting and they want it rendered visually, this is the skill.
+Granola Meeting OS
+Turn a Granola meeting into a visual dashboard — one polished enough to send to someone who missed it and have them walk away knowing what happened.
+The skill has three jobs:
+1. Get the right meeting out of Granola
+2. Figure out what kind of meeting it was
+3. Render a dashboard shaped around that kind
+Step 1 and 2 are easy, Step 3 is where the work is — the dashboard needs to be distinctive, scannable, honest, and shareable.
+Default to most recent unless the user specifies otherwise.
+• Default: "my last meeting" | "the call I just had" | Granola_list_meetings, sorted desc, take the first
+Workflow
+Step 1 — Pick the meeting
+Inside Claude Skills, add the skill called granola-meeting-os
+This skill is the brain. It reads your transcript, figures out what kind of meeting it was, and picks the right dashboard layout automatically.

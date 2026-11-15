@@ -1,0 +1,11 @@
+Tool 4
+Claude Code
+In a nutshell:
+AI coding assistant that lives in your terminal. Write, debug, and ship code without leaving the command line.
+I use it for:
+When building custom scripts, fixing bugs, or shipping features fast. My go-to over copy-pasting from ChatGPT.
+Works with:
+GitHub
+Vercel
+Docker
+Supabase

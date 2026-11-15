@@ -1,0 +1,7 @@
+3. Find Marketplaces → Create Partnership Angles
+Claude
+WORKFLOW:
+1 Prospeo Find Marketplaces
+2 Filter: Marketplace Filter for Marketplace
+3 Export List Export Companies
+4 Claude “Suggest partnership opportunities and co-marketing angles for these marketplace companies.”

@@ -1,0 +1,38 @@
+14. Context
+
+Pack your codebase into one AI-readable file
+• 20.9k+ stars
+• XML, Markdown, plain text output
+• essential for large-repo contexting
+Repo: https://github.com/yamadashy/repomix
+
+Interactive knowledge graph from codebases
+• explore, search, ask questions
+• works with Claude Code, Codex, Cursor
+• great for onboarding
+Repo: https://github.com/safishamsi/graphify
+
+Systematic project context priming
+• by elizaOS
+• scenario-specific priming commands
+• CLAUDE.md enhancement
+Repo: https://github.com/elizaOS/context-prime
+
+Multi-agent research with parallel context
+• 72+ stars
+• deep-dive research workflows
+• knowledge gathering
+• agent-based
+Repo: https://github.com/iamcatdev/claude-code-heavy
+
+context-preserving ledger system
+• hooks maintain ledger state
+• handoffs between agents
+• MCP without pollution
+Repo: https://github.com/continuous-claude/continuous-claude-v2
+
+Divyanshi sharma
+
+Category 7/10
+
+Category 7/10

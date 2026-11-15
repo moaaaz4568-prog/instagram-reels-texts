@@ -1,0 +1,55 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+THE LIST GOES ON:
+
+and run A/B tests
+Install event tracking and attribution
+Build "vs" and alternative pages
+Plan what content to create
+Polish and tighten existing copy
+Write copy - Apply behavioral psychology to marketing
+Build new user onboarding
+Optimize forms for more conversions
+Build free tools that attract users
+Plan a product launch
+Brainstorm marketing tactics
+Improve new user onboarding
+Optimize landing pages for conversions
+Manage Google, Meta, LinkedIn ads
+Convert free users to paid
+Optimize popups and modals
+Design and test pricing
+Define your positioning and audience
+Build SEO pages at scale
+Build referral and invite systems
+Add structured data for search
+Find and fix SEO issues
+Optimize the signup funnel
+Create and schedule social posts
+
+1. ab-test-setup – Set up and run A/B tests
+2. analytics-tracking – Install event tracking and attribution
+3. competitor-alternatives – Build "vs" and alternative pages
+4. content-strategy – Plan what content to create
+5. copy-editing – Polish and tighten existing copy
+6. copywriting – Write copy – Apply behavioral psychology to marketing
+7. email-sequence – Build automated email flows
+8. form-cro – Optimize forms for more conversions
+9. free-tool-strategy – Build free tools that attract users
+10. launch-strategy – Plan a product launch
+11. marketing-ideas – Brainstorm marketing tactics
+12. marketing-psychology – Apply behavioral psychology to marketing
+13. onboarding-cro – Improve new user onboarding
+14. page-cro – Optimize landing pages for conversions
+15. paid-ads – Manage Google, Meta, LinkedIn ads
+16. paywall-upgrade-cro – Convert free users to paid
+17. popup-cro – Optimize popups and modals
+18. pricing-strategy – Design and test pricing
+19. product-marketing-content – Define your positioning and audience
+20. programmatic-seo – Build SEO pages at scale
+21. referral-program – Build referral and invite systems
+22. schema-markup – Add structured data for search
+23. seo-audit – Find and fix SEO issues
+24. signup-flow-cro – Optimize the signup funnel
+25. social-content – Create and schedule social posts

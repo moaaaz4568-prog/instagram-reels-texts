@@ -1,0 +1,46 @@
+Step #5
+INPUT
+Back to canvas
+Switch
+Settings
+EXECUTE STEP
+OUTPUT
+Schema
+Table
+JSON
+Photo
+Text (1 item)
+update_id 148301976
+message
+message_id 1178
+from
+id 8056821155
+is_bot false
+first_name Nate
+last_name Herkelman
+language_code en
+chat
+id 8056821155
+first_name Nate
+last_name Herkelman
+type private
+date 1755198616
+text my JBL VIBE video ad on Tiktok with the caption "music to my ears"
+Variables and context
+Logs
+FIO 360Hz 3ms
+Rename Output
+Exists
+Fixed
+Expression
+Output Name
+Photo
+{{ $.message.photo }}
+Exists
+Output Name
+Text
+{{ $.message.text }}
+Exists
+Smart routing handles both photos & text messages automatically
+Alt Gr
+Ctrl

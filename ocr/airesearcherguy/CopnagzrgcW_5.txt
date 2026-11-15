@@ -1,0 +1,13 @@
+Pulling variables:
+Search items
+Collapse all
+Topic Rotator 2 - Set variable
+Topic Rotator A l...
+Prompt
+The prompt to generate completions for.
+Max Tokens
+2000
+The maximum number of tokens to generate in the completion.
+Defaults to 16.
+Temperature
+BUT, sometimes that requires running the scenario for the previous module first...so the data is there to pull.

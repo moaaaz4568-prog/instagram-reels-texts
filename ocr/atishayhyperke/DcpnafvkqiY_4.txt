@@ -1,0 +1,19 @@
+3. Treat deliverability
+like infrastructure.
+
+Track reply rate, bounces, domain health
+and backup capacity every week.
+
+REPLY RATE
+18.6% ↑ 2.1pp
+
+BOUNCES
+1.3% ↓ 0.4pp
+
+DOMAIN HEALTH
+GOOD
+SPF • DKIM • DMARC
+
+BACKUP CAPACITY
+74%
+HEADROOM

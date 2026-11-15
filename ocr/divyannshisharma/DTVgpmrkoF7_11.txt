@@ -1,0 +1,14 @@
+Step #11
+Filter
+Schema Table JSON
+Parameters Settings
+Conditions
+Add condition
+Convert types where required
+Options
+No properties
+Add option
+Smart filtering prevents duplicate applications
+ASDF
+ZXCV
+BNM

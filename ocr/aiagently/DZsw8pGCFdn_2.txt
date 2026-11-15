@@ -1,0 +1,15 @@
+2. Click Skills
+This opens your personal skill workspace inside Claude.
+Customize
+Skills
+Connectors
+AI Specialists
+Customize Claude
+Skills, connectors, and plugins shape how Claude works with you.
+Connect your apps
+Let Claude read and write to the tools you already use.
+Create new skills
+Teach Claude your processes, team norms, and expertise.
+Browse plugins
+Find pre-built knowledge for your field.
+Claude → Customize → Skills

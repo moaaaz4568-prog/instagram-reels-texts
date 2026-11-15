@@ -1,0 +1,34 @@
+Step 12: Math
+
+Here’s the full breakdown. I tracked these over 2 weeks and averaged:
+
+Workflow
+Before
+After
+Saved/week
+
+Research
+2 hrs 15 min 1 hr 45 min
+Content Research
+4 hrs 1.5 hrs 2 hrs 30 min
+Github Repo Analysis
+1.5 hrs 20 min 1 hr 10 min
+Data analysis
+2 hrs 20 min 1 hr 40 min
+Competitor analysis
+1 hr 15 min 45 min
+Code review
+2 hr 15 min 1 45 min
+Content repurposing
+2 hrs 20 min 1 hr 40 min
+Email
+30 min 5 min 25 min
+Morning briefing
+45 min 5 min 40 min
+Weekly review
+1 hr 30 min 30 min
+
+TOTAL
+~13 hrs/week
+
+Swipe →

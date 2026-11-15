@@ -1,0 +1,13 @@
+Slide 3 –
+Tool 1: Paperless-ngx
+03 / 10
+What it does:
+Every receipt, invoice, contact, and tax document
+gets scanned, read, and sorted automatically.
+What it replaces:
+Adobe Scan + Evernote — $15 a month
+You never lose a document again.
+Everything is searchable.
+Everything is tagged. It just works.
+github.com/paperless-ngx
+github.com/paperless-ngx/paperless-ngx

@@ -1,0 +1,12 @@
+N
+TS
+S
+AI
+G
+What It Takes to Run a Real Production App
+LAYER 1 - THE BUILD
+LAYER 2 - THE SPINE
+LAYER 3 - KEEPING IT ALIVE
+LAYER 4 - TALKING TO USERS
+LAYER 5 - GROWTH
+First, learn the full tech stack: framework, AI, database, payments, hosting, deploys...

@@ -1,0 +1,10 @@
+Step #5
+Workspace settings
+Workspace Name
+Diyanshi's workspace
+Workspace ID
+a4f21213-9d57-4ae0-97ab-b03d3d05e2a
+API Key
+Generate
+View API documentation
+Go to workspace settings and copy your Orgo API key

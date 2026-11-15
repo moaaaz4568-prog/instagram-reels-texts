@@ -1,0 +1,5 @@
+Canvas Overview
+The visual canvas lets you:
+Drag nodes → Connect logic → Build flows
+Real multi-step agent workflows
+No prompts-only

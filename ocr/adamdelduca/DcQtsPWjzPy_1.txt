@@ -1,0 +1,8 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Step 1: Analysis
+
+Give Claude the channel and:
+
+"Analyze this channel. Pull the title patterns, the thumbnail style, the video length, and the upload cadence. Read the transcripts and identify what structure the videos follow. Then tell me what I would need to build this channel"

@@ -1,0 +1,14 @@
+Step 5
+claude-code-setup -- Manthan Patel -- zsh
+~/penanywhere
+> claude
+> add a /pricing route with three tiers
+and a Stripe checkout button
+reading CLAUDE.md + settings.json
+/pricing/page.tsx
+editing app/
+running npm run build
+done · 1 route, 2 files, build passing
+Test it – ask it to explain your own
+code. Feel the difference when it
+already knows your rules.

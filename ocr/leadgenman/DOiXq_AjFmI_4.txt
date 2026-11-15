@@ -1,0 +1,8 @@
+IF
+Splits the workflow into different branches based on conditions.
+Use cases:
+• Filter records: Separate "active" clients from "inactive" ones to send them different emails.
+• Error validation: If an API returns an error, send an alert; if not, continue the process.
+If
+true
+false

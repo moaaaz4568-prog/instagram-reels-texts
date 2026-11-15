@@ -1,0 +1,15 @@
+Claude Skills
+@aiagently
+02
+Writing
+TURN AI SLOP
+CONTENT INTO HUMANIZER
+blader/humanizer/claude-code-skills-pack
+skills/humanize-skill.md
+Turn stiff, robotic AI text into smooth,
+human-like writing in seconds. Make every
+sentence feel natural, engaging, and real
+like it was written by you.
+• Detects & removes AI writing patterns automatically
+• Rewrites text while keeping original meaning & tone
+• Adds natural human-like voice

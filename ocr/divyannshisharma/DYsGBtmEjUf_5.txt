@@ -1,0 +1,22 @@
+05
+Ask Claude to ask you questions first
+This is one of the most powerful techniques almost nobody uses.
+Before Claude starts any complex task, tell it to gather information from you first.
+• When Claude asks you questions before starting
+• The output is dramatically better because it’s built on the right foundation.
+Use this before any important task:
+Before you start, ask me the 5 most important questions that would help you do this well.
+After I answer, then begin.
+Or for a specific task:
+I need you to help me write a cold email to a potential client.
+Before you write anything, ask me what you need to know to make this genuinely good, not generic.
+Without this, Claude makes assumptions & you spend time correcting things that could have been right the first time.
+Divyanshi sharma
+05/18
+QUESTION FIRST, BETTER RESULTS.
+1
+2
+3
+4
+5
+GOOD ANSWERS START WITH GOOD QUESTIONS

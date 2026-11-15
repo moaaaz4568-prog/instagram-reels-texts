@@ -1,0 +1,16 @@
+7. Campaign state and memory.
+Track what was tested, approved, launched and learned.
+Tested
+Ideas and variants are tested.
+Approved
+Winning concepts are approved.
+Launched
+Campaign goes live.
+Learned
+Results are captured and analyzed.
+MEMORY
+Retains what worked, what didn't, and why—so we get smarter with every campaign.
+• Concept insights
+• Audience reactions
+• Performance data
+• Lessons & next steps

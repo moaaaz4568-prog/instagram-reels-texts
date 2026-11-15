@@ -1,0 +1,52 @@
+2. ENTERPRISE BRAIN
+
+Enterprise Brain
+Powered by Cluster.ai
+
+Ask
+Knowledge Sources
+Insights
+Saved Answers
+Team
+Settings
+
+Recent Queries View all
+Q3 revenue by client 2 hours ago
+Acme Corp contract details 4 hours ago
+Pending invoices this month 1 day ago
+Top vendor spend 2 days ago
+Active projects in healthcare 2 days ago
+
+Try asking
+Show me last quarter's revenue by client
+What is the status of Acme Corp's contract?
+Find all open invoices for this month
+View more
+
+Connected Data Sources
+Your enterprise knowledge, all in one place.
+CRM Connected
+Contracts, Deals, Accounts
+Email Connected
+Contracts, Documents, Reports
+Custom Sources Connected
+Agreements, Renewals
+Vendor Data, Pricing
+Other internal systems
+
+Quick Actions
+Upload a document
+Add files to your knowledge base
+Connect a new source
+Integrate data from your tools
+Create a saved answer
+Keep important insights
+Invite your team
+Share Estimates, Briefs
+Share Enterprise Brain
+Share with Enterprise Brain
+
+• A unified AI intelligence layer connected to the company's internal business data and systems.
+• Employees can ask questions in natural language and instantly find information across contracts, customers, billing, vendors, and documents.
+• Turns scattered enterprise knowledge into an accessible source of business intelligence.
+•

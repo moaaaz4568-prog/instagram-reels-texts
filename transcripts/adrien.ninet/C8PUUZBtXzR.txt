@@ -1,0 +1,1 @@
+Web design hack to use Photoshop in Figma. This Figma plugin allows you to manipulate and enhance images.

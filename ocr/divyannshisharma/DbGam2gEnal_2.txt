@@ -1,0 +1,34 @@
+SLIDE 3
+The fix is
+a pipeline.
+4 specialist agents that hand off
+to each other automatically.
+One command kicks the whole thing off.
+You wake up to a finished, reviewed,
+tested feature.
+No babysitting. No copy-pasting
+between agents. No manual
+work.
+/ship-feature
+1. PLAN
+Understands the
+request and
+creates a plan.
+2. CODE
+Writes clean,
+working code.
+3. TEST
+Tests everything
+thoroughly.
+4. REVIEW
+Reviews, polishes,
+and approves.
+Feature
+delivered
+No
+babysitting.
+No
+copy-pasting
+between agents.
+No
+manual work.

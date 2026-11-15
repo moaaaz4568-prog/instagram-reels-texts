@@ -1,0 +1,3 @@
+4
+Troubleshoot Fast
+If replies <1%, don't tweak → rebuild setup & leads.

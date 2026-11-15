@@ -1,0 +1,10 @@
+Step 6: Monitor and kill
+
+Every night at 7:50 PM, the system checks every active campaign and kills the ones that hit any of these:
+
+► Cost-per-lead too high
+► Bounce rate above 5%
+► Zero replies after 5,000 sends
+► Out of leads → uploads the next 5,000
+
+Bad campaigns die before they damage sender reputation. Winners get more leads.

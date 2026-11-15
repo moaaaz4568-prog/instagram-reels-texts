@@ -1,0 +1,13 @@
+01 02 03 04 05 06 07 08 09 10
+The Missing Management Layer
+Business Goals & Values
+Define your MRR goals, write the business plan, and set the quality bar.
+The Paperclip Orchestrator
+30,000 GitHub stars in 3 weeks. An open-source orchestrator to hire your team, track budgets, and approve work.
+Paperclip doesn’t replace your favorite models—it organizes them into an accountable corporate structure.
+Bring Your Own Bots
+Claude Code
+Codex
+OpenCode (via OpenRouter)
+PAPERCLIP
+An open-source orchestration layer for AI agents. You define your business goals. You hire a team of agents. You approve their work. They execute. Think of it as the layer between “I have an idea” and “AI is building it right now.” It’s not fully automatic like Pulsion, where you hand over your credit card and hope. It’s not as manual as managing individual coding tabs—you operate at the level of goals, org charts, and task tracking. It gives you visibility and control without slowing down execution.

@@ -1,0 +1,28 @@
+Skill Set 14
+Brand Guideline
+DESCRIPTION
+Transforms your brand identity into a reusable, AI-powered system by encoding your tone, style, colors, and messaging into a single skill. Once defined, it automatically applies consistent branding across all outputs—designs, content, and communication—ensuring a cohesive and recognizable brand presence at scale.
+MORE INFO
+https://lnkd.in/gmwFac-H
+anthropics / skills Public
+Code Issues 163 Pull requests 404
+Files
+main
+.go to file
+.claude-plugin
+skills
+algorithmic-art
+brand-guidelines
+LICENSE.txt
+SKILL.md
+canvas-design
+claude-api
+doc-coauthoring
+docx
+frontend-design
+Name
+ant-
+skills / s
+...
+LICENSE
+SKIL

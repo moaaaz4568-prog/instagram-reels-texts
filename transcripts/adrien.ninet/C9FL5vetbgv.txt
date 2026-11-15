@@ -1,0 +1,1 @@
+Design hack to convert your screenshot to Figma. Open the Kodia AI Figma plugin. Select your screenshot and let the plugin work. Edit your design and convert it to SVG.

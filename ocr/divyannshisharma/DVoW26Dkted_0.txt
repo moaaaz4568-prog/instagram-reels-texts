@@ -1,0 +1,15 @@
+Ultimate Claude
+Starter Pack Playbook
+(Guides, Tools, Resources + more)
+* Welcome to Claude Code!
+while(curious) {
+    question_everything(
+        dig_deeper
+        connect_dots
+    )
+    if (stuck) {
+        keep_thinking
+    }
+}
+* Simmering...
+>

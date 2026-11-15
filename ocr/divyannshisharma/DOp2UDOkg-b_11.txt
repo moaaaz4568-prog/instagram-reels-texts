@@ -1,0 +1,10 @@
+Launch Checklist
+
+Go-Live Checklist: AI Agent
+Twilio WA/SMS webhooks live
+Honor STOP/UNSUBSCRIBE per channel
+n8n flows A/B/C deployed
+Omnisend contacts + segments + events
+Automations wired to events
+UTM & tracking tested
+Handoff alerts to Slack/Telegram

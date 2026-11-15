@@ -1,0 +1,15 @@
+DON'T STOP
+AT FINDING PEOPLE.
+
+• When you find the right people, don't stop there.
+• your emails too.
+• Ask Claude to write you
+• Or your LinkedIn messages.
+• It does both.
+
+Get campaigns details
+
+1. get_campaign_details → pulls campaign config: name, emoji, timezone, attached sequence, sender setup, labels. Use case: understand how the campaign is wired before judging performance.
+2. get_campaigns_reports → pulls 65+ lifetime metrics in one shot - leads total, in sequence, sent, opened, clicked, replied, interested, bounced, unsubscribed + sender breakdown. Use case: instant scorecard.
+3. get_campaign_sequences → pulls every step's actual content: subject lines, body copy, channels (email/LinkedIn/SMS/WhatsApp), waiting times, conditions, A/B variants. Use case: audit the copy and the sequence logic. - returned 404 here (sequence not accessible / draft state)
+4. get_campaigns_stats → pulls the time-filterable detailed funnel: leadMetrics (launched → reached → opened → interacted → answered → interested), messageMetrics with per-channel breakdown (email vs LinkedIn vs SMS vs WhatsApp), and per-step performance. Use case: deep performance analysis, period-over-period.

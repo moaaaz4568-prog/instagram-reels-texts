@@ -1,0 +1,18 @@
+Step #6
+Create a 5-second countdown from 5 to 1 with neon glow effect
+Architected frame-based countdown animation with neon glow effects.
+import React from 'react';
+import { useAnimationFrame, useVideoFrame, interpolate, Easing, AbsoluteFill } from ...
+// COMPOSITION CONFIGS (Required for auto-discovery)
+export const compositionConfig = {
+  id: 'NeonCountdown',
+  durationInSeconds: 5,
+  fps: 30,
+  width: 1920,
+  height: 1080,
+};
+Reply...
+Claude is AI and can make mistakes. Please double-check responses.
+Opus 4.5
+FRO 360Hz
+Give Claude a prompt and it creates production-ready TSX code

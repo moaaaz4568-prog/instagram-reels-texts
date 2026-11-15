@@ -1,0 +1,51 @@
+Finder File Edit View Go Window Help
+9:41 AM
+entire codebase in
+Pull Re
+GitHub CLI
+Search
+FAVORITES
+CLI Stack
+Claude Code
+GitHub CLI
+Supabase CLI
+Stripe CLI
+PostHog CLI
+Vercel CLI
+GitHub CLI
+PRs, issues, and repos from the terminal
+# Create a PR without opening browser
+$ gh pr create --fill
+- Created PR #242: Fix auth middleware
+# Check CI status
+$ gh run view
+- All checks passed (3m 12s)
+# Clone and start working
+$ gh repo clone myapp & cd myapp
+- Cloned to ~/myapp
+Create PRs
+Watch CI
+Review code
+Manage repos
+Track issues
+Search code
+$ brew install gh
+Merge Complete
+PR #242 merged
+View
+gent
+Did you know?
+gh pr create --fill auto-generates
+from commits.
+!
+the entire codebase in
+Pull Re
+Merge Complete
+PR #242 merged
+View
+gent
+Did you know?
+gh pr create --fill auto-generates
+from commits.
+!
+المزيج الرقمي

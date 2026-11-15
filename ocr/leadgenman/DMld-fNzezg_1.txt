@@ -1,0 +1,3 @@
+- Let's begin by setting up how the workflow is triggered.
+- You can either start it manually or use
+- Just paste this simple form post URL and tell it how many comments you want to extract.

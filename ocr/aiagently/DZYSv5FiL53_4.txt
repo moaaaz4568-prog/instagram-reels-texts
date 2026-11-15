@@ -1,0 +1,9 @@
+Step 2: Your Claude Prompt
+and type this
+Open Claude
+* Hello, night owl
+"Create 30 days of FIFA 2026 content hooks and Reel scripts for a page targeting [your audience]. Include match predictions, player hot takes, and post-match reactions."
++
+Finance 5 High
+Claude hands you your entire content calendar in one prompt.
+Your competitor is still staring at a blank page.

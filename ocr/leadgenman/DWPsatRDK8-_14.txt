@@ -1,0 +1,10 @@
+Shift
+Enter
+Multiline Input
+Write prompts across multiple lines without sending.
+Build complex instructions before hitting Enter.
+$ claude
+You: First, read the auth module.
+Then check for SQL injection.
+Finally, write a test for it.
+(Enter to send all 3 lines)

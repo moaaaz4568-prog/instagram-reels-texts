@@ -1,0 +1,11 @@
+09 / 11
+09
+LightRAG
+Local Search
+Local RAG that finds answers across 10k docs in seconds.
+Lightweight local retrieval-augmented generation engine. Index your codebase, docs or notes and query with natural language.
+Local & Private
+10k+ Docs
+Natural Query
+github.com/HKUDS/LightRAG
+09

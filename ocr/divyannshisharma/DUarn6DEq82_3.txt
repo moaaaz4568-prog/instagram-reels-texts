@@ -1,0 +1,35 @@
+#2
+Best Practices & Pro Tips
+How top builders actually use Claude (and why it works)
+
+Boris' Claude Code Set Up
+How the creator of Claude Code optimizes his setup (cheat sheet).
+
+Boris' Claude Code tips V2
+• use 5 subagents to explore the codebase
+• I'll launch 5 explore agents... (ctrl+o to expand)
+• Running 5 Explore agents... (ctrl+o to expand)
+• Explore entry points and startup · 10
+
+100 Combined Claude Tips
+50 Claude Code Tips: https://x.com/n/aideg_
+/status/1701470607248564332?sx=320
+
+Claude Code Best Tips
+https://www.builder.io/blog/claude-code
+
+Best Practices for Claude Code
+https://code.claude.com/docs/en/best-practices
+
+Claude Tips: experience on Reddit
+Use a manorepo - modular routing - popular stack - code is sufficiently modular - popularized
+
+My best
+CODE
+tips
+
+Tips and patterns for getting the most out of Claude Code, from configuring your environment to scaling across parallel sessions.
+
+Claude Code is an agentic coding assistant that can help you write, refactor, and debug code. Unlike a chatbot that answers questions and provides information, Claude Code can directly interact with your codebase, making changes and autonomously working through problems while you watch.
+
+This changes how you work. Instead of writing code yourself and asking Claude to review it, you...

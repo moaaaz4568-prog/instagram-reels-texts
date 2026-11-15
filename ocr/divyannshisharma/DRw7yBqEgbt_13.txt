@@ -1,0 +1,13 @@
+Complete Workflow
+Google Sheets
+1. New or Updated Spreadsheet Row(s)
+Delay by Zapier
+2. Delay For
+Action
+3. Select the event for your Zap to run
+1 Google Sheets
+(New row added)
+2 Delay by Zapier
+(60 minutes)
+3 Gmail (Send
+Email)

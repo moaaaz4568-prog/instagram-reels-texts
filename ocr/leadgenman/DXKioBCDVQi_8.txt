@@ -1,0 +1,33 @@
+Claude-Code.exe -- Setup Complete
+File Edit View Help
+Complete
+Setup Complete
+Here is what just got installed in your .claude folder:
+.claude\
+your new superpower
+CLAUDE.md-- project rules Claude reads first
+settings.json-- hooks, permissions, env
+-- runs after every Edit
+hooks\
+lint-fix.sh
+skills\
+commit\SKILL.md
+seo\SKILL.md
+-man\plugin.json
+plugins\
+agents\
+planner.md
+reviewer.md
+researcher.md
+commands\
+ship.md -- slash command /ship
+Finish
+Start
+Claude -- Com
+plete
+4:28 PM
+ced:
+sor
+ilot
+able
+v0

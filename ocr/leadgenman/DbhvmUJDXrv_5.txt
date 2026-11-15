@@ -1,0 +1,29 @@
+Layer 3:
+Keeping It Alive
+
+Sentry:
+• Catches every error
+in production.
+• Full stack trace
+pings my phone.
+
+Better Stack:
+• Pings the site
+every single
+minute.
+• Alerts me before
+users
+notice.
+• Funnels and session
+replays.
+
+PostHog:
+• Shows where users
+drop off.
+
+Upstash Redis:
+• Caching and rate
+limiting.
+• Sits on every
+public API
+endpoint.

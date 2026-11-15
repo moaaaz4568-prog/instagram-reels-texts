@@ -1,0 +1,35 @@
+Finder File Edit View Go Window Help
+9:41 AM
+PostHog CLI
+Analytics and feature flags from the terminal
+FAVORITES
+CLI Stack
+Claude Code
+GitHub CLI
+Supabase CLI
+Stripe CLI
+PostHog CLI
+Vercel CLI
+Search
+# Authenticate with your project
+$ posthog login
+- Logged in to project: my-saas
+# Run SQL queries on your data
+$ posthog query "SELECT count(*) FROM events"
+- 847,293 events
+# Upload source maps for error tracking
+$ posthog sourcemap upload ./dist
+- Uploaded 12 chunks successfully
+SQL queries
+Experiments
+Source maps
+Error tracking
+Endpoints
+Feature flags
+Feature flags
+$ npm i -g @posthog/cli
+Did you know?
+posthog sourcemap upload for
+posthog sourcemap upload for
+errors.
+$

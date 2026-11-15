@@ -1,0 +1,28 @@
+SKILL
+emil-design-eng
+
+DESCRIPTION
+Emil Kowalski spent years at Vercel and Linear, and this bottles his rules for motion. Anything you see a hundred times a day gets no animation at all, ease in is banned for feeling sluggish, and the weak default curves get swapped for stronger ones.
+
+Emil Kowalski
+Design Engineer
+
+AI Skills for Design Engineers
+For designers and engineers to help them build better user interfaces
+
+npx skills add emilkowalski/skill
+
+This skill file is just the tip of the iceberg. If you want to learn more engineering, user interfaces, animations, and get a more thorough
+
+my course:
+
+→ Check out animations.dev
+
+Available Skills
+emil-design-eng - The main skill that consists of mostly animation design advice.
+animate - Builds an animation from scratch while choosing the duration, properties, and so on.
+review-animations - Review your animations in a strict way, bas
+
+MORE INFO
+https://github.com/emil
+kowalski/skills

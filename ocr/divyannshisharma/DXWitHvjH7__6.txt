@@ -1,0 +1,12 @@
+PART 6
+Workflow & Automation ⚡
+36. n8n: Open-source workflow automation with 400+ integrations and AI nodes. Self-hostable. The best visual builder for AI-powered automations.
+https://github.com/n8n-io/n8n
+37. Langflow: Visual drag-and-drop for agent pipelines. 140,000+ stars. Build complex agent workflows without writing code.
+https://github.com/langflow-ai/langflow
+38. Huggin: Self-hosted web agents for monitoring, alerts, and data collection. Privacy-first automation that runs on your server.
+https://github.com/huggin/huggin
+39. DSPy: Program (not prompt) foundation models. Stanford research turned framework. For when prompting is not deterministic enough.
+https://github.com/stanfordnlp/dspy
+40. Temporal: Durable workflow engine for long-running processes. When your automation needs to survive crashes, retries, and timeouts.
+https://github.com/temporalio/temporal

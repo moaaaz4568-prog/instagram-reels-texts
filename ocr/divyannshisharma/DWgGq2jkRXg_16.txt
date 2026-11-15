@@ -1,0 +1,13 @@
+Claude for Excel and PowerPoint
+Works as add-ins inside both apps.
+→ What it does:
+• Analyze data in Excel (formulas, pivots, trends)
+• Instantly turn it into a PowerPoint deck — Claude remembers everything
+• No copy-paste, no re-explaining
+→ Big time-saver:
+Raw data → insights → board-ready presentation in minutes (~20 min report eq)
+→ Ecosystem:
+• Works inside add-ins with “Skills”
+• Connects via LLM gateways on platforms like Amazon Bedrock, Google Cloud Vertex AI, and Microsoft Foundry
+@divyanshsharma
+save for later

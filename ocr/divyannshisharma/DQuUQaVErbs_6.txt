@@ -1,0 +1,20 @@
+4→
+Generate Gamma Presentation
+• Zapier App: Gamma
+• Action: Generate
+
+Configuration:
+Text Mode: generate
+Card Split: auto
+Image: AI-generated
+Format: presentation
+Text: medium
+{{Step 3 Response}}
+Number of Cards: 10
+Text Language: en
+(external + workspace)
+
+System Instructions:
+Converts outline into visual slides
+Generates AI images for each slide
+Applies professional design

@@ -1,0 +1,9 @@
+TOO NARROW HOOK:
+Script
+Hook (Broad)
+"If you run a design at a startup, using Claude's new design features will help you instantly design new landing pages."
+Explanation (Moderate)
+Takeaway (Narrow)
+Super on target,
+but anyone who isn't a Head of Design
+at a startup will instantly scroll away.

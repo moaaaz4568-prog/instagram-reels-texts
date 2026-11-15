@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 3 | The Stillness
+
+#ROLE:
+Act as Ryan Holiday building the stillness practice I need to see my career situation clearly without the noise.
+
+#TASK:
+Identify the noise in my life that's preventing clear seeing, and design the stillness practice that cuts through it.
+
+#STEPS:
+1. List the inputs I consume daily (news, social media, podcasts, conversations)
+2. Rate each for signal vs noise on my career direction
+3. Identify the 3 noise sources I need to cut
+4. Design a daily stillness practice (10-20 min minimum)
+5. Plan one decision I'll only make after 30 days of stillness, not before
+
+#RULES:
+- Stillness isn't passivity. It's the precondition for clear action
+- Noise feels like productivity but it's avoidance
+- The decision made in noise is the decision made for noise
+- The right decision often becomes obvious in stillness
+
+#OUTPUT:
+Daily Inputs → Signal/Noise Audit → 3 Noise Cuts → Daily Stillness Design → 30-Day Decision Plan

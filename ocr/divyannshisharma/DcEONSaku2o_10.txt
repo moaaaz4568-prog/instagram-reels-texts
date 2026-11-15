@@ -1,0 +1,90 @@
+TOP TOOL #10
+#10: Hyperframes
+HeyGen’s tool for turning simple code into videos
+10
+Write basic web code
+(HTML).
+The tool turns it into
+an actual MP4 video.
+No complicated
+frameworks.
+No React.
+Nothing fancy.
+Same code →
+same video
+every single time.
+Write HTML.
+That’s it.
+Turns Into
+MP4 Video
+No Frameworks.
+No React.
+Same Code.
+Same Video.
+Built for
+Agents.
+Code in.
+Video out.
+Every time.
+About
+hyperframes
+Write HTML. Render video.
+Built for agents.
+chore: release v0.6.70
+feat(captions): write AGENTS.md alongside CLAUDE.md + skill...
+chore: release v0.6.70
+chore: release v0.6.70
+feat(docus): add changelog-generate workflow (#1154)
+feat: add Claude Code plugin manifests (#842)
+chore: release v0.6.70
+docs(labml): add migration guide + non-Lambda Dockerfile...
+chore: release v0.6.70
+1338 Commits
+92 Branches 266 Tags
+f5db1c2 - 42 minutes ago
+framework typescript video
+ai frames animation mcp
+rendering gsp puppeteer
+Readme
+Apache-2.0 license
+Code of conduct
+Contributing
+Security policy
+Activity
+Custom properties
+23.7k stars
+69 watching
+2.2k forks
+13 hours ago
+Report repository
+github.com/hygen-com/hyperframes
+Hyperframes
+Turn simple HTML into MP4 videos.
+No frameworks. No
+React. Just code.
+Write
+HTML
+MP4
+Output
+No React
+Needed
+Same Code
+Same Video
+Built for
+Agents
+games
+Turn simple HTML into MP4 videos.
+React. Just code.
+No React
+Needed
+Same Code
+Same Video
+Built for
+Agents
+/simple code.
+Real video.
+Every single time.
+github.com/hygen-com/hyperframes
+Simple code.
+Real video.
+Every single time.

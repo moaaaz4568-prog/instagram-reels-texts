@@ -1,0 +1,4 @@
+HOW TO ENABLE THIS:
+Set up the Sandcastles.ai plugin inside Claude.
+Sandcastles is the bridge that pipes all the
+social media data directly into claude.

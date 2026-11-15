@@ -1,0 +1,14 @@
+Step 4
+Paste instructions
+telling Claude to reference the N8N
+repo before building – this stops it
+from inventing nodes that don’t exist.
+Set project instructions
+Provide Claude with relevant instructions and information for chats within n8n workflow. This will work alongside your profile instructions and the selected style in a chat.
+// Grounding rules
+Always reference the
+"n8n-io/n8n" Github repo
+before building anything.
+Never invent nodes or features that don't exist. I
+Cancel
+Save instructions

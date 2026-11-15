@@ -1,0 +1,59 @@
+Step 11 →
+Build Your Agent Stack
+
+Key functions: social, blogging, email, leads, community, partnerships.
+
+Use Zapier, Relay.app, or n8n for workflows.
+
+Build a portable stack with human oversight.
+
+Social Media
+
+Content Research
+Content Creation
+Tracking & Follow-up
+
+LinkedIn Profile Analyzer
+LinkedIn Lead Searcher
+LinkedIn Content Researcher
+LinkedIn Content Repurposer
+YouTube Description Generator
+YouTube Video Script Generator
+X (Twitter) Thread Generator
+X (Twitter) Content Calendar
+Email Newsletter Writer
+Email Subject Line Generator
+Blog Post Outline Generator
+Blog Post Writer
+Instagram Caption Generator
+Instagram Hashtag Generator
+Facebook Ad Copy Generator
+TikTok Script Generator
+
+LinkedIn Post Writer
+LinkedIn Engagement Tracker
+LinkedIn Comment Generator
+YouTube Video Title Generator
+YouTube Tags Generator
+X (Twitter) Post Writer
+X (Twitter) Engagement Tracker
+Email Campaign Writer
+Email A/B Test Copy Generator
+Blog Post Editor
+Blog SEO Optimizer
+Instagram Post Scheduler
+Instagram Story Idea Generator
+Facebook Group Engagement Tracker
+TikTok Trend Tracker
+
+LinkedIn Message Tracker
+LinkedIn Connection Request Tracker
+YouTube Comment Reply Tracker
+X (Twitter) Mention Tracker
+Email Open Rate Tracker
+Blog Traffic Tracker
+Instagram Follower Growth Tracker
+Facebook Post Performance Tracker
+TikTok View Tracker
+
+Blacklist Monitor

@@ -1,0 +1,16 @@
+Commands
+vs Skills vs Agents
+
+Three extension types.
+
+---description:
+Review current branch diff before merging.## Changes to Review!`git diff --name-only main...HEAD`## Detailed Diff!`git diff main...HEAD`Review for code quality, security vulnerabilities, missing tests, and performance concerns. Give specific, actionable feedback per file.
+
+---name:
+security-review
+description: Comprehensive security audit. Use when reviewing code for vulnerabilities, before deployments, or when the user mentions security.
+allowed-tools: Read, Grep, Glob
+
+@divyanshisharma
+
+save for later

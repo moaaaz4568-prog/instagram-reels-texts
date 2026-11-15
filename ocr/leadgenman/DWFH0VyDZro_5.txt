@@ -1,0 +1,13 @@
+TOOLS.md
+Claude Code doesn't work alone.
+It connects to your tools and
+extends with skills.
+Ask:
+- MCP lets Claude talk to Gmail, Drive, Slack,
+databases
+- Connectors plug into Jira, Notion, Salesforce,
+more
+- Skills give Claude reusable workflows for any
+task
+Artifacts let Claude create files, apps, and visuals
+inside the chat.

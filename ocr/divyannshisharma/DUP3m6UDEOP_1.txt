@@ -1,0 +1,12 @@
+Step #1
+github.com/openai/whisper
+GitHub Discord Docs Cloud
+Search models
+Sign in
+Download Ollama
+macOS
+Linux
+Windows
+Download for Windows
+Requires Windows 10 or later
+Install Ollama to run AI locally on your system

@@ -1,0 +1,22 @@
+01
+Write a Full PRD
+
+PRD for the feature below.
+
+Write a complete PRD for the feature below.
+
+Feature: [DESCRIBE FEATURE]
+Users: [WHO USES IT]
+Stack: [YOUR STACK]
+
+Include:
+
+* Problem statement + success metrics
+* User stories w/ acceptance criteria
+* Scope: what ships in v1, what does not
+* Data model changes
+* Edge cases + failure states
+* Open questions for me to answer
+
+Keep it under 2 pages. Be specific, no filler.
+Save it as docs/prd-[feature].md so every later prompt can reference it.

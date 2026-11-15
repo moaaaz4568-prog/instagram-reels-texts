@@ -1,0 +1,19 @@
+Suprava Sabat
+A quick summary:
+• Claude Code builds it.
+• Browser agent runs it.
+• Slack tells you who replied.
+• n8n handles the rest.
+Save this. And comment “workflow” if you need a
+detailed workflow on this.
+Follow for more content on lead gen.
+CLAUDE
+CODE
+Claude Code
+builds it.
+Browser agent
+runs it.
+Slack tells you who
+replied.
+n8n handles
+the rest.

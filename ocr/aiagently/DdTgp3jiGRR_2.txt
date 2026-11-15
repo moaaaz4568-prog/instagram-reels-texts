@@ -1,0 +1,47 @@
+Step 2
+Open Claude chat
+and add this Prompt
+Claude
++ New chat
+Projects
+Artifacts
+Customize
+Remixed artifact
+Creating super-marketing...
+AI agents for local business
+Building a Gumroad landin...
+Automating content creat...
+LinkedIn summary for AI a...
+Setting up the n8n MCP cc...
+Finding short available do...
+I want to build a Claude Skill that automates YOUR WORKFLOW.
+Here is my current manual process:
+STEP 1
+STEP 2
+STEP 3
+STEP 4
+STEP 5
+Turn this into a SKILL that will tell Claude that can execute.
+Include:
+- Clear role definition
+- Primary objectives
+- Step-by-step workflow instructions
+- Decision rules for different scenarios
+- Required inputs
+- Handling of missing information
+- Output format and structure
+- Quality standards and validation checks
+- Common mistakes to avoid
+- Edge cases handling
+- Success criteria
+- Example input and output
+Skill should:
+- Follow my workflow exactly
+- Prevent my decision-making process
+- Use best practices where applicable
+- Produce consistent, repeatable results
+- Be optimized for real-world use
+Output only the final SKILL.md file in markdown format.
+/ for skills
+Type / for skills
+Opus 4.8

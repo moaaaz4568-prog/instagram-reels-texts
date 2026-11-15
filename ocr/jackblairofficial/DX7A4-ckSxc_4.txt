@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+4. THE DAILY SCORE
+
+What it does: builds a simple daily activity tracker that compounds into a booked calendar in 7 days.
+
+"Design me a daily 30-minute pipeline activity plan for the next 7 days. Include: number of dead leads to reactivate per day, number of follow-ups to send per day, number of existing prospects by Friday I have at least 5 booked discovery calls assuming standard reply rates. Format as a 7-day checklist."

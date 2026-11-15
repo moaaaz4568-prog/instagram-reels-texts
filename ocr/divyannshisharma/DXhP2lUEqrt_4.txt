@@ -1,0 +1,8 @@
+AUTOMATION
+• Workflows in code: https://lnkd.in
+• Monitor agents: https://t.co/XVF3EbYs4w
+• Self-hosted infra: lnkd.in/eDKBPrPU
+ARTICLES
+• Best CLI tools: lnkd.in/e9gfhHhm
+• Top MCP servers: lnkd.in/ePCzNw5w
+• Parallel agents: lnkd.in/eAJCnpbD

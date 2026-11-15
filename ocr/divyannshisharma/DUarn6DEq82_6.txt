@@ -1,0 +1,62 @@
+#5
+Common Pitfalls
+(and how to fix)
+
+Wrong
+This internal framework is built to deliver top-tier AI responses, and if you use Claude regularly.
+
+Context Dumping
+Claude can forget large context dumps; always drip-feed context step by step.
+
+Repetitive Prompting
+a) Create a Claude Skill, b) Create a Notion database
+
+Claude No Rules
+You have to actively set constraints on Claude.
+
+Claude Deep Thinking
+Enabling deep thinking is key to solving complex tasks.
+
+Task Description
+It's different from the broader task context (step one) as it's the immediate action item.
+
+Before context editing
+After context editing
+
+Format: Type
+Bullet Points
+Numbered List
+Table
+Paragraph Form
+
+When to Use
+Lists, key takeaways, action items
+Sequential steps or ranked priorities
+Comparing data, information hierarchy
+Explanations, narratives, detailed analysis
+
+Example Prompt
+"Present findings as bullet points"
+"Give me 5 recommendations in order of importance"
+"Format results in a 3-column table"
+"Write in paragraph format, no lists"
+
+Example #1: Analysis Task
+Prompt: "Analyze our Q1 sales performance."
+Prefilled response: "Based on the Q1 sales data, here are the key findings: ..."
+Overall Performance: **
+
+Top Performing Areas: **
+
+Without step-by-step:
+"Analyze our marketing campaign performance and tell me what to do next."
+
+With step-by-step prompting:
+"I need you to analyze our marketing campaign performance. Think through this step by step."
+
+Actionable language - Use clear action verbs "analyze", "write", "summarize", "create", "compare", "explain"
+Priority focus - If there are multiple steps, indicate what's most important
+Scope definition - Specify constraints like length, format, audience, or deadline
+Examples:
+- Vague: "Tell me about my data"
+- Specific: "Analyze the table below and identify the top 3 performing categories"

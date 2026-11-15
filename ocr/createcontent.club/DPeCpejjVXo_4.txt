@@ -1,0 +1,7 @@
+AUDIO
+Cheap
+Using your phone or camera's microphone, causing a lot of echo in the video.
+Expensive
+Using a wireless mic connected to your camera/phone, minimizing echo, making your words easier to understand.
+DJI
+DJI

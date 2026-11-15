@@ -1,0 +1,22 @@
+This used to
+end campaigns.
+
+A year ago, Google dropped SURBL as a spam
+signal and said its own protections work better.
+
+Domains we saw get blacklisted last year are
+landing in Gmail again, and there was no
+announcement, just the campaign numbers.
+
+GOOGLE - STATEMENT ON GMAIL SPAM FILTERING - 15 SEPTEMBER 2025
+
+After a review, Google said its own protections were the most effective way
+to protect users. As a result:
+
+“We stopped incorporating
+SURBL as a signal.”
+
+José Castañeda, Google spokesperson
+
+Reported by the New York Post, 15 September 2025.
+Google repeated the line in its letter to the FTC, published by The Daily Wire.

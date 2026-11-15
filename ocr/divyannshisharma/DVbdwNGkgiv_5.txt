@@ -1,0 +1,14 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Agent team workflows included:
+
+1. feature-dev (7 agents)
+plaintext
+plan → setup → implement → verify → test → PR → review
+Drop a feature request. Get a fully tested PR – planned, built, verified, and auto-retried.
+
+2. security-audit (7 agents)
+plaintext
+scan → prioritize → setup → fix → verify → test → PR
+Point it at a repo. Get a security-fix PR – vulnerabilities ranked, patched and re-audited.

@@ -1,0 +1,11 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Team:
+
+Meet the Team
+
+New Tab
+Prompt
+
+Please build me a team structure screen. It should show u, plus all the subagents you regularly spin up to do work. If you haven't thought about which sub agents you spin up, please create them, organize them by roles and responsibilities. This should be developers, writers, and designers as examples.

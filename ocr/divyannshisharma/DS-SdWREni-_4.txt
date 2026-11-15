@@ -1,0 +1,4 @@
+Bonus Tools
+Agent Builder comes with:
+Widget Builder (add UI elements inside chat)
+Playground (customize chat widget look & feel)

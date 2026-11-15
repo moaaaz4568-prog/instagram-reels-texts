@@ -1,0 +1,22 @@
+Claude Code
+Channels: Message
+The Setup:
+# Install the Telegram plugin/plugin
+claude-plugins-official
+# Configure with your bot token (from BotFather)
+/telegram configure <YOUR_BOT_TOKEN>
+# Start with channels flag
+claude --channels
+plugin: telegram@claude-plugins-official
+{
+  "hooks": {
+    "PreCommit": {
+      "command": "git diff --cached --name-only
+      | grep -E '\.(env|pem|key)$' && echo 'BLOCKED:
+      secret file' && exit 1 ||
+      exit 0"
+    }
+  }
+}
+@divyanshisharma
+save for later

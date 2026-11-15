@@ -1,0 +1,7 @@
+9.
+github.com/localsend/loca...
+AirDrop for every device. Send files between
+Windows, Mac, Linux, Android, and iOS over your
+own network with no account, no cloud, no size
+limit. Apple locked their best version inside their
+walls. This one works on everything, free.

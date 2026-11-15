@@ -1,0 +1,15 @@
+Small Language Models
+
+Compact, efficient models optimized for speed and specific tasks.
+
+How it processes information:
+• Same transformer architecture as LLMs
+• Fewer parameters (typically under 10B)
+• Often distilled from larger models
+• Fine-tuned for narrow use cases
+
+Why it works:
+SLMs trade broad knowledge for efficiency, making them fast enough to run on-device or at scale.
+
+Think of it as:
+A specialist that knows one thing really well instead of knowing a little about everything.

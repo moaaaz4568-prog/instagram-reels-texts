@@ -1,0 +1,15 @@
+Step #2
+NotebookLM
+Upload sources
+Drag & drop or choose file to upload
+Supported file types: PDF, txt, Markdown, Audio (e.g. mp3), docx, html, bmp, gif, ico, jpg, png, webp, tif, tiff, heic, heif, jpeg, jpg, jpe
+Google Workspace
+Google Drive
+Link
+Website
+YouTube
+Paste text
+Copied text
+Source limit
+0 / 300
+NotebookLM lets you add sources from files, Google Drive, websites, or YouTube links

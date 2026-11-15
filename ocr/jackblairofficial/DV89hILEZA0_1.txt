@@ -1,0 +1,7 @@
+J. Belfort    Lv.wolf
+HP
+Sales Rep    Lv.4X
+HP
+A   "What's changing between now and then that makes it better?"
+B   "Is it the timing or is there something holding you back?"
+C   "The cost of waiting is higher than the cost of starting now."

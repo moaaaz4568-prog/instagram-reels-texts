@@ -1,0 +1,23 @@
+@A.ALIRAZA1
+06 / 07
+AUTOMATION & WORKFLOWS
+
+PROMPT 25 / 33
+Build a cron that runs every Monday at 9am. Pull last week's content, find my top post, and DM me to repurpose.
+
+PROMPT 26 / 33
+Set up a daily report combining my ad spend, revenue, and inbox count. I will connect the data sources. Send to Slack by 8am.
+
+PROMPT 27 / 33
+Watch a folder I will specify. When a new client contract arrives, auto-extract the key terms and add a list to Notion.
+
+PROMPT 28 / 33
+When a lead comments [WORD] on any post, auto-DM them the link, tag them in my CRM, and notify me on Slack within 60 seconds.
+
+PROMPT 29 / 33
+Here is my weekly workflow: [paste]. Find every manual step I repeat more than 3 times. Output a priority list of what to automate first.
+
+PROMPT 30 / 33
+Monitor my top 5 competitors on Instagram. When any post, send me the format, and 3 ways I could respond within 24 hours.
+
+SWIPE →

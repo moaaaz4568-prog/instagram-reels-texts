@@ -1,0 +1,3 @@
+Skill Creator
+Try this prompt
+Create a Skill Creator skill. It should research frameworks specific to the skill you are creating by searching Reddit, Blogs, and GitHub for real examples and best practices. Then build the skill using best practices with SKILL.md, /assets, and /scripts folders. Do research on Claude skill best practices before building.

@@ -1,0 +1,9 @@
+Egg Mishap
+Model: GPT-4
+AN
+I had 6 eggs. I broke 2, I fried 2, I ate 2.
+How many eggs do I have left?
+You started with 6 eggs. You broke 2,
+fried 2, and ate 2. All 6 eggs have been
+used in some way. Therefore, you have
+0 eggs left.

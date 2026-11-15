@@ -1,0 +1,27 @@
+Step #6
+Meta App Dashboard
+Dashboard
+Required Actions
+App Settings
+Basic
+Advanced
+App Roles
+Alerts
+App Review
+Products
+Webhooks
+WhatsApp
+Activity Log
+App ID
+App Secret
+Display Name
+Namespace
+App Domains
+Contact Email
+Privacy Policy URL
+Terms of Service URL
+Data Deletion Request URL
+Category
+Verifications
+Business Verification
+Get App ID and App Secret from Basic Setting

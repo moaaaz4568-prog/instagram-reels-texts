@@ -1,0 +1,8 @@
+AI Automation
+You define the steps.
+IF this,THEN that.
+Knows nothing else.
+AI Agents
+You define the goal.
+It figures out how,
+based on context.

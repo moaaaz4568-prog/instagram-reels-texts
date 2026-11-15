@@ -1,0 +1,34 @@
+3. AUTOMATE WITH N8N
+
+Step A
+Trigger scraper
+(POST)
+
+Insert Appify API key + scraper
+ID into a POST node
+
+Step B
+Wait & fetch
+(WAIT + GET)
+
+Add 1-2 min delay
+
+Use GET node to pull scraped
+results using dataset ID
+
+Step C
+Send to CRM
+
+Push scraped leads into Notion,
+Airtable, or Google Sheets
+
+Includes: Name, Title, Company,
+URLs (sometimes email)
+
+Fresh, verified, ICP-matching leads —
+delivered to you every day.
+
+Suprava Sabat
+Co-founder, Acquisition X
+
+6/15

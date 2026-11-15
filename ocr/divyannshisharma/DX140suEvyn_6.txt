@@ -1,0 +1,25 @@
+06
+TOOLS & CONTEXT
+
+TEXT
+
+feed the model what it actually needs.
+
+41 markitdown 38K convert any file to markdown. pdf, word, excel, powerpoint, images, audio. clean structured text for your llm. by microsoft. github.com/microsoft/markitdown
+
+3K turn your entire codebase into one prompt. respects .gitignore, recursive, filterable. by simon wille. github.com/simonw/files-to-prompt
+
+42 files-to-prompt 30K web scraping for ai. extracts clean markdown from any url, handles js-heavy sites, structured data extraction. github.com/unclecode/crawl4ai
+
+43 crawl4ai 25K turn any website into llm-ready data. full site crawling, structured extraction, clean markdown output. github.com/mendableai/firecrawl
+
+44 firecrawl 31K give claude a real browser. navigate, click, screenshot, read dynamic content. analyze any site in 30 seconds. github.com/microsoft/playwright-mcp
+
+45 playwright-mcp 11K standard for connecting claude to external tools. official anthropic mcp. plug in any api, database, service. github.com/anthropics/model-context-protocol
+
+46 m-c-p 27K ready-made mcp servers. github, slack, notion, databases, browsers, finance. every integration in one catalog. github.com/punkpeye/awesome-mcp-servers
+
+47 mcp-servers
+
+Divyanshi sharma
+06/10

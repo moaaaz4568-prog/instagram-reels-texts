@@ -1,0 +1,35 @@
+Slide 11 — Tool 9: Stirling-PDF
+Platform Solutions Resources Open Source Enterprise Pricing
+Stirling-Tools / Stirling-PDF Public
+Code Issues 322 Pull requests 104 Discussions Actions Projects Security and analysis Insights
+main 395 Branches 179 Tags
+Go to file
+Frooodle Change default language to en-US 946d032 11 hours ago 5.235
+.devcontainer update development configs, formatting tools, and C... 10 months ago
+.github Change default language to en-US and add US language #6... 11 hours ago
+.tasfiles Show chat progress and other UIX improvements #6576 2 days ago
+.vscode More (vscode): replace deprecated Copilot extension with Co... 4 months ago
+app Change default language to en-US and add US language #6... 11 hours ago
+devGuide Change default language to en-US and add US language #6... 11 hours ago
+devTools build agent #6520 17 hours ago
+docker Portal #6391 1 week ago
+docs Change default language to en-US and add US language #6... 11 hours ago
+engine Create agent #6520 17 hours ago
+stirling.c...
+About
+#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+java docker pdf pdf-converter pdf-merger pdf-split pdf-compress pdf-extract pdf-encrypt pdf-decrypt pdf-unencrypt pdf-watermark pdf-tag pdf-untag pdf-rename pdf-rotate pdf-crop pdf-scale pdf-flatten pdf-unflatten pdf-sign pdf-verify pdf-info pdf-meta pdf-images pdf-text pdf-forms pdf-tables pdf-ocr pdf-a pdf-u3d pdf-javascript pdf-annotations pdf-layers pdf-security pdf-permissions pdf-conversion pdf-generation pdf-reporting pdf-automation pdf-api pdf-cli pdf-server pdf-webhook pdf-integration pdf-plugin pdf-extension pdf-module pdf-packaging pdf-distribution pdf-installation pdf-configuration pdf-customization pdf-localization pdf-internationalization pdf-accessibility pdf-compliance pdf-standard pdf-best-practices pdf-tutorial pdf-guide pdf-documentation pdf-support pdf-help pdf-faq pdf-blog pdf-news pdf-update pdf-changelog pdf-roadmap pdf-timeline pdf-milestone pdf-release pdf-version pdf-history pdf-audit pdf-logging pdf-monitoring pdf-analytics pdf-reporting pdf-dashboard pdf-visualization pdf-insight pdf-intelligence pdf-automation pdf-artificial-intelligence pdf-machine-learning pdf-deep-learning pdf-neural-networks pdf-natural-language-processing pdf-computer-vision pdf-image-processing pdf-document-analysis pdf-document-understanding pdf-document-recognition pdf-document-classification pdf-document-extraction pdf-document-indexing pdf-document-search pdf-document-retrieval pdf-document-ranking pdf-document-summarization pdf-document-insights pdf-document-analytics pdf-document-mining pdf-document-exploration pdf-document-discovery pdf-document-discovery pdf-document-discovery
+Readme
+View license
+Contributing
+Security policy
+Activity
+Custom properties
+80.7k stars
+What it does:
+Every single PDF operation you'll ever need in one place. Merge, split, compress, sign, redact, and OCR — all free.
+What it replaces:
+Adobe Acrobat Pro — $20 a month
+Adobe charges $240 a year for this.
+Stirling-PDF does everything Adobe does for free.
+github.com/Stirling-Tools/Stirling-PDF

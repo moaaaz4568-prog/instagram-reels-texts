@@ -1,0 +1,11 @@
+@aashna_kumar
+6. REEL SCRIPT PROMPT
+Write me a 60-second Instagram Reel script that sells my digital product [product name] using storytelling.
+Structure:
+• Relatable everyday problem
+• My story or turning point
+• What changed / what I discovered
+• One real result or outcome
+• CTA to comment [keyword]
+Write it in a natural tone like how people actually speak.
+Also include short text-on-screen suggestions for each part.

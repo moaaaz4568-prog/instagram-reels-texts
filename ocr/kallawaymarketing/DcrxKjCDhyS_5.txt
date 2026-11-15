@@ -1,0 +1,17 @@
+STEP 4:
+ADD YOUR CTAS
+
+Use Native Embed CTAs. These are special CTAs
+that convert way higher than any other type.
+
+TRADITIONAL CTA
+
+Content      Content      CTA
+
+CONVERSION RATE: 15%
+
+NATIVE EMBED CTA
+
+Content      Native embed CTA      Content
+
+CONVERSION RATE: 56%

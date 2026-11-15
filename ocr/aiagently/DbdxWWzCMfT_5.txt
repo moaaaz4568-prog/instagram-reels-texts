@@ -1,0 +1,66 @@
+5. Give Claude The Keys
+To Build Automations.
+
+1
+Enable the n8n
+MCP
+Server and copy its URL.
+
+2
+Paste that URL into
+a new Claude Desktop
+Connector.
+
+3
+Add your n8n
+API Key.
+
+Without it, Claude can't
+save, update, test, or run it.
+
+RESULT
+Claude can
+now:
+
+✓ Generate the entire workflow
+from a single prompt.
+✓ Create, edit, and update
+workflows automatically.
+✓ Test every step before
+anything is sent.
+✓ Schedule your campaign
+at the exact date and time.
+
+MCP Server
+Enable MCP Server
+Allow Claude and other MCP clients to connect to n8n and build workflows.
+
+Enable MCP Server
+MCP Server URL
+Use this URL in Claude Desktop to connect to n8n.
+https://mcp-n8n.c1ou...
+Authentication
+API Key
+API Key
+MCP Server is running
+
+This URL gives Claude the ability to create,
+update, and manage workflows in n8n.
+
+Enable n8n
+MCP Server
+Copy MCP
+Server URL
+Add Connector
+in Claude
+Add n8n
+API Key
+Connection
+Active
+Claude Builds,
+Tests & Schedules
+Campaign
+Ready to Launch
+
+Follow us on Instagram
+@aiagentlady

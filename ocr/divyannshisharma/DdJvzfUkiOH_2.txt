@@ -1,0 +1,17 @@
+Engineering Agents
+Your engineering team, automated
+loops
+by Matt
+Generalized engineering outer loop. Sits above coding agents, uses psstack as reference (how, why, unloop), writes /goal-style prompts with testable proof, and runs gather → prompt → launch → review ...
+This AI bot was created by a third-party user, not by SpaceA.I. It may act on your behalf. By clicking "Add to Grok Bot", you accept the terms.
+Download for macOS
+Grok Bot didn't open. Install or open the app.
+Engineer Bot
+Boards work → launches agents → watches PRs.
+https://x.ai/bot/fY1xWvwCLzDDGVe3GwH78j
+Tech Demos
+Turns X bookmarks into working demos.
+https://x.ai/bot/zvkkoH MbclsUBWX8MRGPu
+Loops
+An outer loop for your coding agents.
+https://x.ai/bot/Ub3T7usX-c6yRQibQq83P

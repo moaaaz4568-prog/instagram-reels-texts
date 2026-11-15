@@ -1,0 +1,7 @@
+Guides:
+Links.com
+1. Google's Agent Whitepaper: https://lnkd.in/gFvCbSN
+2. Google's Agent Companion: https://lnkd.in/gfmCrgAH
+3. Building Effective Agents by Anthropic: https://lnkd.in/gRWKANS4
+4. Claude Code Best Agentic Coding practices: https://lnkd.in/gs99zyCf
+5. OpenAI's Practical Guide to Building Agents: https://lnkd.in/guRfXsFK

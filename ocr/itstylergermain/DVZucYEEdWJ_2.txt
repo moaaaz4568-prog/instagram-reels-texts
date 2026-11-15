@@ -1,0 +1,4 @@
+Cursor launches
+CLOUD AGENTS
+Cursor just launched AI agents that run on cloud VMs, not your laptop. They write code, run tests, and submit merge-ready PRs. A third of Cursor’s own PRs are now made by agents.
+@itsstylergermain

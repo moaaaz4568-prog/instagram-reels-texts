@@ -1,0 +1,9 @@
+What I Cover in My Training
+Foundations & Getting Started
+Email & Content Automation
+Web Automation & Scraping
+How to access the AI builder
+The exact prompt structure that works
+What the AI nails vs breaks
+How to fix errors live
+How to make it production-ready

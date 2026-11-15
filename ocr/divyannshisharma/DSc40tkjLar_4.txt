@@ -1,0 +1,38 @@
+Step #4
+Audio Settings
+Generate winning assets with talking actors,
+reactions and more.
+Kira
+Talking Actors
+Write script...
+Kira
+0:00
+0 / 1500
+Text to Speech
+1 Actor
+FHD 360Hz
+Voice-over
+Kira - Default
+1.10
+Speed
+Stability ①
+0.50
+Similarity ①
+0.75
+Style exaggeration ①
+0.00
+Fine-tune speed, stability, and voice
+similarity for natural speech
+Lock
+A
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl
+Enter
+Shift

@@ -1,0 +1,8 @@
+The CLAUDE.md Hierarchy
+There are four layers that merge
+1. Managed Policy (org-wide): IT deployed. Cannot be overridden. Organization-wide rules.
+2. ~/.claude/CLAUDE.md (global): Your personal preferences across all projects. Not version controlled.
+3. /CLAUDE.md (project root): Team instructions. Committed to git. Everyone who clones the repo gets these.
+4. CLAUDE.local.md (personal project context overrides): Your personal tweaks for this specific project. Automatically gitignored.
+@divyanshisharma
+save for later

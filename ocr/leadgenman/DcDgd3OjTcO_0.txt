@@ -1,0 +1,26 @@
+Claude Code v2.1.233
+Claude Max
+8 MCP servers need authentication
+Fable 5 is now a standard part of your Max plan
+You can use up to 50% of your weekly usage limit on Fable 5. If you hit your
+limit, you can continue on Fable 5 with usage credits. Fable 5 draws down usage
+faster than Opus 5.0. Run /model to select Fable to use it. Learn more: https:
+/support.claude.com/hc/en-us/articles/13254964-claude-fable-5-promotional-access
+/effort
+Set effort level to ultracode (this session only): xhigh + dynamic workflow
+orchestration
++ ultracode - xhigh effort + dynamic workflows for maximum thoroughness
+bypass permissions on (shift-tab to cycle) - + for agents
+Fri 10 Aug 2:00 PM
+16%
+Claude
+Claude Code
+Cowork
+OpenClaw
+Managed Agents
+How I set up
+Claude Code
+in 10 minutes
+Claude
+Terminal
+Cursor

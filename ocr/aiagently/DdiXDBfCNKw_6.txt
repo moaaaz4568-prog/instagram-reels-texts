@@ -1,0 +1,21 @@
+Step 6
+Give Claude Context
+Add your files and examples so Claude understands your brand, style, and goals.
+1 Add your files
+Upload the files that give Claude your context (brand, audience, offers, examples, etc.).
+brand_assets
+brand_voice.md
+audience.md
+content_pillars.md
+offers_cta.md
+content_examples.md
+graphics_brief.md
+Claude
+Here are my brand details, content pillars, and examples. Use this context to create content that matches my style and goals.
+brand_voice.md
+audience.md
+content_pillars.md
+offers_cta.md
+content_examples.md
+graphics_brief.md
+Message Claude

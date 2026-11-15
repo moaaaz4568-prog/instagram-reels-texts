@@ -1,0 +1,13 @@
+step 2 →
+Identify Job Titles
+Prompt:
+"Identify the job titles responsible for [outcome your offer provides] within [target industry]."
+You
+Identify the job titles responsible for generating leads, booking new client meetings and growing revenue within B2B SaaS companies.
+ChatGPT
+In B2B SaaS companies, the job titles responsible for generating leads, booking new client meetings, and growing revenue typically include:
+1. Chief Marketing Officer (CMO): Oversees all marketing activities, including lead generation strategies and campaigns.
+2. VP/Director of Marketing: Leads the marketing team in developing and executing lead generation initiatives.
+3. Head of Sales: Responsible for the overall sales strategy, including generating leads and booking client meetings.
+4. Sales Development Representative (SDR): Focuses on outbound prospecting, generating and qualifying leads, and scheduling meetings for the sales team.
+5. Business Development Representative (BDR): Similar to SDRs, responsible for prospecting and generating leads, often in collaboration with marketing.

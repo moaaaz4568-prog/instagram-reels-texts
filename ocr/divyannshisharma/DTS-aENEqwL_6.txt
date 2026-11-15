@@ -1,0 +1,14 @@
+Step #6
+Home
+Together AI
+Header Auth
+Connection
+Need help filling out these fields? Open docs
+Sharing
+Details
+Name
+Authorization
+Value
+Enterprise plan users can pull in credentials from external vaults. More info
+ACCOUNT
+Add Together AI for image generation

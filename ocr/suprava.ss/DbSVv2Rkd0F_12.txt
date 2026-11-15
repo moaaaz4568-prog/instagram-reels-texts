@@ -1,0 +1,17 @@
+finds customers for ecommerce builds 13 / 20
+GitHub
+public repository
+medusajs / medusa
+Public
+Fork Star 35.4k
+Used by your lead list
++ thousands
+TypeScript
+35.4k
+WHAT IT DOES
+flexible open commerce platform for custom stores.
+WHO TO MINE IT FOR
+brands building custom stores here have real revenue and real budgets.
+THE EXACT LINK
+github.com/medusajs/medusa/network/dependents
+• the github method

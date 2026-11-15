@@ -1,0 +1,6 @@
+Model Context Protocol
+MCP Builder
+Build your own MCP server from a prompt, so Claude can plug into any tool you want.
+Manthan Patel | @leadgenman
+github.com/anthropics/skills
+12 / 15

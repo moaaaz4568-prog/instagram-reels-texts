@@ -1,0 +1,14 @@
+SLIDE 8 / 10
+For
+Payments & Finance
+Handle money without leaving Claude:
+stripe
+— look up customers, check subscriptions,
+process refunds. Official server.
+Plaid
+— read bank balances and transactions
+QuickBooks
+— bookkeeping, invoicing, reconciliation
+Important rule for ALL payment servers: Start read-only.
+Never let Claude move real money unsupervised.
+Confirm every write manually. No exceptions.

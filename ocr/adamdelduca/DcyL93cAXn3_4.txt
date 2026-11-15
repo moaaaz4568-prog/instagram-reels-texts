@@ -1,0 +1,38 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Then, there was refinement
+
+Every upload, I pushed the transcript
+and retention graph back into Claude
+and had it rewrite my script prompt
+
+Videos started holding 40%+ retention
+
+Analyze this transcript and retention graph and give me an analysis and
+improvements for future scripts
+
+Retained memory
+Here's the breakdown:
+
+Retention Pattern:
+The curve is a textbook "graduated decline" - steep hook/drop in the first 30 seconds
+(100% -> 65%), then a long, steady bleed down to ~20-25% by 17:47, with no major cliffs after
+the intro. That's actually a healthy shape for a 17-minute video - no single moment is driving
+mass exodus, which means the problem isn't a specific scene, it's pacing/density compounding
+over the runtime.
+
+term
+ern
+
+Analyze this transcript and retention graph and give me an analysis and
+improvements for future scripts
+
+Here's the breakdown:
+
+Retention Pattern:
+The curve is a textbook "graduated decline" - steep hook/drop in the first 30 seconds
+(100% -> 65%), then a long, steady bleed down to ~20-25% by 17:47, with no major cliffs after
+the intro. That's actually a healthy shape for a 17-minute video - no single moment is driving
+mass exodus, which means the problem isn't a specific scene, it's pacing/density compounding
+over the runtime.

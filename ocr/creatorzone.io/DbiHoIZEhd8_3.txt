@@ -1,0 +1,10 @@
+Render at Maximum Depth
+TV Standard
+NTSC
+Use Maximum Render Quality
+Render Alpha Channel Only
+Time
+Interpolation:
+Frame Sampling
+Render at Maximum Depth : Check ✔
+Use Maximum Render Quality : Check ✔

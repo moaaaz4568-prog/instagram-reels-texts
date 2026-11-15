@@ -1,0 +1,24 @@
+Automation & Workflow
+
+81 MCP Server Setup Ask Claude Code to set up MCP connections with Gmail, Calendar, Clay, Smartlead, etc.
+82 n8n Workflow Builder Describe a process → Claude Code creates an n8n JSON workflow ready to import.
+83 Custom Skill Creator Describe what you need → Claude Code creates a reusable / skill you can trigger anytime.
+84 Cron Job Scheduler Describe recurring tasks → Claude Code generates cron jobs, bash scripts for automation.
+85 API Connector Give API doc URL → Claude Code creates a fetch/axios wrapper with auth, error handling.
+86 Webhook Router Describe trigger events → Claude Code creates a webhook handler for routing payloads.
+87 CSV to CRM Importer Upload CSV → Claude Code cleans and formats it for HubSpot, Salesforce, or Clay.
+88 Slack Bot Builder Describe a workflow → Claude Code builds a Slack bot for commands, data, and updates.
+89 Gmail Auto-Responder Describe rules → Claude Code creates Gmail filters and draft templates for automation.
+90 Zapier-to-Code Migration Describe your Zap → Claude Code rebuilds it as standalone script with no per-task pricing.
+91 Database Seeder Describe seed data → Claude Code generates realistic seed data for testing or demos.
+92 PDF Report Automator Describe report structure → Claude Code creates a script to pull data and generate PDFs.
+93 File Organizer Describe folder chaos → Claude Code creates a script to sort and organize files.
+94 Batch Image Processor Describe transformations → Claude Code creates a bulk processing script.
+95 Web Scraper Builder Give a URL + data points → Claude Code builds an ethical scraper with rate limits, export.
+96 Calendar Optimizer Connect Google Calendar → Claude Code analyzes your schedule, suggests time blocks.
+97 Invoice Generator Define billing info → Claude Code creates an invoice template with auto totals and taxes.
+98 Multi-Platform Publisher WordPress, Shopify, Reddit, and LinkedIn. Write once → Claude Code adapts content for W
+99 Airtable Automator Describe structure → Claude Code builds automation scripts for records and alerts.
+100 Full Workflow Orchestrator Describe your process → Claude Code maps and automates it end-to-end.
+
+By Divyanshi Sharma

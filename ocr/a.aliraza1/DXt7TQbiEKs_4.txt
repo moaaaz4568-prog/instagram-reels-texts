@@ -1,0 +1,16 @@
+@A.ALIRAZA1
+05 / 07
+* SALES
+PROMPT 19 / 33
+Here is my DM conversation with a warm lead: [paste]. Tell me how I lost momentum and write the messages to re-open it.
+PROMPT 20 / 33
+Write me a 5-message DM sequence for someone who watched my reel but never replied. Start soft. Build to the ask by message 4.
+PROMPT 21 / 33
+Here are my last 10 sales calls: [paste]. Find the objections I fumble most. Write rebuttals in my voice for each one.
+PROMPT 22 / 33
+Here is my offer: [paste]. Write a VSL script under 3 minutes. Hook, pain, solution, proof, CTA. No filler.
+PROMPT 23 / 33
+Take my case study: [paste]. Turn it into a story-format caption, a DM opener, and a 60-second reel script.
+PROMPT 24 / 33
+Here is my proposal template: [paste]. Rewrite it so it leads with the client outcome, not the service. Cut anything that sounds like a pitch.
+SWIPE →

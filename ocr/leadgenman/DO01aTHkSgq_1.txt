@@ -1,0 +1,12 @@
+Start Promptpecting
+(with MCP Server)
+Welcome, Manthan
+Find me 10 CTOs at AI startups in Boston
+Claude Sonnet 4
+Disable all tools
+personBulkLookup
+companyBulkLookup
+You connects your AI to 280M+ verified
+contacts & 60M+ companies with
+Lusha's MCP Server.
+Find & enrich leads through simple prompt.

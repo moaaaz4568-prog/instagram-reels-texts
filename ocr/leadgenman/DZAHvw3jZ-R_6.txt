@@ -1,0 +1,20 @@
+Command Prompt
+C:\repo> tree /F .claude
+aud
+├── CLAUDE.md
+├── agents\
+│   ├── code-reviewer.md
+│   └── debugger.md
+├── hooks\
+│   └── pre-commit.sh
+├── skills\
+│   └── settings.json
+C:\repo>
+
+SET IT
+UP
+FIRST.
+
+Set up your .claude folder structure
+before you start any project.
+Future-you inherits the CONTEXT.

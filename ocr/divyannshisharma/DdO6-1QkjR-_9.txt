@@ -1,0 +1,33 @@
+SLIDE 10
+Skill 8:
+File Search
+When you're working in
+a large codebase, finding
+things is half the battle.
+This skill gives Claude two
+powerful search tools:
+ripgrep
+lightning fast text
+search across
+every file
+grep
+fast text
+search across
+every file
+ast-grep
+searches by code
+structure, not
+just text
+Real use cases:
+Diving into an unfamiliar
+codebase for the
+first time
+Finding every place
+a function is used
+before you change it
+Searching for patterns
+across hundreds of
+files at once
+Significantly faster than Claude's default search.
+Saves hours on large projects.
+github.com/massgen/massgen

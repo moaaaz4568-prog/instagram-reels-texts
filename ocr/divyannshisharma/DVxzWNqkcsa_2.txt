@@ -1,0 +1,19 @@
+NMYT
+claude_code_skills_infographi...
+Problems Output Debug Console Terminal Port
+L (no content)
+/yt-search claude code skills
+Bash/python
+~/.claude/skills/yt-search/scripts/se...
+"claude code skills"
+L Running...
+Propagating... (thinking)
+New Chat
+cl...
+powe...
+Local
+Past Chou
+Cursor Tab
+NMYT 0 0 0
+Step 2: Pipeline
+Scrape YouTube, hit a RAG system, get analysis and deliverables.

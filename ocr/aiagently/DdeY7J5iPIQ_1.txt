@@ -1,0 +1,18 @@
+STEP 01
+Download this YouTube Skill
+https://github.com/bradautomates/claude-video
+GitHub
+bradautomates/claude-video
+Give Claude the ability to watch videos from YouTube and other platforms.
+2.8k stars
+400+ forks
+Public
+watch.skill
+1 Download
+watch.skill from GitHub.
+2 Go to Settings
+Capabilities → Skills
+3 Enable
+Code execution & file creation.
+4 Done
+You're ready to use /watch

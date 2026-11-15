@@ -1,0 +1,7 @@
+Part 1: Scraping LinkedIn Jobs
+- Enter any job search URL from LinkedIn
+- Apify extracts all job listings
+- Captures job title, company, location
+- Identifies the job poster's profile
+- Removes duplicate job listings
+- Runs on schedule or manually

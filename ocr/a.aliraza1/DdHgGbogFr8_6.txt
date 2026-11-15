@@ -1,0 +1,22 @@
+07 / 08
+THE SETUP
+The setup takes
+two minutes.
+1. Go to Claude. Hit Skills.
+2. Hit Add from GitHub.
+3. Paste the repo link.
+4. Done. Ask for a post. The right skill
+activates.
+1
+Claude
+Skills
+2
+Add from
+GitHub
+3
+Paste
+Link
+4
+Active
+After that it runs itself.
+@a.aliraza1

@@ -1,0 +1,14 @@
+Most people confuse the two.
+They're not even close.
+
+Vibe Coding
+Builds apps from prompts
+Lives in the browser
+Starts fresh every project
+Only writes code
+
+Claude Code
+Runs your entire workflow
+Lives on your machine
+Remembers across sessions
+Reads, writes, organizes files

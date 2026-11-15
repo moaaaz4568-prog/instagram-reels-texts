@@ -1,0 +1,4 @@
+/insights
+Analyzes your last 30 days of Claude Code sessions and generates an HTML report covering your usage patterns, friction points, workflow strengths, and personalized recommendations for skills and commands you should be using.
+@its Tylergermain
+save for later

@@ -1,0 +1,16 @@
+Step 2
+Google's Portable AI
+Think Gemini - but smaller, local, and
+runs entirely on your machine
+E4B
+-8 GB -9.6 GB 128K
+E2B
+-8 GB -9.6 GB 128K
+26B
+-18 GB -18 GB 256K
+31B
+-20 GB -20 GB 256K
+E4B
+-8 GB -9.6 GB 128K
+Divyanshsharma
+03/18

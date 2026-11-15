@@ -1,0 +1,8 @@
+HOW TO RUN WEB AGENTS IN N8N
+Automate the entire web with n8n and Airtop
+DECEMBER 11th
+12PM EST
+airtop
+Jordan Gray
+Manthan Patel
+n8n

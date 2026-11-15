@@ -1,0 +1,46 @@
+01
+Create a Project,
+not a chat
+
+Every time you open a new Claude chat,
+it starts with zero memory.
+It doesn't know your name, your work,
+your goals, or how you like to communicate.
+You spend the first few messages re-explaining
+yourself, or you don't, and Claude gives you
+something generic that doesn't fit how you
+actually work.
+
+Projects fix this.
+A Project is a persistent workspace where
+Claude keeps context across every
+conversation inside it.
+and every session that follows starts with
+Claude already knowing who you are.
+
+Go to Claude, click + New chat
+and create a new one. Name it something
+like "Work" or "Personal" depending on
+how you plan to use it. Everything that
+follows goes inside this Project.
+
+A Project = Context + Consistency + Clarity
+Do it once. Save hours every day.
+
+Divyanshi sharma
+
+Claude
++ New chat
+Chats
+Projects
+
+Projects in the sidebar,
+our projects
+Work
+Personal
+Study
+
+Consistency + Clarity
+every day.
+
+01/18

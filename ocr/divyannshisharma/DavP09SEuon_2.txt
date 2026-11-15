@@ -1,0 +1,22 @@
+3
+TIER 1: /loop
+The fastest way to
+schedule anything
+in Claude Code.
+Your prompt
+Gather context
+Take action
+Verify results
+Done
+agentic loop
+You: interrupt, steer,
+or add context
+⚡ Type inside any session:
+/loop 10m check the deployment status
+🕒 That's it. Claude checks it every 10 min,
+no setup.
+💬 Works in plain English too:
+→ every weeknain English too:
+→ every weekday at 7am, summarize overnight commits
+→ every hour, check for new support tickets
+→ at 6:30pm today, post a status update to Slack

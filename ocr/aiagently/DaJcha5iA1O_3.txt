@@ -1,0 +1,6 @@
+Step 2
+Install the skill in Claude
+1.Log in to Claude Pro, Max, Team, or Enterprise required
+2.In the left-hand menu, click Customize → Skills
+3.Click the ‘+’ icon → ‘+ Create skill’
+4.Select ‘Upload a skill’ and upload the file from Step 1

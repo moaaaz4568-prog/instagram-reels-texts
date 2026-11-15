@@ -1,0 +1,56 @@
+SLIDE 15 —
+HOW TO START TODAY
+
+Hour 1 → Install Obsidian, set up Template, create daily note template about Connections, chat with your vault
+Hour 2 → Install Smart Synthesis
+Hour 3 → Connect mcp vault, run your first Claude query
+Day 2 → Write 10 notes about current projects
+Day 3 → Set up Morning brain running
+Week 2 → Full AI second brain running
+
+The 30-Minute Obsidian Power Setup
+From blank vault to AI-powered productivity system in 5 easy steps
+
+5 min
+1 Create Your Vault
+- Create a new vault in Obsidian
+- Choose a location for your vault
+- Open your new vault
+Tip: Keep it in a folder where you can easily find and sync (iCloud, Dropbox, Google Drive)
+
+7 min
+2 Install 5 Core Plugins
+- Smart Connections
+- Periodic Notes
+- Natural Language
+- Advanced Tables
+- Style Styles
+Go to Settings → Community Plugins → Browse and search each plugin to install
+
+8 min
+3 Add Core Structure
+- Create basic folder structure
+- Add CLAUDE.md to root
+- Set up Daily Note format
+- Create templates (if desired)
+Use the folder structure shared in the video description
+
+5 min
+4 Configure & Connect
+- Enable & configure each plugin
+- Set Smart AI API key
+- Run a test query
+- Connect your notes
+Use default settings → You can customize more later.
+
+5 min
+5 Test Your System
+- Ask Smart Connections a question
+- Create a daily note
+- Add a few notes
+- Watch your system grow smarter
+You’re all set!
+Keep capturing, connecting, and building your second brain.
+
+Total Time: ~30 Minutes
+Once set up, you’ll save hours every week with a system that thinks with you.

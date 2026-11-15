@@ -1,0 +1,46 @@
+CLAUDE READS
+TOO MUCH CODE
+
+1. Claude reads the whole codebase to find one file
+
+You say: "Fix the auth bug."
+
+Claude may scan modules, configs and adjacent files before finding the right one.
+
+Fix: Give Claude structured context + semantic search.
+
+Less searching → fewer tokens.
+
+WITHOUT
+STRUCTURED SEARCH
+
+✗
+Full codebase
+Scans everything
+↓
+Adjacent files
+Checks related files
+↓
+Config
+Reads configs
+↓
+Right file
+Finally finds & edits
+~30K+ tokens
+
+WITH
+STRUCTURED SEARCH
+
+✓
+Search: auth flow
+Semantic search finds relevant code
+↓
+Relevant file
+Directly jumps to what matters
+↓
+Edit
+Makes the change
+~1-2K tokens
+
+Bottom takeaway:
+Same task. Fraction of the context.

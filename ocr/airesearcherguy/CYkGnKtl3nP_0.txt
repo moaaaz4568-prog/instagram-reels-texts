@@ -1,0 +1,59 @@
+Developers
+
+Returns the latest market quote for 1 or more cryptocurrencies returned (rounded up) and 1 call credit per convert option beyond the first.
+
+CMC equivalent pages: Latest market data pages for specific cryptocurrencies like coinmarketcap.com/currencies/bitcoin/.
+
+This endpoint is available on the following API plans:
+- Basic
+- Startup
+- Hobbyist
+- Standard
+- Professional
+- Enterprise
+
+RESPONSE SAMPLES
+- 200 Successful
+- 400 Bad Request
+- 401 Unauthorized
+- 403 Forbidden
+- 429 Too Many Requests
+- 500 Internal Server Error
+
+{
+  "data": {
+    "1": {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "slug": "bitcoin",
+      "is_active": 1,
+      "is_fiat": 0,
+      "circulating_supply": 17199862,
+      "total_supply": 17199862,
+      "max_supply": 21000000,
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "num_market_pairs": 10331,
+      "cmc_rank": 1,
+      "last_updated": "2018-08-09T21:56:28.000Z",
+      "tags": [
+        "mineable"
+      ]
+    }
+  }
+}
+
+Cache / Update frequency: Every 60 seconds.
+Plan credit use: 1 call credit per 100 cryptocurrencies returned (rounded up) and 1 call credit per convert option beyond the first.
+
+NOTE: Use this endpoint to request the latest quote for specific cryptocurrencies. If you need to request all cryptocurrencies use /api/v1/cryptocurrency/listings/latest which is optimized for that purpose. The response data between these endpoints is otherwise the same.
+
+PARAMETERS
+Query Parameters
+id
+integer
+required
+
+DOCUMENTATION PRICING FAQ
+
+300Hz / 3ms

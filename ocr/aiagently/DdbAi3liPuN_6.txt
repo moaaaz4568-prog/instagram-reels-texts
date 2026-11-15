@@ -1,0 +1,40 @@
+Step 06.
+MAKE IT RUN DAILY
+
+Once it works, schedule it.
+Every morning at 9 AM.
+Claude checks for leads that need attention and prepares the follow-ups.
+
+Claude
+Chat
+Cowork
+Projects
+Artifacts
+Automations
+
+Schedule
+Run this agent on a schedule.
+
+Daily
+Every day at 9:00 AM
+
+What happens
+1. Check for leads
+Find leads that need attention.
+2. Prepare follow-ups
+Write personalized messages.
+3. Save & notify
+Update your sheet and send the messages.
+
+Automation is active
+
+Claude
+9:00 AM
+Daily lead check complete
+Here's what I found:
+
+8 new leads need follow-up
+3 hot listings matched
+Follow-ups prepared
+
+All done! Your follow-ups are ready in Gmail and your sheet is updated.

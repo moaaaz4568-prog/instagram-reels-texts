@@ -1,0 +1,6 @@
+Prompt #5
+The Knowledge Gap Finder:
+I believe I'm proficient in [SKILL].
+Test my knowledge by asking 5 deceptively simple questions that reveal whether I truly understand the subject.
+After each answer, explain what it says about my strengths and the gaps in my understanding.
+Be direct and honest. If my knowledge is superficial, point it out clearly and tell me what I need to improve.

@@ -1,0 +1,14 @@
+01 02 03 04 05 06 07 08 09 10
+Equipping Agents for Execution
+Install Skills
+Give agents specific tools to execute complex work.
+Example: Give your Video Editor the Remixion skill via skills.sh.
+Check GitHub
+every routine logs exact actions taken.
+Automate Routines
+Turn prompt templates into scheduled, tracked background jobs.
+Example: "Read GitHub changes daily at 10 AM, draft a community update, and post it to Discord."
+Security Check: Always run security audits before installing third-party skills.
+Transparency: Every run is tracked—what the agent found, and what it wrote, with no invisible background jobs.
+STEP 04
+Routines are reusable issue templates that run on a schedule. Dotta's example: every day, read GitHub changes merged into the main branch and write a Discord message celebrating contributors, triggered at 10 a.m. daily—you can see tokens spent, and what it wrote, with no invisible background jobs. This makes automation consistent, transparent, and easy to optimize over time. It also helps you build reliable workflows you can trust.

@@ -1,0 +1,54 @@
+3.AI SALES CALL MONITORING AND SCORING
+
+CallInsights
+Dashboard
+Calls
+Analytics
+Coaching
+Team
+Reports
+Settings
+
+Sep 1, 2024 - Sep 30, 2024
+Sneha Kapoor
+Sales Manager
+
+Sales Call Analysis
+
+Analysis
+Total Calls 482
+28% vs. last month
+Average Score 78/100
+12% vs. last month
+Conversion Rate 24%
+18% vs. last month
+Coaching Opportunities 136
+Identified by AI
+
+All Agents View All
+
+Recent Calls
+Contact Agent Date & Time Duration Score Outcome
+Robert Smith Alex Johnson Sep 20, 2024 12:34 92 Interested
+Priya Sharma Priya Sharma Sep 20, 2024 08:21 76 Follow Up
+David Lee David Lee Sep 19, 2024 15:02 54 Not Interested
+Priya Sharma Priya Sharma Sep 19, 2024 11:07 81 Interested
+Alex Johnson Alex Johnson Sep 19, 2024 09:46 69 Follow Up
+
+Call Details
+RS Robert Smith +1 555 555 1234 Sep 20, 2024, 10:24 AM 12:34 92/100 Call Score
+Summary Transcript Analytics Coaching
+
+Call Summary
+The prospect is interested in 3 BRK apartment in Downtown. Discussed budget, location and amenities. Strong showing; buyer intent and requested a site visit.
+
+Key Highlights
+- Discussed budget and requirements clearly
+- Showed interest in multiple property options
+- Asked relevant questions about amenities
+- Follow-up meeting scheduled for next week
+- Requested more comparison options
+
+• AI automatically analyzes sales calls, scores conversations, and evaluates sales performance at scale.
+• It identifies mistakes, missed opportunities, objections, and areas where sales teams can improve.
+• Gives managers actionable insights and coaching recommendations from every conversation.

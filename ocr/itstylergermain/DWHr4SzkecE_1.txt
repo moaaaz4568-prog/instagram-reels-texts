@@ -1,0 +1,7 @@
+Build a Persistent Memory System
+Send Claude this message
+Create a persistent memory system for me.
+Create a /memory directory with these files: decisions.md, people.md, preferences.md, and user.md.
+Then write a CLAUDE.md that tells you to read all of these files at the start of every session, then create a hook that updates them at the end.
+@itstylergermain
+save for later

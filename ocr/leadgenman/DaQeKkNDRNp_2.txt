@@ -1,0 +1,24 @@
+WEEK 1
+Master Claude
+Plugins, Skills, MCP, CLI, Claude Design, Routines & Managed Agents, Loops, and memory management.
+New routine
+Name *
+e.g., Daily code review
+Describe what Claude should do in each session
+anthropic-experimental/dark-tex
+Opus 4.6
+test-cloud-environment
+Select a trigger
+Schedule
+Run on a recurring cron schedule
+GitHub event
+Run when a GitHub webhook event fires
+API
+Trigger from your own code by sending a POST request
+Connectors
+Connectors
+All connected integrations are included by default. Remove any you don't need for this task.
+Slack
+Asana
+Add connector
+3

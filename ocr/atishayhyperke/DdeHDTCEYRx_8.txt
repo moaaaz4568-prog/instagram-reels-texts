@@ -1,0 +1,31 @@
+8. Reporting.
+
+Turn raw campaign activity into a daily operating view instead of another spreadsheet ritual.
+
+Old Version New Version Beta Release
+Performance Metrics Agency Insights
+Your data is on its way! For accounts with many campaigns, this may take several seconds to load.
+2026-07-01 - 2026-08-13
+
+Email Sends ①
+8165242
+4892658 Leads (Active + Inactive) 0.07%
+
+Opened ①
+4098
+Open Rate 2.13% Reply Rate
+
+Replied ①
+104317
+
+Positive Reply ①
+6053
+5.80% Positive Reply Rate
+
+Email Engagement Metrics ①
+The data is displayed in Etc/GMT(UTC)
+
+Daily rollup of sends, opens, replies and positive replies, all in one view.
+
+Daily rollup of sends, opens, replies
+and positive replies, all in one view.

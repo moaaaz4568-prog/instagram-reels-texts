@@ -1,0 +1,52 @@
+step 5:
+the moment it clicks.
+→ You just type something like:
+/y-t-pipeline Research AI agent frameworks in 2026 -
+what's winning, what's overhyped,
+find 10 sources and give me an infographic
+→ And walk away. 6 minutes later →
+full analysis, infographic, and a saved note. Done.
+AI AGENT FRAMEWORKS LANDSCAPE 2025
+Which frameworks are developers actually adopting?
+LangGraph
+CrewAI
+AutoGen
+Agn
+Smolagents
+KEY TAKEAWAYS
+COMPARISON METRICS (RELATIVE)
+RESEARCH PIPELINE
+/y-t-pipeline AI agent
+frameworks in 2025...
+1. YouTube Search
+via y-t-p
+10 videos found
+2. NotebookLM
+Notebook Created
+10 sources added
+3. Analysis Generated
++ Infographic
+Full analysis complete
+4. Markdown Saved
+to Obsidian Vault
+Ready for future use
+Total processing time
+~ 6 minutes
+Most processing handled by
+NotebookLM (Google servers)
+LangGraph
+FAST
+RISING
+STABLE
+EARLY GROWTH
+NICHE
+Agno is the rising
+star with strong
+performance
+Smolagents is
+promising but
+niche
+High
+Medium
+Low
+you ask. it works. you move on.

@@ -1,0 +1,94 @@
+The Workflow Result
+Everything in sync.
+Always one step ahead.
+
+Dashboard
+Ask AI
+Projects
+Connections
+Refresh
+
+Work Assistant
+Prioritize from real activity across Gmail, Calendar, Slack, GitHub, and Notion — never guess. Every suggestion acts like its source.
+Demo mode — sample activity loaded. Connect accounts in Settings
+
+Highest priority
+Finish Add OpenAPI docs for partner endpoints
+Confidence 91%
+Project - api-platform
+
+URGENT
+Complete PR #292
+Meeting notes: API documentation review
+Unread starred email: Need API documentation before Friday launch
+Blocker: Request approved, PR #88
+
+DAILY PLAN
+Morning dashboard
+Finish Add OpenAPI docs for partner endpoints 91%
+Complete PR #292 80%
+Meeting notes: API documentation review 80%
+Unread starred email: Need API documentation before Friday launch 80%
+EE: Workday 50%
+13:30-13:45 PM: Finish Add OpenAPI docs for partner endpoints
+11:00-12:00 PM: Clear unread emails & Slack mentions
+14:15-16:15 PM: Prepare meeting briefings for partners & documentation
+
+WEEKLY FOCUS
+api partner endpoints
+Context:
+Need API documentation before Friday launch
+Re: 03 - Updated sync plan
+Customer feedback - sync latency
+
+APPROVAL REQUIRED
+AI-generated summary
+Prepare work agenda for scrum
+Prepare upcoming meeting briefs
+Review open pull requests
+
+MEETING BRIEFS
+API documentation review — brief for "API documentation review"
+
+LIVE COLLABORATION
+Connect with 3 attendees. Grounded in 5 cited sources.
+
+RECENT ACTIVITY FEED
+Status:
+@JUDITH: Can you update the OpenAPI spec for the partner...
+Assignee: Judith. Draft architecture summary for Design & RAG plan
+GH: Hub
+Add OpenAPI docs for partner endpoints
+Refactoring: Refactor API documentation structure
+Semantic search: Semantic search latency under load
+Notion
+Q3 plan: Can you update the OpenAPI spec for the partner...
+Finish OpenAPI examples for /v2/search
+Projects - Partner Integration Guide
+
+api partner endpoints
+Likely next: Finish OpenAPI examples for /v2/search
+
+CALENDAR
+Meetings
+Engineering standup
+3:00 PM - 3 attendees
+Documentation review
+6:04 PM - 3 attendees
+Semantic search — Search & RAG
+8:30 PM - 2 attendees
+
+NOTES
+3 - 4 signals
+2 - 5 items
+4 - docs & tasks
+
+AI RECOMMENDATIONS
+Confidence 91%
+Confidence 91%
+Confidence 91%
+Confidence 85%
+
+All my tools and tasks are connected in one place. It knows what’s urgent, what’s next, and what’s blocked — without me asking.
+It builds my plan, suggests the right next steps, and keeps everything in sync.
+Updated so I can stay in deep work longer.

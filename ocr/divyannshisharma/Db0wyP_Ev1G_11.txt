@@ -1,0 +1,24 @@
+SLIDE 13
+How to
+Install Skills
+Installing a Claude
+skill takes about
+5 minutes.
+For Claude Code:
+>_ /install-github-skill [github-url]
+For Claude Desktop:
+Download the
+skill folder
+from GitHub
+Add it to your
+~/.claude/skills/
+directory
+Restart
+Claude
+To use a skill once installed:
+“ Using the front-end-design
+skill, build me
+a landing
+page for...”
+Claude reads the skill instructions
+automatically and applies them.

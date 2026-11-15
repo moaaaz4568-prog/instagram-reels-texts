@@ -1,0 +1,7 @@
+Instant Formatting
+Just tell DeepSeek "Format into a table with:
+Email
+Instagram
+Phone number
+First & last name
+Business name

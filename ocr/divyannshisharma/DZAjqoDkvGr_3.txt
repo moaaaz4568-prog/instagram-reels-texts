@@ -1,0 +1,53 @@
+3. Last30Days
+by Matt Van Horn
+Reddit
+X
+YouTube
+GitHub
+HN
+Polymarket
+Platform
+Solutions
+Resources
+Open Source
+Search
+Sign in
+Sign up
+mvanhorn / last30days-skill
+Public
+Fork 12
+Stars 236
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+About
+AI agent skill that researches any topic
+across Reddit, X, YouTube, HN,
+Polymarket, and the web - then
+synthesizes a grounded summary
+mvanhorn Merge pull request #423 from hoshav/ren...
+last month
+agents/plugins
+last month
+claude-plugin
+last week
+github
+last month
+commands
+last month
+docs
+last week
+Merge pull request #345 from dnakaz/777/docs/fixed-scr...
+last week
+Restructure as Codex plugin
+last month
+chore(deps): v3.3.0
+last week
+docs: fix bug report repo command
+last month
+fix: add commands/last30days.md and remove skills/last30da...
+last week

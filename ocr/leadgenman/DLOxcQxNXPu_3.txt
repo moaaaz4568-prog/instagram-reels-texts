@@ -1,0 +1,75 @@
+Layer 2 - Reasoning
+Interpretinputsusing symboliclogic,neuralnets,knowledge
+graphs,and Bayesian models.Handles uncertainty and
+supportsdeductive,inductive,and creativeinference.
+AlAgentArchitecture
+?
+?
+MetaLearning
+Human-A1
+Reinforcement
+Voice
+Unsupervised
+01
+Feedback
+Interface
+Collaborative
+Models
+口
+Supervised
+E
+Edge
+Analytics
+Ada
+atic
+Display
+Computer Vision
+Long-term
+Autonomous
+?
+Short-term
+ndino
+ISIO
+API
+?
+Learning
+Interaction
+Data
+Monitoring
+?
+AlAgent
+?
+Distributed
+Code
+Tools
+Execution
+Perception
+Context
+Patterns
+α
+Actions
+Tracking
+Web
+Planning
+Sensors
+Optimizati
+Reasoning
+Strategy
+Routes
+Goals
+Robotis
+Heur
+tics
+Reasoning
+Sensor Fusion
+Adaptive
+Simu
+®
+Objectives
+Hierarchical
+~
+?
+120
+Sequential
+Creativity
+Optimization

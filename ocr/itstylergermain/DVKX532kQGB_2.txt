@@ -1,0 +1,37 @@
+Tyler Germain
+@its Tylergermain
+
+the fix-it loop is what makes this insane.
+
+something look off? wrong image? text too long?
+
+you just say it. the skill knows exactly what to change and regenerates instantly.
+
+Tyler Germain @its Tylergermain
+stop paying for GPT-4.
+Sonnet 4.0 is almost the same model for half the price.
+
+Software engineering
+(SWE-bench), Sonnet actually scores HIGHER than GPT-4.
+Sonnet 4.0: $5/M input, $25/M output
+GPT-4: $10/M input, $30/M output
+72.7% vs 72.5%
+
+nearly half the cost for nearly identical performance.
+
+read that again.
+
+Sonnet 4.0: $5/M input, $25/M output
+Sonnet 4.6: $3/M input, $15/M output
+
+nearly half the cost for nearly identical performance.
+
+Model pricing
+| Model | Input | Output |
+|---|---|---|
+| Sonnet 4.0 | $5/M | $25/M |
+| Sonnet 4.6 | $3/M | $15/M |
+| GPT-4 | $10/M | $30/M |
+| GPT-4o | $5/M | $15/M |
+
+Sonnet 4.6 is the new gold standard for cost-effective, high-performance AI.

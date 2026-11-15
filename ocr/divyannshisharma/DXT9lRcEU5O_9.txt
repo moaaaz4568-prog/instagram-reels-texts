@@ -1,0 +1,12 @@
+Step 10
+Data Analysis Mode
+"Now break it down by month."
+"Show me only the rows where churn exceeded 5%."
+"Build a bar chart of this."
+Step 11
+File Creation
+"Turn this outline into a formatted PDF."
+"Generate a CSV with these columns."
+"Create a presentation deck from these bullet points."
+Divyanshisharma
+9/16

@@ -1,0 +1,24 @@
+LLMs from Scratch
+https://www.youtube.com/watch?v=9Vm4p9NN0Ts
+evaluation: Perplexity
+LLM evaluation: Perplexity
+TEST PERPLEXITY
+75
+50
+25
+0
+2017    2018    2019    2020    2021    2022    2023
+Grave et al. (2016) - LSTM + continuous cache pointer
+AWD-LSTM + continuous cache pointer
+AWD-LSTM + dynamic eval
+BART + AMR-LSTM+MoS + dynamic eval
+Other models    Models with lowest Test perplexity
+Between 2017-2023, models went from "hesitating" between ~70 tokens to 400 tokens.
+Perplexity not used anymore for academic benchmark but still important for development
+@divyanshsharma
+LLM evaluation
+Stanford | Machine Learning
+Start with LLM from scratch →
+LLM evaluation
+Start with LLM from search →
+@divyanshsharma

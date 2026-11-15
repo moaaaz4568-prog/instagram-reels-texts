@@ -1,0 +1,23 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+The 5 custom claws i'd built:
+
+| The Claw | Core Logic (The 'Mind') | The Loop (The 'Brain') | The Loop (The 'Action') | Target Buyer |
+|---|---|---|---|---|
+| The Content Machine | Brand Voice JSON Template Scraper | Scrapes → Drafts | Drafts → Takes Queues | Creators & Solopreneurs |
+| The Health Coach | Vision Model (Food ID) + Apple Health Sync | Photo → Macro Order Request | Task → Quest Roast | High-performers & Fitness Enthusiasts |
+| The RPG Life System | Gamification Engine (XP/Level) | Task → Stat → Progression Nerds | Task → Quest Leaderboard | Non-technical Founders & Lean Agencies |
+| The Autonomous Dev Dev | Sub-agent Orchestration (Claude Code) | Prompt Build Nerds | Task → Quest Orderboard | Affiliate Markers & SEO Agencies |
+| The SEO Empire | Search Chain Empire (Pinecone/Weaviate) | Console API + Code/Cugic | Prompt → Test Deploy | Affiliate Markers & SEO Naancior |
+
+Identity Layer. Personality (e.g. Savage Coach, RPG Narrator)
+
+Deep Dive: The Technical Edge
+• Memory Persistence: Vector database (Pinecone, Weaviate)
+• The "Human-in-the-Loop" Trigger: WhatsApp/Telegram notification for approval
+
+The Alpha Strategy
+Focus on the SEO Empire Builder first. Highest "Passive" Income potential by building domain authority.
+
+Which of these would o like to help me architect first?

@@ -1,0 +1,20 @@
+Step #1
+Google Gemini
+Search Google Gemini Actions...
+DOCUMENT ACTIONS
+Analyze document
+FILE ACTIONS
+Upload a file
+IMAGE ACTIONS
+Analyze an image
+Generate an image
+Edit an image
+TEXT ACTIONS
+Message a model
+VIDEO ACTIONS
+Analyze a video
+Generate a video
+Download a video
+Execute workflow
+from On form submission
+n8n Google Gemini node: analyze documents, images, videos, or chat.

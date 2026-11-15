@@ -1,0 +1,21 @@
+Trigger Nodes:
+4 PHASES
+INFORMED PESSIMIST
+2
+Excited
+Overwhelmed
+Breakthrough
+1
+3
+4
+5
+Uninformed Optimist
+Informed Pessimist
+Crisis of Meaning
+Informed Optimist
+Trigger Nodes:
+HTTP Request (API)
+Instagram
+Divyanshi
+1 2 3 4 5
+< SWIPE

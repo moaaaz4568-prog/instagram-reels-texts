@@ -1,0 +1,15 @@
+Skill #5
+prd
+snarktank/prd
+Planning
+9,790
+Recommended MCP Servers
+InfraNodus Knowledge Graphs & Text Analysis
+Generate a Product Requirements Document (PRD)
+for a new feature. Use when planning a feature,
+starting a new project, or when asked to create a
+PRD. Triggers on: create a prd, write prd for, plan
+this feature, requirements for, spec out.
+npx @smithery/cli@latest install snarktank/prd --agent claude-code
+@itsylergermain
+save for later

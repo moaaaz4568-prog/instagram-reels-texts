@@ -1,0 +1,40 @@
+Hands-On Large Language Models
+https://lnkd.in/dxqVF86w
+Models
+HandsOnLLM / Hands-On-Large-Language-Models Public
+Code Issues 23 Pull requests 7 Discussions Actions Projects Security Insights
+main 8 Branches 0 Tags
+50 Commits
+Anand405 Chapter 1: Update pip install command for transformers version (#86) 62d4517 3 months ago
+setup 8 months ago
+bonus 8 months ago
+chapter01 3 months ago
+chapter02 9 months ago
+chapter03 11 months ago
+chapter04 8 months ago
+chapter05 3 months ago
+chapter06 11 months ago
+chapter07 11 months ago
+chapter08 9 months ago
+chapter09 11 months ago
+Chapter 8: Add instruction for Colab (#73) Colab/GitHub rendering
+Code
+About
+Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+www.humail.com
+book artificial intelligence
+online books large language models
+llms
+Realtime
+Apache-2.0 license
+Activity
+Custom properties
+24k stars
+253 watching
+5.6k forks
+Report repository
+Releases
+Hands on LLM
+Official code repo for the O'Reilly Book
+Start with LLM →
+@divyansharma

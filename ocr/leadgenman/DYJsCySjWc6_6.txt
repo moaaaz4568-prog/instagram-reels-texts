@@ -1,0 +1,6 @@
+The Transformer
+Google researchers published "Attention Is All You Need". This one paper introduced the transformer architecture and quietly became the engine behind every modern AI model. GPT, Claude and Gemini all run on this.
+2017
+GPT-3
+OpenAI shipped a 175 billion parameter language model that could write essays, code and emails. The prompt engineering era began here. The first signs of what AI could really do.
+2020

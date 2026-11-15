@@ -1,0 +1,22 @@
+Without Warmup
+Manually configure SPF, DKIM, DMARC
+and pray your DNS is right
+
+Cannot Get Mail
+The mail server "imap.gmail.com" is
+not responding. Verify that you have
+entered the correct account info in
+Mail settings.
+
+Server code
+"AUTHENTICATIONFAILED", server
+message "Invalid credentials (Failure)"
+
+OK
+
+Warmup
+Warmy's Adeline AI handles warmup automatically
+and monitors DNS health in real time
+
+ADELINE
+AI

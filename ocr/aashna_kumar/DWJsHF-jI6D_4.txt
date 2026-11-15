@@ -1,0 +1,6 @@
+@aashna_kumar
+HOW TO WRITE A HOOK
+Ask yourself:
+• What's the pain point?
+• What do they want?
+• Can I say it in one clean line?

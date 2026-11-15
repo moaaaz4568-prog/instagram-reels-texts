@@ -1,0 +1,4 @@
+TO SET UP:
+Install Sandcastles.ai plugin in Claude then
+Run the text hook skill
+Claude

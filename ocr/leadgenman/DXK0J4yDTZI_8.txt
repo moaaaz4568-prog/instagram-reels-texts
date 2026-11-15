@@ -1,0 +1,16 @@
+which layer
+do you actually live at?
+you
+everyone else
+agent builder -> agents
+tools
+<->API-shop dev
+inference startup -> runtime
+<-foundation lab
+model weights
+chip designer ->
+hardware
+^ most creators
+live here
+you pick the layer
+you live at

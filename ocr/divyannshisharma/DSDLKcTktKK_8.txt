@@ -1,0 +1,2 @@
+Step #8
+Image analysis test: Can Gemini understand complex flowcharts?

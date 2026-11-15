@@ -1,0 +1,37 @@
+// BENNETTOS
+05 / 09
+// 03 . THE MODEL LANES
+GLM-5.2 +
+These lanes belong to Hermes, not Claude. Workers run GLM-5.2 on Ollama Cloud – glm-5.1 for code, 4.7-flash for light work – with Codex on the ChatGPT plan as the second lane. Subscriptions and one flat key. Still no API meter.
+CODEX.
+$ export OLLAMA_API_KEY=*** # lane 1 - glm-5.2
+$ hermes auth # lane 2 - codex, ChatGPT OAuth
+SEATS
+10
+0
+3
+RUNNING NOW
+OPENED
+TASKS
+RUNS - 24h
+HEARTBEATS - 24h
+17
+4
+- Sales
+- Sumanizer
+- Communicatio...
+- Reflection C...
+- Forge
+- Hermes Work...
+- Marketing/Dr...
+- Conductor
+- Finances
+- TECH
+TASK LANES
+IN PROGRESS - 1
+BLOCKED - 1
+Bennett OS Cockpit
+Paul FounderOS Cohort 1
+@bennettos
+SWIPE →
+@bennettos

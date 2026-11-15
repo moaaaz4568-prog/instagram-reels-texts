@@ -1,0 +1,16 @@
+The Tools
+You Need
+
+Claude — the AI that does the actual work
+
+Cowork — Claude’s desktop tool for
+scheduling and file access
+
+MCP Servers — connections that let
+Claude access other apps
+
+Claude Projects — where you store
+your templates and style guides
+
+That’s it. No coding. No technical setup.
+Plain English instructions. The automation runs.

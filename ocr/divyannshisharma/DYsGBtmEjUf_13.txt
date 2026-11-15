@@ -1,0 +1,25 @@
+13
+Start a new chat
+for a new topic
+New topic?
+New chat!
+Claude carries the content of everything
+said earlier in a conversation.
+When you switch topics inside a long chat,
+Claude still has all the previous context.
+That means more tokens used on every response,
+slower processing, and context bleed from earlier
+in the conversation affecting your new topic.
+Afternoon, Steven
+How can I help you today?
+Sonnet 4.5
+Code
+Write
+Create
+Learn
+From Drive
+When you switch to unrelated,
+start a fresh chat inside your Project
+You keep the Project memory. You lose the irrelevant baggage.
+Divyanshi sharma
+13/18

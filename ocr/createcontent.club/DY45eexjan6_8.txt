@@ -1,0 +1,11 @@
+Want to try it out?
+Comment "CAROUSEL"
+/cc-carousel-generator
+I want you to help me create a carousel for instagram with these colors: white, black and this color: #f7c40e
+This is the script that I wrote: Claude released a new AI tool that can literally create viral content for you on autopilot and I can't believe that no one is talking about it. So, unless you've been living under a rock you know that claude released their first AI agents with claude code and co-so, so now it can literally do things for you. It's not just a chat with an AI model. What do you mean I NOT know
+Show more
+I'll create your Instagram carousel with white, black, and orange (#f7c40e). Let me break your script into punchy slides and generate the HTML.
+Created a file
+Your 6-slide carousel is ready in your brand colors (white / black / #f7c40e).
+Slide structure:
+Read a file

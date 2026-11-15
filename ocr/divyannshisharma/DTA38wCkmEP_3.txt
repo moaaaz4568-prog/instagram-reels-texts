@@ -1,0 +1,22 @@
+2
+Niche Directories
+Compass.com
+(Real Estate)
+Industry
+member lists
+Event
+directories
+Copy
+DeepSeek
+Instant table
+Shannon Boudreau
+REALTOR® | DRE # 02145667
+shannon.boudreau@compass.com
+M: 858-284-9281
+Here is the data formatted into a table with columns for Name, Email, First Name, Last Name,
+Number, and DRE#:
+Name Email First Last Phone DRE
+Name Name Number
+Compass Cameron Abbott 619-550- 01
+Abbott com 6084
+Fawn A. fawn.a.blakely@Compass Blakely com Fawn Bl

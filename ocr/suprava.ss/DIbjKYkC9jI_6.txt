@@ -1,0 +1,10 @@
+B. Plug Dropcontact into workflow
+Log into Dropcontact acc. & copy API contact
+Paste in the Dropcontact node in workflow
+Set "Enrich" operation & add parameters
+
+C. Find out company details
+Use Proxycurt to search
+Search for Company URL instead
+Get all data - company size, type, location
+Add IF condition if not found to search from URL by itself!

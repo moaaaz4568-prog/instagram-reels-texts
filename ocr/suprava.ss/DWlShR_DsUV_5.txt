@@ -1,0 +1,28 @@
+EMAIL 5
+
+Subject: saw your post about cold outreach:
+
+“Saw you mentioned cold emails aren’t converting.
+
+Before you remove the [channel] can my team do a free audit on your current sequence?
+
+We fixed this for [Company] and got them from 3% to 27% reply rate. Can I have someone take a look? Imk”
+
+Subject: Flagging something about your cold emails outreach
+
+“Hey [Name], noticed there might be some deliverability issues affecting your outbound.
+
+We help SaaS teams fix their email infrastructure and improve reply rates as part of a broader GTM setup.
+
+Let me know if it’s worth a conversation.”
+
+Why it worked
+
+Pain Intercept
+they publicly announced the problem. Zero cold feeling. Highest intent signal possible
+
+Reframe
+“it’s not your offer” removes blame and makes them curious not defensive
+
+Statistical Contrast
+3% to 27% is a 9x jump. Contrast is one of the strongest persuasion triggers

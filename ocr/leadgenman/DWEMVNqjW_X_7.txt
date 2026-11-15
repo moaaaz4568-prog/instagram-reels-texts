@@ -1,0 +1,19 @@
+Without Warmup
+Blast emails from a fresh domain and hope for
+the best
+"New
+domain"
+Input
+"Spam
+folder"
+Output
+With Warmup
+Gradually build domain reputation with
+industry-specific warmup in 30+ languages
+"New domain +
+proper warmup +
+trusted sender"
+Input
+"Primary
+inbox"
+Output

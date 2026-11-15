@@ -1,0 +1,11 @@
+Compliance & Good
+Hygiene
+
+Best Practices for Chat Automation
+Capture explicit opt-ins per channel
+Honor STOP/UNSUBSCRIBE on WA/SMS
+Avoid PII spill; mask sensitive data
+Keep replies short; no spammy bursts
+Store minimal chat history
+
+Update your preferences

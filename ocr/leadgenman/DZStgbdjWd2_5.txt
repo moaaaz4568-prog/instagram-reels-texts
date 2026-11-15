@@ -1,0 +1,9 @@
+5. Gemini
+The Corporate Brain
+Best for: Business and technical writing, SEO, data analysis, and visual-data tasks.
+Strengths:
+• Handles native multimodality, allowing it to process text, image, audio, and video.
+• Integrates seamlessly with Google Docs, Sheets, and Slides.
+• Analyses very large dataset using its massive 1-million-token context window.
+Keep in mind: Works best inside Google ecosystem. It can sound formal or robotic in creative writing.
+Use it when you live in Google Drive and want AI that fits right in.

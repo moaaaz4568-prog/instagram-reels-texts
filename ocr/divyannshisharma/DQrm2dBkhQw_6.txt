@@ -1,0 +1,24 @@
+3 Add Verified
+Accounts to XReacher
+
+• This starts the scraping process. It will
+now extract all their followers.
+
+Log in to
+XReacher
+(free account
+is fine)
+
+Go to your
+dashboard →
+Create a new
+campaign
+
+Add Leads
+→ Scrape
+New Leads
+
+Paste in the
+usernames
+you verified
+earlier.

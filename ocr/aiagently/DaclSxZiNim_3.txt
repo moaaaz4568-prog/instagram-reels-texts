@@ -1,0 +1,31 @@
+USE CASE 03
+Your Personal
+Advisor
+AI analyzes your goals and live business metrics,
+then gives clear priorities not guesses.
+AI PERSONAL
+BUSINESS ADVISOR
+Claude Code
+Analyzer
+Planner
+Optimizer
+Advisor
+Strategist
+Budget
+Debt
+Retirement
+Taxes
+Portfolio
+FIRE
+Emergency
++7
+MORE
+This one Advisor replace the 1000$ per hour
+charge advisor
+Get advice from your real data.
+STARTER PROMPT
+Act as my long-term business advisor. Review my plan document and live
+data from my 7 connected accounts. Ask up to three questions if needed,
+then create a one-page report explaining what's working, what's holding
+me back, and the top three priorities for the next 90 days with clear first
+steps.

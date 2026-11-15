@@ -1,0 +1,61 @@
+What Quicksilver
+actually adds:
+
+Smart approvals, background jobs that never get lost,
+and the ability to borrow a smarter model for just
+ONE task. This is what makes everything below
+possible.
+
+“
+
+SMART
+APPROVALS
+
+DURABLE
+BACKGROUND
+JOBS
+
+DELIVERY
+LEDGER
+
+PROFILE
+ROUTING
+
+PER-TASK
+EFFORT
+
+Smart approvals
+OS IV DEFAULT
+
+A second model vets each
+command, so it stops
+asking you about the safe
+ones.
+
+Durable delegation
+SURVIVES A RESTART
+
+If it crashes after a job
+finishes, the answer is still
+waiting for you.
+
+Delivery ledger
+REPLIES GET TRUSTED
+
+A reply that fails to send
+gets retried, not
+forgotten.
+
+Profile routing
+KEPT SEPARATE
+
+Other people can text it
+without touching your
+memory.
+
+Effort controls
+MAX AND ULTRA
+
+You choose how hard it
+thinks, and only pay for it
+when it matters.

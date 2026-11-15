@@ -1,0 +1,15 @@
+SLIDE 6
+AGENT 2:
+THE CODER
+Job: build exactly what the
+spec says.
+Nothing more.
+It reads the Planner's spec
+Writes the actual code. Follows the patterns
+already in your codebase Then writes a short
+summary of what
+it changed and why
+It doesn't plan. It
+doesn't review its own work.
+It just builds.
+</>

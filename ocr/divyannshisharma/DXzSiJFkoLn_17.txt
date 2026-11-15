@@ -1,0 +1,45 @@
+17. Guides
+
+Definitive prompt engineering guide
+* covers Opus 4-6, Sonnet 4.6, Haiku 4.5
+* Skills, Plugins, MCP, Hooks, Ultrathink
+* 220+ verified sources
+Repo: https://github.com/ThamJiaHe/claude-prompt-engineering-guide
+Reply...
++ 📋
+
+Best practices for Claude Code workflows
+* distributable plugins included
+* daily-use patterns
+* battle-tested tips
+Repo: https://github.com/nikiforovall/claude-code-handbook
+Reply...
++ 📋
+
+Massive 22,000+ line documentation project
+* 225 production templates
+* 9 AI personas + 26 slash commands
+* 271 quiz questions
+Repo: https://github.com/FlorianBruniaux/claude-code-ultimate-guide
+Reply...
++ 📋
+
+All Claude Code system prompts
+* updated within minutes of each release
+* tool descriptions + sub-agent prompts
+* CHANGELOG across 155+ versions
+Repo: https://github.com/Piebold-AI/claude-code-system-prompts
+Reply...
++ 📋
+
+190+ patterns for AI-assisted development
+by Wolf McNally
+* foundational → agentic construction
+* governance + testing
+Repo: https://github.com/wolfmcnally/Encyclopedia-of-Agentic-Coding-Patterns
+Reply...
++ 📋
+
+Divyanshi sharma
+
+Category 9/10

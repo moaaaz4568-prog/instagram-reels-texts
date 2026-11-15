@@ -1,0 +1,4 @@
+EMAIL
+COLLECTOR
+Collect Emails Directly in
+Manychat!

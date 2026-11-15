@@ -1,0 +1,15 @@
+Step 1: Don't build infrastructure
+Sonnet 4.6
+What this actually does:
+It generates a complete SaaS app for you.
+You instantly get:
+• Login system (Google, GitHub etc.)
+• Payment system (already wired)
+• Landing page (so users can sign up)
+• Admin panel (to manage users)
+• File upload system
+Why this matters:
+You start building your actual idea on Day 1.
+Open SaaS
+https://github.com/wasp-lang/open-saas
+wasp new my-product -t saas

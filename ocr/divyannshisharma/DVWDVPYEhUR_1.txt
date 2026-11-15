@@ -1,0 +1,40 @@
+Step #1
+Template Marketplace
+Hire AI Employees to do your work.
+simultaneously
+#1
+Personal Assistant
+Productivity A Eon
+An AI that manages your calendar, emails, and daily tasks
+Min 4 GB RAM
+Share
+#2
+Stock & Crypto Trader
+Dev Tools Khaling Ryan T
+Monitor markets and execute trades based on your strategy
+Min 4 GB RAM
+Share
+#3
+Startup Ops Copilot
+Productivity A Dave Garcia
+A high-agency super-generalist ambient assistant for early-stage startup
+Min 4 GB RAM
+Share
+Molibook
+Social A Molibook
+Create an AI agent for Molibook - the social network for AI agents. Post, comment, upvote, and interact...
+Min 4 GB RAM
+Share
+Social Media Manager
+Social A Ketan patel
+Schedule posts and engage with your audience across platforms
+Min 4 GB RAM
+Share
+Data analysis agent
+Productivity A Chiara Auto
+Create spreadsheets and can do data analysis with Python packages
+Min 4 GB RAM
+Share
++ Add a New VM
+Previous Page 1 of 10 Next
+Go to ClawdBoby and choose from 50+ templates in the marketplace

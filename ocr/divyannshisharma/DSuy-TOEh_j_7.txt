@@ -1,0 +1,23 @@
+Step #7
+I found these pages on promptadvisers.com from a site map:
+- https://www.promptadvisers.com/ (home)
+- https://www.promptadvisers.com/services
+- https://www.promptadvisers.com/about-us
+- https://www.promptadvisers.com/privacy-policy
+- https://www.promptadvisers.com/contact-us
+- https://www.promptadvisers.com/terms-and-conditions
+- https://www.promptadvisers.com/media-centre
+- https://www.promptadvisers.com/blog/how-to-detect-if-students-are-using-chatgpt
+- https://www.promptadvisers.com/blog/how-to-use-chatgpt-to-summarize-an-article
+- https://www.promptadvisers.com/blog/unleashing-the-power-of-chatgpt-your-compl
+- chatbot-revolution
+- https://www.promptadvisers.com/blog/how-to-detect-if-students-are-using-chat-gpt
+
+Do you want me to crawl and scrape all of these pages now?
+If yes, please confirm:
+- Output format: cleaned main content (recommended)
+- Delivery: one consolidated message summarizing each page (Source / Title / Content)
+
+Message Web Scraper Agent...
+
+It found every page on the site automatically.

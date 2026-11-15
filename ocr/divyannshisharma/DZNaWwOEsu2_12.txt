@@ -1,0 +1,102 @@
+SLIDE 13 –
+ADVANCED #6–10
+Graph Analysis
+
+ZETTELKASTEN + AI
+Claude maps note clusters
+
+VAULT-POWERED PROJECTS
+linked atomic notes Claude can reason through
+
+FEEDBACK LOOP
+save Claude outputs back into vault, knowledge compounds
+
+OBSIDIAN-SECOND-BRAIN
+31 commands for full AI second brain operation
+
+Graph view
+My Second Brain
+00 - Inbox
+01 - Projects
+02 - Areas
+03 - Resources
+04 - Notes
+05 - Daily Notes
+06 - People
+07 - Meetings
+08 - Templates
+09 - Archives
+
+Entire vault
+1,442 notes
+3,621 links
+
+Graph view
+Search
+Calendar
+
+People
+98 notes
+
+Projects
+132 notes
+
+Areas
+76 notes
+
+Resources
+212 notes
+
+Daily Notes
+365 notes
+
+Meetings
+56 notes
+
+Templates
+28 notes
+
+Archives
+73 notes
+
+MOCs
+24 notes
+
+Orphans
+278 notes
+
+Each color is a different topic area
+
+Clusters show related notes living close together
+
+Daily Notes form a dense connected cluster
+
+Orphan notes (less connected)
+
+Resources connect to many areas
+
+Templates are connected but more focused
+
+Filters
+Groups
+Projects 132
+Areas 76
+Resources 212
+Daily Notes 365
+Meetings 56
+People 98
+Templates 28
+Archives 73
+MOCs 24
+Orphans 278
+
+Display
+Arrows
+Text fade 60%
+Node size Medium
+Link thickness Medium
+
+278 orphaned notes
+17% of vault
+
+Show orphaned

@@ -1,0 +1,5 @@
+Step 2: Filter with Claude
+I feed the raw list to Claude.
+I give it my offer, my ICP, and the data on each row. Claude scores each lead and cuts the list down to the ones that actually match.
+Output:
+roughly 40,000 qualified leads. I only pay to enrich the ones that pass this filter.

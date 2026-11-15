@@ -1,0 +1,6 @@
+Preview
+Nothing in prompt yet. The text you write
+will appear here.
+Token count
+Preview 0 /1,048,576
+Search

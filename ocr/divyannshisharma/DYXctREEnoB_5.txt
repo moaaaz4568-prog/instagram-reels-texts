@@ -1,0 +1,49 @@
+NotebookLM
+15 tools.
+Audio & TTS
+04 / 18
+* Whisper
+OpenAI open source speech-to-text, all languages
+audio & tts open source
+* Faster Whisper
+CTranslate2 Whisper, 4x faster, less VRAM
+audio & tts open source
+* WhisperX
+Whisper with word-level timestamps and diarization
+audio & tts open source
+* Bark
+Suno's expressive open source TTS with emotions
+audio & tts open source
+* MusicGen
+Meta open source music generation, any genre
+audio & tts open source
+* AudioCraft
+Meta's full open source audio generation suite
+audio & tts open source
+* AudioLDM2
+Open source text-to-audio and sound effects gen
+audio & tts open source
+* Stable Audio Open
+Stability AI open source music and audio gen
+audio & tts open weights
+* F5-TTS
+Open source zero-shot voice cloning TTS model
+audio & tts open source
+* Parler-TTS
+HuggingFace open source controllable TTS
+audio & tts open source
+* StyleTTS2
+Human-level open source TTS with style transfer
+audio & tts open source
+* VoiceCraft
+Open source zero-shot speech editing model
+audio & tts open source
+* Tortoise TTS
+Slow but ultra-realistic open source voice clone
+audio & tts open source
+* Coqui XTTS
+Multi-lingual open source voice cloning TTS
+audio & tts open source
+* pyannote.audio
+Open source speaker diarization framework
+audio & tts open source

@@ -1,0 +1,59 @@
+Step 12: Workflow
+5 minutes of setup. One prompt. Claude Code orchestrates, NotebookLM thinks, you get the output.
+User Query
+?
+Frontmatter
+YAML
+name: 'Skill Name'
+description: 'Concise description of capability'
+triggers: ['trigger phrase 1', 'trigger phrase 2']
+.md
+Standard Operating Procedure
+1. Perform initial analysis.
+2. Execute core task using tools.
+3. Finalize and report results.
+Core OP Content
+Skill.md
+# Skill Name
+1. Steps for performing the skill
+2. Tools or APIs required
+3. Example usage
+/scripts
+/scripts
+/references
+Progressive Disclosure
+guarantees zero
+context bloat.
+Python Scripts
+Data Processing
+Report Template
+Execution
+Engine
+References
+Just-In-Time
+Python code
+templates
+combines
+context
+with
+specific
+Core
+instruction
+drives
+the
+system
+semantic
+Core
+process
+steps
+execute
+the
+task
+semantic
+Just-In-Time
+Python code
+templates
+combines
+context
+with
+specific

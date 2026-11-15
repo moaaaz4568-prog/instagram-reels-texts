@@ -1,0 +1,11 @@
+Suprava Sabat
+@Suprva02
+Hey {{first_name}},
+We're a competitor of tools like [list
+competitors] - I'm sure your team uses one of
+those.
+I'm genuinely curious what - if anything -
+would it take to for you to consider an
+alternative?
+Any feedback would be massively
+appreciated.

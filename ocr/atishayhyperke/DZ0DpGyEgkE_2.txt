@@ -1,0 +1,6 @@
+2. AI Agent Building
+Why: someone still has to design what the agents do, what tools they use, and what good output looks like. AI runs the work, you direct it.
+What you do
+▶ build multi-agent systems on Lindy, Relevance AI, or Smythos that handle entire workflows end to end.
+Rate
+▶ $3,000 to $5,000 per month per client

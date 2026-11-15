@@ -1,0 +1,8 @@
+/
+Slash Commands
+/compact shrinks context. /clear resets. /model switches. /cost shows spend. /init creates CLAUDE.md.
+$ claude
+> /compact focus on auth logic
+Context compressed: 84k → 12k tokens
+> /cost
+Session: $0.42 | Tokens: 127k

@@ -1,0 +1,7 @@
+HeyGen
+HyperFrames
+Write HTML, render real MP4 videos. Make demos
+and reels straight from a prompt, by HeyGen.
+github.com/heysen-com/hyperframes
+Manthan Patel | @leadenman
+11 / 15

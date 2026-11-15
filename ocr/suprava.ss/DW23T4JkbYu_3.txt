@@ -1,0 +1,11 @@
+sam @samgrows · 1d
+BREAKING: Claude can now search YouTube for you!
+We plugged Algrow directly into Claude so it finally has real constantly updated youtube data
+No more generic slop from a model that's never watched a video
+I want to start a |
++
+Sonnet 4.6 Ext
+147
+444
+5.1K
+1.1M

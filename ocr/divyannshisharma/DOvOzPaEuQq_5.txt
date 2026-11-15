@@ -1,0 +1,14 @@
+5
+Type in your instructions
+Tell your agent what to do.
+input box
+Social Media
+Task Completed: 0
+Instructions
+You are a social-media manager.
+Tasks
+1. Craft on-brand posts for TikTok, Reels, LinkedIn, X, and YouTube Shorts.
+2. Propose data-backed channel-strategy updates (cadence, formats, best-post times).
+Tools
+Manage your connected tools and flows
+Add tool

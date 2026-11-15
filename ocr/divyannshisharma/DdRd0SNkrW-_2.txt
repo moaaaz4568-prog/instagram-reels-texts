@@ -1,0 +1,15 @@
+SLIDE 2 / 10
+Read This Before
+Installing Anything
+3 rules that matter more than this whole list:
+1. Don’t install 50
+More than 5–7 connected servers and Claude gets slower and dumber.
+Pick 3–5 that match what you actually do.
+2. Treat every server like a stranger
+Use versions. Start with read-only access.
+Use official servers over random forks.
+3. Never let an agent write to your
+real production database
+Point it at a copy or test environment.
+Always.
+This is a menu. Not a shopping spree.

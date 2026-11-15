@@ -1,0 +1,19 @@
+MEMORY & CONTINUITY
+
+10 – Give Claude the context
+
+What I'm working on: - Project: [one sentence description of what this is] - Goal: [what success looks like] - Audience: [who this is for and what they care about] - Tone: [how the writing or output should feel, casual, professional, direct, conversational, etc.] - What to avoid: [anything that doesn't fit, jargon, certain topics, specific styles]
+
+Apply this context to every task. When something doesn't fit this picture, flag it before proceeding.
+
+11 – Lock in your voice and style
+
+My writing style, always match this: - Voice: [e.g. direct, conversational, confident, no-fluff] - Sentence length: [e.g. short and punchy / long and detailed / mixed] - Words I use: [phrases or vocabulary that sound like me] - Words I never use: [words or phrases that don't fit my style] - Format preference: [e.g. paragraphs only / bullet points / headers / no headers]
+
+When writing anything on my behalf, match this style exactly. Do not default to your own patterns.
+
+12 – Make Claude keep a memory file
+
+Maintain a file called MEMORY.md. After any significant decision, about direction, format, content, approach, or strategy, add an entry:
+
+## [Date], [Decision] **What was decided:** [the choice made] **Why:** [the reasoning] **What was rejected:** [alternatives considered and why they were ruled out]. Read MEMORY.md at the start of every session before doing anything. Never contradict a logged decision without flagging it first.

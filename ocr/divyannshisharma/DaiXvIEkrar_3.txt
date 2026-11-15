@@ -1,0 +1,23 @@
+SLIDE 4 | SO ANTHROPIC BUILT IT FOR YOU
+Claude Managed Agents
+Foundational infrastructure that scales with your work complexity
+Claude Managed Agents
+Foundational infrastructure that scales with your work complexity
+Infrastructure & harness
+Sandboxing
+Credentialed proxy
+Asynchronous tool execution
+Permission policies
+Automatic context management
+Error recovery, checkpointing
+Retries, tracing
+Developer primitives
+Composable building blocks
+Versioned, stateful resources — agent, environment, session
+Flexible, structured event patterns
+Observability
+Session tracing
+Ask Claude in Console
+Claude Managed Agents handles the infrastructure: sandboxing, automatic context management, error recovery and checkpointing, full session tracing.
+You decide what the agent should do.
+It handles how.

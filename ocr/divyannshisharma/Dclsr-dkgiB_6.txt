@@ -1,0 +1,37 @@
+STOP RE-READING
+THE SAME FILE
+
+CONTENT
+6. Claude can read the same file again…and again
+
+File A → read
+Later → read again
+Another question → read again
+
+Every read consumes context.
+Fix: Reuse what’s already in the session.
+
+* [Octopus icon]
+
+/ RULE
+CODE
+# Anti-re-read rule
+NEVER re-read a file already read during this session.
+If you need it again, use what is already in context.
+
+X BAD: WASTES CONTEXT
+FILE A (same file) → Claude reads it → [READ AGAIN arrow back to file] → Claude reads it again
+⚠️ Every read consumes context. Stop the loop.
+
+✓ GOOD: REUSE IN CONTEXT
+FILE A → [Document with lines] → Claude uses what’s already in context
+✓ Already in context → REUSE ✓
+Save these tokens. Saves money. Works faster.
+
+* BOTTOM LINE
+Don’t re-read. Reuse.
+Break the loop. Save context.
+
+>_ QUICK RULE
+NEVER re-read a file already read during this session.
+If you need it again, use what is already in context.

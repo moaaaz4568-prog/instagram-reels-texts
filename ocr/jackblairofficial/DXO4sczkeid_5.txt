@@ -1,0 +1,15 @@
+Jack Blair
+@jackblairofficial
+
+05. Forecast Builder
+
+"Based on this pipeline data: [paste deals with values, stages, and close dates], build me an honest revenue forecast for the next 30 days.
+Categorise each deal as commit, best case, or pipeline.
+Flag any deals where my forecast is likely too optimistic and tell me why.
+Format as three sections with deal names and values listed under each category.
+Tone: conservative, data-driven, no wishful thinking.
+No fluff. No false confidence."
+
+You walk into your next forecast conversation knowing exactly where you stand. No surprises.
+
+CloserCoach.ai

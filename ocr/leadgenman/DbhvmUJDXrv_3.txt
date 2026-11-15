@@ -1,0 +1,32 @@
+Layer 2:
+The Spine
+
+• Hosts the app
+and deploys
+globally in
+under a minute.
+
+• Every push goes
+straight to
+production.
+
+Vercel:
+
+• Managed Postgres
+with auth built
+in.
+
+Supabase:
+
+• Row-level
+security and one
+source of truth.
+
+• Processes
+every payment.
+
+Stripe:
+
+• Checkout,
+webhooks, refunds
+and disputes.

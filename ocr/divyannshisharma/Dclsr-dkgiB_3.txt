@@ -1,0 +1,58 @@
+TERMINAL OUTPUT
+IS EATING CONTEXT
+
+with noise
+
+3. CLI output floods Claude with context
+
+A command like `npm install` can dump
+thousands of lines into context.
+
+Claude processes them even when
+the useful result is just:
+
+"Installed successfully."
+
+Fix: Filter verbose output before Claude
+sees it.
+
+CODE / RULE
+
+# Block verbose output before context
+if echo "$command" | grep -qE '(pytest|EXPLAIN|ANALYZE)'; then
+    echo "Use batched/filtered output instead."
+    exit 2
+fi
+
+output before context
+
+BEFORE Verbose CLI Output
+
+$ npm install
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it.
+npm WARN deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN notsup Unsupported engine for thingies@1.5.0: wanted: {"node":">=18"} (current: {"node":"14.21.3","npm":"6.14.18"})
+npm WARN notsup Not compatible with your node version: node>=18, npm>=8
+
+added 1234 packages, and audited 1235 packages in 45s
+
+128 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Before: +18K tokens
+
+FILTER
+
+AFTER Useful Output Only
+
+$ npm install
+Installed successfully.
+
+After: only useful output
+~50 tokens
+
+Bottom line:
+Filter noise. Save tokens. Keep context clean.

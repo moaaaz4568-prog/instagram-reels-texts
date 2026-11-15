@@ -1,0 +1,33 @@
+SLIDE 12
+Skill 10:
+Skill Creator
+The
+meta-skill.
+This teaches Claude how to build its own new skills.
+Complete with:
+Evaluation criteria
+to test if the
+skill works
+Benchmarks to
+measure
+performance
+Automated tests
+to verify
+quality
+Why this matters:
+Every workflow
+you repeat can
+become a
+permanent skill.
+Every rule you
+keep explaining
+can be baked
+in once.
+Every custom
+process you follow
+can be
+automated.
+You build one custom skill. Claude follows it forever.
+This is how you stop explaining
+the same things over and over.
+github.com/anthropics/skills/tree/main/skills/skill-creator

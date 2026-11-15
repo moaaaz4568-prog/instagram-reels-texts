@@ -1,0 +1,2 @@
+Step #4
+NotebookLM builds your GTM from your sources.

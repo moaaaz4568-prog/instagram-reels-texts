@@ -1,0 +1,10 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Then, I gave it a framework instead of a prompt
+
+"Write me a YouTube script" will produce a trash script
+
+So I copied the transcript of a popular video in my niche
+
+And I asked Claude to create a script prompt I could use for my channel

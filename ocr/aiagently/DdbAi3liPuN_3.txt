@@ -1,0 +1,31 @@
+Step 03.
+TEST IT
+Let Claude handle a few leads first.
+Check the messages.
+Too long? Tell it.
+Too salesy? Tell it.
+Keep improving until it sounds like you.
+Claude
+Chat
+Cowork
+Projects
+Artifacts
+Customize
+Check my new leads and write a personal follow-up for each one.
+Claude
+Here are the follow-up messages for your new leads.
+Sarah Khan
+Hi Sarah, just wanted to follow up on your...
+Mike Johnson
+Hey Mike, I appreciate your interest in...
+Ayesha Malik
+Hi Ayesha, thanks for reaching out...
+That's a bit long. Make it shorter and more casual.
+Claude
+Got it. Here are shorter, more casual versions:
+...
+This still sounds a bit salesy. Make it more natural.
+Claude
+No problem. Here are more natural, friendly versions that sound like you:
+...
+versions

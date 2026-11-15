@@ -1,0 +1,9 @@
+Suprava Sabat
+Step 2: Build the spreadsheet
+Open Claude Code → paste the spreadsheet prompt
+Claude builds 4 tabs:
+• Sample Leads
+• Blacklist
+• InMail Queue
+• Connection Queue
+Replace sample leads with your real list.

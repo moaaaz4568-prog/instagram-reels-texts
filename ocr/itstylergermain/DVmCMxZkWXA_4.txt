@@ -1,0 +1,12 @@
+Tip #3
+UNDERSTAND THE
+Difference Between
+CLIENT & SERVER
+vs
+Code that runs in the browser is
+visible to everyone. API keys,
+database queries, and business
+logic belong on the SERVER,
+never the client.
+@itsylergermain
+save for later

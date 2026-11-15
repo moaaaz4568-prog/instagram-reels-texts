@@ -1,0 +1,71 @@
+6: PUT IT ONLINE
+MAKE
+YOUR AGENT LIVE
+FIRST:
+1 Create a private GitHub repo
+New repository
+Owner
+Repository name
+whatsapp-ai-agent
+Public
+Anyone on the internet can see this repository
+Private
+You choose who can see and commit
+Create repository
+2 Push your project to GitHub
+# Initialize (if not already)
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin git@github.com:your-username/whatsapp-ai-agent.git
+git push -u origin main
+Connect your GitHub repo
+Import the repo
+you
+whatsapp-ai-agent
+Import
+3 Add the same environment variables
+All add your env/local variables here.
+THEN:
+1 Open Vercel
+Go to vercel.com and sign in.
+vercel.com
+2 Connect your GitHub repo
+Git Repository
+whatsapp-ai-agent
+3 Add the same environment variables
+ENVIRONMENT VARIABLES
+SUPERBASE_URL
+SUPERBASE_ANON_KEY
+SUPERBASE_SERVICE_ROLE_KEY
+WHATSAPP_ACCESS_TOKEN
+WHATSAPP_PHONE_NUMBER_ID
+WHATSAPP_VERIFY_TOKEN
+4 Press Deploy
+Vercel builds and deploys your app.
+Deployment Ready
+Building
+Deploying
+Finalizing
+Deploy
+Vercel gives you a live URL.
+Your app is live!
+https://whatsapp-ai-agent.vercel.app
+NOW CONNECT THAT URL TO YOUR META WHATSAPP
+WhatsApp
+Meta Developers Webhook Setup
+Your App
+Your Live URL
+AI Agent
+WEBHOOK.
+WhatsApp AI Sales Agent is now online and ready to chat. 🎉
+You're live! Your WhatsApp AI Sales Agent is now online and ready to chat. 🎉
+NOW CONNECT THAT URL
+TO YOUR META WHATSAPP
+WhatsApp
+Meta Developers
+Webhook Setup
+Your App
+Your Live URL
+AI Agent

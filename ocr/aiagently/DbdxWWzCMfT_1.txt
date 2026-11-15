@@ -1,0 +1,11 @@
+1. First not to build manually n8n AI Agent
+n8n Just Stopped Being A Tool You Configure
+You build node by node. Connect triggers, actions, and logic one step at a time.
+You copy your customer list by hand.
+Export, paste, clean, reformat. Manual work that drains time.
+You hit send and hope nothing breaks.
+One small mistake can break the whole automation.
+n8n's MCP server can now build the whole workflow from a prompt.
+Not just run one flow you already made.
+The tool you've been configuring for years
+Follow us on Instagram @aiagentlly

@@ -1,0 +1,35 @@
+Evolution of AI Application
+(Start from Phase 1, Phase 2, Phase 3)
+Phase 1
+LLM
+Training Data
+Knowledge
+Limited to
+Pre-training
+Phase 2
+LLM
+Custom API
+Integrations
+Tool-specific
+Glue Code
+External Tool-
+Tools
+Phase 3
+LLM
+Standardized
+Interface
+Interface
+MCP Server:
+Results
+MCP Server:
+Sources
+MCP Server:
+Prompts
+Phase 1:
+Basic LLMs
+Evolution
+Phase 2:
+Agentic Frameworks
+Evolution
+Phase 3: Model
+Context Protocol

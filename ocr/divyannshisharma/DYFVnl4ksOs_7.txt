@@ -1,0 +1,9 @@
+#7
+Conversation history and task description
+Let’s build a great prompt from scratch in the console
+1. Task context
+2. Tone context
+3. Background data, documents, and images
+4. Detailed task description & rules
+5. Examples
+6. Conversation history

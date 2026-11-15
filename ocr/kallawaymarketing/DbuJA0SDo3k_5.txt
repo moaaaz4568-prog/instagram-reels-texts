@@ -1,0 +1,6 @@
+WORD 4: CONTRAST WORD
+Compares the outcome to the base state. This is the
+most important word in the entire stack.
+OUTCOME
+BASE STATE
+K

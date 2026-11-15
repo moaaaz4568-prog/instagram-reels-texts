@@ -1,0 +1,17 @@
+Step 7 →
+Core Principles
+Deep Research
+
+High-quality sources:
+Prioritize primary data and citation tables.
+
+Context matters:
+Share goals, processes, and constraints for tailored insights.
+
+Plan first: Request a research plan to align scope and method.
+
+Sources Overview Table
+
+Source (Type)	Used in Report For	Data (Years)	Alternate Sources (and Differences)
+Eurostat Structural Business Statistics - Primary official dataset (government/EU)	Provided baseline number of small and mid-sized enterprises (e.g., firms with 10-249 employees) by country to size the total addressable market.	Latest available data: 2021 (released 2023).	National statistical bureaus (e.g., DESTATIS for Germany, INSEE for France) collect similar business counts; definitions of SME size bands and update frequency may vary slightly by country. OECD enterprise statistics can also serve this purpose, though coverage and year might differ.
+UK Business Population Estimates (Department for Business & Trade) - Primary official stats (government/UK)	Supplied the number of UK businesses by size (e.g., 5.47 million small and 35,900 medium enterprises) in 2022 to contextualize the UK market sizing (post-Brexit).	Data 2022 (published Oct 2023).	ONS Business Counts (inter-Departmental Business Register) provide similar UK enterprise figures; minor methodological differences (e.g., includes some additional small firms); both sources closely align, with negligible discrepancies in totals.

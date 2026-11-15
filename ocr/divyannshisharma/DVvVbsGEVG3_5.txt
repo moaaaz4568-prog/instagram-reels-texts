@@ -1,0 +1,9 @@
+Papers:
+Links.com
+1. ReAct: https://lnkd.in/gRBH3ZRq
+2. Generative Agents: https://lnkd.in/gsDCUsWm
+3. Toolformer: https://lnkd.in/gyzrege6
+4. Chain-of-Thought Prompting: https://lnkd.in/gak5CXzD
+5. Tree of Thoughts: https://lnkd.in/gRJdv_iU
+6. Reflexion: https://lnkd.in/gGFMgjUj
+7. Retrieval-Augmented Generation Survey: https://lnkd.in/gGUqkkyR

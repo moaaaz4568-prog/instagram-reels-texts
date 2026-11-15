@@ -1,0 +1,25 @@
+Step #11
+Now I will create the folder structure and documentation in the CoworkAgents folder:
+View steps
+Now let me create the README:
+View steps
+Everything is in place. Let me provide the final summary:
+Here's what I've created in your CoworkAgents folder:
+Folder Structure
+├── kAgents/
+│   ├── AGENTS.md
+│   ├── README.md
+└── Quick start guide
+Done!
+For new sessions
+Artifacts
+AGENTS.md
+README.md
+Context
+slide04-priorit...
+slide05-roadmap...
+slide06-investmen...
+slide07-trends.html
+slide08-governance...
+Opus 4.5
+Create READMES so new sessions start fast

@@ -1,0 +1,17 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+I. Introduction to Claude
+
+• Once you have a Claude account, this is the interface:
+
+Customize your Claude (Skills & more)
+Temporary chat (ghost icon)
+Your favorites
+Coffee and Claude time?
+How can I help you today?
+Add files
+Tools
+Model selection
+Voice prompting
+Recent chats

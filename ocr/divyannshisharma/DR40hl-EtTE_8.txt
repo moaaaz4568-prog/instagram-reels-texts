@@ -1,0 +1,3 @@
+Step #8
+Filter irrelevant emails & personal emails
+Remove generic and personal emails

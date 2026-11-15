@@ -1,0 +1,27 @@
+step 4:
+build a
+notebooklm
+command
+
+1 Tell Claude Code:
+"Create a skill to use NotebookLM – it should create notebooks, add YouTube links, and generate infographics, flashcards, and summaries"
+
+2 Now Claude Code can dump research into NotebookLM with one line.
+
+create
+notebooks
+
+add
+YouTube
+links
+
+generate
+infographics
+
+create
+flashcards
+
+write
+summaries
+
+one line. endless output. ♡

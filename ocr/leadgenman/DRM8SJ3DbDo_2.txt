@@ -1,0 +1,8 @@
+How Airtop Works
+• At its core, it's an orchestration layer over three modules: the AI agent, and the cloud browser.
+• Airtop takes these three modules, optimizes the latency, manages the scaling & sessions, and orchestrates the browser actions to make it work like a human.
+• Three core components:
+Input (natural language) → AI Agent → Browser Actions
+Authenticate
+Work in the background
+Login to Your Account

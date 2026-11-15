@@ -1,0 +1,12 @@
+STEP 5
+Punit Kumar
+05 / 09
+Give the agent memory
+Without memory, every WhatsApp message can feel like a completely new conversation.
+Add conversation history to your workflow.
+FOR EXAMPLE
+Custome message
+Last 15 messages
+AI model
+Context-aware response
+Now the agent can remember what the customer was discussing and personalize its responses.

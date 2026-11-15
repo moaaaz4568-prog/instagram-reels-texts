@@ -1,0 +1,15 @@
+Divyanshu | Agentic AI Expert
+@divyanshuharma
+Step 1: Select OpenAI
+plaintext
+openclaw onboard --auth-choice openai-codex
+Onboard
+Launches the OpenClaw setup
+OAuth Login
+Opens browser to sign in ChatGPT
+Default Model
+Sets a Codex model automatically
+Why This Option
+Uses credits instead of API billing
+--auth-choice openai-codex
+• • • • •

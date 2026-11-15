@@ -1,0 +1,6 @@
+Frequency
+Stops the AI from repeating the same words too many times. If this is set high, the answer will use different words more.
+Value Range: -2 to 2.
+Use Case
+• Reduce repetitive word usage in chatbot replies for more natural conversations.
+• Encourage diverse vocabulary in creative writing to avoid monotonous phrasing.

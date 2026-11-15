@@ -1,0 +1,3 @@
+Divyanshi | Agentic AI Expert
+Built on the Ralph loop:
+Each agent runs fresh, with memory persisted via git and progress files: Ralph's loop, scaled to multi-agent workflows.

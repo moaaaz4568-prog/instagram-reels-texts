@@ -1,0 +1,24 @@
+prompt 15 →
+Extract relevant lines
+from job posting
+
+Prompt:
+Here is the content of a job offer:"[job_offer_content]"
+
+Extract the most relevant sentence from the text that discusses
+the company's prospecting challenges that my company can solve
+with their [product/service].
+My company information:
+- Product:
+- Value Prop 1:
+- Value Prop 2:
+- Value Prop 3:
+
+Prioritize extracting a sentence from the bullet points in the
+employee's job description.
+
+Do not provide explanations.
+Extract a sentence that is less than 300 words.
+If you don't find any relevant sentence, return null.
+Do not translate.
+Sentence:

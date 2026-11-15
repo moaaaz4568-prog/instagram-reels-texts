@@ -1,0 +1,70 @@
+divyanshisharma
+( 121 to 144 )
+Thinking & Reasoning
+/mental-model
+apply a named mental model
+Thinking & Reasoning
+/frameworks
+suggest relevant frameworks
+Thinking & Reasoning
+/audit
+audit my thinking for flaws
+Thinking & Reasoning
+/steel-thread
+trace single path end to end
+Thinking & Reasoning
+/probability
+assign % probability to claims
+Thinking & Reasoning
+/counterfactual
+what if the opposite were true
+Thinking & Reasoning
+/blind-spots
+what am I not seeing
+Thinking & Reasoning
+/confidence
+rate your confidence out of 10
+Thinking & Reasoning
+/next-step
+single next step only
+Productivity
+/constraints
+identify hidden constraints
+Thinking & Reasoning
+/shortcut
+fastest path to the answer
+Productivity
+/action
+only actionable items
+Productivity
+/template
+give me a template
+Productivity
+/hack
+clever workaround or trick
+Productivity
+/swipe
+give me a swipe file
+Productivity
+/prioritize
+help me prioritize this
+Productivity
+/eliminate
+what should I cut
+Productivity
+/delegate
+what should I delegate
+Productivity
+/simplify
+simplify this drastically
+Productivity
+/batch
+batch multiple tasks
+Productivity
+/automate
+what can be automated
+Productivity
+/compress
+compress into core ideas
+Productivity
+Swipe →

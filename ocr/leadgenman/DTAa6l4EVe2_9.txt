@@ -1,0 +1,13 @@
+9. AI Content Generation
+
+What It Is:
+Content at scale without building a 10-person marketing team.
+
+When To Use It:
+Daily posts, video edits, podcasts, repurposing long-form into short.
+
+Tools:
+OpusClip
+HeyGen
+ElevenLabs
+Canva

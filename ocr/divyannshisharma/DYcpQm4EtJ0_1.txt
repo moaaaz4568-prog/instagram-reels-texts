@@ -1,0 +1,36 @@
+Claude
+Work
+Notes.txt
+Terminal
+Recycle Bin
+STEP 01
+CLAUDE.AI · OPUS 4.7
+01
+NICHE ARCHITECTURE & DATA COLLECTION
+Turn Claude into a YouTube analytics expert.
+Target US/EU — higher CPM means more money per 1K views.
+Claude
+Sonnet 4.6
+"Act as an expert YouTube Analyst. Analyze the niche for the US market. Create a content plan of 10 videos. For the first video, write a detailed 8-minute script."
+Write
+Learn
+Code
+Life stuff
+Claude's choice
+THE SCRIPT MUST INCLUDE:
+Narrator text.
+Visual instructions in brackets [].
+AI image generation prompts for each block.
+Output the result in JSON format where keys are scene numbers.
+C:\Claude\analytics.exe
+> analyzing niche: "AI Tools for Productivity" --region=US
+Initializing research modules...
+Market size OK
+Top creators OK
+CPM benchmark OK
+Audience intent OK
+Generation.
+Status: Ready for content plan generation.
+start
+Claude - Opus 4.7
+10:42 AM

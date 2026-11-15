@@ -1,0 +1,13 @@
+Search & Web Access
+
+01. Tavily MCP: Search engine built specifically for AI agents. Does not return blue links. returns clean, structured, LLM-ready data. Four tools: search, extract, crawl, and sit-map. Connects as remote MCP in under one minute. The best general-purpose search tool for any agent.
+https://github.com/tavily-ai/tavily-mcp
+
+02. Brave Search MCP: Alternative search powered by Brave's independent index. Good when you want results that are not Google-dominated. Free tier available. Returns structured results with snippets.
+https://github.com/nicobailon/brave-search-mcp
+
+03. Firecraw M: Turn any website into LLM-ready data. Crawls pages, extracts content, handles JavaScript-rendered sites. Essential for any workflow that needs to process web content.
+https://github.com/mendableai/firecraw-mcp-server
+
+04. Fetch MCP (Official Anthropic): The official server for fetching web content. Simple, reliable, lightweight. Use when you just need to grab the contents of a specific URL without the overhead of a full crawling framework.
+https://github.com/modelcontextprotocol/servers/tree/main/src/fetch

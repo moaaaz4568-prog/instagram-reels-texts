@@ -1,0 +1,14 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+• Here’s a prompt example:
+
+Create a professional Excel spreadsheet (.xlsx) for: a 3-year financial plan for a LinkedIn ghostwriting agency targeting a $10M exit
+
+Context: Agency owner planning to scale and sell within 3 years. Buyer will likely value on a revenue multiple (2-4x) or EBITDA multiple (6-10x). The model should reverse-engineer the growth path needed to hit $10M.
+
+It should cover: – Exit scenario analysis: what revenue/EBITDA is needed at each multiple to reach $10M – Monthly P&L for 36 months (revenue, COGS with writers/editors, OpEx, EBITDA) – Client growth model: client count, avg retainer, churn, new clients/month – Team scaling: ghostwriters, editors, account managers, cost per head – Dashboard: current vs target gap, required MoM growth rate, ARR trajectory by chart vs each exit scenario
+
+Rules: – Use Excel formulas – never hardcoded calculations – Put editable assumptions in their own labeled cells – Blue text for inputs, black for formulas – Currency as $#,##0, percentages as 0.0% – Freeze top row, auto-fit columns
+
+●●●●●●●●●●●

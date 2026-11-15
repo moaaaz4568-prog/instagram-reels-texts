@@ -1,0 +1,14 @@
+Then You Hit ‘Execute’
+It breaks faster than you can say “automation.”
+Find
+prospect
+Find
+Pain Point
+Add
+direct CTA
+Create a workflow that scrapes content from a given URL, uses an AI model to summarize the content into 3 bullet points, then posts the summary to a Slack channel. Include error handling and retries.
+Lead qualification and call scheduling
+Summarize emails with AI
+Daily AI news digest
+Invoice processing pipeline
+Pizza delivery chatbot

@@ -1,0 +1,4 @@
+News Consolidator
+Build a news Consolidator that aggregates the latest [NICHE] news from RSS feeds and displays them in a clean feed UI. Show headline, source, publish date, and a short summary. Add filtering by topic (tools, research, business) and a dark card-based layout.
+@itstylergermain
+save for later

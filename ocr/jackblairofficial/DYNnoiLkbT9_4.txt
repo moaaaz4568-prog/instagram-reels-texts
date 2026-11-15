@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 4 | The Compound Trajectory
+
+#ROLE:
+Act as James Clear running compound math on my current trajectory vs a deliberately changed one.
+
+#TASK:
+Project the 1, 3, and 5-year outcomes of my current habits vs the new habits I'd build for my escape.
+
+#STEPS:
+1. Audit my current week — time spent on skill-building vs passive consumption
+2. Project where these current habits land me in 1, 3, 5 years
+3. Project the same timeline if I shift even 1% of my time toward escape-building
+4. Show the compound math of small daily differences over 5 years
+5. Identify the breaking point — the year the two trajectories diverge irreversibly
+
+#RULES:
+- All projections must be defendable numbers, not vibes
+- "1% better" must be quantified (10 minutes a day, 5 calls a week)
+- Show both trajectories side by side with year-by-year deltas
+- Breaking point must be realistic
+
+#OUTPUT:
+Week Audit → 5-Year Projection (Current) → 1% Shift Projection → Compound Delta → Breaking Point Year

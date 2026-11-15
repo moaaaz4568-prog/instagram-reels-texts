@@ -1,0 +1,23 @@
+pydantic-ai
+What you'll get:
+• Type-safe agent framework.
+• Simplifies building reliable and predictable AI agents.
+15
+pydantic / pydantic-ai
+Code
+Issues 436
+Pull requests 174
+Actions
+main
+137 Branches
+220 Tags
+dsfaccinin and claude Remove PyAI Conf annou
+.claude
+.gemini
+.github
+agent_docs
+clai
+docs-site
+docs
+examples
+pydantic_ai_slim

@@ -1,0 +1,35 @@
+Punit Kumar
+STEP 3
+03 / 09
+Connect WhatsApp
+Now create a Meta Developer App and select WhatsApp.
+You'll need:
+Phone Number ID
+App Secret
+Access Token
+Verify Token
+Webhook Callback URL
+These credentials allow your AI agent to receive incoming WhatsApp messages and send responses back.
+During development, you can use a Meta test number before connecting your actual business number.
+Meta
+Docs
+Tools
+Support
+Apps
+Required actions
+Apps
+Filter by
+All Apps (1)
+Archived
+Required actions
+Business portfolio
+Clear
+No business portfolio selected
+Search by App Name or App ID
+Create App
+Recently used
+App Name
+App ID
+Mode: In Development
+Type: Business
+Administrator

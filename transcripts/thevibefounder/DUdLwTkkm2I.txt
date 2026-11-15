@@ -1,0 +1,1 @@
+I'm taking all the learnings I've found about OpenCLaw and building a better OpenCLaw bot that is ten times better in memory, bug tracking, and workforce management.

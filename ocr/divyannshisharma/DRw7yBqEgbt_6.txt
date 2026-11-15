@@ -1,0 +1,11 @@
+Zapier Setup - Part 1
+The automation workflow
+Google Sheets
+1. New or Updated Spreadsheet Row
+Delay by Zapier
+2. Delay For
+Action
+3. Select the event for your Zap to run
+1 Google Sheets trigger
+2 60-minute delay
+3 Gmail send action

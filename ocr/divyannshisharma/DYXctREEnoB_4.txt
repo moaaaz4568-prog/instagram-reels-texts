@@ -1,0 +1,55 @@
+NotebookLM
+10 tools.
+03 / 18
+Video
+Generation
+Wan Video
+Open source video gen by
+Alibaba, run locally
+Video Gener...
+open weights
+HunyuanVideo
+Tencent's open source video gen,
+cinema quality
+Video Gener...
+open weights
+CogVideoX
+THUDM's open source text-to-video
+model
+Video Gener...
+open weights
+LTX-Video
+Lightricks open source fast
+video generation
+Video Gener...
+open weights
+Mochi 1
+Genmo's open source high-motion
+video model
+Video Gener...
+open weights
+Open Sora
+HPC-AI's open source Sora-like
+video gen
+Video Gener...
+open source
+Open Sora Plan
+PKU-Yuan's open source
+video generation
+Video Gener...
+open source
+CogVideo
+THUDM's original open source
+video model
+Video Gener...
+open source
+AnimateDiff
+Animate any SD image,
+open source plugin
+Video Gener...
+open source
+Stable Video Diffusion
+Stability AI's open weights
+image-to-video model
+Video Gener...
+open weights

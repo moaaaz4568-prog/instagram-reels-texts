@@ -1,0 +1,12 @@
+COLD EMAIL PLAYBOOK
+04 / 11
+3. Personalize where it changes the pitch
+USE VARIABLES WITH A JOB
+{{first_name}}
+gets attention
+{{company_name}}
+anchors the offer
+{{local_area}}
+makes the outcome relevant
+Skip fake compliments. Personalization should change the meaning of the offer.
+@atishayhyperke

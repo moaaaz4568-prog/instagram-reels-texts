@@ -1,0 +1,4 @@
+* "Here's exactly how I [got result]:" (هذه هي الطريقة بالضبط التي [حصلت فيها على النتيجة]:)
+* "This made me rethink everything." (هذا جعلني أعيد التفكير في كل شيء.)
+* "The biggest mistake I see in [niche]:" (أكبر خطأ أراه في [المجال]:)
+* "The secret nobody told me when I started___." (السرية التي لم يخبرني بها أحد عندما بدأت ___.)

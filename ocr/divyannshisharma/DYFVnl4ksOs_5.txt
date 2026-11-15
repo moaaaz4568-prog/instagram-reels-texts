@@ -1,0 +1,24 @@
+#5
+How to organise information in your prompt
+>> how to organize
+information in your prompts
+- Use delimiters to clearly distinguish
+various parts of the prompt
+- Delimiters can be anything like """,
+''' , < >, <tag> </tag>, :
+- Example:
+Summarize the text delimited by
+""""" into a few sentences.
+"""
+<text to summarize>
+</text to summarize>
+"""
+- Organize your prompt into logical
+sections using section headers
+- Example:
+Summarize the following document
+delimited by """" into a few sentences.
+"""
+<Document>
+</Document>
+"""

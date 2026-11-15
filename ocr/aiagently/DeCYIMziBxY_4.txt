@@ -1,0 +1,13 @@
+Step 4
+Turn Your RAOS
+Into a Prompt
+Give your ❄️Claude this prompt
+"I want to create a daily AI opportunity research
+system. Every day, find the newest and most useful AI
+tools, GitHub repositories, product launches,
+research, and resources. Filter out low-quality,
+duplicate, or irrelevant results. Summarize the best
+opportunities and organize them in one central place
+with the name, description, source, link, and why it
+matters."
+The clearer the prompt, the better the automation.

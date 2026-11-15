@@ -1,0 +1,11 @@
+10 Why this isn’t expensive
+Why this
+isn’t expensive.
+Claude can’t watch video on its own —
+Anthropic doesn’t have a video model yet.
+So instead of paying for an
+expensive video AI, this skill
+breaks the video into pictures
+and text — formats Claude
+already understands perfectly.
+$0.99

@@ -1,0 +1,32 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+And you can click into a task to see all the details, including the user stories (with acceptance criteria) that your agent team is cranking through ...
+
+antfarm dashboard
+feature-dev
+Add user authentication with OAuth.
+AI Assist
+Created: Tue 8:53AM Updated: Wed 8:41 AM
+setup
+implementation
+verify
+test
+dr
+review
+Stories
+6 / 13 Done
+5-1 Create OAuth provider configuration module
+5-2 Implement Google OAuth callback handler
+5-3 Implement GitHub OAuth callback handler
+
+PRE
+Add CSV export for billing ...
+Add audit logging for admin ...
+Implement SSO with SAML ...
+Add dark mode support ...
+
+REVIEW
+Add RBAC with role-based ...
+Implement SSO with SAML ...
+Add dark mode support ...

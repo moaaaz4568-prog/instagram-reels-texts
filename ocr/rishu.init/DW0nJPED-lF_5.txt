@@ -1,0 +1,25 @@
+My Exact Workflow
+What I do before every single build.
+
+BEFORE YOU START
+01 Identify your build type
+App, landing page, component, or dashboard. The type tells you which site to open.
+
+FIND REFERENCE
+02 Go to the right site
+Use this carousel as your cheat sheet. Match site to build type. Takes 30 seconds.
+
+COLLECT INPUT
+03 Screenshot 3 references
+Pick 3 examples closest to your vision. Do this BEFORE opening Cursor or Claude.
+
+GIVE CONTEXT
+04 Drop into your AI tool
+Attach screenshots. Say: match this design style. AI now has visual context, not just words.
+
+FINAL CHECK
+05 Ship and compare
+Compare result to reference. Iterate once. The improvement will surprise you every time.
+
+@rishu.init
+Swipe

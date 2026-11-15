@@ -1,0 +1,13 @@
+Tip 2 - Test
+May 27, 19:16:25
+Succeeded in 2.606s
+May 27, 18:39:45
+Succeeded in 203ms
+May 27, 18:39:42
+Succeeded in 1.683s
+May 27, 18:39:02
+Error in 1m 11.518s
+Always Test your automation at least
+20 times before publishing it into a
+business, Catching them early saves
+you time and API credits.

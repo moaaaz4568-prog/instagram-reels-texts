@@ -1,0 +1,21 @@
+downloads youtube -> finds video editing customers
+07 / 20
+GitHub
+public repository
+yt-dlp / yt-dlp
+Public
+180k
+Fork
+Star 180k
+Python
+★ 180k
+WHAT IT DOES
+command line downloader
+for youtube audio and video.
+WHO TO MINE IT FOR
+people pulling video in bulk
+are creators drowning in
+footage. sell them editing.
+THE EXACT LINK
+github.com/yt-dlp/yt-dlp/stargazers
+● the github method

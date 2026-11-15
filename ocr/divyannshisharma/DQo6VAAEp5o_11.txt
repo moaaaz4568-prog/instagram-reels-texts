@@ -1,0 +1,15 @@
+Step 8 →
+Deep Research
+Use Cases
+Project guides: Create playbooks like lead scoring.
+Website audits: Review pages and suggest improvements.
+Competitor analysis: Scrape ads and docs to find gaps.
+Market ranking: Rank regions or industries for expansion.
+Example Project
++ New chat in Example Project
+Add files
+Chats in this project can access file content
+Add instructions
+Tell the way ChatGPT responds in this project
+Add the initial context and any report you generate
+Add custom instructions (e.g. on report format) so you don't have to repeat them

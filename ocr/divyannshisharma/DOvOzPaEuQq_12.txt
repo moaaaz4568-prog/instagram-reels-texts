@@ -1,0 +1,9 @@
+1
+Click the plus (+) sign
+Add agents just like new steps.
+4. SEO blog writer
+Agent
+blog writer
+5. Blog Editor/Refiner
+Agent
+Editor/Refiner

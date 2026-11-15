@@ -1,0 +1,19 @@
+Skill Set 09
+Optimization
+DESCRIPTION
+Focuses on improving how AI handles context to boost performance and reduce costs. By applying techniques like token reduction, prompt structuring, and KV-cache optimization, it ensures faster responses, better accuracy, and more efficient use of resources in large-scale AI workflows.
+MORE INFO
+https://lnkd.in/gEPPjbZg
+muratcankoylan / Agent-Skills-for-Cont
+Code Issues 6 Pull requests 11
+main 30 Branches
+muratcankoylan Merge pull requ
+claude-plugin
+plugin
+docs
+examples
+researcher
+skills
+template
+.cursorindexingignore
+.gitignore

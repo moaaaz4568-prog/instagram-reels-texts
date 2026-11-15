@@ -1,0 +1,10 @@
+Set Your Weekly Review Day
+You check in once a week. The agent
+does the rest.
+CHECKLIST:
+☐ Check which posts hit 10k+ views
+☐ Note which CTAs drove the most
+downloads
+☐ Update agent prompt with this week’s winners
+Example: Friday mornings, 15 min review, agent handles the rest
+7

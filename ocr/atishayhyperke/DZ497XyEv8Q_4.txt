@@ -1,0 +1,3 @@
+Step 4: Write the campaign with Claude
+I give Claude my offer, my ICP, and the enriched data.
+It writes email 1, follow-up 1, follow-up 2, and a few angle variations. I review the output and rewrite any line that feels generic.

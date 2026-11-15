@@ -1,0 +1,19 @@
+Skill Set 16
+Obsidian Skills
+DESCRIPTION
+Developed by Obsidian's CEO, this skill enhances your personal knowledge management system with intelligent features like auto-tagging, auto-linking, and deep vault-native integration. It helps you build a connected "second brain," where ideas are seamlessly organized, interlinked, and easily retrievable for long-term thinking and productivity.
+kepano / obsidian-skills Public
+Code Issues Pull requests
+main 1 Branch 0 Ta
+kepano Update SKILL.md
+claude-plugin
+skills
+LICENSE
+README.md MIT license
+README.md
+Agent Skills for use with Obsid
+These skills follow the Agent Sk
+code and Codex CLI.
+MORE INFO
+https://github.com/kepano/
+obsidian-skills

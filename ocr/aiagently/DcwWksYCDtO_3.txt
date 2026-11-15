@@ -1,0 +1,49 @@
+3. CONNECT WHATSAPP
+NOW CONNECT
+YOUR WHATSAPP
+Go to
+Meta for Developers
+https://developers.facebook.com
+1
+Create an app
+Click "Create App"
+and fill in your details.
+2
+Choose
+WhatsApp /
+Business Messaging
+Select the product
+for your app.
+3
+Add a phone number
+Add your business
+phone number and
+verify it.
+Then copy these 3 things:
+1
+Phone Number ID
+Unique ID for your
+WhatsApp number.
+123456789012345
+2
+Access Token
+Token that gives your
+app access.
+EABsbCSzXXXXXXXXXXXX
+XXXXXXXXXXXX
+3
+Verify Token
+Custom token to verify
+webhook requests.
+my-verify-token-123
+Put them inside your
+.env.local file.
+These keys let your app
+talk to WhatsApp.
+.env.local
+1 WHATSAPP_PHONE_NUMBER_ID=123456789012345
+2 WHATSAPP_ACCESS_TOKEN=EABsbCSzXXXXXXXXXXXX
+XXXXXXXXXXXX
+3 WHATSAPP_VERIFY_TOKEN=my-verify-token-123
+4 NODE_ENV=development
+You're now connected. Your app can send and receive messages on WhatsApp.

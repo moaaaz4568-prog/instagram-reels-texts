@@ -1,0 +1,7 @@
+/schedule
+Schedules a prompt to run at a future time or
+on a recurring interval. Useful for automating
+periodic tasks like deployment checks or status
+polls without you having to be present.
+@itstylergermain
+save for later

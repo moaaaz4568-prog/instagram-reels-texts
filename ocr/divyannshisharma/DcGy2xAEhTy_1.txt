@@ -1,0 +1,26 @@
+Connector 1:
+Higgsfield
+(what it does)
+
+HIGGSFIELD • THE LINEUP
+We go from one image to a finished ad
+Six use cases, in order. They get crazier as we go.
+
+1. Basic Images
+One prompt, one image
+
+2. Explainer Infographic
+A full stats poster from one prompt
+
+3. Product shots
+Plain photo in, styled shots out
+
+4. Listing infographic
+The Amazon-listing look
+
+5. UGC video ad
+An AI actor holding your product
+
+Higgsfield gives Claude the power to make images and video ads — from inside the chat.
+One image. One prompt. It goes from basic photo → explainer infographic → product shot → listing graphic → UGC video ad.
+No designer. No studio.

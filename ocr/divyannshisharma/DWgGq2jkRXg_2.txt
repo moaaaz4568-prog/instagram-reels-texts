@@ -1,0 +1,13 @@
+1M Context Window
+at Standard Pricing
+
+No surcharges, no fine print.
+
+Flat pricing — Same rate for 9K or 900K tokens. Premium tier gone as of March 13.
+750K words of context — Codebases, contracts, datasets, all in memory at once.
+6x media limit — 600 images/PDF pages per request. On Claude Platform, Microsoft Foundry, Google Cloud Vertex AI.
+Simpler workflows — Skip the chunking. One team actually used fewer tokens by loading more context.
+
+@divyanshisharma
+
+save for later

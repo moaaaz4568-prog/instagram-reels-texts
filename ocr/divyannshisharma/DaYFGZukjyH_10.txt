@@ -1,0 +1,15 @@
+Slide 11
+Why
+this matters.
+Now if you ask Claude Code
+about "sub agents," it doesn't
+just search for the word.
+It already knows what
+sub agents connect to –
+like "agent teams" –
+because it has the map.
+It understands the
+WHY, not just
+the WHAT.
+It's not just search.
+It's understanding.

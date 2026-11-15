@@ -1,0 +1,13 @@
+03 / 11
+Resources
+03
+Awesome
+Claude Code
+The definitive list of Claude Code tip
+Community-curated awesome list of Claude Code resources, slash commands, hooks, agent patterns and real-world
+examples.
+Community Picks
+Hooks & Cmds
+Agent Patterns
+github.com/mre/awesome-claude-code
+03

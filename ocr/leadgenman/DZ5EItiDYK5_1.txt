@@ -1,0 +1,6 @@
+#1
+Claude Code
+(Agentic Coding Tool)
+I use it to develop part of the app's code.
+Rule #1: You must understand the architecture and dependencies. Don't 'vibe code' everything.
+Conduct security and technical audits with a CTO.

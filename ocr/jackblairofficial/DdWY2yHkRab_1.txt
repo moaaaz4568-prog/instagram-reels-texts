@@ -1,0 +1,21 @@
+* what I built
+02 / 07
+I call it
+The Unpaid Intern.
+It runs on OpenClaw, a free open-source AI agent.
+What I built on top is
+the part that makes it sell.
+COST
+$0
+SETUP
+One
+evening
+CRM NEEDED
+None
+local
+$ openclaw agent --local
+> I'm about to lose
+because I forgot to follow up.
+reading pipeline.csv ... 20 open deals
+@jackblairofficial
+SWIPE →

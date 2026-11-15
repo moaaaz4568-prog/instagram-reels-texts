@@ -1,0 +1,7 @@
+7. Production System
+• Turning notebooks into real services
+• Deployment
+(Streamlit for quick prototypes) • Cloud platforms: AWS / GCP / Azure • Guardrails & safety layers • Parallel processing
+Production & Deployment
+Build, deploy, and operate reliable AI systems at scale
+Swipe →

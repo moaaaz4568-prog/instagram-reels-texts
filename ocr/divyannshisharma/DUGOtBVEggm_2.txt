@@ -1,0 +1,8 @@
+Step #2
+From emerging GitHub repos → real MVP ideas
+Browse interesting projects, understand why they work, and break them down
+into buildable MVPs.
+You can also replace "hub" with "MVP" in any repo url
+https://github.com/supabase/supabase
+Paste repo link into GitMV
+GitMV

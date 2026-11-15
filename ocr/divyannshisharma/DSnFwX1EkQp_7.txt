@@ -1,0 +1,20 @@
+Step #7
+Red Bulk Video Creator
+Red Bulk
+What's your 30-day goal?
+What is your 30-day fitness goal?
+e.g., "Build upper body strength and add muscle mass to my legs..."
+30-Day Strength & Power
+Videos
+30-Day Pure Hypertrophy
+Videos
+30-Day Lean Bulk
+Maintenance Videos
+Find My Workout Videos
+ected from this app as a text payload to this
+https://ryan2sho.app.n8n.cloud/webhook-
+e-4d99-92c5-a47b603805f9
+Send prompt
+Copy Google AI Studio webhook
+URL and paste the
+data

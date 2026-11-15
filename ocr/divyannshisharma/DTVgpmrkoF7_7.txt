@@ -1,0 +1,23 @@
+Step #7
+Usage
+API keys
+Top up
+Billing
+Docs
+FAQ
+Pricing
+Integration
+Contact us
+Your API keys are listed below. The API key is only visible and can be copied once as it in the browser or other client-side code. In order to protect with others, or expose any API key that we've found has leaked publicly. Usage of API
+Name
+n8n-demo
+n8n-demo-v2
+deepseek-aiagent
+n8n-andylo
+Key
+sk-5667*******************************ebbf
+sk-1b9d4*******************************f90e
+sk-f186d*******************************6350
+sk-b175a*******************************32cd
+Create new API key
+Simple API setup - no coding required

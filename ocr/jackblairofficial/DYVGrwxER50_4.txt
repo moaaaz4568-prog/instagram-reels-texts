@@ -1,0 +1,27 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 4 | That's The Right Moment
+
+#ROLE:
+Act as Chris Voss building the summary that gets the prospect to say 'that's right' instead of 'you're right,' since 'you're right' is the polite no.
+
+#TASK:
+Write the 60-second summary I deliver at the peak of the call that restates the prospect's situation in their language and earns full agreement.
+
+#STEPS:
+1. Tell me the prospect's stated problem, their goal, and the obstacle they've named
+2. Write a 60-second summary that restates all three in their words, not mine
+3. Build in 2 labels and 1 mirror within the summary
+4. End with a statement (not a question) that compresses everything to one truth
+5. Plan what to do in the silence after they say "that's right"
+
+#RULES:
+- Use their words. Not your translation
+- "That's right" means full understanding has been reached
+- "You're right" means they want you to stop talking, and the deal is dying
+- The summary must include both their pain and their goal, side by side
+- After "that's right," you go silent. Then you close
+
+#OUTPUT:
+Prospect's Pain → Prospect's Goal → 60-Second Summary → 2 Labels → 1 Mirror Inside → Closing Line After "That's Right"

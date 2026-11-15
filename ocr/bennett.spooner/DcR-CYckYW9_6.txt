@@ -1,0 +1,25 @@
+07 / 11 01 CONTEXT
+// BENNETTOS
+// TOKEN OPTIMIZATION • 01 CONTEXT
+STARVE THE CONTEXT WINDOW.
+
+01 ISOLATE, DON'T ACCUMULATE
+Stateless sub-agents measured 9K tokens where an accumulating pattern burned 15K. Same answer, 40% less.
+
+02 CAP THE RETURN, NOT THE WORK
+Explore for 50k tokens; report in 1,500. The exploration is disposable. The summary is what you carry.
+
+03 OFFLOAD TO DISK
+Plans, findings and tool dumps go to files; the window holds pointers. The plan survives a truncation.
+
+04 COMPACT EARLY, ON PURPOSE
+Auto-compaction fires near 85%. Recall is already degraded. Compact at task boundaries, from ~50%.
+
+05 MAP FIRST, READ NARROWLY
+A repo map to orient; full source only for files being edited. Grep is a worker's job, not the conductor's.
+
+@bennettos
+SWIPE →
+SWIPE →
+@bennettos
+SHIPE –

@@ -1,0 +1,13 @@
+6. RAG
+(Retrieval-Augmented Generation)
+
+What It Is:
+Teaching AI to pull from your data instead of
+making things up.
+
+When To Use It:
+Customer support, sales enablement, internal
+knowledge - anywhere accuracy matters.
+
+Tools:
+Pinecone LlamaIndex Haystack Milvus

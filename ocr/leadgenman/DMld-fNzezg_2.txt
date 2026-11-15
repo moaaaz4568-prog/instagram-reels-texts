@@ -1,0 +1,18 @@
+الجزء الظاهر في واجهة البرنامج (من الأعلى للأسفل):
+
+- Lead... + Add tag
+- Inactive
+- Editor Executions Evaluations
+- Set pagination
+- Split Out
+- Loop Over Comments
+- Aggregate Comments
+- Gather All Comments
+- Run Apify Comment Scraper Loop
+
+النص الظاهر في مربعات الشرح (من الأعلى للأسفل):
+
+- -Now we send those post URLs to Apify.
+- - It scrapes up to the first 100 comments from each LinkedIn post.
+- -We collect and store the comments before deciding if more runs are needed.
+- -This part is powered by using your Apify token. an API request with your Apify token.

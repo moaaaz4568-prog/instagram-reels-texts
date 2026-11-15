@@ -1,0 +1,3 @@
+THE BEST PART
+Every morning, it monitors for new outlier videos, analyzes their hooks, and automatically updates your database creating a self-improving hook generator.
+hook builder tool in action!

@@ -1,0 +1,6 @@
+Email Automation
+#16 Client Update Generator Weekly automated project updates. Claude pulls progress from your task tracker, summarizes what’s done and what’s coming. Professional. Ready to send.
+#17 Slack Digest Daily summary of important Slack conversations. Claude filters the noise and gives you the 10 things you actually need to know.
+#18 Rejection Letter Personalizer Need to decline something? Claude drafts a polite professional rejection that actually acknowledges the specific request. Thoughtful in 30 seconds.
+#19 Thank You Note Writer After any meeting or collaboration Claude drafts a personalized thank-you that references specific things discussed. Makes a lasting impression with zero effort.
+#20 FAQ Auto-Responder Builder Feed Claude your most common incoming questions. It groups them, writes clear answers, and produces a complete FAQ document ready to publish.

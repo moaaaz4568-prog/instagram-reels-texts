@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Install:
+Tell your OpenClaw agent ...
+bash
+install github.com/snarktank/antfarm
+One command provisions everything: Agent
+workspaces, cron polling, subagent permissions.
+→

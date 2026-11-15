@@ -1,0 +1,60 @@
+TOP TOOL #8
+#8: Agentic Inbox
+An email app where AI reads
+and replies to your emails for you.
+08
+Built by Cloudflare
+(a huge tech company)
+AI agent drafts
+replies for you
+Your emails never
+leave your own
+account.
+One click to set up.
+AI Reads &
+Understands
+Drafts Replies
+for You
+100% Secure
+Built by
+Cloudflare
+One Click
+Setup
+Your inbox.
+On autopilot.
+cloudflare
+agentinc-inbox
+About
+A self-hosted email client with an AI
+agent, running entirely on Cloudflare
+Workers
+Readme
+Apache-2.0 license
+Code of conduct
+Contributing
+Security policy
+Activity
+Custom properties
+3.8k stars
+19 watching
+505 forks
+Report repository
+Releases
+No releases published
+Agentic Inbox
+AI that handles your email.
+Private. Secure. Efficient.
+Reads
+Your Emails
+Drafts Smart
+Replies
+Never Leaves
+Your Account
+Built by
+Cloudflare
+One Click
+Setup
+github.com/cloudflare/agentic-inbox
+AI that works.
+You stay in
+control.

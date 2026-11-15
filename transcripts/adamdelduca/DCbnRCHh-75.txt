@@ -1,0 +1,1 @@
+transcribe the speech in this audio word for word. output only the spoken words in their original language. no descriptions, no commentary, no chinese text.

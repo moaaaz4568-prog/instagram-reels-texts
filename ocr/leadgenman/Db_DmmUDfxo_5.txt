@@ -1,0 +1,19 @@
+SKILL
+typeui
+DESCRIPTION
+A registry of 90 named styles you pull in with one command. Apple, Stripe, Linear, Notion, Brutalist, Glassmorphism. You lock the look once and your buttons stop drifting by the third prompt.
+typeui.sh/design-skills
+Design Skills
+Prompts
+TypeUI
+Design Skills for AI
+Browse 90 design skills and use them to give Claude, Code other AI coding tools a consistent visual direction for generate
+Search 90 design skills...
+Analytics Infrastructure for teams
+3 4.6k
+Atlas
+Vertical
+Run encrypted workflows without the enterprise tax
+Climate software tea
+MORE INFO
+https://www.typeui.sh/design-skills

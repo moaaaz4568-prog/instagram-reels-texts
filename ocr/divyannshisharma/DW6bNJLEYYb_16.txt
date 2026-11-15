@@ -1,0 +1,32 @@
+Command Prompt + - X
+to advocate for *more* technology funding."
+2. =*Determine the Audience & Context:* The principal is focused on the overall budget (constraints, needs, strategic vision). The questions must be professional, data-informed, and align with educational outcomes, not
+just "we want new gadgets."
+3. =*Identify Key Areas of Tech Investment (The "Why"):* *Why* does tech funding matter?
+    - Student Learning Outcomes (Improved grades, skills)
+    - Teacher Effectiveness/Professional Development (Training, modern tools)
+    - Equity/Access (Closing the digital divide)
+    - Sustainability/Infrastructure (Replacing old equipment, maintaining networks)
+4. =*Draft Questions (focusing on the "Smart" Anglo):* As a start, question doesn't ask *if* they can afford it; it
+ask *how* and *why* (aligning tech with existing priorities)
+    - *Attempt 1 (Focus on outcomes):* How can tech help us improve grades? (Too weak/vague)
+    - *Refinement 1 (Add specificity):* Link specific learning goals to tech solutions and ask about measurable ROI.
+    (This is more useful.)
+    - *Attempt 2 (Focus on infrastructure/sustainability):* Will our current computers last? (Too
+maintenance-focused)
+    - *Refinement 2 (Strategic planning):* Ask about the long-term plan and necessity for upgrades vs. new
+purchases. *Attempt 3 (Focus on people/teachers):* Do teachers know how to use it? (Sounds accusatory)
+    - *Refinement 3 (Professional development):* Frame ED as a "strategic investment" that enables higher tech
+utilization. (Shifts focus from people to capacity.)
+    - *Attempt 4 (Focus on equity/the gap):* Does every student have access? (Good, but needs depth)
+    - *Refinement 4 (Equity and modern needs):* Focus on advanced skills and closing the digital divide for
+all students.
+    - *Attempt 5 (The big picture/ROI):* How does this fit into the school's overall 5-year plan? (Forces the
+principal to commit to a strategy.)
+5. **Review and Categorize the 5 Final Questions:**
+Step 16
+Run It From Terminal
+ollama run gemma4 → type your prompt →
+get structured answers instantly
+Divyanshisharma
+17/18

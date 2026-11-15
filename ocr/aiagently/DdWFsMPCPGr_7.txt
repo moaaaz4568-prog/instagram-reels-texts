@@ -1,0 +1,36 @@
+Step 7
+Give Your Agent Your Business Knowledge
+Create a system prompt file inside your project and give your agent everything it needs to know.
+
+What is a system prompt?
+It's a file that tells your agent who it is, what to do, and how to behave.
+
+Your Project
+system-prompt.txt
+src
+config
+data
+logs
+
+What to include:
+Business details
+Name, type, tagline, short description
+Services & pricing
+What you offer and how much it costs
+Opening hours
+When you're available
+Location
+Address and area coverage
+Policies & FAQs
+Rules, terms, common questions
+Brand voice
+Tone, style, and how you want to sound
+Booking rules
+How to schedule, confirm, and follow up
+
+The best part?
+Update the system prompt anytime without rebuilding your entire application.
+
+Prompt anytime your entire application.
+
+Your business knowledge changes. Your agent adapts.

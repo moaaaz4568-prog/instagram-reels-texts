@@ -1,0 +1,20 @@
+4. Download the right skills
+
+Use the repository to find the skills you need for planning, writing, research, and creative work.
+
+Available Skills
+
+| Skill | Description |
+|---|---|
+| ab-testing | When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program... |
+| ad-creative | When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad... |
+| ads | When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X... |
+| ai-seo | When the user wants to optimize for AI search engines, get cited by LLMs, or appear in AI-generated answers... |
+| analytics | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions... |
+| aso | When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions 'ASO'... |
+| churn-prevention | When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or... |
+| co-marketing | When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership opportunities. Use... |
+| cold-email | Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails... |
+| community-marketing | Build and leverage online communities to drive product growth and brand loyalty. Use when the user wants to create a... |
+
+Download the skills that match your workflow.

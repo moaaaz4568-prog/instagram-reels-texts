@@ -1,0 +1,17 @@
+6. Mistral
+The Open-Source European
+privacy-
+focused AI.
+Best for: Developers, researchers, and privacy-
+focused organisations.
+Strengths:
+• Fully open-source, meaning you can run it on
+your own servers for security.
+• Strong performance in generating code across
+over 80 languages and solving mathematical
+problems.
+• Fast, transparent, and ideal for sensitive data.
+Keep in mind: Not yet as fluent in creative or
+emotional writing as Claude or ChatGPT.
+Use it when you care about privacy, independence,
+and running AI your own way.

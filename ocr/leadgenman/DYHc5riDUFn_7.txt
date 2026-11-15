@@ -1,0 +1,23 @@
+settings.json
+The control panel.
+You control:
+• Which tools Claude can use
+• Which model. Permissions per directory.
+• Hook registry. Output style. Statusline.
+One file. Everything Claude is allowed to do.
+1 {
+2   "model": "claude-opus-4-7",
+3   "permissions": {
+4     "allow": [
+5       "Bash(npm run *)", "Bash(git *)",
+6       "Read", "Edit", "Glob", "Grep"
+7     ],
+8     "deny": ["Bash(rm -rf *)"]
+9   },
+10  "hooks": {
+11    "PostToolUse": [".claude/hooks/format.sh"]
+12  },
+13  "outputStyle": "terse",
+14  "statusLine": ".claude/statusline.sh"
+15 }
+16 # Permissions, model, hooks. All here.

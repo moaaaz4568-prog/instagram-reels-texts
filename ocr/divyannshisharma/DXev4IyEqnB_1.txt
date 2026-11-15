@@ -1,0 +1,15 @@
+Step 1: Setup
+Claude web with Pro subscription.
+No API. No Claude Code in the terminal
+and no custom integrations.
+1 Research 15m
+2 Content Research 5m
+3 GitHub Scanning 2 afternoons
+4 Data Analysis 20m
+5 Competitor Analysis 15m
+6 Code Review 15m
+7 Content Repurposing 20m
+8 Email Drafting 5m
+9 Morning Briefing 5m
+10 Weekly Review 30m
+Swipe →

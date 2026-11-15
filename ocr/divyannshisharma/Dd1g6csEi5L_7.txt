@@ -1,0 +1,4 @@
+7.
+github.com/mikf/gallery-dl
+
+Download entire galleries, whole accounts, full archives of images from hundreds of sites in one command, with every caption and piece of metadata intact. The bulk archiver people don't realize exists until they need to save something before it vanishes.

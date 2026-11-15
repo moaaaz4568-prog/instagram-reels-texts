@@ -1,0 +1,39 @@
+The Core Concept
+A smarter workspace
+that works for you.
+
+Source Control
+GitHub
+Connected as purpledizzy67 to repositories accessible in organizations: purpledizzy67
+Manage
+GitLab
+Connect GitLab for Cloud Agents, Bugbot and enhanced codebase context
+Connect
+Azure DevOps
+Connect Azure DevOps for Cloud Agents and enhanced codebase context
+Connect
+Bitbucket Cloud
+Connect Bitbucket Cloud for Cloud Agents, Bugbot and enhanced codebase context
+Connect
+Bitbucket Data Center
+Ask a team admin to connect an instance
+Team Admin Required
+Integrations
+Slack
+Work with Cloud Agents from Slack
+Connect
+Microsoft Teams
+Work with Cloud Agents from Microsoft Teams
+Connect
+Linear
+Connect a Linear workspace to delegate issues to Cloud Agents
+Connect
+Jira
+Connect a Jira site to delegate issues to Cloud Agents
+Connect
+Sentry
+Use Sentry issue events in Automations
+Connect
+
+Instead of constant context-switching, I customized Cursor around my existing engineering workflow using 3 Plugins and 3 Automation Templates.
+It reads real activity signals to prepare my workspace proactively.

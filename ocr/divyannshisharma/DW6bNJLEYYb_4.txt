@@ -1,0 +1,6 @@
+Step 4
+Pick The Size That Fits
+E2B (5GB RAM) · E4B (8GB) · 26B (16-20GB)
+· 31B (20GB+) - most people start with E4B
+Divyanshsharma
+05/18

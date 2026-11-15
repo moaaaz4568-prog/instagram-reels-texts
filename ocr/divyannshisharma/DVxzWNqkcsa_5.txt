@@ -1,0 +1,2 @@
+Step 5: Scrape
+A custom skill uses yt-dlp to pull video titles, creators, views, and dates.

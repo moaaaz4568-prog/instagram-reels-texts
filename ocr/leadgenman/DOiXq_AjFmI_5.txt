@@ -1,0 +1,12 @@
+Switch
+Similar to if, but evaluates multiple conditions and
+directs the workflow into different branches
+based on matches.
+Use cases:
+• Classify products: Route items differently
+depending on their category.
+• Handle HTTP status codes: Process 200, 404, or
+500 API responses differently.
+Switch
+mode: Rules
+Switch

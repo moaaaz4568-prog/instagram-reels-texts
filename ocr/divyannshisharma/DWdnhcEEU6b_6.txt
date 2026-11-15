@@ -1,0 +1,26 @@
+Claude Code
+6. Everything Claude Code
+https://github.com/affaan-m/everything-claude-code
+affaan-m / everything-claude-code Public
+Code Issues 84 Pull requests 58 Discussions Actions Projects Security Insights
+main 8 Branches 12 Tags
+Go to file
+affaan-m Merge pull request #947 from chris-yau/fix/llm-shell-script-permissions c06b9fe · 1 hour ago
+.agents/skills
+.claude-plugin
+.claude
+codex
+.cursor
+.github
+kiro
+.opencode
+agents
+feat(rules): add C# language support (#704)
+fix: bump plugin.json and marketplace.json to v1.9.0
+feat(rules): add C# language support (#704)
+fix: safe Codex config sync — merge AGENTS.md + add-only ...
+feat: add block-no-verify hook for Claude Code and Cursor (#...
+fix(s): restore validation and antigravity target safety
+Add kiro steering files, hooks, and scripts (#812)
+perf(hooks): move post-edit-format and post-edit-typecheck ...
+feat(agents): add flutter-reviewer agent and skill (#716)

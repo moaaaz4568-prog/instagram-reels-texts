@@ -1,0 +1,10 @@
+LAM (Large Action Model)
+Input Processing
+Perception System
+Intent Recognition
+Task Breakdown
+Action Planning
+Action Execution
+Feedback Integration
+Neuro-Symbolic Integratic
+Memory System

@@ -1,0 +1,6 @@
+Personalize Your
+Email
+To: [Email from spreadsheet]
+From Name: Your Name
+Subject: [FirstName], get 2/week
+Body: Your personalized email

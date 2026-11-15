@@ -1,0 +1,11 @@
+System Strategy: The Digital Atelier
+& Creative North Star
+1. Overview
+Core Principles
+2. Colors & Scale
+The "No-Line" Rule
+Surface Hierarchy
+Glass & Gradient Rule
+Step 10: DESIGN.md
+Colors, typography, surface hierarchy,
+glass rules, component logic.

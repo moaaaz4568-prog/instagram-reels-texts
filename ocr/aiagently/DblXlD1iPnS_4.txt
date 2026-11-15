@@ -1,0 +1,28 @@
+AI AGENTLY
+Step 4: Get Your API Credentials
+
+Key
+You will typically work with credentials and IDs such as:
+
+Access Token
+Your permission to make API requests.
+
+Phone Number ID
+Identifies the WhatsApp number you're sending messages from.
+
+WhatsApp Business Account ID
+Identifies the WhatsApp business account.
+
+Webhook
+The URL where Meta sends incoming events/messages.
+
+Think about it like this:
+Token = Permission
+Phone Number ID = Your WhatsApp number
+Business Account ID = Your business
+Webhook = Where WhatsApp sends incoming messages
+
+Keep all credentials private.
+
+Your all in one
+Growth Partner

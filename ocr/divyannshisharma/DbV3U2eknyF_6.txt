@@ -1,0 +1,11 @@
+Project 3:
+AI-Optimized
+Public Profile.
+
+A website made for humans AND robots.
+
+4 things that make a site AI-readable:
+→ Clean semantic HTML
+→ Clear meta descriptions on every page
+→ Ilms.txt (a cheat-sheet just for AI)
+→ robots.txt at the root

@@ -1,0 +1,16 @@
+10. LLM Ops/Observability
+
+What It Is:
+Controlling cost, accuracy, and performance
+across the AI you use.
+
+When To Use It:
+Once AI becomes core to your operations
+and you need visibility on ROI.
+
+Tools:
+Arize AI
+Langfuse
+Helicone
+Weights &
+Biases

@@ -1,0 +1,7 @@
+Step 2 – Build or Source the Agent:
+Use tools n8n to create an AI that:
+✅ Answers leads instantly
+✅ Books calls or appointments
+✅ Sends reminders or follow-ups
+✅ Handles 80% of boring tasks
+AI Agently

@@ -1,0 +1,6 @@
+What this claude system does:
+
+• Finds leads on Linkedin
+• Sends connection requests & InMails
+• Classifies cold email replies
+• Runs autonomously

@@ -1,0 +1,66 @@
+3. AI Agents
+
+• Tool calling (LLMs that can act, not just respond) • Agent loop: think → act → observe → repeat • Frameworks: LangChain, PydanticAI, OpenAI Agents SDK, Google ADK • MCP
+• Multi-agent systems (routing, coordination, pipelines)
+• Projects: Web research agent, Data extraction pipeline, Multi-agent workflow
+
+Practice projects: Web research agent, Data extraction pipeline, Multi-agent workflow
+
+X □ —
+AI agents perceive, reason, act, and learn in a continuous loop to achieve goals.
+
+1. Think (Reason)
+Understand the goal, analyze context, and decide what to do next.
+
+2. Act (Tool Use)
+Use tools, APIs, or plugins to take action in the environment.
+
+3. Observe (Results)
+Observe the results, evaluate outcomes, and update the agent’s understanding.
+
+4. Reflect (Learn)
+Evaluate outcome, learn from feedback, and refine strategy.
+
+Memory
+Stores context, history, and knowledge for better decisions.
+
+Search
+Web / Docs Search
+
+Database
+Query Databases
+
+API
+Call External APIs
+
+Code Executor
+Run Code / Scripts
+
+File System
+Read / Write Files
+
+Email / Slack
+Send Messages
+
+Analytics
+Generate Reports & Insights
+
+More
+Custom Tools & Integrations
+
+Autonomous
+Works independently towards goals
+
+Efficient
+Completes complex tasks faster
+
+Adaptive
+Learns and improves over time
+
+Reliable
+Uses memory and feedback to reduce errors
+
+Extensible
+Connects with any tool, API, or data source
+
+Swipe →

@@ -1,0 +1,21 @@
+Step 4
+
+agents/
+the specialists.
+named experts you summon.
+
+commands/
+the shortcuts.
+/deploy, /review, your repeatable moves.
+
+.claude/
+
+hooks/
+the safety rails.
+scripts that fire before and after edits.
+
+skills/
+the playbooks.
+reusable how-tos it loads on demand.
+
+Hire the team – four folders turn each assistant into a crew that knows your rules.

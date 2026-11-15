@@ -1,0 +1,15 @@
+AIANALYST
+One address. Five AI agents. One investment decision.
+claude-code - bash
+> /realestate analyze 123 Main St
+// Initializing AI Real Estate Team...
+Running 5 parallel agents
+Comparable Sales · weight 25%
+Rental Income · weight 20%
+Neighborhood · weight 20%
+Investment Strategy · weight 20%
+Market Conditions · weight 15%
+Chief Analyst synthesizing...
+Score: 87/100 – STRONG BUY
+// Report ready · PDF generated
+3 swipe

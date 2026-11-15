@@ -1,0 +1,22 @@
+Step 4: Packaging
+Ask Claude to generate multiple
+title iterations
+Then use the most compelling
+one
+
+Give me 10 title iterations for the video: Why Are Road-Trains Only Found In
+Australia?
+
+Evaluated title formulas and crafted curiosity-driven iterations.
+Here are 10 iterations, mixing curiosity gaps, specificity, and contrast hooks:
+
+1. Why Road-Trains Only Exist in Australia
+2. The Real Reason Australia Has 50-Meter Trucks (And No One Else Does)
+3. Why America Banned the Trucks Australia Lives On
+4. Australia’s 4-Trailer Monster Trucks, Explained
+5. Why You’ll Never See a Road-Train Outside Australia
+6. The Trucks So Big, Only Australia Allows Them
+7. Why Australia Needs Road-Trains (And the World Doesn’t)
+8. The Reason Road-Trains Are Illegal Almost Everywhere
+9. How Australia Built the Longest Trucks on Earth
+10. Road-Trains: The Trucks Banned by Every Country But One

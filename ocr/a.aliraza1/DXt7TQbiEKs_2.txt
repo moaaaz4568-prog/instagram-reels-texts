@@ -1,0 +1,23 @@
+@A.ALIRAZA1
+03 / 07
+LEAD GEN & OUTREACH
+
+PROMPT 07 / 33
+Use agent-browser to scrape Google Maps for [niche] in [city]. Qualify by website and reviews. Output a CSV with email, phone, and score.
+
+PROMPT 08 / 33
+Here is my lead list: [paste CSV]. Write a personalised cold DM to each, referencing something specific from their profile or content.
+
+PROMPT 09 / 33
+Here are my top 50 contacts who engaged but never bought: [paste]. Draft a personal-voice follow-up DM for each, tied to their last activity.
+
+PROMPT 10 / 33
+Use Apify to scrape followers of [competitor handle]. Filter accounts with 1k to 50k followers. Output bios as a CSV.
+
+PROMPT 11 / 33
+Here are my qualified leads: [paste]. Draft a LinkedIn connection request for each. Under 200 characters. Reference a specific post they wrote.
+
+PROMPT 12 / 33
+Here are my failed payments from the last 30 days: [paste]. Write a 3-DM recovery sequence: friendly, helpful, urgent. No begging.
+
+SWIPE →

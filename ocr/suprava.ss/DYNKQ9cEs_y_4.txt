@@ -1,0 +1,45 @@
+I use this claude skill to find recent news
+and topics where their customers
+are complaining about them
+Riddhi
+Acquis
+OutWi
+8
+Dashb
+米Re
+米
+Claud
+米
+Claud
+Asl
+S
+W
+viral-news-finder/SKILL.md
+Say
+ranking-heuristic.md
+ription 
+SKILL.md
+Pu.
+ctually going viral on Reddit andX fora given keywo
+ranks
+Tube topic angles, lets the user pick one, then h
+the pick tt
+"ipt-writer pipeline to produce a full script
+when the user
+a YouTube video grounded in real
+conversations ana
+t guesswork. Triggers on"find
+viral topic for YouTube,
+ng on [X topic], turm it into
+n [topic]", "make a vi
+script", "scrape reddit and x1.
+whatever's hot about [topic] this.
+Viral Topic → YouTube Script
+A 3-stage skill that turns real, recent viral signal into
+YouTube script.
+→ask for keyword
+STAGE 1:Input intake
+window
+>run Reddit +X M
+STAGE 2:Viral data pull
+workflows in parallel

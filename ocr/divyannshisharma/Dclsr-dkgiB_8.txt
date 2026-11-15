@@ -1,0 +1,54 @@
+THE FULL CLAUDE TOKEN STACK
+FIX THESE 7 TOKEN LEAKS
+
+THE PATTERN:
+Better context
+fewer wasted tokens.
+
+CLAUBE CODE
+
+HIGH TOKEN WASTE
+SEARCH EVERYTHING
+Unstructured search pulls too much.
+WRONG MODEL
+Big model for small tasks.
+NO OUTPUT FILTER
+Irrelevant, verbose output passes through.
+NO MEMORY
+Context is lost. Re-explaining every time.
+RAW URL DUMP
+Whole pages, headers, footers, junk.
+RE-READ FILES
+Same files read again and again.
+VERBOSE OUTPUT
+Long preambles, repeats, extra explanations.
+RESULT: BLOATED CONTEXT. HIGH COST. SLOWER.
+
+01 STRUCTURED CODE SEARCH
+02 SMART MODEL ROUTING
+03 CLI OUTPUT FILTERING
+04 PERSISTENT MEMORY
+05 URL COMPRESSION
+06 REUSE FILE CONTEXT
+07 CONCISE OUTPUT
+
+LEAN CONTEXT
+TARGETED SEARCH
+Only relevant code. Less is more.
+RIGHT MODEL
+Small useful models for small tasks.
+FILTER FIRST
+Only useful output moves forward.
+REMEMBER
+No re-explaining. Context carries forward.
+COMPRESS URLS
+Extract what matters. Drop the rest.
+REUSE CONTEXT
+Don't re-read what's already here.
+BE CONCISE
+Short, direct answers. No fluff.
+RESULT: LEAN CONTEXT. LOWER COST. FASTER.
+
+7 LEAKS FIXED. 1 SYSTEM OPTIMIZED.
+Code Search → Model Router → CLI Filter → Memory → File Reuse → Output Control
+URL Compression

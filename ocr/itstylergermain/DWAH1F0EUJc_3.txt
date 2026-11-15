@@ -1,0 +1,24 @@
+...AND it will finally
+stop forgetting
+
+this is crazy
+
+Build a persistent memory layer for yourself. Create a
+/memory directory with three files: recent-memory.md
+(rolling 48hr context), long-term-memory.md (distilled
+facts, preferences, patterns), and project-memory.md (active
+project state).
+
+Build a skill at /skills/consolidate-memory that reads the
+past 24hrs of conversation logs from ~/.claude, extracts key
+decisions, preferences, and facts, updates the memory files
+accordingly, and promotes important facts and patterns from
+recent → long-term. Set up a scheduled task to run this
+automatically every night.
+
+Update CLAUDE.md to always load recent-memory.md inline at
+startup and reference long-term-memory.md by path.
+
+@itstylergermain
+
+save for later

@@ -1,0 +1,14 @@
+3.
+Claude
+The Deep Thinker
+
+Best for: Coding, Long-form research, legal writing, contracts, complex analysis, deep reasoning.
+
+Strengths:
+• Keep track of very long conversations and huge documents with strong memory.
+• Excellent reasoning, structure, and accuracy for professional writing.
+• Trusted for sensitive business or legal content because of strong data-safety rules.
+
+Keep in mind: Prioritises safety over speed. Not ideal for open-ended creativity or wild brainstorming.
+
+Use it when you need your AI to think before it speaks.

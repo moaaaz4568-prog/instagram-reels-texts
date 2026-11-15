@@ -1,0 +1,12 @@
+Step #3
+NotebookLM
+YouTube URL
+Paste a YouTube URL below to upload as a source in NotebookLM
+https://youtu.be/...
+Notes
+• Only the text transcript will be imported at this moment
+• Only public YouTube videos are supported
+• Recently uploaded videos may not be available to import
+• If upload fails, learn more for common reasons.
+Insert
+Paste a YouTube video link to import the transcript and content

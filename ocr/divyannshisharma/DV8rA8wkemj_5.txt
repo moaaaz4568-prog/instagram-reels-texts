@@ -1,0 +1,27 @@
+Building and Evaluating
+Agents
+https://www.youtube.com/watch?v=d5EItXhbcfA
+(a) Typical Evaluation Pipeline
+Prompt
+under Test
+LLM
+Metric (Code)
+Metric Prompt
+Evaluator LLM
+Inputs
+Outputs
+EvalGen
+edit criteria
+grade
+LLM
+outputs
+Candidate
+Criteria
+Candidate
+Assertions
+Alignment
+Report Card
+Evaluation Pipeline
+Building and evaluating AI Agents
+Start with Building AI →
+@divyanshisharma

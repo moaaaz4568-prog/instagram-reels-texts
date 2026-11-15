@@ -1,0 +1,49 @@
+divyanshisharma
+1/4 Category (Prompt 16 - 30)
+Category 1:
+Coding & Debugging
+
+16. Build a Web Scraper
+Write a Python web scraper that extracts [DESCRIBE DATA] from [URL/TYPE OF SITE]. Handle pagination, rate limiting, and failed requests gracefully.
+
+17. Code Architecture Review
+Review this architecture and tell me what problems you foresee at scale. What would you improve? [DESCRIBE OR PASTE ARCHITECTURE]
+
+18. Add Error Handling
+Add comprehensive error handling to this code. Catch all possible failures, log them appropriately, and fail gracefully. [PASTE CODE]
+
+19. Build a Cron Job
+Write a cron job in [LANGUAGE] that [DESCRIBE TASK]. It should run [FREQUENCY], handle failures, and send an alert if something goes wrong.
+
+20. Translate Between Languages
+Translate this code from [LANGUAGE A] to [LANGUAGE B]. Maintain all functionality and use idiomatic patterns for the target language. [PASTE CODE]
+
+21. Write a Webhook Handler
+Write a webhook handler in [FRAMEWORK] that receives events from [SERVICE]. Validate the signature, parse the payload, and handle [DESCRIBE EVENTS].
+
+22. Build a Rate Limiter
+Implement a rate limiter in [LANGUAGE] that allows [X] requests per [TIME PERIOD]. Use [REDIS/IN-MEMORY] etc. Make it resilient, handle edge cases, and include a way to whitelist certain users.
+
+23. Create a Middleware
+Write middleware for [FRAMEWORK] that [DESCRIBE WHAT IT SHOULD DO]. Make it reusable, well-documented, and handle all edge cases.
+
+24. Design a Caching Strategy
+Design a caching strategy for [DESCRIBE SYSTEM]. What should be cached, for how long, when should it be invalidated, and what caching technology would you use?
+
+25. Write a Data Migration Script
+Write a database migration script that [DESCRIBE WHAT IT NEEDS TO DO]. Make it idempotent, reversible, and safe to run on a production database.
+
+26. Build an Authentication System
+Build an authentication system in [FRAMEWORK] with signup, login, and logout. Include signup, token refresh, logout, and protected route middleware.
+
+27. Generate Mock Data
+Write a script that generates realistic mock data for [DESCRIBE DATA STRUCTURE]. Generate [NUMBER] records and output as JSON.
+
+28. Implement Pagination
+Add cursor-based pagination to this API endpoint. Include a page size limit, handle edge cases, and return proper metadata. [PASTE ENDPOINT CODE]
+
+29. Write a CI/CD Pipeline
+Write a GitHub Actions workflow that runs tests, checks code quality, builds the application, and deploys it to [PLATFORM] on every push to main.
+
+30. Design a Microservice
+Design the architecture for a microservice that handles [DESCRIBE FUNCTIONALITY]. What endpoints does it need, how does it communicate, and what data model?

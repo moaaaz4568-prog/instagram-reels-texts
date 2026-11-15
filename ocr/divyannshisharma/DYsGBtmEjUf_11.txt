@@ -1,0 +1,34 @@
+11
+Remove the preamble
+
+Every Claude response defaults to starting with something you didn't ask for. “Great question.” “Let me break this down for you.” Or a full restatement of what you just said. Or a disclaimer. Or a closing summary that repeats everything it just told you.
+
+PREAMBLE
+“Great question.”
+“Let me break this down for you…”
+“As you asked,”
+“here’s what
+you need to know.”
+
+Claude setup most people skip
+
+1 Create Project
+2 Add
+3 Generate who you are Custom Instructions
+4 Add writing samples
+5 Use ask-first prompts
+6 Turn on thinking
+7 Start new chats by topic
+
+Set it up once. Unlock full potential.
+
+Never start responses with preamble, affirmations, or restatements of my question.
+Go directly to the answer.
+Do not add a summary at the end unless I specifically ask for one.
+No disclaimers unless the topic genuinely requires one.
+
+You didn’t ask for any of that
+It costs tokens and it wastes your time.
+
+Divyanshi sharma
+11/18

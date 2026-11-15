@@ -1,0 +1,25 @@
+Vibe Coders
+Think
+Full-Stack Is
+
+Full-Stack
+Production
+Reality
+
+Frontend
+Backend
+
+Frontend
+APIs & Backend Logic
+Database & Storage
+Auth & Permissions
+Hosting & Deployment
+Cloud & Compute
+CI/CD & Version Control
+Security & RLS
+Rate Limiting
+Caching & CDN
+Load Balancing & Scaling
+Monitoring & Logs
+Error Tracking
+Availability & Recovery

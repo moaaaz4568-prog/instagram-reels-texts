@@ -1,0 +1,12 @@
+Skill #6
+★★★★★
+firecrawl-scraper
+davila7/firecrawl-scraper
+Data & Analytics
+19,892
+PDF parsing,
+Deep web scraping, screenshots,
+and website crawling using Firecrawl API
+npx @smithery/cli@latest skill add davila7/firecrawl-scraper --agent claude-code
+@itstylergermain
+save for later

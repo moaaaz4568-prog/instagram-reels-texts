@@ -1,0 +1,2 @@
+Create 3 hooks for each video you film
+(we will need them for step 2)

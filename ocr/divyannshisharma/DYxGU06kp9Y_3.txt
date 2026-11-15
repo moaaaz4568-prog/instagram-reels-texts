@@ -1,0 +1,22 @@
+Design & Visuals
+41 Design System Generator Describe your brand → Claude Code builds a DESIGN.md with styles and components.
+42 Carousel Maker Feed bullet points → Claude Code creates a multi-slide HTML carousel for Instagram.
+43 Infographic Builder Paste data → Claude Code makes an SVG infographic with charts and brand colors.
+44 OG Image Generator Give Open Graph HTML/CSS images.
+45 Icon Set Creator Describe product categories → Claude Code creates a matching SVG icon set.
+46 Color Palette Explorer Describe a mood → Claude Code creates 5 color palettes with hex codes and usage rules.
+47 Notion-Style Docs Feed notes → Claude Code turns them into clean Notion-style docs with callouts, tables.
+48 Thumbnail Prompt Writer Paste old leads → Claude Code writes re-engagement follow-ups.
+49 Outbound Playbook Describe topic → Claude Code makes thumbnail prompts for YouTube.
+50 Slide Deck Styler Feed content → Claude Code builds a branded .pptx with layouts and notes.
+51 Logo Concept Generator Describe brand values → Claude Code generates 5 SVG logo concepts.
+52 Social Media Templates Define your brand kit → Claude Code creates reusable HTML templates for social content.
+53 Before/After Layouts Feed two data states → Claude Code creates a polished comparison visual.
+54 Data Dashboard Paste metrics → Claude Code builds an interactive React dashboard with charts and KPIs.
+55 Email HTML Templates Describe email type → Claude Code creates responsive HTML email templates.
+56 Wireframe to Code Upload a wireframe → Claude Code converts it to HTML/CSS/React.
+57 Gradient Mesh Backgrounds Describe a vibe → Claude Code creates CSS gradient mesh backgrounds.
+58 Chart Beautifier Paste chart data → Claude Code builds styled Recharts or D3 visualizations.
+59 Pricing Page Builder Define tiers → Claude Code creates a responsive pricing page with comparisons, CTAs.
+60 AI Image Prompt Library Describe your brand aesthetic → Claude Code creates 20+ reusable prompts by use case.
+By Divyanshi Sharma

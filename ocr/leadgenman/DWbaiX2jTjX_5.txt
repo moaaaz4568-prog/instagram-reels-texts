@@ -1,0 +1,21 @@
+COURSE 5
+Introduction to
+Subagents
+How to use and create subagents to delegate tasks & manage
+context.
+ANTHROPIC
+Anthropic Academy / Courses
+Introduction
+to subagents
+Learn how to use and create sub-agents in
+Claude Code to manage context, delegate tasks,
+and build specialized workflows that keep your
+main conversation clean and focused.
+What are subagents?
+Claude - Claude Code
+Opus 4.6 • Claude Max
+/agents | Watch on
+Register | FREE
+Already registered? Sign In
+About the Course
+5

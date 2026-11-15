@@ -1,0 +1,24 @@
+@A.ALIBRAZA1
+02 / 07
+CONTENT CREATION
+
+PROMPT 01 / 33
+Use Apify to scrape my last 30 Instagram reels. Transcribe the 3 hooks that got the most saves and tell me the pattern.
+
+PROMPT 02 / 33
+Here are my last 10 scripts: [paste]. Find them. Identify my voice patterns and most saves generate 5 new hooks in that exact tone. Do not make it sound AI.
+
+PROMPT 03 / 33
+Here are my top 10 posts: [paste]. Break down what they have in common. Hook structure, opening line, ending.
+
+PROMPT 04 / 33
+[paste].
+Build me a 30-day content calendar. 1 reel per day. Mix tutorial, hot take, story, list. Include hook, topic, and CTA for each.
+
+PROMPT 05 / 33
+Take this transcript: [paste]. Cut 5 viral clips, each under 60 seconds, with timestamp ranges and a unique hook for each.
+
+PROMPT 06 / 33
+Here is a competitor reel: [URL]. Use yt-dlp to download, Whisper to transcribe, then write 3 versions in my voice: [paste examples].
+
+SWIPE →

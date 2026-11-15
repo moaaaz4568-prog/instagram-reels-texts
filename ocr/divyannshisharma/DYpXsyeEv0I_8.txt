@@ -1,0 +1,39 @@
+STEP 8
+SOP: Kimi K2.6 Playbook
+STOP ASKING QUESTIONS
+(GIVE MISSIONS)
+Questions create drag.
+Execution creates momentum.
+MISSION FOCUS
+STOP
+Less chat.
+More code.
+Less doubt.
+More deploys.
+SHIP IT PLAN
+DEFINE
+TEST
+EXECUTE
+SHIP
+K2.6
+BAD:
+How do I optimize this?
+Vague
+Creates dependency
+Slows everything down
+No clear direction
+RESULT: DRAG. DELAY. CONFUSION.
+GOOD:
+Reduce latency by 30%
+without changing APIs.
+Run tests after every change.
+Clear and specific
+Actionable
+Creates momentum
+Drives results
+RESULT: FOCUS. IMPACT. SPEED. IMPACT.
+Think: commander, not user.
+Give goals. Set context. Trust execution.
+Great teams don't ask for answers, they deliver outcomes.
+8 / 12
+لا يوجد نص

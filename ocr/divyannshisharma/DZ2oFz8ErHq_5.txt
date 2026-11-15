@@ -1,0 +1,14 @@
+TEMPLATE 4
+Real-Time Monitoring
+DESCRIPTION
+Real-Time Monitoring provides live dashboards that track what AI agents are doing during development sessions. Users can see task progress, system activity, and performance metrics as they happen. This transparency helps teams understand how work is progressing. It also allows quick adjustments and better control over AI-driven processes.
+MORE INFO
+https://x.com/juliangoldiee/status/2030509062836912402?s=46
+$ Additional Tools
+Advanced tools to maximize your Claude Code AI d
+Claude Code Analytics
+Monitor your AI-powered development sessions in Track Claude Opus 4.1 performance, tool usage, a productivity metrics
+$ npx claude-code-template@latest --analytic
+CLAUDE C
+Ready-to-c
+latess@latest --analytic

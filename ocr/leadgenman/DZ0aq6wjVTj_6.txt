@@ -1,0 +1,6 @@
+Ralph Loop
+An autonomous loop that keeps building until the whole job is done. One dev built a language with it.
+Ralph
+github.com/snarktank/ralph
+Manthan Patel | @leadgenman
+7 / 15

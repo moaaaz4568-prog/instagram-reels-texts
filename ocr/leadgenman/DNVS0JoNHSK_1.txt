@@ -1,0 +1,12 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+Think of it as a universal port for AI tools.
+It lets large language models (LLMs) grab files, run code, and access real data - without needing custom code every time.
+MCP
+Retrieve files from Google Drive
+Claude writes to my Notion
+Get messages from WhatsApp
+Fetch all GDocs
+Claude App
+Zapier Integration
+Send message via Messenger

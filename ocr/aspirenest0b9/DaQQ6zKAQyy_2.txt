@@ -1,0 +1,25 @@
+Punit Kumar
+SEO content audit
+> /market seo https://company.com
+Claude scans the complete website and checks every technical and on-page SEO signal — then gives you actionable recommendations.
+✓ Meta Titles
+✓ Heading Structure
+✓ Keywords
+✓ Schema Markup
+✓ Meta Descriptions
+✓ Internal Links
+✓ Technical SEO
+✓ Content Quality
+> /market seo
+Scanning website… checking metadata…
+Analyzing headings… detecting missing keywords…
+Checking schema…
+✓ Done – SEO Score 82/100
+SEO Dashboard
+✓ Missing Meta Tags
+✓ Broken Links
+✓ Keyword Opportunities
+✓ Duplicate Headings
+✓ Schema Suggestions
+✓ Technical SEO Fixes
+swipe >>>

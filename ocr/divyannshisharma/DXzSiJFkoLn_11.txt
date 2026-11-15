@@ -1,0 +1,35 @@
+11. Orchestration
+
+Enterprise-grade AI orchestration platform for AI coding agents
+• 11.4k+ stars
+• multi-agent orchestration with Aide, Codex, OpenCode, Amp
+• reshapes how teams build with AI
+Repo: https://github.com/runvnt/
+
+Terminal multiplexer for AI coding agents
+• 5.6k+ stars
+• Claude Code, Aide, resolute memory AI
+• parallel agents claude-flow
+Repo: https://github.com/smtg-ai/claude-squad
+
+Parallel Claude Code sessions orchestrator
+• runs multiple cc agents at scale
+• systematic codebase improvement
+• automation-first design
+Repo: https://github.com/Dicklesworthstone/claude_code_agent_farm
+
+Project-management workflow for Claude Code
+• by Ran Aroussi
+• specialized agents + slash commands
+• turnkey setup
+Repo: https://github.com/automazeio/ccpm
+
+Opinionated extension set for Claude Code
+• 1.5k+ stars
+• hooks, subagents, commands
+• task/git management infrastructure
+Repo: https://github.com/cc-sessions/cc-sessions
+
+Divyanshi sharma
+
+Category 6/10

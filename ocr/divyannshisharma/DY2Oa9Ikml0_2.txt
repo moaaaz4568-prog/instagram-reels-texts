@@ -1,0 +1,43 @@
+02
+At start of day:
+My apollo + claude co-work has a fresh lead list
+whom i can reach out for outreach
+Workflow: Step 1: Connect Apollo in Claude → Settings
+→ Connectors → Apollo → authorize.
+Step 2: Create one recurring prompt in Claude:
+"Every morning, find 50 fresh founders/operators in AI and
+lead gen that match my ICP. Prioritize people with hiring
+signals, growth signals, or recent activity."
+Next 15 (worth a DM this week)
+06. Priya Nair
+SDR
+07. Tomás Ruiz
+SDR
+08. Hannah Liu
+partnerships
+09. Vikram Shah
+10. Brendan Kelly
+Series A
+11. Sarah Lindgren
+playbook
+12. Karthik Menon
+(recurring)
+13. Elena Vasquez
+focused
+Divyanshi sharma
+Founder, Stackmotion
+CEO, Verbal.so
+Head of DevRel, Stackbit
+GP, Lighthouse Ventures
+Founder, GTM Stack
+Head of Growth, Bramble.ai
+Co-founder, Loomflow
+Scout, Verdant Capital
+Clay agency · hiring 2
+Launched voice AI for
+Posted about out creator
+Baa
+Ne
+Lo
+50
+AI

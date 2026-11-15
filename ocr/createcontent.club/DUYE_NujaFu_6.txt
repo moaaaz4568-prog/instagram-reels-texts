@@ -1,0 +1,4 @@
+We use Poppy AI, together with a custom
+PDF we created to train the AI to script
+viral videos on command
+POPPY

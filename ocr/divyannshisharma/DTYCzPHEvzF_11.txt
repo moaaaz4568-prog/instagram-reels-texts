@@ -1,0 +1,18 @@
+Step #11
+>GEMINI
+$ nvim main.py
+Shell Command nvim main.py (Focused)
+def main():
+    print("Hello World!")
+if __name__ == "__main__":
+    main()
+INSERT
+main.py
+main.py
+1 <
+11:32
+Gemini CLI for Developers
+Ctrl
+Alt
+Shift
+Fn

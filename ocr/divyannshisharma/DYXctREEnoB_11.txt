@@ -1,0 +1,50 @@
+NotebookLM
+11 tools.
+09 / 18
+&
+Data &
+Analytics
+* Vanna AI
+Open source natural language to
+SQL interface
+Data & Analytics open source
+* Pandas AI
+Open source natural language
+queries on DataFrames
+Data & Analytics open source
+* MindsDB
+Open source ML layer on top of
+any database
+Data & Analytics open source
+* PyCaret
+Open source low-code machine
+learning library
+Data & Analytics open source
+* AutoKeras
+Google open source AutoML library
+for Keras
+Data & Analytics open source
+* Lida
+Microsoft open source AI data
+visualization gen
+Data & Analytics open source
+* MLJAR
+Open source supervised AutoML
+with explanations
+Data & Analytics open source
+* R Tutor
+Open source AI statistical analysis
+interface
+Data & Analytics open source
+* Marino
+Open source reactive Python
+notebook
+Data & Analytics open source
+* DataFusion
+Open source query engine for
+building data apps
+Data & Analytics open source
+* Great Expectations
+Open source data validation and
+testing framework
+Data & Analytics open source

@@ -1,0 +1,10 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Prompt 4: Script writing
+
+"Write a [length] YouTube script about [topic] for [audience]. Hook in the first 15 seconds with a curiosity gap. Short spoken-word sentences. One idea per section. End each section with a reason to keep watching. No fluff."
+
+YouTube rewards watch time heavily
+
+Using a prompt that enables 70% retention at 30 seconds is a must...

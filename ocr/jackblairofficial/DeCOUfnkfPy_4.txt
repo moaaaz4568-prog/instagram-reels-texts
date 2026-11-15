@@ -1,0 +1,5 @@
+Jack Blair
+@jackblairofficial
+4. The buyer with a cheaper quote.
+The last prompt makes Claude the buyer who has a cheaper quote in hand and brings it up in the first two minutes. It pushes for a discount, tests whether I flinch, and grades whether I compared or reframed. Here's what it does:
+A strip-mall owner with a $29,000 quote on the desk. Grade: 7/10. The line that worked: "They'll match the price. They won't match the warranty, and the warranty is what you're buying." The line that lost a point: "we could sharpen our pencil," said before he'd even asked.

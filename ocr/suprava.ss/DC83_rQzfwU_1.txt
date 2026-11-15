@@ -1,0 +1,11 @@
+step 1 →
+Identify Target Industry
+
+Prompt:
+"We want to conduct market research on [Target Market] in order to better sell them our [Your Service]. Our ICP is [Map out your ICP]. Please respond “OK” to confirm you have understood."
+
+You
+We want to conduct market research on B2B SaaS companies in order to better sell them our Lead Generation Services. Our ICP is B2B SaaS companies, located in the USA, with at least 10 employees and doing over $1 million a year. Please respond "OK" to confirm you have understood.
+
+ChatGPT
+OK

@@ -1,0 +1,14 @@
+Plugin 3 — GitHub plugin
+Full visibility.
+Always up to date.
+Integrations
+Connect external tools to extend your team's workflow.
+Source Control
+GitHub
+Connected as purifieddizzy67 to repositories accessible in organizations: purifieddizzy67
+Manage
+GitLab
+Not connected
+Manage
+Gives Cursor full awareness of my codebase activity.
+It seamlessly indexes recent commits, open branches, and pending pull requests so the AI always operates with fresh context.

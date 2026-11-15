@@ -1,0 +1,45 @@
+STEP 5
+SOP: Kimi K2.6 Playbook
+LOCK THE AGENT.
+kimi/rules
+Stop repeating yourself forever.
+/test
+mode
+only
+strict mode
+safe refactor
+kimi/rules
+What to do:
+① Create a file: kimi/rules
+② Define your non-negotiables.
+③ Kimi will follow these in every session.
+④ This becomes the AI's personality for your project.
+TypeScript strict mode
+Never touch /legacy without permission
+Use retry-wrapper for API calls
+Prefer functional React components
+Run tests before shipping
+Example Command
+$ kimi rules
+# or
+$ kimi lock
+# Loads and enforces kimi/rules
+Inside your repo
+your-project/
+kimi/
+rules
+src/
+tests/
+...
+One-time setup.
+Unlimited leverage.
+Clear rules.
+Better outcomes.
+Consistent decisions.
+Aligned with your standards.
+Fewer mistakes.
+Higher quality.
+LOCK IT ONCE. SAVE HOURS FOREVER.
+Faster iterations.
+Ship with confidence.
+5 / 12

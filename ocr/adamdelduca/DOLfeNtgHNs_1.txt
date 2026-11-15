@@ -1,0 +1,13 @@
+• CTR (Click-Through Rate) – % of viewers who click after seeing your thumbnail/title.
+• AVD (Average View Duration) – Average time viewers watch your video.
+• Watch Time – Total minutes people have watched your videos.
+• Impressions – Times your thumbnail is shown to viewers.
+• Impression CTR – % of impressions that turned into views.
+• Audience Retention – % of a video watched on average.
+• Traffic Sources – Where views are coming from (search, suggested, etc).
+• Unique Viewers – Estimated number of individual users who viewed.
+• Returning Viewers – Viewers who come back to your channel.
+• Real-Time Analytics – Live stats on how a video is performing.
+TI
+HAN
+HAN

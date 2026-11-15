@@ -1,0 +1,7 @@
+Higgsfield:
+your own reusable
+AI model
+
+Ask Claude to create a character once — “redhead, freckles, green eyes.”
+It keeps generating the SAME person across new scenes. Give her a product. Claude writes the
+script and builds a full UGC video ad. No camera, no actor, no studio.

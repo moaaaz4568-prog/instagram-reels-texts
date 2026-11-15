@@ -1,0 +1,15 @@
+prompt 11 →
+Extract Value Proposition
+Prompt:
+This is company website content: "[website_content]"
+Give me the value proposition of the company. In less than 25 words. In English. Casual Tone.
+Format is: "[Company Name] helps [target audience] [achieve desired outcome] and [additional benefit]"
+Value Proposition:
+This is company website content: *
+Pricing
+Contact Sales
+Login
+Try for free
+AI-Powered by 437 Million Successful Email campaigns
+Turn Strangers into Customers
+Find buyers, engage across multiple channels and convert them into your next customers.

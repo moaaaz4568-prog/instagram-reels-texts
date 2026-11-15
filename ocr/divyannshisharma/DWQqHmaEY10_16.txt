@@ -1,0 +1,19 @@
+Skill Set 15
+NotebookLM
+DESCRIPTION
+Creates a powerful bridge between Claude and NotebookLM, enabling advanced knowledge management workflows. It transforms raw content into structured outputs like summaries, mind maps, and flashcards, making it easier to study, research, and retain information. Ideal for students, researchers, and creators who want to turn large volumes of data into clear, actionable insights.
+PleasePrompto / notebooklm-skill
+Code Issues Pull requests
+master 1 Branch 4
+PleasePrompto feat: v1.3.0 - Mod
+images
+references
+scripts
+iginationore
+AUTHENTICATION.md
+CHANGELOG.md
+LICENSE
+README.md
+SKILL.md
+MORE INFO
+https://github.com/PleasePrompto/notebooklm-skill

@@ -1,0 +1,21 @@
+Tyler Germain @itsTylerGermain
+
+1. Daily standup summary
+
+Every morning at 8am, Claude reads my Slack channels and project manager, summarizes everything, and sends me a Telegram digest.
+
+I wake up knowing exactly what happened overnight.
+
+Daily at 8am
+ClickUp/Project Manager
+To Do
+In Progress
+Done
+DIGEST
+reading & summarizing everything
+TELEGRAM SUMMARY
+Daily Standup Digest
+• Engineering: Bug fixes on track, deployment soon
+• Marketing: New campaign assets delivered
+• General: Team lunch Friday!
+• Action Items: Review PRs, prepare report

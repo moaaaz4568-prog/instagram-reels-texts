@@ -1,0 +1,31 @@
+NotebookLM
+9 tools.
+16 / 18
+Embeddings & NLP
+* all-MiniLM-L6-v2
+Best open source small embedding model, fast
+Embeddings & NLP open weights
+* BGE embeddings
+BAII open source best-in-class embedding models
+Embeddings & NLP open weights
+* sentence-transformers
+Open source Python library for sentence embeddings
+Embeddings & NLP open source
+* E5 embeddings
+Microsoft open source multilingual embedding model
+Embeddings & NLP open weights
+* nomic-embed-text
+Nomic open source long-context embedding model
+Embeddings & NLP open weights
+* HuggingFace Transformers
+Open source library for 500k+ pretrained models
+Embeddings & NLP open source
+* text-embeddings-inference
+HuggingFace open source fast embedding server
+Embeddings & NLP open source
+* spaCy
+Open source industrial NLP library, fast and battle-tested
+Embeddings & NLP open source
+* Jina Embeddings
+Jina AI open source 8K context embedding model
+Embeddings & NLP open weights

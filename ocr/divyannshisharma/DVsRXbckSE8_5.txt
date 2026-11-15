@@ -1,0 +1,6 @@
+TEMPLATE 4
+Real-Time Monitoring
+DESCRIPTION
+Real-Time Monitoring provides live dashboards that track what AI agents are doing during development sessions. Users can see task progress, system activity, and performance metrics as they happen. This transparency helps teams understand how work is progressing. It also allows quick adjustments and better control over AI-driven processes.
+MORE INFO
+https://x.com/juliangoldiee/status/2030509062836402?s=46

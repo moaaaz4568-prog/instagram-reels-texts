@@ -1,0 +1,18 @@
+Editor Executions Evaluation
+Convert to File
+(Deactivated)
+Convert to CSV
+Create Google Sheet
+Set the
+Add Leads
+append: sheet
+Done
+-Now we filter out duplicates and prepare
+a list of unique commenters.
+-We then batch them (500 per batch)
+and send them to Apify again.
+-But this time, to enrich their profiles with
+full name, job title, company, and more.
+-That gives us proper leads, not just
+usernames.
+F3 F4 F5 F6 F7 F8 F9 F10

@@ -1,0 +1,33 @@
+Step #15
+Create Video
+Parameters
+Settings
+Docs
+OUTPUT
+Authentication
+None
+Send Query Parameters
+Send Headers
+Send Body
+Body Content Type
+Specify Body
+Using JSON
+JSON
+{
+  "type": "image+video",
+  "data": {
+    "background_url": "{{ $json.Music.URL }}",
+    "image_list": [
+      {
+        "url": "{{ $json.Image.Link }}"
+      }
+    ]
+  }
+}
+success
+message
+data
+true
+Video generation started.
+id: 436231145e1-4a1c-b480-236fba834561
+Combine images + audio + music

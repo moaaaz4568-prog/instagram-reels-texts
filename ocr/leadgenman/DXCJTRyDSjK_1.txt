@@ -1,0 +1,29 @@
+Finder File Edit View Go Window Help
+9:41 AM
+Did you know?
+Claude Code can read your files and write code in seconds.
+Search
+FAVORITES
+CLI Stack
+Claude Code
+GitHub CLI
+Supabase CLI
+Stripe CLI
+PostHog CLI
+Vercel CLI
+Claude Code
+The AI coding agent in your terminal
+$ claude "fix the auth bug"
+- Fixed: token validation in middleware.ts
+$ claude --agent "Add Stripe checkout"
+- Created 6 files. Checkout route ready.
+$ claude --loop "Fix failing tests"
+- All 47 tests passing.
+Fix bugs
+Build features
+Write tests
+Refactor code
+Deploy apps
+Code review
+$ npm i -g @anthropic-ai/claude-code
+AI Agent

@@ -1,0 +1,7 @@
+3. Reply classification.
+Tag positive, negative, referral, wrong-person and OOO replies automatically.
+Positive
+Negative
+Referral
+Wrong-person
+OOO

@@ -1,0 +1,17 @@
+STEP 1 OF 5
+Create a New Project
+If you don't have a project yet, click Create Project. Give it a name that's easy to remember, e.g.
+"n8n Automation Project"
+If you already have a project, you can skip this and just select it from the dropdown at the top
+New project
+project yet, click
+Create Project. Give it
+a name that's
+easy to remember, e.g.:
+"n8n Automation Project"
+ject"
+roject, you can
+kip this and just select
+it from the
+ropdown at the top
+→

@@ -1,0 +1,9 @@
+Voice Calls + Automations
+• Call data flows instantly to Make.com
+(Connect voice conversations to 1,500+ apps)
+• No code required - just webhooks
+(Retell sends data → Make catches it → Magic)
+• Build complex index workflows visually
+(Update CRM, send emails tickets - all automatic)
+• Scale infinitely at fraction of cost
+(One voice agent can trigger multiple workflows)

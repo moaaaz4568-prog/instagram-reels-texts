@@ -1,0 +1,49 @@
+Step #8
+Image analysis test: Can Gemini understand complex flowcharts?
+Analyze Image
+INPUT
+On form submission
+1 item
+Image
+File Name: criminal-justice-process.png
+File Extension: png
+Mime Type: image/png
+File Size: 119 KB
+View Download
+Binary Parameters Settings Execute step
+Credential to connect with
+OpenAI account 2
+Resource
+Image
+Operation
+Analyze Image
+Model
+GPT-4O-LATEST
+From list
+Text Input
+Describe the process in the image
+Input Type
+Binary File(s)
+Input Data Field Name
+Image
+The name of the input field containing the binary file data to be processed
+Simplify Output
+Options
+OUTPUT
+Docs
+Schema Table JSON
+1 id msg_045c2d69a84548c300089fb5c7b5e4297d98
+77f2c4
+2 type message
+3 status incomplete
+4 content
+5 type output_text
+6 annotations
+7 text The image illustrates the "criminal justice process" from the point of view of an "incident" to the final resolution. It is a flowchart with decision points and possible outcomes. There's a step-by-step description of the process: 1. INCIDENT/ALLEGATION: Investigates and determines if there is probable cause that a crime occurred. 2. ARREST #2: FELONY REFERRALS or Misdemeanor CHARGING
+role assistant
+FHD 360Hz
+Esc F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12
+Tab Q W E R T Y U I O P
+Caps Lock A S D F G H J K L
+Shift Z X C V B N M
+Ctrl Fn Alt

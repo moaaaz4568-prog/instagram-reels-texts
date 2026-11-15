@@ -1,0 +1,24 @@
+Repo Stack 10
+EVERYTHING
+CLAUDE CODE
+DESCRIPTION
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+affaan-m / everything-claude-code
+Code Issues 77 Pull requests 7
+main 15 Branches 12
+affaan-m feat: add nested...
+.agents
+.claude-plugin
+.claude
+codebuddy
+.codex-plugin
+.codex
+.cursor
+.ggmini
+.github
+ecc.tools
+llm productivity
+developer-tools
+anthropic mcp
+MORE INFO
+https://t.co/xPk3fV9mGb

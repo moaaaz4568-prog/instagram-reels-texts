@@ -1,0 +1,10 @@
+3 →
+Scrape Mailing Addresses
+Use LinkedIn to scrape physical mailing addresses from company pages.
+Tools to use →
+Scrape with
+lemlist
+PhantomBuster
+Evaboot
+Record in
+Google Sheets

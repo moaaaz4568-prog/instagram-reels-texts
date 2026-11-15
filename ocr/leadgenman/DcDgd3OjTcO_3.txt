@@ -1,0 +1,13 @@
+Step 3
+~/penanywhere > /init
+✓ generated CLAUDE.md from your repo
+CLAUDE.md
+Anywhere
+# Project: Pen 15, Supabase, Stripe, Canvas 2D, Zustand
+Stack: Next.js, Supabase, Stripe, Canvas 2D, Zustand
+Rules:
+- be direct, push back on bad ideas
+- never touch /lib/engine without asking
+Run /init – it writes a CLAUDE.md
+with your stack and your rules.
+Claude follows it every session.

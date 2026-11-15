@@ -1,0 +1,10 @@
+Step #10
+API Keys
+Create API Key
+Manage your API keys to access all models from OpenRouter
+Key	Usage	Limit
+Claude MCP	$0.338	Unlimited TOTAL
+$0.017	Unlimited TOTAL
+$3.852	Unlimited TOTAL
+$0.005	Unlimited TOTAL
+Create your OpenRouter API key for AI intelligence

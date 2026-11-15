@@ -1,0 +1,5 @@
+#8: REPOMIX
+Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase.
+github.com/yamadashy/repomix
+Divyanshi sharma
+08/10

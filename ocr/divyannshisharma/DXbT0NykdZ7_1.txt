@@ -1,0 +1,17 @@
+Step 1: Research
+Just using web search in Claude Code
+leaves massive power on the table.
+Welcome back Chase!
+Claude
+Opus 4.6
+Claude Max
+Find the latest trending videos
+on Claude Code skills. Once we have those videos, send
+them over to NotebookLM. Give me
+an analysis on the top 5
+notebookLM create an infographic in a handwritten /
+blueprint style depicting
+that analysis on the top skills.
+> Use the yt-search skill to
+NYMT | Opus 4.6 | ctx: --
+bypass permissions (on shift+tab to cycle)

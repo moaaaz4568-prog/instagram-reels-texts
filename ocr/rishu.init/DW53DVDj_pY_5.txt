@@ -1,0 +1,29 @@
+INSTALL
+IN 10 SECONDS.
+137K
+GitHub Stars
+5+
+Platforms
+10S
+Setup
+V5.0
+Latest
+CLAUDE CODE
+OFFICIAL MARKETPLACE
+/plugin install superpowers@claude-plugins-official
+CURSOR
+PLUGIN MARKETPLACE
+/add-plugin superpowers
+GEMINI CLI
+CLI
+gmini extensions install github.com/obra/superpowers
+CODEX
+MANUAL SETUP
+Fetch and follow .codex/INSTALL.md from the repo
+Update anytime: /plugin update superpowers
+Star on GitHub: github.com/obra/superpowers
+Community Discord: discord.gg/Jd3Vphy9Jq
+@rishu_init
+Swipe →
+......
+Swipe →

@@ -1,0 +1,9 @@
+CompanyEnrich’s
+MCP (Model Context Protocol)
+
+Whether it's Claude for research, n8n for
+automation, or your CRM for pipeline -
+CompanyEnrich plugs right in.
+
+No more manual data entry.
+Just natural prompt that build your pipeline.

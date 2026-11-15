@@ -1,0 +1,12 @@
+• Thumbnail – Custom image representing the video.
+• B-Roll – Supplemental footage used to cover cuts or add context.
+• Voiceover – Narration recorded separately from on-screen footage.
+• Script – Planned outline or word-for-word video content.
+• Editing Software – Tools like Premiere Pro, Final Cut, CapCut, etc.
+• Render – The final process of exporting your edited video.
+• Frame Rate – How many frames per second your video plays (e.g., 24fps).
+• Resolution – Video quality (e.g., 1080p, 4K).
+• Aspect Ratio – Width to height ratio (e.g., 16:9).
+• LUTs – Presets to color grade your videos.
+TH
+HAN

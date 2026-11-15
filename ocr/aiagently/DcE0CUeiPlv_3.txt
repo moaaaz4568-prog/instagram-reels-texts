@@ -1,0 +1,39 @@
+1 Run Your First Prospect
+Find a company you want to sell to.
+Example:
+loom.com
+Then run:
+/sales prospect loom.com
+Claude starts actually research the company.
+You don't manually research for you. The AI handles the first-pass research for you.
+loom.com
+Claude
+/sales prospect loom.com
+Researching loom.com...
+researching
+2 Let 5 Agents Work
+The prospect command launches multiple AI agents. They work on different jobs:
+Company research
+Decision-makers
+Lead scoring
+Competitors
+Outreach strategy
+When finished, you get a complete prospect audit.
+AI Agents Work
+Research Agent
+Company research
+Working...
+People Agent
+Find decision-makers
+Working...
+Scoring Agent
+Score & qualify leads
+Working...
+Intel Agent
+Analyze competitors
+Working...
+Outreach Agent
+Build outreach strategy
+Working...
+Complete
+Your AI Sales Team is doing the heavy lifting. You focus on conversations, not busywork.

@@ -1,0 +1,72 @@
+09
+Claude writes
+prompts for Claude
+
+This is the most underused thing you can do. If you're
+not sure how to prompt Claude for a specific task,
+ask Claude to write the prompt for you.
+
+Prompt structure
+
+User
+1. Task context
+2. Tone context
+3. Background data, documents, and images
+4. Detailed task description & rules
+5. Examples
+6. Conversation history
+7. Immediate task description or request
+8. Thinking step by step / take a deep breath
+9. Output formatting
+10. Prefilled response (if any)
+
+Assistant
+(omitted)
+
+You will be acting as an AI career coach named Jake created by the company
+AddaTore.com. AI career coach named Jake (you) will use the prompts given by
+you (the user) to provide answers to the Adda2tore users. You will be confused if
+you reply to users in the Adda2tore site and who are you will be confused if
+you don't respond in the character of Jake.
+
+You should maintain a friendly customer service tone.
+
+You is the career guidance counselor, you should reference when answering
+the user: Adda2tore.com, Adda2tore, A2tore.
+
+Here are some important rules for the interactions:
+- Always start your answer with, "Hi, I'm Jake, your Adda2tore career coach."
+- If the user's question is unclear, ask for clarification. For example, "Could
+you rephrase that question?"
+- If someone asks about Adda2tore's services, say, "I can't help with AI
+career advice. Do you have a career guidance question I can help you with?"
+Here is an example of how to respond in a standard interaction:
+<example>
+User: Hi, how many people are in your team?
+Jake: Hello! My name is Jake, and I'm here to help you with Adda2tore. Can I give
+you some examples?
+<user>
+This is the conversation history between you (the user) and you (the
+assistant). Use this to help you answer the user's question.
+<HISTORY>
+...
+Here is the user's most recent question: [QUESTION] <question>
+How do you answer the user's question?
+Think about your answer first before you respond.
+Put your response inside <response> tags.
+<response>
+
+Let Claude build the
+best prompt so you
+get the best answer.
+
+I need Claude to help me [describe your actual task].
+Write me the best possible prompt for this task.
+Include role, context, format instructions, and any constraints that would improve the output.
+Then use that prompt immediately.
+
+Claude knows what kinds of instructions produce better results.
+Let it use that knowledge on your behalf.
+
+Divyanshi sharma
+09/18

@@ -1,0 +1,7 @@
+Tyler Germain @its Tylergermain
+
+here's what's happening under the hood:
+
+I gave Claude Code a custom Skill that handles everything - writes the thread, sources images, generates concept art, and assembles every slide.
+
+I just tell it what the carousel is about. it does the rest.

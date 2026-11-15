@@ -1,0 +1,11 @@
+Suprava Sabat @supravasabat
+
+Don't build a whole system. Pick ONE bottleneck.
+
+Hate pulling leads manually? Build a lead puller.
+
+Hate cleaning lists by hand? Build a list cleaner.
+
+Hate uploading leads to SmartLead? Build an auto-pusher.
+
+One tool. One win. Then stack.

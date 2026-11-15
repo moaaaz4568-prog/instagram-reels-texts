@@ -1,0 +1,7 @@
+Connector 2:
+Clay (lead gen
+inside Claude)
+
+Clay lets Claude find real prospects without leaving the chat.
+Ask it to find marketing contacts at a company. It returns verified names, job titles, LinkedIn
+URLs, and emails — a ready-to-use lead list in seconds.

@@ -1,0 +1,6 @@
+REASON 1
+Your file system is too messy
+Your agent wastes tokens (& time) trying to find what it's looking for...
+It's also more difficult for you to find what you're looking for, which wastes time.
+save for later
+@itsylergermain

@@ -1,0 +1,11 @@
+@aashna_kumar
+WEAK VS STRONG HOOKS
+Weak Hooks:
+• “In today’s video…”
+• “This reel is about…”
+• “I wanted to share this…”
+• Feels safe, performs badly
+Strong Hooks:
+• “You’re making this one mistake…”
+• “This is why your content is stuck”
+• “No one told me this at the start”

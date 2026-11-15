@@ -1,0 +1,22 @@
+BENNETTOS
+07 / 09
+// 05 • THE HANDS
+MCP SERVERS
+Agents are only as useful as what they can touch.
+MCP plugs real software into every layer of
+the stack:
+TRAKYO
+ORGANIC CONTENT
+ATTIO
+CRM & PIPELINE
+CANVA
+CAROUSELS & CREATIVE
+COMPUTER USE
+BROWSER & DESKTOP
+// AGENT TOOLS
+attio canva trakyo stripe notion manychat fathom
+tmux ollama
+One config file. Every agent in the org inherits
+the tools.
+@bennettos
+SWIPE →

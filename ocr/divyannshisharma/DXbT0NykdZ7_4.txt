@@ -1,0 +1,9 @@
+Step 4: Prompt
+It searches YouTube, loads sources, runs analysis, and generates a deliverable.
+WELCOME USER, LINDSAY!
+hanneganC@gmail.com's
+Organization
+~\NLMt
+> pls use web search like
+NLMTtest | Opus 4.6 | ctx: --
+>> bypass permissions on (shift+tab to cycle)

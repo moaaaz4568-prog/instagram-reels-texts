@@ -1,0 +1,13 @@
+Tip 7 - cURL
+Import cURL command
+cURL Command
+Paste the cURL command
+here
+Already have an API working in
+Postman or a curl command from the
+docs? Don't manually rebuild it in n8n.
+Click the HTTP Request node, and paste your
+from cURL". n8n fills in
+the URL, headers, auth, and
+body automtically. Saves 10 minutes
+every single time.

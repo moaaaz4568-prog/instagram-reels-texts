@@ -1,0 +1,57 @@
+Automation 3 – Auto-fix PR review comments.
+Reviews handled.
+Fixes suggested.
+
+AUDIT TRAIL
+Automation history
+Meeting brief: API documentation review
+Brief for "API documentation review" with 3 attendees. Grounded in 5 cited sources.
+SUCCESS
+Jul 16 · 17:39
+
+Priority analysis complete
+Finish Add OpenAPI docs for partner endpoints (confidence 0.91)
+SUCCESS
+Jul 16 · 17:38
+
+Collected work context
+emails=3 meetings=3 slack=4 github=5 notes=0
+SUCCESS
+Jul 16 · 17:38
+
+Meeting brief: API documentation review
+Brief for "API documentation review" with 3 attendees. Grounded in 5 cited sources.
+SUCCESS
+Jul 16 · 17:38
+
+Priority analysis complete
+Finish Add OpenAPI docs for partner endpoints (confidence 0.91)
+SUCCESS
+Jul 16 · 17:38
+
+Collected work context
+emails=3 meetings=3 slack=4 github=5 notes=0
+SUCCESS
+Jul 16 · 17:38
+
+Meeting brief: API documentation review
+Brief for "API documentation review" with 3 attendees. Grounded in 5 cited sources.
+SUCCESS
+Jul 16 · 17:38
+
+Priority analysis complete
+Finish Add OpenAPI docs for partner endpoints (confidence 0.91)
+SUCCESS
+Jul 16 · 17:36
+
+Collected work context
+emails=3 meetings=3 slack=4 github=5 notes=0
+SUCCESS
+Jul 16 · 17:36
+
+Morning dashboard — 2026-07-16
+
+The ultimate time-saver.
+As soon as a reviewer leaves feedback on GitHub, Cursor reads the comment, maps it to the file, and runs a localized fix template so I just have to approve it.
+
+Zero manual setup required.

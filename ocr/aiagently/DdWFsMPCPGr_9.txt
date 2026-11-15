@@ -1,0 +1,59 @@
+Step 9
+Put Your Agent Online 24/7
+server.
+Your laptop shouldn't be the server.
+Deploy your AI agent to a VPS so it keeps running even when your computer is turned off.
+
+setup:
+Your production setup:
+WhatsApp
+Customer messages
+Meta API
+Messaging
+API
+AI Agent
+Process & respond
+LLM + MoE
+Understanding
+Memory
+Understand context
+Business Tools
+CRM, calendar, etc.
+VPS
+Running 24/7
+
+Follow these steps:
+1
+Get a VPS
+Choose a reliable provider
+(e.g. Hetzner, DigitalOcean,
+Vultr, or AWS).
+2
+Deploy your code
+Upload your project and
+set up the environment
+(install dependencies,
+run your app).
+3
+Update webhook URL
+Replace your temporary
+webhook with your
+production callback URL
+from your VPS.
+4
+Keep it running
+Your agent is now live,
+24/7, even when your
+laptop is off.
+
+You're All Set!
+Now your AI agent is
+always on, and ready to
+customers 24/7.
+
+Pro Tip
+Use a monitoring service (like UptimeRobot)
+to get alerts if your server goes down.
+
+VPS
+24/7

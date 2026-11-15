@@ -1,0 +1,19 @@
+Why use MCP's?
+MCP helps you build agents and complex workflows on top of LLMs.
+It acts as a bridge between your code and the data it requires, ensuring seamless integration.
+
+BEFORE
+LLM
+API
+slack
+stripe
+blender
+
+AFTER
+LLM
+Unified API
+Model Context Protocol
+API
+slack
+stripe
+blender

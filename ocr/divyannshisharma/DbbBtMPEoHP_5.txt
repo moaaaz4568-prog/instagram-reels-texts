@@ -1,0 +1,22 @@
+Daily digest
+template
+
+Your day, prioritized.
+Context, ready.
+
+DAILY PLAN
+Morning dashboard
+
+Finish Add OpenAPI docs for partner endpoints 91%
+Complete PR #92 80%
+Meeting soon: API documentation review 80%
+Unread starred email: Need API documentation on before Friday launch 80%
+Est. workload 6.5h
+
+09:30–11:00 Finish Add OpenAPI docs for partner endpoints
+11:00–12:00 Clear unread emails & Slack mentions
+14:00–15:00 Meeting follow-ups & documentation
+
+Every morning, this automation parses incoming emails, calendar events, and Slack priorities.
+
+It gives me a recommended work order and loads the exact code file context I need to tackle first.

@@ -1,0 +1,19 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+The "One Agent = One Job" Rule
+(Avoid the God-Agent Trap)
+
+• Too many agents cost more, one agent does worse
+
+The Mistake
+One agent for everything = chaos
+
+The Fix
+Scope agents to one clear role
+
+The Setup
+Use 1–2 focused agents (e.g code vs ops)
+
+Sub-Agent
+Spawn temp sub-agents for narrow tasks

@@ -1,0 +1,8 @@
+An Error at 2am.
+2am → 8am
+error fires
+sentry catches it
+full trace hits my phone
+claude code fixes it
+→ vercel redeployed it.
+→ nobody woke me up.

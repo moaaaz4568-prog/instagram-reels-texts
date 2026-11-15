@@ -1,0 +1,11 @@
+OUTBOUND
+06 / 08
+SOURCE / SMARTLEAD
+8165242
+4098
+8
+104317
+6053
+8.1M emails in a 30-day window.
+This is the machine the folder documents.
+@atishayhyperke

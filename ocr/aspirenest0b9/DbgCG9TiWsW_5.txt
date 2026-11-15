@@ -1,0 +1,15 @@
+FRAMEWORK
+PUNIT
+GUPTA
+The 10 · 80 · 10 Framework
+10%
+Human Strategy
+You define the goal.
+80%
+AI Execution Engine
+AI does the work.
+10%
+Human Review
+Review. Improve. Ship.
+This is how founders scale without hiring endlessly.
+06 / 07

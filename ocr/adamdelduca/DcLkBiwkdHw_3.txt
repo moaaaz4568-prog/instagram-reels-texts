@@ -1,0 +1,6 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Prompt 3: Video ideas from real data
+
+"Here are the 40 highest performing videos across these channels with view counts and upload dates. Find the topic patterns that repeat. Then give me 30 video ideas that fit those patterns and 5 gaps nobody in this niche has covered."

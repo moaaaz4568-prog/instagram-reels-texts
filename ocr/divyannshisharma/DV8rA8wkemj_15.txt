@@ -1,0 +1,32 @@
+AI Agents: The Definitive Guide
+https://lnkd.in/dJ9wFNMd
+
+O'REILLY Explore Skills Features Radar Blog Buy Courses Search for books, courses, events, and more Plans
+
+Join leading developers and technical experts at our virtual conference series to learn how AI is shaping new workflows, tools, and ways of building software.
+
+Software Craftsmanship in the Age of AI
+Agentic software engineering
+
+Tim O'Reilly
+O'Reilly Media
+
+Addy Osmani
+Google
+
+Description Schedule
+
+The tools have arrived. The hype has settled. Now comes the hard part: building software that actually works. The best developers are discovering that building with agents doesn't replace the need for craftsmanship; it demands new forms of it. Agents can autonomously debug code, coordinate across multiple tools, and handle
+
+Show more
+
+26 March
+8:30pm-12:30am GMT+5:30
+Sign up for free!
+Share
+
+@divyanshisharma
+
+AI Codecon
+Building software that actually works
+Start with the Guide →

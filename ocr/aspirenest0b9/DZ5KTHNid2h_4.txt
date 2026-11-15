@@ -1,0 +1,27 @@
+AIANALYST
+Meet the agent team.
+Comparable Sales
+Recent sold comps · Fair market value ·
+Over/underpriced · Price/sqft · Fair market
+value · Cash flow · Cap rate · DSCR · GRM
+25%
+weight
+Rental Income
+Market rent · Cash flow · Cap rate · DSCR · GRM
+20%
+weight
+Neighborhood
+Schools · Crime · Prime · Walk Score · Demographics · Growth
+20%
+weight
+Investment Strategy
+Buy-Hold · BRRRR · Fix-Flip · 5-Year ROI · Value-add
+20%
+weight
+Market Conditions
+Supply/demand · Inventory · YoY trends · Economic
+drivers
+15%
+weight
+5 / 10
+swipe

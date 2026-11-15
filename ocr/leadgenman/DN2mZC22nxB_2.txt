@@ -1,0 +1,11 @@
+Builder | LinkedIn Job Scraping | Add tag
+Editor Executions Evaluations
+Active Share
+Part 2: Finding HR & Company Info
+- Finds professional emails
+- Validates email addresses
+- Scrapes company website content
+- AI creates personalized icebreakers
+- Saves enriched data to GSheets
+B N M
+X C V

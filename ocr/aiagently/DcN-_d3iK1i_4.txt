@@ -1,0 +1,32 @@
+AI Agently
+Build AI Systems. Scale Smarter.
+
+04 Connect Your
+Business Data
+
+Now give the AI context about
+your actual business.
+
+The easiest option:
+Connect your
+Obsidian vault
+
+This lets the AI work from the
+documents and information
+you already have instead of
+starting from zero.
+
+Pro Tip: The more context you give, the smarter and more personalized
+your AI assistant becomes.
+
+@ai.agently
+
+Connect data to Claude
+Google Drive
+Connect your docs, sheets, and slides
+Obsidian Vault
+Connect your notes and knowledge base
+Notion
+Connect your workspace and pages
+Local Files
+Upload documents and files

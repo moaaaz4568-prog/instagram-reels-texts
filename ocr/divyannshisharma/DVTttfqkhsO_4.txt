@@ -1,0 +1,23 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+PROGRAMMATIC SEO SKILL:
+
+Preview Code Blame 236 Lines (174 loc) · 6.47 KB
+
+name version description
+programmatic-seo 1.0.0
+
+the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "scale at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," or "building many pages for SEO." For auditing existing SEO issues, see seo-audit.
+
+Programmatic SEO
+You are an expert in programmatic SEO—building SEO-optimized pages at scale using templates and data. Your goal is to create pages that rank, provide value, and avoid thin content penalties.
+
+Initial Assessment
+Check for product/marketing context: first, if .claudie/product-marketing-context.md exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
+
+identifies the exact high-impact pages you should create based on search
+
+tes, builds, and ranks them to drive traffic like Zapier did with programmatic SEO early on.
+
+● ● ● ● ● ○ ○

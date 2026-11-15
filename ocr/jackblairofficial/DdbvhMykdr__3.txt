@@ -1,0 +1,19 @@
+Jack Blair
+@jackblairofficial
+
+Finding 2: "send" beats "DM" four to one.
+
+Same thing given away, different wording.
+The rate moved like this:
+
+Rates by wording (median comments per like):
+"I'll send you": 0.53
+"Get it" or "grab it": 0.56
+"DM me": 0.13
+
+Keyword in quotes: 0.43 vs 0.14 without.
+Keyword repeated at the end: 0.48 vs 0.20.
+"Follow, then comment": 0.70 vs 0.25.
+
+Saying "free" did nothing: 0.29 with it, 0.34 without.
+"The full setup": 0.68 vs 0.27.

@@ -1,0 +1,12 @@
+5→
+Wait for Generation
+• Zapier App: Delay by Zapier • Action: Delay For
+Configuration:
+Delay: 2 minutes
+Gamma needs time to generate the presentation.
+6→
+Get Gamma URL
+• Zapier App: Gamma • Action: Get Generation
+Configuration:
+Generation ID: {{Step 4 - generationId}}
+This retrieves the final Gamma presentation URL.

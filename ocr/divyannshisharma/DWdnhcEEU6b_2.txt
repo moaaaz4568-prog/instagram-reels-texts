@@ -1,0 +1,38 @@
+UI UX Pro Max
+2. UI UX Pro Max
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+nextlevelbuilder / ui-ux-pro-max-skill
+Code
+Issues
+43
+Pull requests
+35
+Actions
+Projects
+Security
+Insights
+main
+17 Branches
+17 Tags
+mrogonie Merge pull request #207 from nextlevelbuilder/fix/bug-fixes-batch
+5069923 - 3 days ago
+fix(plugin): bump pluginjsn version to 2.5.0
+fix(skill): translate Chinese to English
+"Claude Code Review workflow"
+chore: update ui-ux pro max skill for react-native apps
+chore: update ui-ux pro max skill for react-native apps
+fix(cli): bump CLI version to 2.5.0
+chore: update ui-ux pro max skill for react-native apps
+sync: 161 product types, design system with CLI 资产同步, s...
+docs: add website screenshot to README (#5)
+fix(templates): add YAML frontmatter to 5 platform configs
+.claude-plugin
+.claude/skills
+.github/workflows
+cat-feeding-app
+cli
+docs
+preview
+screenshots
+src/ui-ux-pro-max
+Go to file

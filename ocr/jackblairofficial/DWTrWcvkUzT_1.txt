@@ -1,0 +1,14 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 1: The Reversal
+
+"Act as a sales coach trained in Alex Hormozi's objection handling.
+
+My prospect just said:
+[paste objection]
+
+Write me a response that agrees with their objection completely before dismantling it.
+
+Make them feel heard first.
+Then flip it."

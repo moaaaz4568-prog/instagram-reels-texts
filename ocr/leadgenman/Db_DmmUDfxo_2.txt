@@ -1,0 +1,19 @@
+SKILL
+taste-skill
+DESCRIPTION
+Reads your brief before it writes anything, then sets three dials for how asymmetric the layout gets, how much it animates, and how packed the screen feels. It bans em dashes, beige and brass palettes, and three equal feature cards.
+tasteskill.dev
+Taste Skill
+v2 (experimental) just shipped
+Taste Skill
+The Anti-Slop Frontend Framework for AI Agents
+Less slop, designs pop.
+Open-source skill files that stop Cursor, Claude Code, Codex, Gemini CLI, v0, Lovable, and more from generating generic frontends.
+$ npx skills add Leonxin/taste-skill
+See what is new in v2 →
+Read the docs →
+m-skill
+COPY
+Read the docs →
+MORE INFO
+https://www.tasteskill.dev

@@ -1,0 +1,24 @@
+Step #8
+API keys
+Save your key
+Do not share your API key. If it is leaked, anyone can use it on your behalf.
+Create new secret key.
+NAME
+sk-proj-...
+COPIED
+.permissions
+Read and write API resources
+Done
+Create and copy your
+OpenAI API Key
+W
+A
+S
+D
+Z
+X
+C
+V
+B
+N
+M

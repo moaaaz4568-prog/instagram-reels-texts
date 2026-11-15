@@ -1,0 +1,5 @@
+3.Context
+Info overload
+Unstructured data
+Window limits
+Memory loss

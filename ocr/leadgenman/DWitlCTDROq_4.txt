@@ -1,0 +1,6 @@
+Skill 4 of 5
+anthropic.com
+skill-creator
+By Anthropic
+It lets you create custom skills to automate your own workflows. It tests your prompts, helps you evaluate the results, and iterates until you are satisfied.
+Skill Creator

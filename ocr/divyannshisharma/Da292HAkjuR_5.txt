@@ -1,0 +1,47 @@
+6 D3 example: a system diagram explaining itself
+A tiny tour of the system.
+
+HOW IT ALL CONNECTS
+A Tiny Tour of the System
+Follow a request as it hops across every piece of the system stack.
+
+EDGE
+COMPUTE
+PROCESSING
+STORAGE
+
+CDN
+CloudFront
+
+Client
+Browser / Mobile
+
+Load Balancer
+AWS ALB
+
+API Server
+Node.js - 3000
+
+API Server
+Node.js - 3000
+
+Postgres
+Primary
+
+Postgres
+Replica
+
+Redis Cache
+6379
+
+Message Queue
+SQS
+
+Worker
+Lambda
+
+Object Storage
+S3
+
+This used to take hours in After Effects.
+Now Claude draws each piece of a system, then animates the connecting lines between each piece of a system, then diagram and then them — turning a static diagram into something that explains itself.

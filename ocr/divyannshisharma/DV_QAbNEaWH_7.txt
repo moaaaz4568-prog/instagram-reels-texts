@@ -1,0 +1,29 @@
+AI Marketing Suite for Claude Code
+What This Does
+- market audit: https://claude.ai/new
+  - Content & Messaging Analysis · Score: 72/100
+  - Conversion Optimization Suggestions · Score: 65/100
+  - SEO & Discoverability · Score: 81/100
+  - Brand & Tone · Score: 63/100
+  - Growth & Strategy · Score: 51/100
+  Overall Marketing Score: 69/100
+  Full report saved to MARKETING-AUDIT.md
+
+Suggested workflows
+- Pyln · Configure
+  Lint a Python application with.
+- Publish Python Package · Configure
+  Publish a Python Package to PyPI.
+- Django · Configure
+  Build and Test a Django Project.
+
+Manual Install
+curl -fsSL https://raw.githubusercontent.com/your-repo/install.sh | bash
+
+Optional: PDF Report Support
+
+Installation
+cURL Install
+
+7: Install
+Copy the curl command from the README, paste in terminal, done.

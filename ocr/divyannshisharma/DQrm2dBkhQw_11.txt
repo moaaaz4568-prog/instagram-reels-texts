@@ -1,0 +1,9 @@
+Recap:
+Entire Workflow in 7 Steps
+
+Use Grok Deep Search to find ideal influencer accounts
+Manually verify each account for relevance and reach
+Add them to XReacher to scrape followers
+Apply filters like bio keywords and country exclusionsm to XReacher to scrape followers
+Let it scrape thousands of leads
+Either download the leads or launch a DM campaign

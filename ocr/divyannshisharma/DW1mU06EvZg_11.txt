@@ -1,0 +1,8 @@
+11
+Connect Hermes agent
+Open Hermes → choose Custom OpenAI
+Enter http://localhost:11434/v1/ as base URL
+Hermes auto-detects gemma4:26b
+Made by
+Divyanshsharma
+12 →

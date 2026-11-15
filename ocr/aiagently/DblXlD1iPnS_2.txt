@@ -1,0 +1,25 @@
+AI AGENTLY
+Step 2: Create a
+Meta Developer App
+Go to Meta for
+Developers.
+Create a
+new app.
+Then add:
+WhatsApp
+as a product.
+This is where your
+WhatsApp API
+connection
+starts.
+Your setup will look like:
+Business Portfolio
+Meta App
+Developer App
+WhatsApp Product
+WhatsApp Business Account
+Phone Number
+All in one
+With Partner
+Your
+Growth

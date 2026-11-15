@@ -1,0 +1,5 @@
+The best part
+
+The system learns over time. It analyzes which angles get replies, which subject lines convert, and which segments produce the lowest cost-per-lead.
+
+Then uses that data to generate better campaigns next time.

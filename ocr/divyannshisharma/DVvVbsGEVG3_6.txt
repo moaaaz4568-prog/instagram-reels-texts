@@ -1,0 +1,16 @@
+Courses:
+
+1. HuggingFace's Agent Course: https://lnkd.in/gm1ftTXV
+2. MCP with Anthropic: https://lnkd.in/gCS4sd7Y
+3. Building Vector Databases with Pinecone: https://lnkd.in/gm9HR6_2
+4. Vector Databases from Embeddings to Apps: https://lnkd.in/gNFpC542
+5. Agent Memory: https://lnkd.in/g7bHU37w
+6. Building and Evaluating RAG apps: https://lnkd.in/g2qC9-mh
+7. Building Browser Agents: https://lnkd.in/gsMmCiQF
+8. LLMOps: https://lnkd.in/g7Fa7Ea
+9. Evaluating AI Agents: https://lnkd.in/gHJtwF5s
+10. Computer Use with Anthropic: https://lnkd.in/gMUVg7Ea
+11. Multi-Agent Use: https://lnkd.in/gU9DY9kj
+12. Improving LLM Accuracy: https://lnkd.in/gsE-4FvY
+13. Agent Design Patterns: https://lnkd.in/gzKvx5A4
+14. Multi Agent Systems: https://lnkd.in/gUayts9s

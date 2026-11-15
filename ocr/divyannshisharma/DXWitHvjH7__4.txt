@@ -1,0 +1,18 @@
+PART 4
+Claude Skills (Top Picks) 🧠
+23. PDF Processing (Official): Read, extract text tables, fill forms, merge and split PDFs. The highest-utility skill for knowledge workers.
+https://github.com/anthropics/skills/tree/main/skills/pdf
+24. Frontend Design (Official): Build real design systems, bold typography, production-grade UI. Escape the ‘AI slop’ aesthetic. 277,000+ installs.
+https://github.com/anthropics/skills/tree/main/skills/frontend-design
+25. Skill Creator (Official): The meta-skill. Describe a workflow in plain English, get a complete SKILL.md back in five minutes. Build new skills without configuration.
+https://github.com/anthropics/skills/tree/main/skills/skill-creator
+26. Marketing Skills by Corey Haines: 20+ skills covering CRO, copywriting, SEO, email sequences, growth strategy. All marketing skills, in one place.
+https://github.com/coreyhaines31/marketerskills
+27. Claude SEO: Full-site audits, schema validation, keyword analysis. 12 sub-skills covering the complete SEO workflow.
+https://github.com/AgriciDaniel/claude-seo
+28. Obsidian Skills: Built by Obsidian’s CEO. Auto-tagging, auto-linking, vault-native operations. If you use Obsidian, this is essential.
+https://github.com/kepano/obsidian-skills
+29. Context Optimization: Reduce token costs and improve KV-cache efficiency. Makes expensive API workflows significantly cheaper. 13,900+ stars.
+https://github.com/muratcankoylon/agent-skills-for-context-engineering
+30. Deep Research Skill: 8-phase research with auto-continuation. For when you need Claude to go deep on a topic, not just skim the surface.
+https://github.com/199-biotechnologies/claude-deep-research-skill

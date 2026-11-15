@@ -1,0 +1,28 @@
+Superpowers
+7. Superpowers
+https://github.com/obra/superpowers
+obra / superpowers Public
+Code Issues 74 Pull requests 96 Actions Projects Security Insights
+main Branches 25 Tags
+Go to file
+obra Release v5.0.6: inline self-review, brainstorm server restructur...
+claude-plugin
+codex
+cursor-plugin
+github
+ignorecode
+opencode
+agents
+commands
+docs
+hooks
+Release v5.0.6: inline self-review, brainstorm server restructur...
+Add Windows uninstall instructions and expand migration ste...
+Release v5.0.6: inline self-review, brainstorm server restructur...
+Add issue templates and disable blank issues
+Auto-register skills from plugin, simplify OpenCode install to ...
+fic: inherit agent model (#144)
+Deprecate slash commands in favor of skills
+docs: add implementation plan for Codex App compatibility (...
+Update changelog with Cursor hooks support (#709)
+Fix: ensure PID file create permissions for cross-platform reliability

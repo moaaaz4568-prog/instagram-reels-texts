@@ -1,0 +1,16 @@
+Week 1
+Pick the idea & build the MVP with Claude
+
+This week is about picking one tiny idea and shipping a working version with Claude Code.
+
+Your checklist for week 1:
+
+week 1:
+🌶️ Pick one tiny app idea & write a one-page PRD (what it does, who it helps, what you charge)
+🌶️ Paste the PRD into Claude Code
+Let it scaffold Next.js + Supabase auth + Stripe checkout
+🌶️ Push to GitHub and deploy on Vercel
+Ugly is fine, working is the goal
+
+By the end of this week:
+You have a LIVE app on a real domain.

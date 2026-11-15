@@ -1,0 +1,10 @@
+Continuation:
+
+21. Notion MCP: Read and write Notion pages and databases. Search across your workspace. Build automations that keep Notion in sync with your other tools.
+https://github.com/modelcontextprotocol/servers/tree/main/src/notion
+
+22. Linear MCP: Manage Linear issues, projects, and workflows. Create tickets, update status, search issues, and track project progress through Claude.
+https://github.com/jerhadf/linear-mcp-server
+
+23. Obsidian MCP: Connect Claude directly to your Obsidian vault. Read notes, search across your knowledge base, create new notes, and build on your existing thinking.
+https://github.com/smithery-ai/obsidian-mcp

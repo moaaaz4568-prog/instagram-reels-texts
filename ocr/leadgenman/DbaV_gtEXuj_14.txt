@@ -1,0 +1,13 @@
+14
+Hooks as Guardrails
+
+Set up Claude Code hooks as guardrails here.
+
+Stack: [YOUR STACK + PACKAGE MANAGER]
+
+* PostToolUse: run [LINT + TYPECHECK] after every file edit, feed errors straight back
+* PreToolUse: block edits to [PROTECTED PATHS: MIGRATIONS, .ENV, PROD CONFIG]
+* Stop: run [TEST SUITE] before a session ends
+* Notification: ping me with [SOUND / SLACK] when my input is needed
+
+Write the hook scripts + the settings.json script under 20 lines and exit non-zero with a clear message so the agent knows exactly what to fix. Then trigger each hook on purpose and show me it firing.

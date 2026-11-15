@@ -1,0 +1,40 @@
+Trigger Nodes:
+
+Category | Setting | Description
+---|---|---
+Foundation | JSON | Key-value pairs that shape all automation data
+| APIs | How data moves between tools via HTTP requests
+| Webhooks | External systems trigger your workflows in real-time
+| Conditionals | Branch workflow logic based on data conditions
+| Loops | Execute actions repeatedly across data arrays
+| Errors | Handle failures gracefully with retry logic
+Context Engineering | Prompts | Define AI behavior like studying before an exam
+| Context | Give AI business knowledge like a cheat sheet
+| Engineering | Tell the model what to do with clear instructions
+| Memory | Store conversation history for contextual responses
+| Tools | Functions AI can call to extend capabilities
+| Models | Choose right model balancing cost, speed, quality
+| Tokens | Control randomness: low=predictable, high=creative
+| Temperature | Max input/output size for each API request
+| Retrieval | Force specific JSON schemas for consistent results
+| Chains | Break complex tasks into step-by-step reasoning
+| Persona | Pull relevant information from knowledge bases
+| Cost | Implement fallback logic when APIs fail
+| Retry | Monitor and optimize token usage costs
+| Validation | Verify AI followed instructions correctly
+| Format | Link multiple AI calls in sequence
+| Precision | Define clear role: support, analyst, or writer
+| | Control structure: tables, lists, or paragraphs
+| | Fine-tune for accuracy in specific domains
+| | Variables store data between workflow nodes
+| | Transform data inline with expression syntax
+| | Navigate JSON structure to extract values
+| | Built-in functions like $now() and $today()
+| | Array methods: map, filter, reduce for lists
+
+Instagram
+Divyanshi
+
+1 2 3 4 5
+
+SWIPE

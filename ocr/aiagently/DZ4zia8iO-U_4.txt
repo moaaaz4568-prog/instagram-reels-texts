@@ -1,0 +1,28 @@
+Step 1:
+Google credentials → Google Cloud Console →
+create new project
+
+→ Library → enable Google Sheets
++ Drive API
+
+Credentials → OAuth Client ID → Desktop App
+
+Download JSON rename to credentials.json
+
+Drop into your project folder
+
+Do this before anything else.
+
+Google Cloud Platform
+New Project
+You have 11 projects remaining in your quota. Request an increase or
+delete projects. Learn more
+MANAGE QUOTAS
+Project name *
+My Project
+Project ID: imbould-dalla-346418. It cannot be changed later. EDIT
+Location *
+No organization
+Parent organization or folder
+BROWSE
+CREATE CANCEL

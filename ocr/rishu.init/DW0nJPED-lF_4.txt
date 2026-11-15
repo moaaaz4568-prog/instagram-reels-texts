@@ -1,0 +1,7 @@
+STOP AND READ THIS.
+Bad design
+costs you users.
+Not bad code.
+I learned this after 4 months of shipping. You do not have to wait that long.
+@rishu.init
+Swipe

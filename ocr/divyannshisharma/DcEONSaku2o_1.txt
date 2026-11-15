@@ -1,0 +1,33 @@
+TOP TOOL #1
+#1: AutoHedge
+Run an AI hedge fund
+from your laptop.
+4 agents.
+1 strategy.
+Fully automated.
+Research.
+Validation.
+Risk.
+Execution.
+One command →
+Starts trading
+on its own.
+Research
+Validation
+Risk
+Trade
+Like having a quant
+working 24/7.
+team
+AutoHedge
+ents working together
+4 AI ag
+Picks what to invest in
+Checks if the math makes sense
+Decides how much to risk
+Executes the trade
+AutoHedge
+Checks what to invest in
+Checks if the math makes sense
+Decides how much to risk
+Executes the trade

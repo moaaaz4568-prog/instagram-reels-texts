@@ -1,0 +1,16 @@
+Step #8
+Organization
+Your plan
+Evaluation access
+This free plan is for evaluating Claude's capabilities before commercial use.
+API directly or through a client SDK.
+Create a key to integrate with the Claude API. You can use the
+Profile
+Appearance
+Organization
+Workspaces
+Billing
+Limits
+API keys
+Privacy controls
+Next: Go to Claude console at platform.claude.com/settings/keys

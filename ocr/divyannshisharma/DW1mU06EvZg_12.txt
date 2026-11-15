@@ -1,0 +1,11 @@
+12
+Run terminal commands
+
+Hermes summarize the DeepMind Gemma 4 page
+It used browser_navigate → deepmind.google → 14.6s
+Then browser_snapshot → full page read in 0.2s
+
+Made by
+Divyanshsharma
+
+13 →

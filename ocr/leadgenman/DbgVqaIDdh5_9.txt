@@ -1,0 +1,7 @@
+8
+Deep Learning
+The math behind neural networks.
+So you know why any of it works.
+DEEP LEARNING
+Ian Goodfellow, Yoshua Bengio,
+and Aaron Courville

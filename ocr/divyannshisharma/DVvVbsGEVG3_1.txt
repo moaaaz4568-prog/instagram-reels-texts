@@ -1,0 +1,13 @@
+Videos:
+Links.com
+1. LLM Introduction: https://www.youtube.com/watch?v=zjkBMFhNj_g
+2. LLMs from Scratch: https://www.youtube.com/watch?v=9vM4p9NNOTs
+(Stanford): https://www.youtube.com/watch?v=kJiOGeI3Lw
+3. Agentic AI Overview (Stanford): https://www.youtube.com/watch?v=d5EItXhbcfA
+4. Building and Evaluating Agents: https://www.youtube.com/watch?
+5. Building Effective Agents: https://www.youtube.com/watch?v=D7_jpDqhtwk
+6. Building Agents with MCP: https://www.youtube.com/watch?v=kQmXtrmQ5Zg
+7. Building an Agent from Scratch: https://www.youtube.com/watch?v=xzXdLRUyjUg
+8. Philo Agents: https://www.youtube.com/watch?
+tFZmpTIOv6jIdHI3ONR
+www.youtube.com/playlist?list=PLacQJwuct_sV-

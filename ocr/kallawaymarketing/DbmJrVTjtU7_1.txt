@@ -1,0 +1,8 @@
+FOR SCRIPTWRITING
+AND Storytelling:
+I use Claude Opus 4.8 with custom Skills.
+/Short form-scriptwriting
+/Long form-scriptwriting
+Opus 4.8 High
+This takes some fine-tuning, but once you have a
+validated script framework, it works super well.

@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+1. THE SKILL EXTRACTION
+
+What it does: pulls every closing-adjacent skill from your LinkedIn that the high ticket market actually pays for.
+
+"You are a senior recruiter who hires remote closers for high ticket coaching, consulting, and SaaS offers. Here is my LinkedIn profile and last 3 roles: [PASTE]. Identify every closing-adjacent skill I've actually demonstrated, separated from soft buzzwords. For each one, name the specific high ticket role that pays for it and the average per-close commission. Be ruthless about what's transferable."

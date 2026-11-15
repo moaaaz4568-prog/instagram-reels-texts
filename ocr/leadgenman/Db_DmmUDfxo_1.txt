@@ -1,0 +1,1 @@
+Claude Design Skills are design rules you install once, and Claude follows them every session after. They lock your typography, colour, spacing and motion so the fifth screen still matches the first. They work across Claude Code, Cursor & Codex.

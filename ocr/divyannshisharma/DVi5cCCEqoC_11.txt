@@ -1,0 +1,39 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+4. Writing Partner
+
+Content creation: Tell Claude the main topic
+Vault scan: Finds related notes and past content
+Smart structure: Suggests ideas and writing framework
+Personal output: Content reflects your voice, thinking
+
+01 Opening scene
+
+Character
+- Dain
+Setting
+- hotelroom
+
+Day: 1
+Draft: 3
+Grammarly: ✓
+Critique: ✓
+TTS:
+Notes:
+
+Character
+- Dain
+Setting
+- hotelroom
+
+Day
+1
+Draft
+3
+Grammarly
+✓
+Critique
+✓
+TTS
+Notes

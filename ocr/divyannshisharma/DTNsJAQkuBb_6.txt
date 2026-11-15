@@ -1,0 +1,24 @@
+Step #6
+No trigger output
+Test this trigger
+or set mock data
+in events from Webhook
+Listen for test event
+Click to copy webhook
+URLs
+POST
+https://n8n.yourdomain.com/webhook-test/46
+46464c4-14ce-4599-92c5-a476603b0519
+HTTP Method
+POST
+Path
+Authentication
+None
+Respond
+Using 'Respond to Webhook' Node
+Options
+Insert a 'Respond to Webhook' node to control when and
+how you respond
+No properties
+Copy the webhook URL to connect
+your frontend to N8N backend

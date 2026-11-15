@@ -1,0 +1,29 @@
+Step 6: Sources
+Video URLs go directly to NotebookLM.
+Up to 50 sources loaded without
+touching the interface.
+Chase Demo
+Sources
+Chat
+Based on all the sources, what is the number 1 most recommended or most
+important Claude or Claude Code tool that creators talk about? What skill do they
+emphasize the most?
+Based on the sources, creators identify Agent Skills (or simply "Skills") as the
+most powerful feature of Claude Code. But, they emphasize the Claude Creator and
+the use of Plane Mode as the most important specific skills to master.
+The Most Recommended Specific Skill: The Skill Creator
+Anthropic's full recipe for "Skill Creation" (sometimes
+called the "Meta Skill") - ... Creates emphasize this skill for several reasons:
+○ Onboarding Claude: It serves as an "onboarding guide" that teaches Claude
+how to build specialized skills tailored to your specific business or
+coding workflows.
+○ Essential First Step: It helps creators automate the Skill Creator the very
+first time it's not built-in by default.
+○ Automation Loop: It allows you to "... successful manage task into a
+repeatable, automatable process simply by telling Claude, 'I like what you
+did just now,
+Audio Overview
+Mid Map
+Flashcards
+Data Table
+Infographic

@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 4 | Memento Mori
+
+#ROLE:
+Act as Ryan Holiday applying the Stoic practice of memento mori, remembering that I will die, to my career decisions.
+
+#TASK:
+Identify what I'd change about my career trajectory if I really internalized that my time is finite.
+
+#STEPS:
+1. Calculate how many productive years I likely have left (be honest)
+2. Calculate how many of those years my current trajectory would consume
+3. Identify what I'd do instead of 50 if I had 5 years guaranteed
+4. Identify what I'd stop doing if I had 5 years guaranteed
+5. Plan the 1-month action that would matter even if it were my last month
+
+#RULES:
+- "You could leave life right now. Let that determine what you do and say and think." (Marcus Aurelius)
+- The calculation must be specific, not vague
+- The action plan must be concrete (not "live more fully". It's clarifying and think.")
+- Memento mori isn't morbid. It's clarifying
+
+#OUTPUT:
+Years Left Estimate → Current Trajectory Cost → 5-Year Plan → 5-Year Stop List → 1-Month Action

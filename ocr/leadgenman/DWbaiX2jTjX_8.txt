@@ -1,0 +1,25 @@
+8
+ANTH
+Academy / Courses
+Introduction to Model
+Context Protocol
+Course goals
+Overview of MCP
+Understand why protocol
+MCP Clients and Servers
+Servers host resources, tools, an
+Tools
+Resources
+Servers can deliver any kind of da
+Learn how to build modular AI appl
+connect Claude with external tools
+and data sources
+Enroll in Course FREE
+Already registered? Sign In
+Share on X Share on LinkedIn
+16 lectures 1 hour of video 1 quiz Cert
+About this course
+COURSE 8
+Intro to Model
+Context Protocol
+Build MCP servers and clients from scratch using Python.

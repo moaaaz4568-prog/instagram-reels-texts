@@ -1,0 +1,25 @@
+finds companies that already move
+money
+14 / 20
+GitHub
+public repository
+stripe / stripe-node
+Public
+4.5k
+Fork
+Star 4.5k
+Used by < your read list
++ thousands
+★ 4.5k
+TypeScript
+WHAT IT DOES
+the node library for the stripe
+payments api.
+WHO TO MIND IT FOR
+every project that runs
+payments. real revenue
+means real budget for what
+you sell.
+THE EXACT LINK
+github.com/stripe/stripe-node/network/dependents
+● the github method

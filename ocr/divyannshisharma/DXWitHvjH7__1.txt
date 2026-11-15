@@ -1,0 +1,23 @@
+PART 1
+AI Coding Agents & IDEs 🛠️
+
+01. Claude Code: Anthropic’s command line coding agent. Reads files, writes code, runs tests, operates directly in your local environment. The gold standard for AI-assisted development when you want full control.
+https://docs.anthropic.com/en/docs/claude-code
+
+02. Cursor: AI-first code editor built on VS Code. Inline completions, chat with your codebase, multi-file editing. The best editor for developers who want AI integrated into their existing workflow.
+https://www.cursor.com
+
+03. Codex CLI: OpenAI’s terminal coding agent. Takes natural language instructions, reads your codebase, writes and executes code. Strong at multi-step implementation tasks.
+https://github.com/openai/codex
+
+04. Windsurf: AI code IDE by Codeium. Cascade agent for multi-file editing, deep codebase understanding, and flow-state coding. Growing fast.
+https://codeium.com/windsurf
+
+05. Superpowers: 20+ battle-tested Claude Code skills. TDD, debugging, plan-to-execute pipelines. 96,000+ stars on GitHub. If you use Claude Code, install this first.
+https://github.com/obra/superpowers
+
+06. Spec Kit (GitHub): Spec-driven development. Write specifications, AI generates code from them. Forces you to think before you build. 50,000+ stars.
+https://github.com/github/spec-kit
+
+07. Aider: AI pair programming in your terminal. Works with any LLM. Strong at working with existing codebases. 30,000+ stars.
+https://github.com/paul-gauthier/aider

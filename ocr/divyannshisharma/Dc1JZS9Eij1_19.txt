@@ -1,0 +1,42 @@
+SLIDE 20
+
+Move it into
+the main
+vault
+
+src-skills
+
+In the source docs in and wire every node to its origin in the cc-docs folder
+- both paths in the cc-docs vault: pull the 145 source docs in, wire every
+node to its origin.
+
+On 1Shell($folder = "C:\Users\chase\vaults\cc-docs")
+$raw = "C:\Users\chase\demo\claude-code-docs"
+STEP 1 - source docs pulled into sources/: 146
+STEP 2 - nodes wired to their source: 146
+~181 lines (ctrl+o to expand)
+
+- the cc-docs vault is now the full build:
++ 589 now have the "Source doc" callout under
+$ src-mcp.md.json
++ 146 source docs pulled in
+
+Executing and dynamic context injection
+
+Bundled skills
+Claude Code includes a set of bundled skills that are available in every session, including: /code-
+review, /batch, /debug, /docs, and /claude-end. Unlike most custom commands, which
+execute fixed logic, bundled skills are prompt-based; they give Claude
+instructions and context to accomplish complex tasks.
+
+vault | Qpus 4.8 (1M context) | 22%
+bypass permissions on (Shift+tab to cycle)
+
+develop 4,009 words 15,335 characters
+
+Last step: "Move this vault into my main vault,
+in its own folder."
+
+Done in under a minute. Now it's part of my
+bigger system — not stuck in a bubble anymore.
+145 random docs → one searchable, connected, second brain. 🧠

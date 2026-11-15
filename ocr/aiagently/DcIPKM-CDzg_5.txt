@@ -1,0 +1,15 @@
+Step 5
+Upload 2-3 N8N workflow
+so Claude learns the exact format. Switch the model to Sonnet 4.5. You're handing Claude a cheat sheet before it starts
+Instructions
+// Grounding rules Always reference the "n8n-io/n8n" Github repo before building anything. Never invent modes or features that don't exist. I
+Files
+Basic automatic Gmail email labelling with OpenAI and Gmail...
+263 lines
+JSON
+AI assistant with Telegram voice and text.json
+480 lines
+JSON
+RAG Starter Template using Simple Vector Stores, Form trigger a...
+250 lines
+JSON

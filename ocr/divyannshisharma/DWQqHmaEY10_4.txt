@@ -1,0 +1,39 @@
+Skill Set 03
+Algorithmic Art
+DESCRIPTION
+Bridges the gap between code and creativity by generating complex, visually captivating artwork using p5.js. From fractals to generative geometric compositions, it allows you to experiment with mathematical logic, patterns, and controlled randomness to produce unique, evolving visuals that stand out in digital art and creative coding.
+MORE INFO
+https://lnkd.in/g74ZxJUx
+anthropics / skills Public
+Code Issues 163 Pull requests 404
+Files
+main
+.claude-plugin
+skills
+algorithmic-art
+templates
+LICENSE.txt
+SKILL.md
+brand-guidelines
+canvas-design
+claude-api
+doc-coauthoring
+docx
+Name
+..
+tem
+LICENSE
+SKIL
+ant-
+skills / sk
+p.
+mat
+pat
+con
+ran
+pro
+ev
+sta
+an
+G
+o to file

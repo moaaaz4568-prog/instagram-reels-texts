@@ -1,0 +1,11 @@
+Step #12
+Booking Confirmed
+Availability
+Date Available
+Create Event
+Confirmed Message
+Alternative
+Next Day Availability
+Check Availability
+Merge
+From voice input to calendar booking confirmation

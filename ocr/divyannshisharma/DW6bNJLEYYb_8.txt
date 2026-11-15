@@ -1,0 +1,31 @@
+Thoughts
+Expand to view model thoughts
+System Instructions
+Optional tone and style instructions for the model.
+No API Key
+Switch to a paid API key to unlock higher quotas and more features.
+Temperature
+Media resolution
+Default
+Thinking level
+High
+Tools
+Structured outputs
+Edit
+This image shows a receipt from The Daily Grind Cafe located at 142 Main St, Portland, OR.
+The key points of the transaction are:
+• Date & Time: October 26, 2023, at 11:43 AM.
+• Items Purchased: Interestingly, the receipt includes both cafe items and garment care services:
+    • Dry Cleaning (2 suits): $30.00
+    • Laundry (shirt, press): $15.00
+    • Oat Latte (Medium): $5.50
+• Financial Breakdown:
+Start typing a prompt, use alt + enter to append
+Tools
+Grounding with Google Search
+Run Ctrl +
+Step 8
+Drop Image. Ask Anything.
+Uploaded a receipt and read every item, price, tip, and total instantly.
+Divyanshisharma
+09/18

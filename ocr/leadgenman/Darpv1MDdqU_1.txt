@@ -1,0 +1,3 @@
+hooks
+subagents
+skills & MCP

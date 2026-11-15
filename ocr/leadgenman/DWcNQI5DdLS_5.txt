@@ -1,0 +1,31 @@
+5 / 5
+
+/voice-dna
+
+Complete
+save saved.
+Close
+
+badgerman\skills\voice-dna.txt - Notepad
+Notepad
+Edit Format View Help
+
+fingerprint. This skill reads your existing content -- blog posts, tweets, docs -- and extracts the patterns that make it yours: sentence rhythm, vocabulary, tone, and quirks. No more "sounds like AI." It sounds like you.
+
+C:\WINDOWS\system32\cmd.exe
+C:\Users\manthan> claude
+
+> /voice-dna
+
+Scanning your writing samples...
+✓ Analyzed 12 posts, 847 tweets
+✓ Voice profile extracted (94%)
+
+Your DNA:
+├─ Rhythm: Short punchy. Then longer.
+├─ Tone: Direct, zero hedging
+└─ Quirks: Bold claims, one-liners
+
+✓ Voice profile saved
+
+Recyc

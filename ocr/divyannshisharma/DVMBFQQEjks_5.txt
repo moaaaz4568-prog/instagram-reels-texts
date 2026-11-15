@@ -1,0 +1,6 @@
+• With Claude Cowork, the game is text files.
+Afternoon, Ruben
+You write the best md .files (like briefs for ur team)
+You start all of your prompts to Claude with
+"Read this & then ask me questions to do
+[task]. " I simply stopped prompting differently

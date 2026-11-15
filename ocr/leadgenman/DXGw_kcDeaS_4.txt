@@ -1,0 +1,41 @@
+hooks/ -- deterministic rails
+EXPLORER
+.claude/
+.claude/hooks/ --
+deterministic
+automation
+Hooks fire on lifecycle events.
+PreToolUse, PostToolUse, Stop, SessionStart.
+Unlike CLAUDE.md, hooks ALWAYS run.
+For anything that MUST happen, open automatically.
+{
+  "hooks": [
+    {
+      "PreToolUse": {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "grep -q && exit 2"
+          }
+        ]
+      }
+    },
+    "PostToolUse": [
+      {
+        "matcher": "Edit [Write]",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "prettier --write"
+          }
+        ]
+      },
+      {
+        "type": "command",
+        "command": "run lint --silent"
+      }
+    ]
+  }
+}
+CLAUDE.md suggests. Hooks run every time -- guaranteed.

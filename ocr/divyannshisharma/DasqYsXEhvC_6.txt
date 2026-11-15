@@ -1,0 +1,27 @@
+Bypassing the
+Cloudflare Wall
+
+Step 2: Connect Apify
+
+• Directly crawling public Discord indices like
+Disboard triggers strict Cloudflare protection.
+
+• The Workaround: Inject your Apify API Key
+to unlock the magicfingers/discord-server-scrap
+actor.
+
+• Uses distributed residential proxies to safely pull
+fresh server metadata, growth rates, and
+active profiles.
+
+Discord Server Scraper
+Pay per usage
+magicfingers/discord-server-scraper
+Scrapes publicly accessible Discord server information from disc
+icons, and more.
+Input
+Information
+Runs 12
+Builds 1
+Inte
+★ 0.0 (0) 🔗 0 👥 4

@@ -1,0 +1,17 @@
+Business Automations
+
+#38 Weekly Review Compiler Every Friday Claude compiles your completed tasks, metrics, wins, blockers, and top priorities for next week into one review document.
+
+#39 Client Proposal Generator Describe the client’s needs and budget. Claude generates a complete proposal — executive summary, approach, timeline, pricing, and terms.
+
+#40 Social Proof Collector Claude monitors your emails and messages for positive feedback, extracts testimonials, and saves them formatted to use on landing pages.
+
+#41 Onboarding Packet Creator For every new client Claude generates a welcome email, project timeline, intake questionnaire, and asset request form. All customized automatically.
+
+#42 Pricing Calculator Describe a project scope. Claude estimates hours based on your past projects, applies your rate, adds a complexity buffer, and produces an itemized quote.
+
+#43 Process Documentation Writer Describe any process you do repeatedly. Claude turns your rough explanation into a polished SOP with numbered steps and quality checks.
+
+#44 Goal Tracker Monthly Claude reviews your stated goals against actual progress, calculates completion percentages, and suggests adjustments for next month.
+
+#45 End-of-Day Brain Dump Processor Record a voice memo with everything on your mind. Claude sorts it into tasks, ideas, follow-ups, and things to discard. Clear head. Clean system.

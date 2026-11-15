@@ -1,0 +1,8 @@
+05
+voice-to-text
+Paid
+WisprFlow
+15$/month
+Free
+OpenFlow
+0$/month

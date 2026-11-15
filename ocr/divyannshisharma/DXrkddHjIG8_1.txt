@@ -1,0 +1,28 @@
+1. LLM Fundamentals
+LLM Fundamentals
+• How LLMs work (at a high level) • What they’re good at vs where they fail • Working with APIs like OpenAI and Anthropic • Structured outputs (JSON, schemas, tool responses) • Prompt engineering across different tasks
+X □ -
+1. Input
+2. Tokenization
+3. Transformer (Neural Network)
+Multiple Layers
+Inside the Transformer Block
+Add & Norm
+Feed Forward Network
+Add & Norm
+4. Decoding
+5. Output
+From input to intelligent output
+Multi-Head Self-Attention
+The model looks at all words in the input to understand their relationships.
+Focuses on relevant parts of the input
+Learns from billions of examples.
+Adds the original input back in (residual connection) and normalizes.
+Stabilizes training and improves performance
+Applies transformations to extract higher-level features.
+Learns complex patterns in the data
+Ensures stable gradients and better learning
+Foundation for many AI applications
+Billions of parameters (trained weights)
+Emergent capabilities through scale
+Swipe →

@@ -1,0 +1,31 @@
+Step #4
+Add Tools
+Jina AI
+Use Jina AI to search the web for relevant information.
+Access Web
+Read URL content in Jina AI
+Web Search
+Search web in Jina AI
+0 tools selected
+Cancel
+Confirm
+Enable web search & voice control with one click.
+360
+Hz
+Esc
+1
+2
+3
+Q
+W
+A
+S
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl

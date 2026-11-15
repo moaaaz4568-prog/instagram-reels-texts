@@ -1,0 +1,18 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Step 4: I let it read my analytics
+
+I export the retention curve and ask where viewers left and why
+
+Then fix that weak sections
+
+That's the difference between better and just more
+
+Analyze this transcript and retention graph and give me an analysis and improvements for future scripts
+
+Here's the breakdown:
+
+Retention Pattern
+
+The curve is a textbook "graduated decline" — steep hook drop in the first 30 seconds (100% → 65%), then a long, steady bleed down to ~20–25% by 17:47, with no major cliffs after the intro. That’s actually a healthy shape for a 17-minute video — no single moment is driving mass exodus, which means the problem isn’t a specific scene, it’s pacing/density fatigue compounding over the runtime.

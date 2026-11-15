@@ -1,0 +1,8 @@
+6. Evaluation
+
+• Offline eval datasets • Measuring retrieval quality
+• Synthetic data gen • Prompt optimization based on results
+
+Goal: Move from "It feels good" → it's measurable
+
+Swipe →

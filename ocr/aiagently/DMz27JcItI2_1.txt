@@ -1,0 +1,34 @@
+Editor Executions Evaluations
+Agent knowledgebase + Add tag
+Talking to Files
+HAG Agent
+When Chat Message received
+Chat Result
+Memory
+Vector Store Tool
+OpenAI Chat Model
+Postgres Chat Memory
+Supabase Vector Store
+OpenAI Embeddings
+Default Data Loader
+Active
+Embeddings OpenAI
+Uploading doc to vectorstore
+Google Drive Trigger
+PDF
+Google Drive
+Extract from File
+Supabase
+Embeddings OpenAI
+Build a RAG Agent with n8n that:
+- turns documents into searchable AI
+- auto uploads from Google Drive
+- answers questions instantly
+- remembers conversations
+- updates automatically
+Your own ChatGPT for files!
+F3 F10 F11
+80
+S
+#
+3 4 2

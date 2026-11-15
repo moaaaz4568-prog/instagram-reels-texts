@@ -1,0 +1,4 @@
+Step #16
+Test the chatbot, and it will
+respond via n8n using the prompt
+instructions.

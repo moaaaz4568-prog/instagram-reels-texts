@@ -1,0 +1,12 @@
+it will read your markdown file as instructions and
+build on it.
+
+once it's done building,
+use this command
+and
+
+>> how can i view my site >>
+
+and it gives you a localhost preview link.
+
+@divyanshisharma

@@ -1,0 +1,3 @@
+Step #8
+Add your Gemini API key and
+database credentials

@@ -1,0 +1,8 @@
+Step #12
+WhatsApp account
+Connection tested successfully
+Details
+Access Token
+Business Account ID
+Connect WhatsApp account
+with credentials and test

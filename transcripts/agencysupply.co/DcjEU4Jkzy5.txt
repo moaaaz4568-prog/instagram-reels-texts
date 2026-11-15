@@ -1,0 +1,3 @@
+Okay, I've got you covered. Here are the words from that audio:
+
+"Transcribe the speech in this audio word for word. Output ONLY the spoken words in their original language. No descriptions, no commentary, no Chinese text."

@@ -1,0 +1,14 @@
+15
+Turn a Task Into a Skill
+
+Turn this repetitive task into a Claude Code skill.
+
+The task I keep doing: [DESCRIBE TASK + STEPS]
+
+* Create .claude/skills/[NAME]/SKILL.md
+* Frontmatter: name + description with the exact trigger phrases I actually say
+* Body: numbered workflow, my conventions, edge cases
+* What it should ask me for vs infer on its own
+* What "done" looks like
+
+Then dry-run the skill on a real example and refine until the output matches how I do it by hand.

@@ -1,0 +1,15 @@
+Using APIs in Make or Zapier May seem confusing at first.
+curl --location --request POST 'https://stable diffusionapi.com/api/v3/text-to-image' \
+curl --header 'Content-Type: application/json' \
+{
+  "key": "your-api-key",
+  "model_id": "qgo-10b",
+  "prompt": "ultra realistic close up portrait ((beautiful pale cy",
+  "negative_prompt": "painting, extra fingers, mutated hands, poor",
+  "width": "512",
+  "height": "512",
+  "samples": "1",
+  "num_inference_steps": "30",
+  "seed": null,
+  "guidance_scale": 7.5
+}

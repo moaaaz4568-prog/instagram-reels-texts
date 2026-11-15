@@ -1,0 +1,65 @@
+40+ MCP Servers
+Your Claude
+Needs!
+
+RESOURCE BIBLE
+CLAUDE CODE
+
+START HERE Beginner -> Advanced Guide charlie-lincliis.substack.com
+01 OFFICIAL ANTHROPIC
+02 Official Docs — Complete Claude documentation code.anthropic.com/docs
+03 Partner Network — Anthropic partners anthropic.com/news/claude-partner-network
+04 Certification — Claude Certified Architect anthropic.skillplan.com/claude-certified-architect-foundation
+05 MCP Servers Repo — Full curated list of github.com/modelcontextprotocol/servers
+06 MCP Code Context/Protocol/Agents
+
+DIRCTORIES + MEGA LISTS
+07 Everything Claude Code ecotl
+08 Mega Resource Repo — Github mega collection github.com/diagnoses/everything-claude-code
+09 Awesome MCP Servers — 2K+ stars github.com/jcahnan/awesome-mcp-servers
+10 Awesome Claude Skills — Skills list github.com/Calamity-inc/awesome-claude-code-skills
+11 MCP Servers List — Community curated index Skill Codex: Community directory, github.com/skillcodex/mcp-servers
+12 Visual Skills Browser — https://mcp.tools/
+13 50+ Best MCP Addons — Curated MCP list github.com/st riposal/mcp-use-cases-and-examples-best-addons
+14 MCP Server Guide mcpat.lc/guides/best-mcp-servers-for-claude-code
+
+MCP SERVERS
+15 SKILLS + EXTENSIONS
+16 Superpowers — Browser + LinkedIn tools github.com/oai/superpowers
+17 Taste Skill — Anti-clip frontend github.com/lexicon/taste-skill
+18 Claude CDP — Control Chrome tabs github.com/paky0/claude-cdp-skills
+19 Docker/Lifestyle — Full powered skills github.com/lsvilcisaavich/claude-skills
+20 Code Settings — Optimized config github.com/takayn/claude-code-settings
+21 KLUI — Visual interface for Claude github.com/loomfeos/klui
+22 Loop — Recursiv tool calling github.com/fadsserpt/loop
+23 Claude Cursor — Claude + cursor github.com/Airpa/claude-cursor
+
+24 TERMINAL MULTIPLEXERS
+25 tmux — macOS agent terminal (77K stars) github.com/tmux/tmux
+26 gmux — Multi-agent orchestration github.com/s-mita/gmux
+27 claude-asked — Manage multiple agents github.com/ashu/multiclaude
+28 dmux — Git workflow multiplexer github.com/Isolatedparallels/dev
+
+29 TERMINALS + EXTENSIONS
+30 Superpowers — Browser + LinkedIn tools github.com/oai/superpowers
+31 Taste Skill — Anti-clip frontend github.com/lexicon/taste-skill
+32 Claude CDP — Control Chrome tabs github.com/paky0/claude-cdp-skills
+33 Docker/Lifestyle — Full powered skills github.com/lsvilcisaavich/claude-skills
+34 Code Settings — Optimized config github.com/takayn/claude-code-settings
+35 KLUI — Visual interface for Claude github.com/loomfeos/klui
+36 Loop — Recursiv tool calling github.com/fadsserpt/loop
+37 Claude Cursor — Claude + cursor github.com/Airpa/claude-cursor
+
+38 TERMINAL MULTIPLEXERS
+39 tmux — macOS agent terminal (77K stars) github.com/tmux/tmux
+40 gmux — Multi-agent orchestration github.com/s-mita/gmux
+41 claude-asked — Manage multiple agents github.com/ashu/multiclaude
+42 dmux — Git workflow multiplexer github.com/Isolatedparallels/dev
+
+43 TERMINAL MULTISERVERS
+44 Cloudflare Workers — https://workers.cloudflare.com/
+45 Vercel — https://vercel.com/
+
+HOT SERVERS
+
+G>

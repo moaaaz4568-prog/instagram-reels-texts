@@ -1,0 +1,8 @@
+Adam | YouTube
+@Adam_DelDuca
+Step 3: Model what's already working
+I find the top 5 channels in the niche and document their highest viewed videos
+Then I get Claude to give me adjacent topics that tap into that demand
+But aren’t copies that would fall flat
+when uploaded
+Look at this channel, find the pattern on why and what these topics are and break it down into a clear strategy/format, and then suggest 5 new topics that are adjacent to the top performing topics on this channel

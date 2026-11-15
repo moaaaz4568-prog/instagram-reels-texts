@@ -1,0 +1,51 @@
+STOP USING
+OPUS FOR
+EVERYTHING
+
+2. Don’t use Opus for every task
+Simple work doesn’t need your
+most powerful model.
+
+Haiku → search, locate, simple review
+Sonnet → everyday coding
+Opus → architecture + complex refactors
+
+HAIKU
+Simple
+Search, locate,
+simple review
+
+SONNET
+Normal
+Nx refactors
+Search, locate,
+everyday coding
+
+OPUS
+Complex
+Architecture +
+complex refactors
+
+Simple ——————————————— Complex
+
+$ Opus is powerful.
+Use it wisely.
+
+Add routing rules to your
+project instructions:
+
+routing.md
+
+1 # 3-Tier Model Routing
+2
+3 Haiku → locate code, grep, diff review
+4 Sonnet → iterative development
+5 Opus → architecture decisions only
+6
+7 NEVER use Opus for:
+8 - File lookup
+9 - Simple function questions
+10 - Basic diff review
+
+* Use the right model for the right job.
+Smarter routing = lower tokens + faster results.

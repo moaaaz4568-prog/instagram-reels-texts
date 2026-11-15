@@ -1,0 +1,3 @@
+What is a Flow?
+"Flow = the full sequence of steps from start to finish."
+A flow is a complete automation made up of a trigger, several nodes, and a final action. Example: A form is submitted → the data is recorded → an email is sent automatically.

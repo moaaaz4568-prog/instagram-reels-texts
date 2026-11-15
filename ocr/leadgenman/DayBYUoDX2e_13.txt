@@ -1,0 +1,14 @@
+Tools we use (clip this)
+Orchestration and Automation
+n8n Make Zapier Replit
+Builders and UI
+Lovable Emergent Base44 Claude Code
+IDEs and Coding
+Cursor VS Code Windsurf
+General Agent
+Manus AI
+Models and AI
+DeepSeek Qwen Mistral Perplexity Gemini ChatGPT Claude Z.AI Grok by X Kimi
+Databases and Storage
+Weaviate Supabase Pinecone NoSQL Postgres Qdrant Nocodb
+Use these across the board. Swap in what your team already has. Keep the loop small. Measure the run.

@@ -1,0 +1,19 @@
+Task Master AI
+What you'll get:
+• Your AI's project manager.
+• Breaks down goals into structured tasks and manages workflows.
+2
+eyaltoledano / claude-task-master Public
+Code Issues 144 Pull requests 39 Discussion
+main
+329 Branches 112 Tags
+bjcombs and Crunchyman-ralph docs: Updat
+.claude
+.claude-plugin
+.claude
+.cursor
+.github
+.kiro
+.taskmaster-plugin
+.vscode
+apps

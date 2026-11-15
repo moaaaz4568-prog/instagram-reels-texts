@@ -1,0 +1,13 @@
+Want all 7 layers?
+Comment
+"LAYERS"
+layers-guide.txt - Notepad
+File Edit Format View Help
+CLAUDE.md templates
+subagent playbook
+agent team setup
+Dynamic workflow guide
+loop recipes
+Guardrail checklist
+Level-up roadmap
+09 / 09

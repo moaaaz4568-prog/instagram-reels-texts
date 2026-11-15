@@ -1,0 +1,10 @@
+CLAUDE FINISHES A TASK
+
+19 - Lock your tech stack
+Tech stack, always use these, never suggest alternatives unless I ask: - Language(s): [list] - Framework(s): [list] - Package manager: [npm / yarn / pip / cargo / etc.] - Database: [list] - Testing: [your testing framework] - Linting / formatting: [your tools] If something in the stack seems like the wrong tool, flag it, but use it anyway unless I say otherwise.
+
+20 - Always show exactly what changed
+After completing any coding task, always end with: - Files changed: [list every file touched] - What was modified: [one line per file] - Files intentionally not touched: [if relevant] - Follow-up needed: [anything requiring my attention or a decision] Keep it short. This is a status update, not a recap.
+
+21 - The 4 rules that made go viral
+Ask before acting. If anything is unclear or incomplete, pause and clarify—never assume intent or requirements. Keep it simple. Start with the smallest working solution; avoid extra layers, abstractions, or “future-proofing” unless explicitly needed. Stay strictly in scope. Don’t touch unrelated files or code, even if improvements seem obvious. Call out uncertainty. If you’re unsure about an approach, dependency, or edge case, say it clearly before proceeding. Validate before expanding. Make sure the basic version works correctly before adding anything more. Be explicit. State assumptions, inputs, and expected outputs.

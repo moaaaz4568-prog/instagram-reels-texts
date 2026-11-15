@@ -1,0 +1,25 @@
+SLIDE 2 | THE PROBLEM
+Claude Code
+is smart.
+But if you dump 145 random
+documents on it, it has
+to
+search through them
+one by one.
+That's slow. And it misses
+how ideas connect to each other.
+MD
+PDF
+TXT
+THE PROBLEM
+Slow and disconnected.
+That's slow.
+And it misses how ideas
+connect to each other.
+VS
+THE IMPACT
+Misses context.
+Loses connections.
+What if it could see
+the WHOLE picture
+at once?

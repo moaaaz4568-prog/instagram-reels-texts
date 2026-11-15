@@ -1,0 +1,31 @@
+Step #1
+Pick the best VPS plan – self-hosted n8n included
+Best deal - Limited time only
+66% OFF
+KVM 2
+₹ 549.00/mo
+Choose plan
+Renews at ₹999.00/mo for 2 years. Cancel anytime.
+2 vCPU cores
+8 GB RAM
+100 GB NVMe disk space
+8 TB bandwidth
+71% OFF
+KVM 4
+₹ 749.00/mo
+Choose plan
+Renews at ₹1,999.00/mo for 2 years. Cancel anytime.
+4 vCPU cores
+16 GB RAM
+200 GB NVMe disk space
+16 TB bandwidth
+KVM 8
+₹ 1,49
+Choose plan
+Renews at ₹3,9
+8 vCPU cores
+32 GB RAM
+400 GB
+32 TB
+Hostinger Setup
+Buy a VPS from Hostinger.

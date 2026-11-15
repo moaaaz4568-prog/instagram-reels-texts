@@ -1,0 +1,15 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+You Don’t Need Another Computer (Or 9-Agent Fleet)
+
+• More agents ≠ better – just more cost and chaos
+
+The Distinction
+/new resets chat; new agent = new brain
+
+The Move
+Add agents only for true isolation
+
+The Pro Tip
+Keep fewer agents – use /new mostly

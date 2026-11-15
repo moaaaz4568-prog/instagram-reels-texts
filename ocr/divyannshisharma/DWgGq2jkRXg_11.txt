@@ -1,0 +1,21 @@
+CLAUDE.md: Your
+Project's Instruction
+
+Loads straight into system prompt.
+
+Put this:
+- Exact build/test/lint commands
+- Key architecture decisions (e.g. monorepo, Turborepo)
+- Non-obvious rules & gotchas (strict TS, edge cases)
+- Coding conventions (imports, naming, error handling)
+- Project structure (important folders/files)
+- Always include the "why" behind the rules
+
+Don't put:
+- Linter/formatter configs
+- Long docs or theory
+- Anything obvious or already documented
+- Over 200 lines (too long = worse output)
+
+@divyanshsharma
+save for later

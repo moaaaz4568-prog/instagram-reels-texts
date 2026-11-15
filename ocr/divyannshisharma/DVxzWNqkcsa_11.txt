@@ -1,0 +1,37 @@
+Step II: Automate
+
+Sources, audio, infographics, flashcards
+everything in NotebookLM is callable from
+Claude Code.
+
+README
+Contributing
+MIT License
+Security
+
+CLI
+
+# 1. Authenticate (opens browser)
+notebooklm login
+
+# 2. Create a notebook with research sources
+notebooklm create "My Research" \
+  --sources https://en.wikipedia.org/wiki/Artificial_intelligence \
+  --sources https://arxiv.org/abs/2303.08774
+
+# 3. Chat with your sources
+notebooklm ask "What are the key themes?"
+
+# 4. Generate content
+notebooklm generate audio --mode "engaging" --wait
+notebooklm generate video --style "whiteboard" --wait
+notebooklm generate quiz --difficulty "hard"
+notebooklm generate flashcards --quantity 10
+notebooklm generate slide-deck --orientation portrait
+notebooklm generate infographic --compare "key concepts"
+notebooklm generate mind-map
+
+# 5. Download artifacts
+notebooklm download audio --format markdown ./quiz.md
+notebooklm download video --format mp4 ./video.mp4
+notebooklm download quiz --format markdown ./quiz.md

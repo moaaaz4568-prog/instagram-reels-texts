@@ -1,0 +1,13 @@
+Omnisend Setup
+That Matters
+
+Segments:
+intent:newsletter • intent:leadgen_workflow •
+channel:whatsapp/sms • high_intent (score >= 70)
+
+Automations
+• Newsletter Welcome (E1 now, E2 D+2, E3 D+4 split)
+• Lead Magnet Delivery (email + SMS nudge)
+• Sales Assist (booking link + Slack alert)
+
+Segments

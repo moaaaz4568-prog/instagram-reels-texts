@@ -1,0 +1,32 @@
+Repo Stack 07
+AWESOME
+CLAUDE SKILLS
+DESCRIPTION
+A curated list of
+awesome Claude
+Skills, resources, and
+tools for customizing
+Claude AI workflows
+ComposioHQ / awesome-claude-skills
+Code
+Issues 80
+Pull requests 369
+master
+5 Branches
+Prat011 reorganize: move composio
+artifacts-builder
+brand-guidelines
+canvas-design
+changelog-generator
+competitive-ads-extractor
+composio-skills
+connect-apps-plugin
+connect-apps
+connect
+mcp
+automation
+workflow-automation
+antigravity
+saas
+MORE INFO
+https://t.co/5lbBAQSUuV

@@ -1,0 +1,20 @@
+Containerized
+environments
+What you'll get:
+• For coding agents.
+• Isolated, reproducible setups for
+safe code execution.
+12
+dagger / container-use
+Code Issues 47 Pull requests 23 Actions
+21 Branches 14 Tags
+marcosnils fix container-use cursor install link
+container-use
+.dagger
+.github
+cmd/con
+docs
+examples
+environment
+mcpserver
+repository

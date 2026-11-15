@@ -1,0 +1,12 @@
+3 →
+step 3 →
+Job Titles Supervision
+Prompt:
+"Determine the roles that would most likely have the authority to make a decision on working with us."
+You
+Determine the roles that would most likely have the authority to make a decision on working with us
+ChatGPT
+In B2B SaaS companies, the following roles are most likely to have the authority to make decisions regarding working with external service providers like your lead generation services:
+1. Chief Executive Officer (CEO): Ultimately responsible for the company's strategic direction and major decisions, including partnerships and vendor relationships.
+2. Chief Marketing Officer (CMO): Typically has authority over marketing budget allocation and vendor selection for marketing services, including lead generation.
+3. VP/Director of Marketing: Directly oversees the marketing function and may have decision-making authority regarding marketing vendors and partnerships.

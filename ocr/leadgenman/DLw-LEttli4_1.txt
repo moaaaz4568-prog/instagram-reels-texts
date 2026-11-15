@@ -1,0 +1,22 @@
+Multi-Agent Architectures
+Patterns in Multi-Agent System
+Parallel
+Sequential
+Loop
+Router
+Aggregator
+Network
+Hierarchical
+Human-in-the-loop
+Shared tools
+Sequential
+Database with tools
+Memory transformation using tool
+6 Examples of Multi-Agent System
+Hierarchical
+Human-in-the-loop
+Shared tools
+Sequential
+Database with tools
+Memory transformation using tool
+Hierarchical

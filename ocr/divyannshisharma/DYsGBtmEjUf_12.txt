@@ -1,0 +1,35 @@
+12
+Don’t re-explain yourself
+every conversation
+
+Stop repeating
+the same stuff!
+It wastes tokens
+and time.
+
+If you’re pasting the same background
+information into every new chat,
+you are wasting tokens every single
+time
+and training yourself into a habit
+that costs you more as Claude
+usage scales.
+
+DON’T DO THIS!
+✗ Wastes tokens
+✗ Costs more
+✗ Trains you into
+inefficient habits
+✗ Slows you down
+
+This is exactly what Projects and Custom Instructions are for.
+Put your context in one place.
+Let Claude read it automatically at the start of every session.
+Never paste your background again.
+
+If you are not using Projects yet
+start there before reading
+anything else in this article.
+
+Divyanshi sharma
+12/18

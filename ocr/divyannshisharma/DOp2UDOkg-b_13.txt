@@ -1,0 +1,23 @@
+Roadmap (v2+)
+Opt-in rate (WA/SMS - email) 65%
+Lead score distribution
+Time-to-first-response 15
+Asset delivery CTR 12%
+Bookings from high-intent segment 30%
+0.5%
+Unsubscribe/STOP rate (keep <1%)
+Memory DB for Context
+V1
+V2
+Base RAG English only
+Memory DB
+Playbooks
+Specific Playbooks (Pricing, Product, Demo)
+RAG on Playbooks (Pricing, Product, Demo)
+Agent-to-human handoff
+Docs/FAQs
+Shared Inbox
+Shared Inbox Multi-language
+V3
+Shared Inbox
+Shared Inbox Multi-language

@@ -1,0 +1,34 @@
+Claude-Code.exe -- Installing hooks/
+File Edit View Help
+Component 1/3: hooks/
+Hooks run automatically on tool events -- before, after, or instead.
+C:\> type hooks
+// .claude/settings.json
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "pnpm lint --fix"
+          }
+        ]
+      }
+    ]
+  }
+}
+Hooks = Claude doing things automatically so you do not.
+Installing hooks...
+33%
+< Back
+Next >
+Cancel
+Start
+Claude -- hooks/
+4:24 PM
+hooks =
+Claude doing
+chores for
+you.

@@ -1,0 +1,21 @@
+STEP 4
+SOP: Kimi K2.6 Playbook
+USE /EXPLAIN TO
+BREAK LEGACY CODE
+Old code = dangerous code.
+Let's understand
+this beast before
+touching a single
+line.
+> /explain @src/order-ty + memory
+Focus: thread safe-
++ performance hotspots
+What you get:
+architecture breakdown
+hidden bottlenecks
+"tribal knowledge"
+in minutes
+3 days of onboarding
+→ 10 minutes
+Understand first. Then refactor with confidence.
+4 / 12

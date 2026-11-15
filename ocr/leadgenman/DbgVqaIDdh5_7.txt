@@ -1,0 +1,13 @@
+6
+Designing Machine Learning
+Systems
+Your model works fine until it doesn't.
+This teaches you to catch it early.
+O'REILLY
+Designing
+Machine Learning
+Systems
+An Iterative Process
+for Production-Ready
+Applications
+Chip Huyen

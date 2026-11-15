@@ -1,0 +1,14 @@
+prompt 5 →
+Company Enrichment - Master prompt
+
+Prompt:
+This is the content of the company website: ["website_content"]
+
+In a JSON format:
+- Give me the value proposition of the company. In less than 25 words. In English. Casual Tone. Format is: "[Company Name] helps [target audience] [achieve desired outcome] with [additional benefit]"
+- Give me the industry of the company. (Classify using this industry list: [Agriculture, Arts, Construction, Consumer Goods, Education, Entertainment, Finance, Other, Health Care, Legal, Manufacturing, Media & Communications, Public Administration, Advertisements, Real Estate, Recreation & Travel, Retail, Software, Transportation & Logistics, Wellness & Fitness] If it's ambiguous between Software and Consumer Goods, prefer Consumer Goods) - Guess the target audience of each company.(Classify and choose 1 from this list: [sales teams, marketing teams, HR teams, customer Service teams, consumers, finance teams, accounting teams, IT teams, developer teams...]) Write it in lowercase
+- Tell me if they are B2B or B2C
+
+Format should be: {"value_proposition": value_proposition, "industry": industry, "target_audience": target_audience, "market": market}
+
+JSON:

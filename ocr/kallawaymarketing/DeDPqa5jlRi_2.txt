@@ -1,0 +1,11 @@
+THE FORMAT:
+Hook
+Lock-In-Zone
+Block 1
+Body Hook 1
+Block 2
+Re-Hook 2
+Body Hook 2
+Block 3 (optional)
+Closing (optional)
+CTA with Aligned Lead Magnet

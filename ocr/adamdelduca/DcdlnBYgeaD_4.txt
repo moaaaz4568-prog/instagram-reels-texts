@@ -1,0 +1,10 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Step 4: Treat the first 10 videos as data
+
+Most beginners quit at video 6
+
+I'd drop each retention curve into Claude to fix drop-off points
+
+Keep reiterating based on feedback and scale from there

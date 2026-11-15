@@ -1,0 +1,12 @@
+Slide 9 —
+09 / 10
+Tool 7: Home Assistant
+What it does:
+Controls your lights, doors, thermostat,
+and security cameras — all from one dashboard.
+What it replaces:
+SmartThings Pro + Alexa Plus — $25 a month
+Every smart device in your home works
+together in one place. No monthly fees ever.
+github.com/home-assistant/core
+COLTRANE

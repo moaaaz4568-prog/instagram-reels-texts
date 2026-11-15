@@ -1,0 +1,3 @@
+3. Grok now searches the web for accounts matching your criteria.
+This takes about 2-3 minutes.
+Once done, Grok will return a list of 20+ target accounts.

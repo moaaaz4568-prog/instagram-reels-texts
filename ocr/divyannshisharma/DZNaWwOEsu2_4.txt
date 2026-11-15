@@ -1,0 +1,56 @@
+SLIDE 5
+MORE ESSENTIAL
+PLUGINS
+Tasks
+Obsidian Git
+Calendar
+Kanban
+Periodic Notes
+Obsidian CLI
+Obsidian Vault
+Community plugins
+Browse and install community plugins to extend Obsidian. Learn more
+Search community plugins...
+Showing 1,000+ plugins
+Filters
+Sort by: Relevance
+All plugins
+Appearance
+Editor
+Files & links
+Import & export
+Productivity
+Connections
+Dataview
+Michael Brennan
+4,576,803
+Updated 2 days ago
+Calendar
+Liam Cain
+321,153
+Updated 3 days ago
+Temp
+Silent
+Updated 4 days ago
+Excalidraw
+Zsolt Viczian
+395,522
+Updated 5 days ago
+QuickAdd
+Christian B. B.
+458,614
+Updated 1 day ago
+Insert templates...
+templating language.
+Full calendar for your daily notes.
+View and create notes by date.
+Create and edit diagrams directly
+in Obsidian.
+Quickly add new notes or content
+with a customizable interface.
+Productivity
+Productivity
+Visuals
+Productivity
+1 2 3 4 5 ... 42
+Showing 1-24 of 1,000+ plugins

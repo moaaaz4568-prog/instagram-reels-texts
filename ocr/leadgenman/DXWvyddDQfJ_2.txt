@@ -1,0 +1,11 @@
+2
+/btw
+The side-question
+that erases itself.
+Mid-task and need a quick answer?
+/btw gives it to you, then wipes itself from the thread.
+Your conversation stays clean. Like it never happened.
+YOU
+ship the /api/users endpoint
+CLAUDE
+/api/users shipped. 8 tests green.

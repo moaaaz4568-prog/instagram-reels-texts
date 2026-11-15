@@ -1,0 +1,10 @@
+Specialized & Utility:
+
+35. Puppeteer MCP (Official Anthropic): Headless browser automation. Navigate, screenshot, interact with web pages. More lightweight than Playwright for simpler automation needs.
+https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
+
+36. Time MCP: Current time and timezone operations. Sounds simple but essential for any scheduling automation or time-aware workflow.
+https://github.com/modelcontextprotocol/servers/tree/main/src/time
+
+37. Memory MCP (Official Anthropic): Persistent key-value memory across conversations. Store and retrieve information that persists between sessions. The simplest way to give Claude long-term memory.
+https://github.com/modelcontextprotocol/servers/tree/main/src/memory

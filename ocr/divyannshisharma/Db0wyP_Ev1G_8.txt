@@ -1,0 +1,29 @@
+SLIDE 9
+Skill 7:
+Superpowers
+The biggest one on
+this list.
+into one framework by developer Jesse Vincent.
+20+ skills bundled
+into one framework by developer Jesse Vincent.
+What's included:
+Test-driven
+development
+Brainstorm
+and planning
+Code
+review
+Working
+multiple versions
+simultaneously
+Claude spawning
+its own sub-agents
+to tackle parts of
+the work
+The result:
+Claude can work autonomously for hours without
+going off-plan. Without you babysitting it.
+Without it losing track of what
+to build.
+This is for people who actually build things.
+github.com/obra/superpowers

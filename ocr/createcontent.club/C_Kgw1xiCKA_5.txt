@@ -1,0 +1,19 @@
+STEP 2 - CREATE AN AUTOMATION
+When...
+User replies to your Story
+Story Reply #114 copy
++ New Trigger
+Then
+Next Step
+Instagram
+Send Message
+Hey [First Name], thank you for your interest!
+Click on the button below to apply 👇
+CLICK HERE
+Reply contains specific words or reaction
+Reply includes Keywords or reaction:
+edit
++ Keyword
+Keywords or reaction:
++ Keyword
+@Createcontent.club

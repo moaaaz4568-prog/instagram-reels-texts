@@ -1,0 +1,13 @@
+14
+OpenClaw detects config
+
+> Shows: workspace, model, gateway mode, port
+
+> Was running claude-opus-4.6 via OpenRouter
+
+> Local gateway settings — just swaps the model
+
+Made by
+Divyanshsharma
+
+15 →

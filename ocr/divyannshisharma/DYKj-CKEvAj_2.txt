@@ -1,0 +1,7 @@
+#2: NOTEBOOKLM
+Python API and agentic skill for Google NotebookLM.
+Full programmatic access to NotebookLM's features
+including capabilities
+github.com/teng-lin/notebooklm-py
+Divyanshi sharma
+02/10

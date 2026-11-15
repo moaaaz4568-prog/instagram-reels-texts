@@ -1,0 +1,17 @@
+06
+Model information
+MoE architecture with 25.2B total parameters
+ACTIVE
+Only 3.8B parameters active during inference
+ACTIVE
+Supports up to 256K extended context length
+ACTIVE
+Handles multimodal inputs: Text, Image, Audio
+ACTIVE
+Optimized for efficiency with high performance
+ACTIVE
+Designed for scalable and local deployment
+ACTIVE
+Made by
+DivyanshSharma
+07 →

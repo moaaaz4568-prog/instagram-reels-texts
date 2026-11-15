@@ -1,0 +1,25 @@
+Step #4
+Content Idea generator
+Idea: Get a feel for agents with our quick tutorial or see an example of how this node works
+Source for Prompt (User Message)
+Define below
+Prompt (User Message)
+***: YouTube Transcripts from Other Creators
+These are insights from videos that are teaching or educational. Use these to understand:
+- What frameworks or tools are used
+- What problems they're solving
+- What kinds of hooks or structures they follow
+Require Specific Output Format
+Options
+System Message
+You are an expert content strategist helping create high-impact content tailored to a marketing and automation-savvy audience.
+### OBJECTIVE:
+Generate "actionable content ideas" based on:
+1. YouTube transcripts from other creators in your niche.
+2. My best-performing Twitter posts.
+Chat Model
+Memory
+Add Option
++
++
+Generate fresh content ideas without copying

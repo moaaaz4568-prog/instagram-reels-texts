@@ -1,0 +1,41 @@
+NotebookLM
+11 tools.
+13 / 18
+Inference
+Engines
+* vLLM
+Open source fast LLM inference
+with PagedAttention
+Inference Engines open source
+* TGI
+HuggingFace Text Generation
+Inference, production
+Inference Engines open source
+* Aphrodite Engine
+Open source vLLM fork with
+more features
+Inference Engines open source
+* ExLlamaV2
+Open source fast quantized
+LLM inference
+Inference Engines open source
+* MLC-LLM
+Open source universal LLM
+deployment engine
+Inference Engines open source
+* CTranslate2
+Open source fast transformer
+inference engine
+Inference Engines open source
+* LMDeploy
+Shanghai AI Lab open source
+LLM deploy toolkit
+Inference Engines open source
+* Triton Inference Server
+NVIDIA open source GPU
+inference serving
+Inference Engines open source
+* OpenLLM
+BentoML open source LLM
+serving framework
+Inference Engines open source

@@ -1,0 +1,16 @@
+Slide 10 —
+Where to start
+If you want to try this yourself:
+→ /goal in Claude Code —
+lets you set an end condition
+Claude works toward
+→ Outcomes in Claude Managed Agents —
+spawns a grader automatically for you
+→ Memory in CMA —
+gives your agent a shared
+filesystem across
+sessions
+You don't need to understand the
+technical details to use any of these.
+Start with one task. Set a rubric.
+Watch what happens.

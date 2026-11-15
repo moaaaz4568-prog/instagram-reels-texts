@@ -1,0 +1,19 @@
+Automated Reddit
+Lead Mining
+Target subreddits
+Qualification criteria
+Email summaries
+High-intent signals
+Schedule weekly searches
+Act as a Lead Generation Agent monitoring Reddit for SEO service
+opportunities.
+TASK: Search these subreddits for high-intent SEO questions from the past 7
+days. Make sure to really go to these subreddits to perform the searching.
+/r/smallbusiness
+/r/entrepreneur
+/r/recommerce
+HIGH-INTENT SIGNALS TO LOOK FOR:
+- Posts asking for SEO tool recommendations
+- Questions about improving search rankings
+- Requests for SEO agency/consultant suggestions
+- Problems with website traffic or Google visibility

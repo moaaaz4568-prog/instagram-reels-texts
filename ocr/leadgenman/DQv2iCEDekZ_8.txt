@@ -1,0 +1,14 @@
+For developers and coders
+
+Advanced Capabilities:
+• WebSocket API for real-time streaming
+• Custom webhook integrations
+• Dynamic prompt injection
+• Scale to 1000+ concurrent calls
+• BYOC telephony (Bring Your Own Carrier)
+
+Integration Options:
+• Twilio, Vonage, Telnyx
+• Custom SIP trunking
+• REST API endpoints
+• Real-time event streaming

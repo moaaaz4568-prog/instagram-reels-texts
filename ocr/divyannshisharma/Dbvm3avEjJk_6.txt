@@ -1,0 +1,7 @@
+07 TIP 3: KEEP YOUR INSTRUCTIONS SHORT
+Tip 3: Keep your instructions short.
+This feels wrong but it's one of the most important tips in the entire guide.
+Writing super long detailed prompts with every rule spelled out will actually make Fable 5 perform worse.
+Why? Because Fable is smart enough to figure out the right approach on its own. When you over-explain, you constrain it.
+Give it the goal. Give it the context. Then get out of the way.
+Less is more with Fable 5.

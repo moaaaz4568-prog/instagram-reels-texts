@@ -1,0 +1,11 @@
+module.exports = {
+  "name": "bass",
+  "type": "music",
+  "bpm": 142,
+  "tracks": [
+    {
+      "name": "bass",
+      "type": "bass",
+      "instrument": "bass",
+      "pattern": [
+        "000000000000000000000

@@ -1,0 +1,9 @@
+Jack Blair
+@jackblairofficial
+
+4. The buyer who says it's too expensive.
+
+The last prompt makes Claude the buyer who says it's too expensive and means it. It asks for a discount three different ways, and grades whether I held the price or defended it. Here's what it does:
+
+A homeowner who has priced it twice and wants $1,500 off.
+Grade: 8/10. The line that held: "The price is the schedule." The line that cost the price. What I can move is the schedule." The line that cost a point: "let me see what I can do," which Claude flagged as a discount wearing a disguise.

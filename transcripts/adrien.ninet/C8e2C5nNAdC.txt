@@ -1,0 +1,1 @@
+Let's create this bento grid using Figma. Search for this plugin. Enter the rows and hit generate. Next, fill in the content inside your frames. Plus, it's fully responsive.

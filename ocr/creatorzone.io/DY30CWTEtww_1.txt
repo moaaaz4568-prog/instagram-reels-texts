@@ -1,0 +1,9 @@
+Scroll Stopper
+
+“Rate this hook 1-10 for scroll-stopping power.
+
+Then rewrite this hook 10 ways using: loss, curiosity, contrast, controversy, proof.
+
+Each must stop a scroll in 2 seconds.
+
+Hook: [YOUR HOOK]”

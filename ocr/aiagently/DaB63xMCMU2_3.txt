@@ -1,0 +1,3 @@
+Prompt #2
+Once you have your niche you need a channel identity. Paste this into Claude:
+"My YouTube niche is [your niche from step 1]. Create a complete channel identity for me including a channel name, a one-sentence description of what the channel is about, the type of person who watches it, and the tone I should use in every video. Make it feel like a real brand not a hobby. Save this output. This is your brand document and you will paste it into every future Claude prompt so it stays consistent.

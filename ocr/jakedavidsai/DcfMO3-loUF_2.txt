@@ -1,0 +1,28 @@
+BUILD YOUR
+FIRST AI AGENT
+FIRST AI AGENT
+Turn ideas into action in just 2 minutes.
+1 START THE CONVERSATION
+Let's activate this workflow and share the plan your Agent will use in efforts talk to your AI Agent!
+Example Chat
+2 YOUR FIRST AI AGENT
+Your AI agent uses:
+1. Receive messages from the chat
+2. Selects the right tools (e.g., weather, news, email)
+3. Responds with live, helpful answers
+Your First AI Agent
+Tools Memory I/O
+CONNECT GEMINI
+1. In Google AI Studio, click "Create API key in new project" and copy it.
+2. Open the workflow > Tools > select Select Credential > Create New Credential > Paste into API Key and Save
+CONVERSATION MEMORY
+This node helps your agent remember the last few messages to stay on topic.
+GET WEATHER GET NEWS
+These tools let your agent access real-world data or take actions. Click the + under the agent's Tool Input to add:
+• Google Calendar (Get Upcoming Events)
+• Gmail (Send an Email / Search)
+CONNECT GEMINI
+CONVERSATION MEMORY
+GET WEATHER GET NEWS
+Google Calendar
+Gmail

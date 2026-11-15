@@ -1,0 +1,3 @@
+Key Nodes in n8n
+Essential Nodes for
+Process Automation

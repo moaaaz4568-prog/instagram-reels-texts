@@ -1,0 +1,12 @@
+Step #18
+App successfully deployed to Google Cloud
+Your code has been deployed as a Cloud Run service. You can now view your application UI and customize it.
+App URL
+https://eduforge-ai-course-architect-29207760.us-west1.run.app
+This app is using the following API key
+...v8q
+Open in Google Cloud
+eduforge-ai-course-architect
+Redeploy app
+View app
+Deploy apps to Google Cloud in under 2 minutes

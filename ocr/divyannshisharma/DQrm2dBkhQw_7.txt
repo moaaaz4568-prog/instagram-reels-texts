@@ -1,0 +1,25 @@
+4 Filter Your Leads
+Your Leads
+• To avoid junk data, use these filters:
+Filter Your Leads
+1 BIO KEYWORDS
+"Founder", "CEO", "business owner", etc.
+2 EXCLUDE LOCATIONS
+countries not relevant to your market.
+3 SKIP FIELDS LIKE
+Gender, website, or follower count unless needed
+Bio Keywords:
+"founder",
+"CEO", "business
+owner", etc.
+Exclude Locations: Filter
+out countries
+outside your
+target market.
+Skip fields like
+gender, website,
+or follower count
+unless needed
+→ Click Start Scraping → Name your lead list (e.g.,
+Founders_SaaS) → Confirm
+→ This will start pulling filtered leads in real time.

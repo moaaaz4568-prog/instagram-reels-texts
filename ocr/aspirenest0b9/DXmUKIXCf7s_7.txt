@@ -1,0 +1,6 @@
+Punit gupta
+[7] The Cowork Automator
+Prompt Preview: "Act like a senior operations specialist who builds efficient workflows for consulting firms and agencies."
+Goal: Execute [insert your task description here] using [insert files/content here] and produce [insert desired output format here].
+Style: [Insert desired tone/style here] – precise, efficient, treat this like a real operations brief.
+swipe

@@ -1,0 +1,143 @@
+WORKFLOWS #7-10
+Vault
+Health
+Check
+
+Claude finds
+messy/orphan
+notes monthly.
+
+finds messy/
+orphan notes
+monthly
+
+Book Notes
+System
+connects highlights to
+existing
+knowledge.
+
+Argument
+Builder
+finds all vault
+evidence for
+any thesis.
+
+Decision
+Journal
+spots your blind
+spots over time.
+
+Graph view
+Filters
+Tags
+Attachments
+Existing files only
+Orphans
+Groups
+# tag
+# projects
+# areas
+# resources
+# people
+# daily-notes
+# meetings
+# untagged
+Display
+Arrows
+Node size
+Text size
+Link thickness
+Re-center
+126 notes
+Vault Health Check - Graph
++
+# projects
+25 notes
+AI Features
+Competitor Depth
+Market Trends
+PARA Method
+Goals & OKRs
+System
+21 notes
+Zettelkasten
+2nd Brain
+# resources
+23 notes
+Smart Connections
+Docs
+Obidian Help
+Productivity
+Tools
+Tigoe Forte
+Articles
+Useful Links
+Building a
+Second Brain
+(book)
+# areas
+25 notes
+PARA Method
+System
+Meetings
+Productivity
+Focus Habits
+Automation
+Setup - Backlog
+Study Summary
+# people
+17 notes
+Sam
+Brian
+Maria
+Dev Team
+Design Team
+# meetings
+14 notes
+Product Sync
+Team Meeting
+Planning Session
+2025-04-14
+2025-05-08
+2025-06-14
+Marketing Sync
+User Feedback
+MVP Launch Plan
+Feature
+Review
+Product Sy
+2025-04-15
+2025-05-08
+2025-06-14
+Taylor
+Maria
+Sam
+Brian
+# daily-notes
+31 notes
+May 7th
+May 8th
+May 9th
+May 10th
+May 11th
+May 12th
+May 13th
+May 14th
+May 15th
+May 2025
+Orphans
+12 notes
+Random Ideas
+Untitled Note
+Old Thoughts
+Book Notes
+(2023)
+Temp
+Daily Log
+Backup
+These notes don't link to
+anything in your vault.
+1 orphaned note
+448 links
+100%

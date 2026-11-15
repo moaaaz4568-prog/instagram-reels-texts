@@ -1,0 +1,23 @@
+2. Verify the emails
+We use a double verification method.
+So, we don't land on spam!
+1. Bouncify Email Verification Service
+2. MillionVerifier
+Add List
+TradeCorpIND(106723).csv
+Feb04
+ANALYSIS
+RESULT
+Deliverable
+6454760.88%
+Emails
+Undeliverable
+64916.12%
+106018
+Catch-all
+3214530.32%
+Unknown
+28352.67%
+UnderstandingResult
+Verified
+100%

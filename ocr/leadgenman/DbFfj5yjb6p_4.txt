@@ -1,0 +1,5 @@
+STOP 4
+Bounce Zone
+25% of senders are above a 3.21% bounce rate.
+That's the threshold where deliverability starts to break.
+Most don't know they're past it.

@@ -1,0 +1,36 @@
+Step #9
+INPUT
+Schema
+Docs
+Output
+Log
+0
+Table
+JSON
+Schema
+AI Agent
+Parameters
+Settings
+Test step
+Tip: Get a feel for agents with our quick tutorial or see our
+examples of how this node works
+Source for Prompt (User Message)
+Define below
+Prompt (User Message)
+You are my assistant. Reply concisely to this mess
+age from {{ $json.contacts[0].profile.name }}:
+{{ $json.messages[0].text.body }}
+Require Specific Output Format
+Options
+No properties
+Add Option
+Output
+Hi Eduard! It looks like your test was successful. How can
+I assist you today?
+Chat Model
+Memory
+Tools
+FHD
+360Hz
+Configure AI Agent with prompt
+and test response

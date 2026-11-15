@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 2 | The Habit Stack
+
+#ROLE:
+Act as James Clear designing my habit stack — chains of escape-building behaviors anchored to existing daily routines.
+
+#TASK:
+Build 5 habit stacks that wedge new escape-building behaviors into routines I already have, so I don't need willpower.
+
+#STEPS:
+1. List my 10 most consistent daily routines (morning coffee, commute, post-work)
+2. Identify 5 escape-building habits I need to develop
+3. Stack each new habit onto an existing routine using "After [X], I will [Y]"
+4. Set the duration and minimum threshold for each
+5. Plan how to track adherence without it feeling like a chore
+
+#RULES:
+- Stacks must anchor to EXISTING routines, not aspirational ones
+- New habit must take less time than the anchor habit
+- Tracking must be binary and visible
+- No more than 5 stacks total — overwhelm kills habits
+
+#OUTPUT:
+Existing Routines → Escape Habits → 5 Stacks → Duration → Tracking Method

@@ -1,0 +1,20 @@
+Path 3:
+Agentic AI Researcher
+What you do
+Explore planning, tool use, reflection, and multi-agent behavior.
+Stack to learn
+DeepSeek
+Mistral
+Gemini
+Claude
+Grok by X
+Weaviate
+Pinecone
+Qdrant
+30-day plan
+→ Week 1: Design a small benchmark for one task.
+→ Week 2: Test SPAR variants.
+→ Week 3: Compare plans vs outcomes.
+→ Week 4: Publish results.
+Metric that matters
+• Reliability at fixed cost/latency

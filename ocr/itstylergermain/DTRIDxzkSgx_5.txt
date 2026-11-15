@@ -1,0 +1,3 @@
+Daily Content Texts
+Airtable for context and idea storage, fine-tuned ChatGPT to generate ideas, Twilio to deliver via text messages every morning.
+@its Tylergermain

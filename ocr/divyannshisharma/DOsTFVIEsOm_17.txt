@@ -1,0 +1,33 @@
+17.
+Google Apps Script:
+A Beginner’s Guide
+• Source: bencollins google apps
+Apps Script: A Beginner’s
+Guide
+BenCollins
+Google Apps Script
+Guide
+What is Google Apps Script?
+Google Apps Script is a cloud-based scripting language for extending the func-
+tionality of Google Apps and building lightweight cloud-based applications.
+It enables you to write small programs with Apps Script to extend the standard
+functionality of Google Apps.
+Learn More
+Learn how to write Apps Script and Integrate your Google
+Apps with ease. Experience with the new Beginner Apps Script
+course.
+GET STARTED
+Home
+Newsletter
+Courses
+Sponsorship
+About
+Hire An Expert
+Contact
+Sheets Insiders
+SEARCH
+Google Apps Script?
+What is Google Apps Script?
+Google Apps Script is a cloud-based scripting language for extending the func-
+tionality of Google Apps and building lightweight cloud-based applications.
+It enables you to write small programs with Apps Script to extend the standard

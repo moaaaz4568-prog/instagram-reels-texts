@@ -1,0 +1,4 @@
+Prompt 5:
+Caption Conversion System
+
+"Write 3 caption options for a post about [content]. Each should open with a line that earns the tap to 'see more,' deliver real value, and close with a CTA that feels like a natural next step, not a pitch."

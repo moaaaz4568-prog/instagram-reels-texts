@@ -1,0 +1,15 @@
+prompt 1 →
+Create Google Sheets formula
+Prompt:
+Create a Google Sheets formula to help me achieve the following:
+[instructions]
+Expected format:[format] ###
+Only return the google sheet formula. No explanations
+###
+Create a Google Sheets formula to help me achieve the following:
+Extract names from a long text.
+Name_1, Name_2
+Expected format:
+### Only return the google sheet formula. No explanations ###
+Output:
+=JOIN(",", FILTER(A1, REGEXMATCH(A1, "[A-Z][a-z]+ [A-Z][a-z]+")))

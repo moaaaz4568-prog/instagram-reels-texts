@@ -1,0 +1,27 @@
+10x
+Skill Chain
+Multiple skills chained together
+
+/find-webinar-leads - Notepad
+File Edit Format View Help
+Step 1: Screen webinar participants, score and rank by fit.
+
+/enrich-leads - Notepad
+File Edit Format View Help
+Step 2: Pull LinkedIn, company size, funding stage, tech stack.
+
+/push-leads-to-crm - Notepad
+File Edit Format View Help
+Step 3: Create contacts in HubSpot, tag source, assign owner.
+
+Terminal - claude
+$ claude "Process leads and push to CRM"
+✓ /find-webinar-leads -- 47 leads found
+✓ /enrich-leads -- all 47 enriched
+✓ /push-leads-to-crm -- 47 contacts created
+Pipeline complete. Zero manual steps.
+
+Multi-step pipeline. End-to-end automation.
+
+@leadgenman
+04 / 07

@@ -1,0 +1,13 @@
+How to use this:
+
+You don't need every CLI. Nobody does.
+
+If you can't ship code, Build OS first.
+If nothing is live yet, Ship OS first.
+If you can't keep up with content, Make OS.
+If you have no plan or direction, Think OS.
+If no one knows you exist, Grow OS.
+
+Pick the OS that hurts the most today.
+Wire those CLIs into Claude Code. Then move
+to the next layer.

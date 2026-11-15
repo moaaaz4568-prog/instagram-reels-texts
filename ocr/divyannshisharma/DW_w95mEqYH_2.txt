@@ -1,0 +1,23 @@
+Repo Stack 01
+SUPABASE
+DESCRIPTION
+Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
+https://supabase
+cli postgres
+environment
+database local
+MORE INFO
+https://t.co/WzPIYqVQXM
+supabase/cli Public
+Code Issues 342 Pull requests 72
+develop 78 Branches
+Copilot and avallete ch
+.github
+api
+cmd
+docs
+examples
+fsevents
+internal
+legacy
+pkg

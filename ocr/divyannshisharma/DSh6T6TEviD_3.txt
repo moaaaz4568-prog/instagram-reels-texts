@@ -1,0 +1,46 @@
+Step #3
+VAPI
+eduard.hildebrand@zelo...
+Overview
+Metrics
+Assistants
+Docs
++ Create Assistant
+Search Assistants
+BUILD
+Assistants
+Workflows
+Tools
+Files
+Phone Numbers
+Squads
+VAPI API Keys
+TEST
+Test Suites
+OBSERVE
+PRODUCTION
+Receptionist - Emily
+838384eff-2e9d-4950-ac...
+Model
+Voice
+Transcriber
+Tools
+vapi
+deepgram
+gpt-4.1
+elevenlabs
+Cost
+Receptionist - Emily
+v3Vid2rk6528UrLKruy8
+Lead Qualifier - Morgan
+sarah
+Customer Service - Alex
+Elliot
+Receptionist - Claudia
+v3Vid2rk6528UrLKruy8
+MODEL
+Model
+Configure the behavior
+Provider
+OpenAI
+Sign up to VAPI and click 'Create Assistant' to get started

@@ -1,0 +1,10 @@
+@leadgenman
+A
+Agent
+An AI that can take actions autonomously to accomplish goals
+B
+Bias
+Systematic errors in AI outputs from skewed training data
+C
+Context Window
+The maximum amount of text an AI model can process at once

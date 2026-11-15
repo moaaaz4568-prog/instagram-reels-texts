@@ -1,0 +1,15 @@
+LEVEL 1 OF 3
+SAVE YOUR
+FIRST CLAUDE SKILL
+Turn one boring weekly task into a permanent system.
+1 Describe it once.
+Claude writes the entire skill for you.
+2 Save it as `skill.md`.
+Fix it. Save it.
+3 Connect your tools.
+Notion. Gmail. Drive.
+4 Test it. Fix it. Save it.
+5 Trigger it from any chat.
+/reel
+6 Input goes in. Finished work comes out.
+7 Create a skill once. Use it forever.

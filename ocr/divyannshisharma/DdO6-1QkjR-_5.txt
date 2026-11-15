@@ -1,0 +1,65 @@
+SLIDE 6
+Skill 4:
+Canvas Design
+
+The misconception:
+Most AI image tools
+generate pictures.
+
+What this skill does:
+Claude creates actual
+design deliverables:
++ Posters
++ Covers
++ Infographics
++ PDFs
++ Social graphics
+
+The result:
+Art with logic
+behind it. Not a random
+pretty image.
+A designed piece.
+
+OUT
+OF
+FOCUS
+
+design
+thinking
+
+Not image
+generation.
+Designed
+outputs.
+
+Poster
+
+Cover
+
+5 Stages
+of a Brand Journey
+
+The infographic title: "5 Stages of a Brand Journey" with a winding path graphic.
+
+Simplicity is the ultimate sophistication.
+- Leonardo da Vinci
+
+Social Graphic
+
+What makes it different:
+Before creating anything,
+Claude defines a design
+philosophy — like a
+named creative movement
+with its own rules and
+principles. Then it
+executes based on that
+framework.
+
+github.com/anthropics/skills/tree/main/skills/canvas-design
+
+AI can generate pictures.
+Design creates systems.
+
+No text

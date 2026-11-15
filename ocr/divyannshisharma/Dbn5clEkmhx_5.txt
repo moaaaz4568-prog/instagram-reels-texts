@@ -1,0 +1,9 @@
+The old problem:
+it used to ask permission
+for EVERYTHING.
+
+“
+Now, “smart approvals” lets it
+handle the safe stuff on its own —
+and only wakes you up when
+something actually matters.

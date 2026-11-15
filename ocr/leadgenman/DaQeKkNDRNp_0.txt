@@ -1,0 +1,22 @@
+THE COMPLETE
+30 Day
+Claude Series
+Zero to shipping real apps with Claude, Cowork & Claude Code.
+No tech background needed.
+Claude Code v2.0.0
+Welcome back Meghan!
+Sonnet 4.5 - Max 20x
+/users/meghan/code/apps
+Recent activity
+5m ago Updated project memory
+8m ago Updated claw'd feet
+2d ago Add new words to spinner
+1w ago Update unit tests
+.../resume for more
+What's new
+/agents to create subagents
+/security-review for review agent
+ctrl+L to background bash
+.../help for more
+> edit <filepath> th to ...
+1

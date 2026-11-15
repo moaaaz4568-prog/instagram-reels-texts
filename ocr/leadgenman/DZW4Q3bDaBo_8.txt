@@ -1,0 +1,22 @@
+recap -- the full hour
+sixty minutes, start to shipping
+here is the whole hour on one face.
+first task
+install
+launch
+.claude/
+CLAUDE .md
+auth
+1
+2
+3
+4
+5
+6
+0:00 install
+0:10 launch + auth
+0:20 CLAUDE.md
+0:30 .claude/
+0:40 settings.json
+0:50 first task
+I you did not learn a tool. you built a coworker. you built a coworker.

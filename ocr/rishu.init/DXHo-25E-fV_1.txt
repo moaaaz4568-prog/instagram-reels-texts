@@ -1,0 +1,10 @@
+02 / 11
+02
+Superpowers
+Rules Library
+Pre-built cursor & Claude rules that make AI 10× smarter.
+A curated collection of .cursorrules and CLAUDE.md templates for every stack. Drop them in, get instant superpowers.
+Ready Templates
+Multi-Stack
+Plug & Play
+github.com/spencav753/superpowers

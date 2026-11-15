@@ -1,0 +1,10 @@
+SLIDE 3 | THE 2 TOOLS
+Graphify
+TOOL 1
+Graphify
+turns any documents into a map of connected ideas.
+TOOL 2
+Obsidian
+a notebook app where Claude Code can map.
+Alone, each is good.
+Together, they're way better.

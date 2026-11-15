@@ -1,0 +1,16 @@
+Slide 7 —
+Tool 5: AdGuard Home
+07 / 10
+What it does:
+Blocks ads on every single device connected
+to your home wifi.
+Phones, TVs, tablets, laptops —
+all of them at once.
+What it replaces:
+NextDNS Premium — $20 a month
+You set it up once and every device
+in your house is ad-free forever.
+github.com/AdguardTeam/AdGuardHome
+SANTA'S
+LITTLE
+HELPER

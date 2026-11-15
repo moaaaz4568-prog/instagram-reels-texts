@@ -1,0 +1,15 @@
+Content
+Automation 6-10
+
+#6 Newsletter Compiler Claude pulls your best content from the week, summarizes insights, adds commentary, and formats it into a newsletter-ready template. Scheduled weekly.
+
+#7 Caption Writer for Every Platform One piece of content → LinkedIn, Instagram, and Threads. Each one formatted natively for its platform. All at once.
+
+#8 Blog Post SEO Optimizer After writing any article Claude analyzes it against your target keywords, suggests header improvements, rewrites the meta description, and produces an optimized version.
+
+#9 Content Performance Reporter Every Monday Claude compiles which posts performed best, what patterns emerged, what topics resonated. Saves a report automatically.
+
+#10 Transcription to Article Pipeline Record a voice memo for 10 minutes. Transcribe it. Claude turns the raw transcript into a polished finished article. Fastest content creation method on this list.
+
+NEWS
+NEWS

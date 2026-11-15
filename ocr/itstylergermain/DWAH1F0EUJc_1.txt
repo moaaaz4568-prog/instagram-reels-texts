@@ -1,0 +1,21 @@
+Your Claude Code will
+learn on it's own
+Send Claude this message
+research-scout skill whose sole job is
+finding new information that challenges or updates your
+existing knowledge. Using web search, Reddit, Hacker News,
+and Quora, hunt for new strategies, tools, announcements,
+and workflow changes relevant to your current documentation
+and project context.
+For each finding, cross-reference against existing docs to
+confirm it's actually new or contradictory, discard
+anything redundant. Store validated findings in a
+new_learnings section of long-term-memory.md with a
+timestamp, source URL, and a one-line note on what it
+changes or adds.
+Schedule this skill to run 3x nightly. Add a separate
+weekly cron that reviews new_learnings, promotes confirmed
+patterns into the main memory files, and clears the staging
+section.
+@itsylergermain
+save for later

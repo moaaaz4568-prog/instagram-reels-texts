@@ -1,0 +1,49 @@
+divyanshisharma
+2/4 Category (Prompt 81 - 95)
+Category 2:
+AI Workflows
+
+81. Anomaly Detection System
+Design an AI anomaly detection system for [DESCRIBE DATA]. What constitutes an anomaly, how should severity be classified, and what actions should happen when one is detected?
+
+82. Design a Translation Workflow
+Design an AI system that generates business proposals for [DESCRIBE INDUSTRY/LANGUAGE]. How should the output be validated and maintained, how quality is validated?
+
+83. Build a Proposal Generation System
+Design an AI system that generates business proposals for [DESCRIBE INDUSTRY/LANGUAGE]. How should the output be validated and maintained, how quality is validated? What sections should proposals include, and how should customization work?
+
+84. Create Risk Assessment Framework
+Design an AI risk assessment system for [DESCRIBE DOMAIN]. What risk factors should be analyzed, how should they be weighted, and what output format helps decision makers act?
+
+85. Design a Voice AI System
+Design a voice AI system for [DESCRIBE USE CASE]. How should speech be processed, how should ambiguous requests be handled?
+
+86. Build a Trend Detection System
+Design an AI system that monitors [DESCRIBE DATA SOURCES] and identifies emerging trends in [DESCRIBE DOMAIN]. How should trends be validated and how should false positives be filtered?
+
+87. Compliance Checking System
+Design an AI compliance checking system that validates [DESCRIBE CONTENT OR ACTIONS] against [DESCRIBE REGULATIONS]. How should violations be categorized, what remediation steps?
+
+88. Design an AI Onboarding System
+Design an AI system that onboards new [EMPLOYEES/CUSTOMERS] by answering questions, guiding them through processes, and tracking their progress. How should gaps be identified?
+
+89. Predictive Maintenance System
+Design an AI predictive maintenance system for [DESCRIBE EQUIPMENT OR SYSTEMS]. What signals indicate failure, how far in advance can failures be predicted, and what actions should be triggered?
+
+90. Create Inventory Management AI
+Design an AI inventory management system for [DESCRIBE BUSINESS]. How should demand be forecasted, when should reorders be triggered and how should seasonal patterns be handled?
+
+91. Design a Financial Analysis Agent
+Design an AI agent that analyzes [DESCRIBE FINANCIAL DATA] and produces actionable insights. What calculations should it perform?
+
+92. Social Media Monitoring System
+Design an AI system that monitors social media for [DESCRIBE TOPICS OR BRANDS]. What signals matter, how should sentiment be tracked, and what triggers an alert?
+
+93. Create a Technical Support AI
+Design an AI technical support system for [DESCRIBE PRODUCT]. How should it diagnose problems, when should it escalate, and how should it learn from resolved tickets?
+
+94. Design a Price Optimization System
+Design an AI pricing system for [DESCRIBE OUTPUTS]. What factors should influence pricing, how should competitor prices be monitored, and how should price changes be validated before going live?
+
+95. Build a Fraud Detection System
+Design an AI fraud detection system for [DESCRIBE TRANSACTION TYPE]. What signals indicate fraud, how should false positive rates be managed, and what happens when fraud is detected?

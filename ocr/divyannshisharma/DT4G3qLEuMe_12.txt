@@ -1,0 +1,20 @@
+Step #12
+## Built-in Sub-Agents
+These agents are spawned using the **Task tool** and run autonomously to complete complex work.
+# 1. General-Purpose Agent
+**Type:** general-purpose
+**Best for:** Research, multi-step exploration, complex searches
+**Description:** A flexible workhorse agent for open-ended tasks. Use when you need to gather information, explore multiple angles, or execute multi-step workflows.
+**Example prompts:**
+"Research the current state of enterprise AI adoption, focusing on ROI, statistics, adoption rates by industry, and key vendors"
+"Analyze the authentication flow in this codebase and summarize how the auth system works"
+"Debug why my login is failing and identify the root cause"
+**Behavior:**
+- Can initiate multiple web searches or file reads
+- Will iterate if you don't find the answer on the first try
+- Performs its own explorations
+- Can aggregate information from multiple sources
+**Pro tip:** Spawn 3-4 general-purpose agents simultaneously for different research angles to
+
+Build reusable agent libraries
+with templates

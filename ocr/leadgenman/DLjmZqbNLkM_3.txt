@@ -1,0 +1,8 @@
+AI Email Writer
+
+Generate a personalized cold email for Lucia at Greenfield using their recent funding news and expansion into new markets. Make it conversational, straightforward, succinct and under 100 words.
+
+• AI generates personalized copy
+• Uses company signals
+• Optimizes for engagement
+• AI assistant for smarter outbound

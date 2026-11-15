@@ -1,0 +1,14 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Then, I’d start ideating
+
+I would look at popular videos on
+competitor channels
+
+And ask Claude to give me adjacent
+topics I would make
+
+Look at this channel, find the pattern on why and what these topics are and
+break it down into a clear strategy/format, and then suggest performing topics on this channel 5 new topics that
+are adjacent to the channel

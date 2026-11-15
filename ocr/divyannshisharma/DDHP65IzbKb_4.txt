@@ -1,0 +1,20 @@
+prompt 3 →
+Classify Emails
+
+Prompt:
+The following is an email and a list of the categories it can fall into:
+Categories=["interested", "Out of office", "unsubscribe", "other"]
+
+Interested is when the reply is positive.
+Email content:"{{email_content}}"
+Category:
+
+The following is an email and a list of the categories it can fall into:
+Categories=["interested", "Out of office", "unsubscribe", "other"]
+
+Interested is when the reply is positive.
+Email content:"Hello Lucas, I want to know more about Terminus!"
+Category:
+
+Given the email content, the category for the email is:
+Category: "Interested"

@@ -1,0 +1,26 @@
+SKILLS LIBRARY
+14 SKILLS
+4 categories
+TESTING
+Write tests first.
+Always. No exceptions.
+RED GREEN REFACTOR.
+02
+DEBUGGING
+4-phase root cause
+process. Systematic
+over ad-hoc always.
+03
+COLLABORATION
+Spec to ship,
+fully structured.
+Subagents parallel.
+06
+META
+Build your own
+skills. Extend
+and customize.
+02
+@rishu.inif
+Swipe ↗
+writing-skills using-superpowers

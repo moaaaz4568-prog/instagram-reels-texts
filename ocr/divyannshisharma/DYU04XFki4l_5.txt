@@ -1,0 +1,53 @@
+@os.operator
+ONLY
+operatoros.ai
+DAY 1 → LEARN CLAUDE PROPERLY
+Learn how to keep Claude honest, accurate and reliable.
+(Official Docs)
+Check facts
+Cite sources
+Verify output
+Don't assume
+6. Claude Best Practices
+Hallucination Detected
+1
+<control>
+2
+<ground>
+3
+<verify>
+best-practices.md
+Code Best Practices: Lessons From Real Projects
+Home / Blog / Claude Code Best Practices: Lessons From Real Projects
+Mar 23, 2026 · 8 min read · Ran Isenberg
+AI Technology
+Claude Code Best Practices: Lessons From Real Projects
+CLAUDE CODE
+My Best Practices
+4
+<detect>
+5
+<grounding>
+6
+<verify_loop>
+1. Hallucination Control
+• Acknowledge uncertainty.
+• Don't guess.
+• Ask for missing info.
+1
+Detect Uncertainty
+2
+Ground with Sources
+3
+Verify & Cross-Check
+4
+Deliver Reliable Answers
+2. Grounding
+• Use trusted sources.
+• Provide references.
+• Stay anchored in facts.
+3. Verification Loops
+• Cross-check results.
+• Validate assumptions.
+• Iterate until reliable.
+Accuracy is a habit. Build it.

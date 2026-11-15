@@ -1,0 +1,12 @@
+HOW IT WORKS
+3 steps
+to ship
+faster
+01 Describe the task
+Type what you need in plain English — feature, bug fix, or refactor.
+02 Claude plans & acts
+Reads your code, writes changes, runs commands, checks results.
+03 Review & ship
+Inspect the diff, approve the changes, and push.
+Done.
+04 / 06

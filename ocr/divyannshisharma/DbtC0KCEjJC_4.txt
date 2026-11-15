@@ -1,0 +1,35 @@
+Here's the real unlock:
+Granola also works on your PHONE.
+
+So it's not just video calls anymore.
+
+9:41
+Settings
+Granola
+Granola
+Version 1.7.3
+Granola Labs, Inc.
+
+ALLOW GRANOLA TO ACCESS
+Microphone
+Always
+Speech Recognition
+Background App Refresh
+Network
+Wi-Fi & Cellular
+
+GRANOLA SETTINGS
+Background Recording
+Record and transcribe in the background
+Phone Call Capture
+Record and transcribe phone calls
+Recording Notifications
+Show status in the notification bar
+Transcription Language
+English (US)
+
+ABOUT
+Help Center
+Privacy Policy
+Terms of Service
+Delete App Data

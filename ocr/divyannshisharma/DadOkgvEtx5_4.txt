@@ -1,0 +1,21 @@
+STEP 5
+Throughout the day,
+it keeps me
+on track.
+Daily overview
+7:04:62
+Rostee
+Here's what you'll get:
+Smart reminders: ~1 hour before each
+task deadline, I'll ping you with the
+task name and ask if it's done or needs
+help.
+Evening recap: End of day summary
+showing what you completed, what's
+still pending, your execution score, and
+any blockers.
+Both tailored to your timezone
+(America/New_York). Want me to
+adjust the evening recap time, or is the
+default good?
+okay 6:47 PM

@@ -1,0 +1,52 @@
+Comments to Lead... + Add tag
+Inactive
+Editor
+Executions
+Evaluations
+Share
+Save
+{ }
+{ }
+- E
+Split Out Batches
+Loop Over Profiles
+{ }
+{ }
+Create Unique List of Leads
+Split in batches
+Run Apify Profile
+Enrichment
+Aggregate Profiles
+Execute workflow
+Activate Windows
+Go to Settings to activate Windows.
+Light rain
+ENG
+-What if your post has 300+
+comments?
+-This part checks if we
+need to
+scrape additional pages.
+- It loops through and grabs more
+comments in batches of 100 until we
+hit your limit.
+R
+T
+Y
+U
+I
+O
+P
+F
+G
+H
+J
+K
+L
+Z
+X
+C
+V
+B
+N
+M

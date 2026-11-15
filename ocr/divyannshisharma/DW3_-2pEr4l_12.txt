@@ -1,0 +1,11 @@
+12. Step 3: Pull The Model To Machine
+One command and Gemma starts downloading
+straight to your computer – no accounts, no cloud.
+
+→ Run ollama pull gemma4:e4b directly in your terminal
+→ No account needed, no API key, no cloud server involved
+→ Model lives on your machine – yours forever, no strings
+
+Pull Terminal On-Device
+
+@divyanshisharma

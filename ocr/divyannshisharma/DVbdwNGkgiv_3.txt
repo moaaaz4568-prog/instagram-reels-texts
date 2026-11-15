@@ -1,0 +1,16 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+TL;DR:
+
+One command installs a full agent team
+
+Deterministic workflows: same steps & order
+
+Agents verify each other's work
+
+Each agent gets fresh context
+
+YAML: defined, u can build your own workflows
+
+Zero infrastructure: no Docker, no Redis

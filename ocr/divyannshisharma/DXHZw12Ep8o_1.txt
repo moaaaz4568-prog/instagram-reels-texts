@@ -1,0 +1,24 @@
+Marketing & Content
+
+1 Blog Factory Use /write-blog to create SEO blog posts in one click.
+2 Repurpose Engine Paste an article → let Claude Code turn it into LinkedIn posts, tweets, carousel scripts.
+3 Tone Cloning Feed 3–5 writing samples → Claude Code builds a STYLE.md for future content.
+4 Hook Generator Pick [topic] using the PAS framework. Claude Code builds prompt: 'Give me 20 scroll-stopping hooks for [topic]'.
+5 Content Calendar Builder Ask Claude Code for a 30-day content calendar as an .xlsx with platform, topic, hook, CTA.
+6 SEO Keyword Clusters Use /yt-search or web search → cluster trends into pillar + subtopics.
+7 Email Sequence Writer Describe your funnel stage → Claude Code creates a 5–7 email sequence with CTAs.
+8 A/B Copy Variants Ask for 3 versions—aggressive, friendly, and data-driven → test what works best.
+9 Landing Page Copy Feed your product URL → Claude Code creates hero copy, features, social proof, FAQs.
+10 Script to Carousel Paste a script → Claude Code turns it into a 10-slide carousel.
+11 Hashtag Strategy Prompt: "Find 30 hashtags for [niche]" → group into broad, medium, niche."
+12 Ad Copy Machine Describe your offer + audience → get FB, Google, LinkedIn ad copies with character limits.
+13 Case Study Generator Input metrics + context → Claude Code builds a before/after case study with quotes.
+14 Newsletter Template Create an HTML newsletter template → Claude Code fills it weekly.
+15 Competitor Content Audit Paste competitor URLs → Claude Code finds content angles, frequency, gaps to exploit.
+16 CTA Optimizer Feed your CTAs → get 5 improved versions ranked by urgency, clarity, and value.
+17 Product Description Writer Upload images + specs → Claude Code writes benefit-driven product descriptions.
+18 Brand Voice Doc Answer 10 brand questions → Claude Code creates a BRAND-VOICE.md for consistency.
+19 Content Repurposing Matrix One content piece → Claude Code adapts it for 8+ platforms.
+20 Headline Analyzer Paste 10 headlines → Claude Code scores them on emotion, clarity, curiosity, and SEO.
+
+By Divyanshi Sharma

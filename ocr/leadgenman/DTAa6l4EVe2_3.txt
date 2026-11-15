@@ -1,0 +1,13 @@
+3. Workflow Automation
+
+What It Is:
+Connecting apps to trigger actions so routine work happens without you. Best for repetitive tasks.
+
+When To Use It:
+Reporting, onboarding, data entry, etc. If it's repeatable you can automate it with these tools.
+
+Tools:
+Make
+Zapier
+n8n
+Gumloop

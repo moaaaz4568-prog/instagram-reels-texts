@@ -1,0 +1,15 @@
+11.
+JavaScript
+Algorithms and Data
+Structures
+• Source: javascript algorithm and data structure
+Legacy JavaScript Algorithms and Data
+Structures
+JS
+JavaScript including variables,
+arrays, objects, loops, and functions.
+that apply that knowledge by creating
+algorithms to manipulate strings, factorize numbers, and even calculate the
+orbit of the International Space Station.
+Along the way, you'll also learn two important programming styles or paradigms:
+Object-Oriented Programming (OOP) and Functional Programming (FP).

@@ -1,0 +1,11 @@
+Suprava Sabat
+@supravasabat
+Claude Code builds small tools that do
+your boring lead gen work.
+You tell it what you want:
+"Pull leads from Google Maps for this
+search."
+It builds the tool. You click run.
+Welcome to the Claude Code research preview!
+CLAUDE
+CODE

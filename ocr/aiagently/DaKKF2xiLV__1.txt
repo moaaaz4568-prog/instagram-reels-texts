@@ -1,0 +1,11 @@
+Tip 1 – Branch
+[→]
+When Executed by
+Another Workflow
+Workflow:
+Use Sub-Workflows to Keep Things Clean Break
+big automations into smaller workflows. Each
+workflow does one job (generate leads, enrich
+leads, send outreach).
+Then connect them using the "Execute
+Workflow" node. Easy to fix things this way.

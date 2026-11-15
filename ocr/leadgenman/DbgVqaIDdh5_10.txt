@@ -1,0 +1,10 @@
+9
+Mathematics for
+Machine Learning
+Linear algebra, calculus, probability.
+All tied back to the algorithms you use.
+MATHEMATICS FOR
+MACHINE LEARNING
+Marc Peter Deisenroth
+A. Aldo Faisal
+Cheng Soon Ong

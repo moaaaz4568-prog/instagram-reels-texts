@@ -1,0 +1,26 @@
+Free Skill:
+Email Voice
+
+Email voice - M...
+Brock's skill
+Brock's skill from 34 real sent emails on 2026-06-12.
+TONE
+Warm, upbeat and built your voice profile. Here's your voice in 5 bullets: de
+...
+GREETINGS
+Default salute for all email and I'll sound like you. Say "update my email voice"
+...
+SIGN-OFFS
+...
+STYLE & RHYTHM
+Short, punchy sentences.
+format: sticks of 1-2 sentence paragraphs.
+Blank line between thoughts.
+
+AI emails sound like AI. This fixes it.
+Email Voice Skill reads 5–20 of your real sent emails and builds a voice profile – your greetings, your sign-offs, your sentence rhythm, how you actually talk.
+Every email Claude drafts after that sounds like you wrote it on a good day.
+
+At emails sound like AI. This fixes it.
+Email Voice Skill reads 30 of your real sent emails and builds a voice profile – your greetings,
+Every email Claude writes after that sounds like you on a good day.

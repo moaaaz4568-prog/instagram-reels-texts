@@ -1,0 +1,4 @@
+Step 3: Outlier topics
+Use VIDIQ to identify:
+- High VPH videos
+- Recent uploads gaining traction

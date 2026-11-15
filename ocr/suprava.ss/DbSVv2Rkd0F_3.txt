@@ -1,0 +1,23 @@
+scrapes twitter → finds people already
+complaining
+04 / 20
+GitHub
+public repository
+JustAnotherArchivist / snscape
+5.4k
+Public
+Fork
+Star
+5.4k
+Python
+★ 5.4k
+WHAT IT DOES
+scrapes twitter, instagram
+and more with no api keys.
+WHO TO MINE IT FOR
+people who starred this want
+social data and hit a wall.
+that wall is your offer.
+THE EXACT LINK
+github.com/JustAnotherArchivist/snscape/stargazers
+● the github method

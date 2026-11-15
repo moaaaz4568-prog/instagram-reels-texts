@@ -1,0 +1,9 @@
+Slide 5
+What happened
+Fable 5 improved the training pipeline roughly 6x more than Opus 4.7.
+not here to play safe. we're here to win.
+Here's why that gap happened:
+Opus 4.7 found one small win early on — and then just kept tweaking small numbers around that same idea for the rest of the 8 hours.
+Fable 5 took bigger bets. Changed the whole structure when it needed. Hit a setback (a regression), pushed through it anyway, and came out ahead.
+One is playing it safe.
+One is actually thinking.

@@ -1,0 +1,14 @@
+Week 4
+Make it properly scalable
+
+Now that paying users are using it, lock down the infra so nothing breaks at 2am.
+OST solo founders skip steps and pay for it later.
+Don't.
+
+Your checklist for week 4:
+Add Sentry for error tracking & PostHog for analytics
+So you actually see what users do and where things break
+Lock down Supabase RLS, env vars, and Stripe webhooks
+(the boring stuff that saves you from getting hacked)
+Set up Resend for transactional emails & Trigger.dev for background jobs
+So the app runs itself while you sleep

@@ -1,0 +1,4 @@
+1. PCPL: Prospects Contacted Per Lead.
+PCPL = prospects contacted ÷ positive replies
+Prospects contacted divided by positive replies.
+It tells you how efficiently your outbound creates genuine interest.

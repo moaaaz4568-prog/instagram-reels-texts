@@ -1,0 +1,28 @@
+Step 04.
+GIVE IT YOUR INFO
+Claude needs:
+ings
+Your listings
+Your service area
+Your buyer types
+Your follow-up style
+Now the messages can match your business.
+Claude
+Chat
+Cowork
+Projects
+Artifacts
+Customize
+Here's the info Claude needs to match my business.
+Claude
+Use this information to create better, more relevant messages.
+Your Listings
+3 bed, 2 bath homes • 2 bed, 2 bath condos • 1 acre land
+Service Area
+Austin, TX and surrounding areas (up to 30 miles)
+Buyer Types
+First-time buyers • Move-up buyers • Investors
+Follow-up Style
+Friendly • Helpful • Not pushy • Keep it short and personal
+Type something...
+Claude 4

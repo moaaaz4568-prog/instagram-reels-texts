@@ -1,0 +1,8 @@
+Slide 11 — Tool 9: Stirling-PDF
+What it does:
+Every single PDF operation you'll ever need in one place. Merge, split, compress, sign, redact, and OCR — all free.
+What it replaces:
+Adobe Acrobat Pro — $20 a month
+Adobe charges $240 a year for this.
+Stirling-PDF does everything Adobe does for free.
+github.com/Stirling-Tools/Stirling-PDF

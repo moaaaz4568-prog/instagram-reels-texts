@@ -1,0 +1,9 @@
+SLIDE 10 / 10
+For
+Trading & Markets
+Data tools first:
+Polygon.io — stocks, options, forex, crypto market data feeds
+CoinGecko — crypto prices and history
+CCXT — unified data from 20+ crypto exchanges
+(Binance, Coinbase, Kraken)
+TradingView — charts and market data context

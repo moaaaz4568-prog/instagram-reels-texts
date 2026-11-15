@@ -1,0 +1,7 @@
+/compact
+
+Compresses your conversation history into a summary to reclaim context window space. You can optionally tell it what to keep, like: /compact retain the auth flow. Use this proactively during long sessions before context fills up.
+
+@itsTylerGermain
+
+save for later

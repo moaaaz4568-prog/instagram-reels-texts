@@ -1,0 +1,21 @@
+Qualify Leads Using
+RAG Qualifier (& GPT 4)
+
+Let AI decide which leads are
+actually worth your time and
+score it accordingly!
+
+A. Add instruction to RAG Agent
+
+Instruction
+
+Query the vector database for ICP data (ask:
+"What is my ideal target ICP? Please
+summarize to compare with my prospect.")
+
+Compare this prospect to the ICP (size,
+industry, pain points, etc.).
+Return a single JSON with:
+{ "lead_potential": "High" | "Medium" | "Low",
+"lead_grade": <decimal> } No extra keys,
+text, or wrapping.

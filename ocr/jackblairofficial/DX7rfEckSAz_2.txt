@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+2. THE PER-CLOSE PRICE
+
+What it does: calculates the dollar value of a single skill in the actual market, not the hypothetical one.
+
+"For each skill you identified, pull the current average per-close commission for that skill in the remote high ticket market. Show the math: offer size × commission rate × estimated close rate. Give me the realistic per-close dollar value of the single highest-paid skill on my profile right now."

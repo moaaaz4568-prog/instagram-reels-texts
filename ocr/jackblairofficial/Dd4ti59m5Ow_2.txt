@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+2. He ran every hard conversation in five steps.
+
+Ask, explain why you're asking, give two honest options, one clean confirmation question, then one clean act. I pasted the last three messages from a stalled deal and asked Claude to rewrite the next call in the five steps. What came back:
+
+The ask (a decision by Friday, either way), the reason (so neither of us spends October on a maybe), two paths (one seat now, or the full team on the 15th), the one question, and what to do on each answer. Plus the step I skipped: I never gave the reason.

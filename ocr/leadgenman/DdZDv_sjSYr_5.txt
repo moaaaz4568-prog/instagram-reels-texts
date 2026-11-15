@@ -1,0 +1,17 @@
+5. AGENTIC CODING
+Claude Code
+best practices
+Code w/
+Claude
+Cal Rueb
+Member of Technical Staff,
+Anthropic
+25:53
+Claude
+Claude Code best practices | Code w/ Claude
+@anthropic-ai 9.7K likes 562K views 13mo ago
+Anthropic's own engineer showing how they run Claude Code
+every day. The loop is explore, plan, code, commit: make the
+model read the codebase and write the plan before it
+touches a single file. Covers CLAUDE.md files, headless
+mode, and running several instances side by side.

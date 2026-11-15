@@ -1,0 +1,9 @@
+The Health and
+Accountability coach:
+Snap your meal → tracks calories & macros
+Auto meal plans based on goals & preference
+Orders groceries via delivery APIs
+Syncs with Apple Health (steps, sleep, etc.)
+Choose supportive mentor or savage coach mode
+Replaces apps, coaches & tracking inside
+WhatsApp

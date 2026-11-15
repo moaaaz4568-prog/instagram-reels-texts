@@ -1,0 +1,7 @@
+2 Install the skill
+One command. Instant upgrade.
+terminal — /skills
+$ npx skills add remotion-dev/skills
+$ claude
+Step 1: run one command in your terminal.
+This installs 28 rule files into Claude’s brain — covering animation timing, transitions, audio, and rendering best practices. Confirm it’s loaded, then start building.

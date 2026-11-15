@@ -1,0 +1,13 @@
+01 02 03 04 05 06 07 08 09 10
+Acqui-hiring Proven Teams
+Don't build from scratch. Paperclip allows you to import entire, pre-configured company structures from remote GitHub repositories—complete with personas and installed skills.
+Coming Soon:
+Export and share your own successful orgs.
+Gary Tan's G-Stack
+Engineering and operations team modeled after his distinct management style.
+The 100+ Agent Agency
+A massive marketing firm from the Superpowers repo (60,000+ stars).
+Don Cheetos Game Studio
+A full suite featuring a Creative Director, Producer, and Technical Director to build games in Godot.
+STEP 05
+Paperclip is rolling out the ability to import and export entire companies—from Gary Tan's G-Stack to agent repos with 60,000+ stars and 100+ agents, even full team setups like game studios with defined roles. You can essentially acquire a proven agent structure into your own setup, with all skills and configs linked to remote repos so they stay updated. The big question: does it work? Dotta's honest answer—it's still unproven at scale, and Paperclip is the first runtime that can truly test these systems.

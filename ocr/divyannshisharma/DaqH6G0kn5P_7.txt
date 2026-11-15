@@ -1,0 +1,15 @@
+* How different models handled memory
+A benchmark tested agents on sequential questions using a SQL database session. Each question was a separate session. Memory was available.
+→ Sonnet 4.6:
+Stored a list of guesses and failures.
+Rarely looked at them again.
+Basically didn't use memory at all.
+→ Opus 4.7:
+Built a better reference —
+but only verified about 17% of what it stored.
+Lots of uncertainty left in the notes.
+→ Fable 5:
+Verified up to 73% of what it stored.
+Turned specific findings into general rules.
+Actually consulted those rules in future sessions.
+* Same tool. Completely different behavior.

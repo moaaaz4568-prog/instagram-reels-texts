@@ -1,0 +1,22 @@
+Use Case of AI Agent
+Think, Act and Learn the System
+Smart Website Chatbot
+- Understands visitor questions
+- Gives instant answers
+- Learns from interactions
+- Improves over time
+Lead Outreach Agent
+- Identifies potential leads
+- Sends personalized messages
+- Follows up automatically
+- Adapts based on replies
+AI Agent
+Task Helper Agent
+- Checks if tasks are done
+- Changes tasks if needed
+- Learns from past work
+- Helps work run smoothly
+Sales Forecast Agent
+- Studies sales data
+- Predicts future trends
+- Helps plan better strategies

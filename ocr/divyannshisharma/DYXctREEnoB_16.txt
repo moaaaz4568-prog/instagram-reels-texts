@@ -1,0 +1,42 @@
+NotebookLM
+11 tools.
+3d
+Generation
+14 / 18
+* Shap-E
+OpenAI open source 3D shape
+generation model
+3d Generation open source
+* InstantMesh
+Open source multi-view to 3D
+mesh generation
+3d Generation open source
+* Point-E
+OpenAI open source 3D point
+cloud generation
+3d Generation open source
+* TripoSR
+Stability AI open source fast 3D
+reconstruction
+synthesis
+3d Generation open source
+* DreamGaussian
+Open source fast 3D content
+creation with Gaussians
+3d Generation open source
+* Zero123++
+Open source zero-shot novel view
+synthesis
+3d Generation open source
+* One-2-3-45++
+Open source image-to-3D with
+texture generation
+3d Generation open source
+* Wonder3D
+Open source single-image 3D
+reconstruction
+3d Generation open source
+* SyncDreamer
+Open source multi-view consistent
+3D generation
+3d Generation open source

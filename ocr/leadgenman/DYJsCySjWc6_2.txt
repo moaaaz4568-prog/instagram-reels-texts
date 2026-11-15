@@ -1,0 +1,6 @@
+Turing Test
+Alan Turing asked the question that started it all: can machines think? His Imitation Game became the first real benchmark for machine intelligence.
+19
+1966
+Dartmouth & ELIZA
+John McCarthy coined the term Artificial Intelligence at Dartmouth in 1956. A decade later ELIZA became the first chatbot to mimic human conversation.

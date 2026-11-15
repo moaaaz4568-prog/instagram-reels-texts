@@ -1,0 +1,5 @@
+Connector 5: Zapier
+
+Zapier connects Claude to 9,000+ apps that aren’t built in native.
+
+Here: Claude read a CSV of leads and added every contact into an email tool automatically. Zero manual work.

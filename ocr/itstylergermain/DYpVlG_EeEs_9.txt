@@ -1,0 +1,7 @@
+Marketing-Report
+Reviews all of my marketing sources,
+identifies trends, creates easy to read
+charts, and then generates a PDF/HTML
+report for me to review.
+@itsylergermain
+save for later

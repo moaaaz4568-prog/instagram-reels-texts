@@ -1,0 +1,13 @@
+Do you check your app for
+exposed keys before
+you ship?
+
+YES
+You're shipping safe.
+Keep doing that.
+Level up!
+
+NO
+Easy to miss, worth the minute. Over
+half of AI-built apps leak their keys in
+public code. Run a quick check first.

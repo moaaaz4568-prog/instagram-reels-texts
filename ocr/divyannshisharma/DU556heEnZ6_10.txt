@@ -1,0 +1,22 @@
+10
+How to set up
+1. Setup
+Create a /skills folder.
+One MarkDown file
+per workflow (per workflow/
+e.g., seo.md, outreach.md)
+2. Initial State
+Start with 20-30 lines
+instructions/rules.
+OpenClaw Agent Session
+1. Agent Reads Skill File
+2. Executes Tasks
+3. Logs Success/Failure
+3. Iterate & Improve
+When success: Add formula.
+When failure: Add rule.
+Document mistakes/learnings.
+20-30 lines
+File grows to 500+ lines within a week
+500+ lines (1 week)
+@divyanshisharma

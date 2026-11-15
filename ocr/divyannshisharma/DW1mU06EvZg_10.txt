@@ -1,0 +1,11 @@
+10
+Thinking chain is visible
+
+> Asked "how are you doing?" - reasoning chain
+> Model: Literal/Robotic vs Friendly vs Balanced
+> Picks the balanced response on its own
+
+Made by
+Divyanshsharma
+
+11 →

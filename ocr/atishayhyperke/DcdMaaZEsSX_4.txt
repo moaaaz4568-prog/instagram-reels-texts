@@ -1,0 +1,17 @@
+4. Bounce rate.
+
+AROUND
+2%
+
+VS.
+
+AROUND
+4%
+
+means
+investigate.
+
+usually means
+you have a
+serious data or
+infrastructure problem.

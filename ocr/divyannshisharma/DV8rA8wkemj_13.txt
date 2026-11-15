@@ -1,0 +1,22 @@
+OpenAI's Practical Guide
+https://lnkd.in/guRfXsFK
+Python
+1 from agents import Agent, Runner
+2
+3 manager_agent = Agent(
+4     name="manager_agent",
+5     instructions=(
+6         "You are a translation agent. You use the tools given to you to
+7         translate."
+8         "If asked for multiple translations, you call the relevant tools."
+9     ),
+10     tools=[
+11         spanish_agent.as_tool(
+12             tool_name="translate_to_spanish",
+13         )
+14     ],
+15 )
+Building agents
+Capable of handling complex, multi-step tasks
+Start with OpenAI →
+@divyanshisharma

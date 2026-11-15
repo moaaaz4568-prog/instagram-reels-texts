@@ -1,0 +1,35 @@
+Builds me cold email campaigns
+Artifacts
+Search artifacts...
+email-formula-builder
+cold-email-formula-builder
+by You
+SKILL.md
+2 files
+Cold Email Formula Builder
+Generate high-converting cold emails using the proven Hook-Agitate-Outcome framework with multiple variations
+Share
+Purpose
+Generate high-converting cold emails using the proven Hook-Agitate-Outcome framework.
+This skill creates multiple email variations with subject lines, tailored to specific in...
+Core Framework (5-Part Structure)
+1. HOOK (Problem Awareness)
+Identify visible, specific problems from research
+Use data-backed observations (engagement rates, posting frequency, competitor comparison)
+Make it about THEM, not you
+Avoid generic compliments
+2. AGITATE (Amplify the Pain)
+Search
+Settings
+General
+Account
+Privacy
+Billing
+Usage
+Capabilities
+Claude Code
+Claude in Chrome
+Customize
+Skills
+Connectors
+Plugins

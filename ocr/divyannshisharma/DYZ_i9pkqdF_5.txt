@@ -1,0 +1,58 @@
+06
+/ 04
+4/ Interview Prep
+Walk in prepared. Stand out.
+BONUS:
+Hit Audio Overview.
+It generates a 2-person
+podcast prepping you
+for the interview.
+>_ Go to NotebookLM.
+>_ Upload your resume
++ cover letter + job
+description + company
+blogs.
+>_ And type this prompt:
+notebooklm.md
+Sources
++ Add source
+Search your sources
+divyansh_sharma_resume.pdf
+cover_letter_dario_amodei.pdf
+job_description.pdf
+anthropic_company_blogs.pdf
+dario_amodei_recent_statements.pdf
+industry_research_2024.pdf
+6 sources
+Chat
+Notebook guide
+I am Vaibhav, planning for an interview with Dario - help me
+with mock questions for the interview, and with them share
+my answers on a scale of 1-10, and what I need to improve.
+Hello Vaibhav! I'll help you prepare an interview with Dario - based on your materials,
+here are 5 mock interview questions tailored for Dario Amodei.
+1. What is your biggest bet for the next 10 years?
+2. How would you scale Anthropic's Impact Program?
+3. How do you think about AI safety vs. speed?
+4. What product would you build if you had 0 constraints?
+5. How do you evaluate political risk in frontier AI?
+I'll ask one by one. You reply -> I score (1-10) -> feedback.
+Start typing...
+10 sources
+What you get:
+Mock questions tailored for
+Detailed feedback (1-10)
+Clear improvement plan
+status: preparing
+focus: interview
+mode:
+deep prep
+ready
+X Unprepared
+Nervous answers
+Missed points
+Low confidence
+✓ Prepared
+Confident answers
+Hit the right points
+Leave a strong impression

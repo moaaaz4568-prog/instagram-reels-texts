@@ -1,0 +1,19 @@
+MCP Protocol
+User Query
+MCP Client Application
+LLM
+Tool Selection
+Response to User
+Selected Tool
+MCP Client
+Standardized Protocol
+MCP
+MCP Server
+List Tools
+Tool Implementation
+External API's/Services
+List Prompts
+Prompt Templates
+List Resources
+Resource Access
+Knowledge Databases

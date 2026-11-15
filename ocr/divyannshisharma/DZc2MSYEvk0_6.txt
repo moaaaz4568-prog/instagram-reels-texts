@@ -1,0 +1,58 @@
+SLIDE 7
+AGENT 3:
+THE TESTER
+
+Job: prove that the code actually works
+
+It reads what the Code Writer built
+Writes tests covering:
+→ The normal use cases
+→ The edge cases
+→ At least one failure case
+
+Then it RUNS the tests
+If anything fails → It stops and reports.
+It does NOT try to fix the code itself.
+
+One job. One output.
+Find problems. Report them. Move on.
+
+EXPLORER
+PROJECT
+.pipeline
+planner.md
+code.md
+tester.md
+review.md
+src
+tests
+README.md
+package.json
+
+pipeline.md (implementation and context)
+Tests (requirements and acceptance criteria)
+Project dependencies and configuration
+Responsibilities
+Design and implement comprehensive tests
+Execute tests and report results
+Validate against acceptance criteria
+Identify bugs, edge cases, and risks
+Ensure code quality and reliability
+Constraints
+Do not modify source code
+Tests must be deterministic and repeatable
+Cover happy path, edge cases, and error scenarios
+Follow existing test framework and conventions
+Definition of Done
+All tests pass
+Coverage meets project standards (if applicable)
+Acceptance criteria from plan.md are validated
+Bugs and issues documented
+Test results and summary included
+Output
+Test files with test cases, results, and findings
+Reporting test files (e.g., *.test.js)
+Any issues found if list is empty
+Notes on quality, reliability, and preventing regressions.
+
+Ln 1, Col 1 Spaces: 2 UTF-8 LF Markdown

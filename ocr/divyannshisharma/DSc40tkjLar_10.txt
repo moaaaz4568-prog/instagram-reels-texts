@@ -1,0 +1,15 @@
+Step #10
+OpenAI Platform
+API keys
+You have permission to view and manage all API keys in this project.
+API keys with others or expose it in the browser or other client-side code. To protect your account's security, OpenAI may automatically disable
+View usage per API key on the Usage page.
+NAME CREATED LAST USED CREATED BY
+arcads automation 14 Aug 2025 26 Aug 2025 Dan Kieft
+make assistant 11 Apr 2025 27 Apr 2025 Dan Kieft
+SECRET KEY
+sk-...UhQA
+sk-...Br7A
+FHD 360Hz
+Create API key to auto-generate
+video descriptions with GPT

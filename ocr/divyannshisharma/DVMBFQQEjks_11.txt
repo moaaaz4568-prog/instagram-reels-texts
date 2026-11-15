@@ -1,0 +1,16 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+• Your first prompt:
+
+1. “Explain what the formula in cell B12 does in plain English.”
+2. “Find all #REF and #VALUE errors in this workbook.”
+3. “Convert all dates to YYYY-MM-DD format.”
+4. “Create a pivot summary of monthly revenue by product category.”
+
+• Start an Excel from scratch:
+
+1. Go to Claude Cowork.
+2. Prompt it:
+Create a professional Excel spreadsheet (.xlsx) for:
+[PURPOSE] Context: [WHO IS IT FOR / HOW WILL IT BE USED] It should cover: [LIST WHAT YOU WANT TO TRACK OR CALCULATE] Rules: - Use Excel formulas (SUM, SUMIF, IF, etc.) – never hardcoded calculations – Put editable assumptions in their own labeled cells – Freeze top row, auto-fit columns – [ANY EXTRAS: charts, dropdowns, conditional formatting, specific currency, etc.]

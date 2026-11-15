@@ -1,0 +1,41 @@
+Step #3
+Back to start
+EduForge: AI Course Architect
+Architect Your Masterpiece
+Feed me your content. I'll build the learning journey.
+Code assistant
+Automated course curriculum builder - Feed it your YouTube content, existing courses, and target outcomes, and it creates entire course structures with lesson plans, quizzes, and assignments. Useful for scaling AIPB content creation.
+Thought for 5 seconds
+metadata.json
+index.html
+index.tsx
+types.ts
+services/geminiService.ts
+components/Course.tsx
+components/ModuleCard.tsx
+App.tsx
+Checkpoint
+View diff
+Restore
+EDUFORGE
+TARGET OUTCOME
+Build AI agents in 5 minutes or less
+SOURCE MATERIALS
+how to build ai agent
+TRANSCRIBE AUDIO
+YOUTUBE
+Paste content except
+IDEAL AUDIENCE
+Entrepreneurs
+🤖 Build My Course
+Build complete online courses from your content automatically
+A
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl

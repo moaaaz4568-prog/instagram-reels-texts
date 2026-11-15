@@ -1,0 +1,28 @@
+Editor Executions Evaluations
+Prepare Results
+Email
+Chat Model
+Model
+gpt-4o-mini1
+Memory Tool
+Gmail Results
+send: message
+Prepare Results
+Message
+Chat Model
+Model
+gpt-4o-mini2
+Memory Tool
+Telegram Results
+sendMessage: message
+Aggregate
+Execute workflow
+Activate Wi...
+Go to Settings...
+-Get notified instantly:
+-Email with post summary
+-Telegram alert
+-AI-generated content summary
+% ^ & * ( ) _ +
+5 6 7 8 9 0 - =
+F11 F12 Insert

@@ -1,0 +1,6 @@
+Tyler Germain @its Tylergermain
+it's a Claude Code skill — runs entirely in
+your terminal with plain english.
+the whole thing is on GitHub.
+claude-thumbnai
+README

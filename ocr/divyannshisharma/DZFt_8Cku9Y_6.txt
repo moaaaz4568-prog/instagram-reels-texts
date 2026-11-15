@@ -1,0 +1,14 @@
+Step 6: Launch and start earning
+Sonnet 4.6
+Deploy your app
+Set up payments:
+Stripe
+Simple pricing strategy:
+$29/month subscription
+14-day free trial
+Optional one-time deal
+Idea:
+You don’t pay anything until users pay you.
+Vercel
+https://vercel.com/
+npx vercel

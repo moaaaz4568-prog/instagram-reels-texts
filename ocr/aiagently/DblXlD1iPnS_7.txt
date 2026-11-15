@@ -1,0 +1,26 @@
+AI AGENTLY
+Step 7:
+Add Your
+WhatsApp Credentials
+Claude still needs
+the actual WhatsApp
+API credentials.
+In n8n, configure
+them securely.
+You may need:
+WhatsApp Access Token
+Phone Number ID
+WhatsApp Business Account ID
+Do NOT put these
+inside your
+Claude prompt.
+Do NOT publish
+them in your
+codebase.
+Do NOT paste them
+into a public
+GitHub repository.
+Use n8n
+credentials/environment
+secrets where
+appropriate.

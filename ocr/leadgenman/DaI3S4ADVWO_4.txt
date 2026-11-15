@@ -1,0 +1,15 @@
+MEMORY.md
+
+Claude remembers your project
+across sessions.
+
+No memory = no continuity.
+No continuity = no real work.
+
+Ask:
+- What if AI knew yesterday's decisions?
+- What if it recalled your preferences instantly?
+- What if every session built on the last?
+
+If you start fresh every chat, you're wasting
+half your time.

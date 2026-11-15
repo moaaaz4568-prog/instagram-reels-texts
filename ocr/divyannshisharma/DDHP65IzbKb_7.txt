@@ -1,0 +1,13 @@
+prompt 6 →
+Find market of the
+company (B2B / B2C)
+Prompt:
+Website content: "[website_content]"
+Based on the website content provided, determine if the
+company is primarily B2B or B2C.
+A B2B company sells products or services to other
+businesses, while a B2C company sells directly to individual
+consumers.
+The response should be either 'B2B' or 'B2C' without any
+additional comment
+Output:

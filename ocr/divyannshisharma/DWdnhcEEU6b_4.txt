@@ -1,0 +1,28 @@
+Obsidian Skills
+
+4. Obsidian Skills
+https://github.com/kepano/obsidian-skills
+
+kepano / obsidian-skills Public
+Code Issues 11 Pull requests 8 Actions Projects Security Insights
+main 1 Branch 0 Tags
+Go to file
+kepano Update SKILL.md
+claude-plugin
+skills
+LICENSE
+README.md
+
+bb9ec95 - last month
+chore: update plugin version so it can be updated from the ...
+Update SKILL.md
+license
+Merge pull request #37 from chemiphix/patch-1
+
+README MIT license
+
+Agent Skills for use with Obsidian.
+These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, includ
+Code and Codex CLI.
+
+Installation

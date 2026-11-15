@@ -1,0 +1,13 @@
+Adam | YouTube
+@Adam_DelDuca
+Claude
+Second, generate topics with Claude
+Screenshot the most popular videos on
+the channel
+Then ask Claude to give you adjacent
+topics
+Validate the supply of those topics on
+YouTube and proceed with one of them
+Look at this channel, find the pattern on why and what these topics are and
+break it down into a clear strategy/format, and then suggest 5 new topics that
+are adjacent to the top performing topics on this channel

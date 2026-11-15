@@ -1,0 +1,22 @@
+08
+Extended Thinking
+Most Claude users have never turned this on. Extended Thinking is a mode where the Claude reasons through a problem step by step before giving you an answer, instead of going straight to the output.
+For simple tasks, you don’t need it.
+For complex decisions, analysis, or any question where you want Claude to actually think rather than pattern-match, turn it on.
+In Claude, click the brain icon or add this prompt:
+Think through this carefully before responding.
+Work through the problem step by step, show your reasoning, identify where you’re uncertain, then give me your conclusion.
+The difference in output quality on hard questions is significant.
+Divyanshi sharma
+08/18
+UNDERSTAND BREAK DOWN ANALYZE EVALUATE CONCLUDE
+Opus 4.6
+Most capable for ambitious work
+Sonnet 4.6
+Most efficient for everyday tasks
+Haiku 4.5
+Fastest for quick answers
+Extended thinking
+Think longer for complex tasks
+More models
+Opus 4.6 Extended

@@ -1,0 +1,24 @@
+5.
+Campaign
+health
+checks.
+Monitor PCPL, reply
+rate, bounce rate and
+domain health on
+a schedule.
+PCPL
+$3.21
+vs last 7 days
+Needs attention
+Reply rate
+12.6%
+vs last 7 days
+Healthy
+Bounce rate
+2.3%
+vs last 7 days
+Healthy
+Domain health
+98 / 100
+vs last 7 days
+Healthy

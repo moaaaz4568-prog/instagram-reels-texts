@@ -1,0 +1,51 @@
+4. AI TENDER DISCOVERY & BID PREPARATION
+
+Tenderbuddy
+Overview
+Customers
+Customer directory
+Automation
+Plans
+Usage tiers
+Promo codes
+GST
+Categories
+Demand
+Notifications
+V2 manual review
+Sign out
+
+Overview
+REVENUE
+collected to date
+₹5,003.36
+CREDITS BURNED
+wallet spend on tenders
+₹7,448.92
+CUSTOMERS
+23
+2 active
+TENDERS ANALYSED
+116
+all time
+POOL SIZE
+29,855
+tenders in the shared pool
+WALLET BALANCE (ALL)
+₹14,518.08
+last confirmed snapshot
+ACTIVE CUSTOMERS
+2
+ACCESS OPEN
+2
+CUSTOMERS
+23
+2 with access
+Credit Usage
+Last 30 days
+Revenue
+Credits Burned
+
+• AI that discovers relevant government tenders and checks them against the company's eligibility criteria.
+• Analyzes RFPs, BOQs and corrigenda to identify requirements, risks, and bid opportunities.
+• Reduces tender research and preparation from days or weeks to hours.

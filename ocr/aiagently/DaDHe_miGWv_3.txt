@@ -1,0 +1,31 @@
+Step 3. Go to General
+Section & Paste the prompt
+Search
+Settings
+General
+Account
+Privacy
+Billing
+Usage
+Capabilities
+Connectors
+Code Code
+Cowork
+Claude in Chrome
+Desktop app
+General
+Extensions
+Developer
+Profile
+UA
+Avatar
+Usama Akram
+Full name
+Usamaa
+What should Claude call you?
+Select
+What best describes your work?
+Instructions for Claude
+Claude will keep these in mind across chats and Cowork within Anthropic's guidelines. Learn more
+Paste the Prompt here
+Preferences

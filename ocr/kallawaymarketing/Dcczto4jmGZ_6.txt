@@ -1,0 +1,9 @@
+HOW TO ENABLE THIS:
+Set up the Sandcastles.ai social media plugin (MCP)
+inside Claude.
+Instagram
+TikTok
+YouTube
+Claude
+Then ask Claude "give me my latest personal analytics"
+and it pulls in the full report automatically

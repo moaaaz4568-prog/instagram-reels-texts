@@ -1,0 +1,61 @@
+Step 3
+Now Your Skill is Ready
+Automate Your Work
+SEO Audit for Your Website
+
+Claude
+New chat
+Projects
+Artifacts
+Customize
+
+Recents
+Website SEO audit report
+Keyword research plan
+On-page optimization tips
+Technical SEO checklist
+Competitor analysis
+SEO performance summary
+Content gap analysis
+Backlink opportunities
+Local SEO strategy
+Monthly SEO report
+
+SEO Audit Report
+Your website SEO audit is ready. Here's a quick summary:
+
+78
+SEO Score
+Good
+
+24
+Issues Found
+Good
+
+8
+Opportunities
+For Growth
+
+3
+Critical
+Fix Now
+
+Findings
+Meta titles and descriptions are mostly optimized
+Good job! Keep it up.
+
+Missing alt text on 12 images
+This can affect accessibility and SEO.
+
+3 pages have duplicate content
+Consider rewriting or canonical tags.
+
+Page load speed is slightly slow (3.2s)
+Optimize images and reduce unnecessary scripts.
+
+Good internal linking structure
+Helps with crawlability and rankings.
+
+* for skills
+
+Grok 4.0

@@ -1,0 +1,13 @@
+Layer 1:
+The Builder
+
+Claude Code:
+• The agent that writes and ships every feature.
+• Runs from the terminal, no editor open.
+
+Next.js:
+• Frontend, backend routes and server logic in one stack.
+
+GitHub:
+• Stores every line of code I ship.
+• Typecheck, lint, tests and security audit on every push.

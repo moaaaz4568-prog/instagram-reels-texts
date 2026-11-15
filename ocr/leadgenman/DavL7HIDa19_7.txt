@@ -1,0 +1,21 @@
+Lv 7
+Loops
+Claude.
+You stop prompting. Loops prompt Claude.
+loop.txt - Notepad
+File Edit Format View Help
+You design the loop ONCE:
+'loop 2m - check new GitHub issues,
+read, fix, test, PR, merge, close.'
+Terminal - loop
+Loop tick -- checking issues...
+New issue #42 detected
+Read issue + context
+Fix implemented
+Build + tests green
+PR opened -> merged -> issue closed
+Loop tick -- checking issues...
+No new issues. Sleeping 2m.
+Zero human in the loop.
+You write loops now, not prompts.
+08 / 09

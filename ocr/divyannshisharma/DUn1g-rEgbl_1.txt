@@ -1,0 +1,14 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+THE MENTAL MODEL YOU NEED:
+
+Most AI education teaches tools before thinking
+Here’s what actually matters:
+
+Attention mechanism = how AI weighs context
+Temperature = controls randomness (0-1 scale)
+Context window = AI’s working memory
+Tokenization = how AI chunks your text
+
+Understanding these > memorizing prompts

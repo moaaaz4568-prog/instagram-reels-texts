@@ -1,0 +1,11 @@
+1
+Claude AI Glossary
+Anthropic
+Claude AI
+API
+Zero-shot
+Tokens
+Prompt
+Hallucination
+Human-like
+Multi-modal

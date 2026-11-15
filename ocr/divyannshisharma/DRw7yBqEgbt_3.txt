@@ -1,0 +1,18 @@
+2
+Organize with AI
+powered DeepSeek
+Hi, I'm DeepSeek.
+How can I help you today?
+Format the data below into a table with these columns:
+- First Name
+- Last Name
+- Company Name
+- Website URL
+- Email
+- Phone Number
+First Name
+Last Name
+Company
+Website
+Email
+Phone No.

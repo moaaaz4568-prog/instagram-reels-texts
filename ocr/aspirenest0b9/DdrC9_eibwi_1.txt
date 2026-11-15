@@ -1,0 +1,4 @@
+1. HEALTHCARE DOCUMENT & BILLING AUTOMATION
+• AI-powered document processing that reads, classifies, extracts, deduplicates, and organizes healthcare billing documents.
+• Automatically sorts documents into the required order and prepares the final billing binder.
+• Reduced approximately 70% of the manual workload across the billing workflow.

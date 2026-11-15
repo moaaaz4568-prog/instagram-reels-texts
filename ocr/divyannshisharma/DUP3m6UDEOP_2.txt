@@ -1,0 +1,7 @@
+Step #2
+PS C:\Users\User> ollama pull qwen3-coder
+pulling manifest
+pulling 1194192cf2a1: 1% |
+159 MB/ 18 GB  5.4 MB/s
+Choose a coding model for your
+system & download it via the terminal

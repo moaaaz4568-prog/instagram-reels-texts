@@ -1,0 +1,62 @@
+Step 4
+TURN ON META ADS
+IN CLAUDE
+
+1 Start a new
+Claude chat.
+
+2 Tap:
++ → Connectors →
+Meta Ads → ON
+
+3 Now type:
+"List the Meta ad accounts
+I can access and tell me which
+one is currently connected."
+
+4 Then ask:
+"What Meta Ads information
+can you access from this
+account?"
+
+5 Now you know exactly
+what Claude can see
+before asking it to do anything.
+
+Claude
+How can I help you today?
+
+Claude 4.5 x
++
+Artifacts
+Connectors
+Projects
+Connectors
+Settings
+
+Connectors
+Connect Claude to your favorite tools and services.
+Google Drive
+GitHub
+Notion
+Slack
+Meta Ads
+
+Claude
+I found 2 Meta ad accounts available through the connector.
+Here's the list:
+1. Business Account (ID: 123456789012345)
+- Name: Usama's Business
+- Status: Connected
+2. Personal Ad Account (ID: 987654321098765)
+- Name: Personal Ads
+- Status: Available (not connected)
+
+Claude
+Through this Meta Ads account, I can access the following
+information:
+- Ad account details (name, ID, currency, timezone)
+- Campaigns (performance, status, budget, spend)
+- Ad sets and ads (creative, copy, metrics)
+- Audience data (if permitted)
+- Insights and reports (reach, clicks, conversions, etc)

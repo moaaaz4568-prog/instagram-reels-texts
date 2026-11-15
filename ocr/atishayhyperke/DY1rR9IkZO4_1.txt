@@ -1,0 +1,6 @@
+1. AI Agent Building
+Why: every business wants AI agents handling sales, support, and ops, but most have no idea how to actually build one.
+What you do
+▶ build custom agents using LangGraph, CrewAI, or Claude that automate workflows for agencies and SaaS companies.
+Rate
+▶ $2,500 to $5,000 per month per client

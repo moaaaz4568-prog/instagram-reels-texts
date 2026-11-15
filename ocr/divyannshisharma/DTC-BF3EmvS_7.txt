@@ -1,0 +1,9 @@
+Step #7
+Cancel
+Share
+Email	Phone	Services Offered	Agency Size	LinkedIn URL	Contact Method	Contact Status	Interest Level	Notes	Follow-up Date	Follow-up Status	Notes (Next Follow-up Date)
+john@emmuslp	HERO!	SEO, Link Building	25-50 employees	john@emmuslp.com	Email	No Response	Follow up with pi	Warm	12/15/2025
+pavel.co.uk	Sarah Johnson	sarah@ahrefswhitelabel.co.uk	+44 203 555 0456	Link Building, Content SEO	50-100 employees	pavel.co.uk/company/ahrefs-partner	12/17/2025
+David Chen	david.chen@mozagency.com	+44 201 555 0789	SEO, PPC, Backlinks	10-25 employees	linkedin.com/company/moz-agency	12/16/2025	LinkedIn	No Response	Previously worked together	Cold
+linkedin.com/company/ahrefs-partner	12/17/2025	LinkedIn	No Response	Previously
+Populate entire trackers with agency names, websites & LinkedIn URLs

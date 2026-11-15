@@ -1,0 +1,19 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+3. Claude Skills
+
+Found at Main Homepage → Customize → Skills.
+
+• Claude Skills: Reusable instructions or workflows.
+
+• No repeated prompts: Run tasks instantly with a Skill.
+
+• Claude can create Skills for your specific workflows.
+
+mcp-builder
+SKILL.md
+reference
+scripts
+LICENSE.txt
+skill-creator

@@ -1,0 +1,3 @@
+How to analyze 50 competitors in just 5 minutes? First, go to ChatGPT and write these prompts: Create a CSV of 50 competitor websites in your industry. Next, go to this site and click here, upload the CSV, and ask the AI to extract pricing and feature tables from each website. An AI agent then scans all the sites in parallel. It analyzes all the data automatically without skipping websites or making things up.
+
+Tools like ChatGPT often fail here, but Minio is built exactly for this exact job. It's fast and made to work at scale. A few minutes later, you get clean, structured pricing and feature tables ready to use. Follow for more AI tips.

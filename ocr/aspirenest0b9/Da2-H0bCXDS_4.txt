@@ -1,0 +1,23 @@
+THE STACK
+05 / 07
+The Real Stack
+Behind It
+This wasn't "just ChatGPT." The AI understood how the business actually worked.
+CRM
+Email
+Analytics
+Project Mgmt
+Databases
+APIs
+Claude
++ MEMORY
+Claude
+Code
+MCP
+integrations
+claude.md
+knowledge
+Persistent
+memory
+CLAUDE CODE · IMPLEMENTATION
+SWIPE →

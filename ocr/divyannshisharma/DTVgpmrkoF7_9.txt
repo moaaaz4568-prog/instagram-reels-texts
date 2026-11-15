@@ -1,0 +1,16 @@
+Step #9
+Perplexity Get Email and Contact Number
+Test Contact Number
+Import cURL
+Method
+POST
+URL
+Authentication
+Generic Credential Type
+Generic Auth Type
+Header Auth
+Header Auth
+Perplexity
+Send Query Parameters
+Send Headers
+Perplexity AI finds HR emails & company details

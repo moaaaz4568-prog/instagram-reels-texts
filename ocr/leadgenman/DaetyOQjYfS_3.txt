@@ -1,0 +1,22 @@
+STEP - 2
+Use n8n
+
+1 Go to n8n. It is a workflow automation tool where you build AI automation workflows visually with no code.
+2 Add an HTTP Request node
+3 Connect to Maildo's API or your sequencer
+4 Paste your Maildoso API key in the header
+
+Settings
+
+Global Custom Domain Tracking
+We handle all custom domain tracking on our side using global domain preferences. No need to configure anything in your cold outreach tool. This significantly improves deliverability.
+
+token
+
+Personal access token is used to authenticate API or MCP requests.
+
+API token provides full access account. Store it securely and never share it public API documentation. developers.maildo.so
+
+Copy
+
+Copy

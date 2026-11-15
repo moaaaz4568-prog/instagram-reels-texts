@@ -1,0 +1,7 @@
+Tyler Germain
+@its Tylergermain
+Google just dropped Gemini Embedding 2.
+The first embedding model that understands
+text, images, video, and audio - all in the
+same vector space.
+Gemini Embedding 2

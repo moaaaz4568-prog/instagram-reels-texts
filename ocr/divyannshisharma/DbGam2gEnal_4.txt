@@ -1,0 +1,10 @@
+SLIDE 5
+AGENT 1:
+THE PLANNER
+Job: turn a vague idea into a clear plan
+It never writes code. It reads your codebase to understand how things are built. Then writes a detailed spec:
+Exactly which files to change →
+What functions are needed →
+Edge cases to handle →
+Questions if anything is unclear →
+Think of it as the architect who draws the blueprint before anyone picks up a hammer.

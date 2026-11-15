@@ -1,0 +1,32 @@
+01 OPEN CLAUDE
+IN DESKTOP
+Go to claude.ai
+on your desktop
+Claude
+* Good morning, Usama
+How can I help you today?
+Claude 3.5 Sonnet
+02 ADD THIS
+CLAUDE SKILL
+"/audit my business"
+Paste this
+in Claude
+* Good morning, Usama
+/audit my business
+Claude 3.5 Sonnet
+03 CLAUDE CHECKS
+YOUR WHOLE BUSINESS.
+It analyzes your:
+SALES
+MARKETING
+OPERATIONS
+CUSTOMERS
+FINANCE
+TEAM
+Then connects the data to find:
+WHAT'S
+BROKEN
+WHY IT'S
+HAPPENING
+WHERE YOU'RE
+LOSING MONEY

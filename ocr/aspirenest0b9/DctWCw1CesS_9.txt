@@ -1,0 +1,11 @@
+STEP 9
+Punit Kumar
+09 / 09
+Deploy it 24/7
+Your laptop shouldn't be the server.
+Deploy the agent to a VPS so it can keep running even when your computer is turned off.
+Your production setup becomes:
+WhatsApp → Meta API → AI Agent →
+Business Tools → VPS running 24/7
+LLM + Memory
+Once deployed, replace your temporary webhook URL with your production callback URL.

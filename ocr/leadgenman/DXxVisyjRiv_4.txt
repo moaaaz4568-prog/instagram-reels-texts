@@ -1,0 +1,3 @@
+STOP 4
+The Launch
+Be clear about your inbox placement before you hit send. Run a deliverability test, confirm you’re landing in primary, then launch your campaign with confidence.

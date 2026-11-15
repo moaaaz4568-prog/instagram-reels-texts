@@ -1,0 +1,18 @@
+?
+SUPER
+POWERS
+for
+Claude Code
+137k GitHub Stars
+11.6k Forks
+Free Open Source
+superpowers
+/plugin install superpowers
+Gives Claude a complete dev methodology.
+Skills trigger automatically.
+@rishu.init
+AI Coding &
+Education
+@rishu.init
+Swipe
+Swipe

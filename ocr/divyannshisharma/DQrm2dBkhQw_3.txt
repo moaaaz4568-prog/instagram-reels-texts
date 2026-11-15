@@ -1,0 +1,6 @@
+2. Create a Deep Search Prompt:
+Good afternoon,
+How can I help you today?
+"List 20 Twitter (X) accounts of founders of big software companies. These accounts should have between 50,000 and 1 million followers and average at least 10k views per post."
+Adjust the niche as per your needs: e.g., coaches, creators, marketers, etc.
+Follower range balances volume and keeps you under X's 1M scraping limit.

@@ -1,0 +1,11 @@
+Example
+AI Automation
+Customer calls in.
+Press 1 for appointments.
+Press 2 for billing.
+[Customer hangs up]
+AI Agents
+Customer calls in.
+AI Voice Agent understands
+intent. Solves problem.
+Runs 24/7 at lower cost.

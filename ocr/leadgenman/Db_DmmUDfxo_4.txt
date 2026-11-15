@@ -1,0 +1,7 @@
+SKILL
+impeccable
+DESCRIPTION
+One skill with 23 commands like polish, audit and critique. It runs in brand mode for marketing sites and product mode for dashboards, because those two need opposite things.
+MORE INFO
+https://github.com/pba
+kaus/impeccable

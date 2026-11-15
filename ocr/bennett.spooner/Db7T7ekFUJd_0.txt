@@ -1,0 +1,11 @@
+// BENNETTOS
+01 / 09
+// BUILD LOG - MULTI-AGENT
+ONE PERSON.
+A COMPANY
+OF AGENTS.
+The full stack for running a multi-agent
+company locally – orchestrator, models,
+gateway, and the metal it runs on.
+@bennettos
+SWIPE →

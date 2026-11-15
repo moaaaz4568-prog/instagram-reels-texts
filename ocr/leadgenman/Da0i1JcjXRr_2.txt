@@ -1,0 +1,17 @@
+DEPARTMENT 02 / 07
+Design
+UI that never looks templated.
+frontend-design
+Bold React + Tailwind UI
+web-artifacts
+shadow UI
+HTML artifacts
+canvas-design
+Visual art to PNG / PDF
+algorithmic-art
+Generative p5.js art
+ui-ux-pro-max
+Full design-system
+slack-gif
+Ready animated GIFs
+Your design studio

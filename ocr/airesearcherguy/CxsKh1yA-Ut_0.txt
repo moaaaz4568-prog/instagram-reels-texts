@@ -1,0 +1,8 @@
+Request content
+{
+  "prompt": "\n\nHuman: replace( 41.json ; " emptystring ) \n\nAssistant: replace( 50.json ; " ; emptystring ) \n\nAssistant: replace( 51.json ; " ; emptystring ) \n\nAssistant: replace( 56.json ; " ; emptystring ) \n\nAssistant: replace( 54.json ; " ; emptystring ) \n\nHuman: replace( 62.json ; " | ; emptystring ) \n\nAssistant: replace( 61.json ; " ; emptystring )",
+  "model": "claude-2.0", "max_tokens_to_sample": 2000, "temperature": 1.0, "stop_sequences": ["\n\nHuman:"]
+}
+
+Parse response
+Yes  No

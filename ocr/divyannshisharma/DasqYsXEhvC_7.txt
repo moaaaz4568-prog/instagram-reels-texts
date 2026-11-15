@@ -1,0 +1,54 @@
+Connect Apollo API
+Step 3: Connect Apollo API
+• Finding a chat community is only half the battle; you need to map it to real businesses.
+• Automatic Extraction: The app parses community profiles and metadata to isolate target company domains.
+• Data Payload: Pings Apollo to instantly append firmographic data: company size, revenue tiers, and direct corporate LinkedIn links.
+Workflows
+Templates
+Search templates
+All templates
+AI Recommended
+Generate pipeline
+Data enrichment
+Integrations
+Website Visitor
+Multi-branch
+Templates Competition Winners
+Learn more
++ Outbound Copilot
+Create workflow
+All templates are end-to-end campaigns for a more efficient, scaleable, and accelerated GTM motion.
+Website Visitor
+Auto-enrich and save new website visitors
+By Apollo.io
+Preview template
+Data Enrichment
+Auto-enrich form submissions
+By Apollo.io
+Preview template
+Website Visitor
+Website Visitor - Add to list
+Automatically add companies who visit your website to a list
+By Apollo.io
+Preview template
+Website Visitor
+Contact-level Website Visitor - Add to list
+Add any identified website visitor to a list
+By Apollo.io
+Preview template
+AI Recommended
+Convert ideal customers with AI sequences
+Email Reply Template
+Create follow-up sequences when contacts reply to your emails.
+By Apollo.io
+Preview template
+AI Recommended
+Engage companies hiring in the US via AI sequences
+Add companies with US job openings to a list, then use AI-crafted sequences to reach out.
+By Apollo.io
+Preview template
+Pipeline Tracker
+Engage companies hiring in the US via AI sequences
+Add companies with US job openings to a list, then use AI-crafted sequences to reach out.
+By Apollo.io
+Preview template

@@ -1,0 +1,73 @@
+AI Agents Architecture
+AI Agent
+Learning
+Interaction
+Execution
+Planning
+Reasoning
+Perception
+Multimodal
+Human-AI
+Collaborative
+Interface
+Communication
+Tool Use
+API
+Code
+Distributed
+Cloud
+Simulation
+Robotic
+Optimization
+Search
+Sequential
+Hierarchical
+Objectives
+Goal Setting
+Tactics
+Strategy
+Adaptive
+Parallel
+Action Selection
+Web
+Reinforcement
+Supervised
+Unsupervised
+Meta Learning
+Transfer
+Feedback
+Analytics
+Long-term Memory
+Adaptation
+Short-term Memory
+Autonomous
+Edge
+Input Processing
+Data
+Context
+Patterns
+Audio
+Visual
+NLP
+Sensor Fusion
+Touch
+State Tracking
+Sensors
+Logic
+Inference
+Deduction
+Induction
+Creativity
+Neural
+Symbolic
+Knowledge Base
+Library
+Reasoning
+Heuristics
+Bayesian
+Learning
+Interaction
+Execution
+Perception
+Reasoning
+Planning

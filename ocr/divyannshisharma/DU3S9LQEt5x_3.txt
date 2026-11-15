@@ -1,0 +1,68 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Advanced prompt injection defense system for Clawdbot:
+https://clawdhub.com/seojoonkim/prompt-guard
+
+prompt-guard Public
+Code Issues 1 Pull requests Discussions Actions Projects Security Insights
+Go to file
+Add file
+main
+1 Branch
+0 Tags
+36 Commits
+
+seojoonkim feat: Auto-report HIGH+ detections to Hivepane API for collective im...
+66e47b1 · 1 hour ago
+
+blog
+docs: add blog post for dev.to/medium
+python security ai-security ai-agent
+prompt-injection llm-security clawdbot
+mitoobot
+
+scripts
+feat: Auto-report HIGH+ detections to Hivepane API for coll...
+feat: Hivepane API Integration v2.6.0
+
+ARCHITECTURE.md
+feat: Hivepane API Integration v2.6.0
+
+CHANGELOG.md
+v2.5.1: CRITICAL - System Prompt Mimicry Detection
+
+README.md
+feat: Hivepane API Integration v2.6.0
+
+SECURITY.md
+docs: Phase 1 SEO optimization
+
+SKILL.md
+feat: Hivepane API Integration v2.6.0
+
+config.example.yaml
+Initial release: Prompt Guard v2.2.0
+
+requirements.txt
+chore: add requirements.txt with pyyaml dependency
+
+5 days ago
+1 hour ago
+2 days ago
+4 days ago
+2 days ago
+2 days ago
+1 week ago
+5 days ago
+
+17 Files
+Report repository
+
+55 stars
+0 watching
+
+About
+Advanced prompt injection defense system for AI agents. Multi-language detection, severity scoring, and secure auditing.
+
+Releases

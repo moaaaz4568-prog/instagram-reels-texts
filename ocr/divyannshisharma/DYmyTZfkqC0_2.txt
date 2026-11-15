@@ -1,0 +1,14 @@
+03 / 12 OBSIDIAN VAULT
+YOUR BUSINESS OS
+BUILT TO RUN. DESIGNED TO WIN.
+The Folder Structure
+Build the vault like a business, not like a brain.
+folder per client
+01 – CLIENTS one folder per client
+02 – PROJECTS one folder per project
+03 – OPERATIONS how your business runs
+04 – CONTENT drafts, calendars, posts
+05 – FINANCES income, expenses, invoices
+06 – RESEARCH notes, briefs, intel
+07 – QUEUE you drop requests here
+08 – GENERATED system drops outputs here

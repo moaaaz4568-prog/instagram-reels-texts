@@ -1,0 +1,6 @@
+Step 8: Install Claude Code
+Search VS Code, install the Anthropic extension
+Claude Code for VS Code
+Claude Code for VS Code
+MCP Servers
+Swipe →

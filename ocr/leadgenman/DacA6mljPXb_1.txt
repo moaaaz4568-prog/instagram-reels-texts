@@ -1,0 +1,5 @@
+Do you write out what your app does before you start prompting?
+YES
+You already think like a builder. Level up!
+NO
+You're not alone. Most people just start typing and hope it works. Jot down what the app does first, then prompt.

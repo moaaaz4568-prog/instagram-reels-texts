@@ -1,0 +1,11 @@
+Build OS
+
+This is your building layer. Ship working products without hiring a dev team.
+
+Claude Code: Autonomous coding agent that builds, refactors, audits.
+
+Cursor: AI-first editor with inline edits and full codebase chat.
+
+Replit: AI app platform that builds and hosts your app end to end.
+
+Supabase: Postgres, auth, and storage backend in minutes.

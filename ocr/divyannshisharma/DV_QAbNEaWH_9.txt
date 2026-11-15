@@ -1,0 +1,3 @@
+9: Skills Installed
+Agents, scripts, and templates all set up
+automatically in seconds.

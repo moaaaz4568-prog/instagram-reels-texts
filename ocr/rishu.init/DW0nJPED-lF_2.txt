@@ -1,0 +1,30 @@
+Sites 01 – 05
+I check at least one before every build.
+
+01
+Web Design
+curated.design
+Cleanest modern web design curation online. Filter by style, color, layout. Start here every time.
+
+02
+Landing Pages
+landing.love
+Real landing pages broken down section by section. Above fold, pricing, CTA. All of it.
+
+03
+SaaS UI
+saaspo.com
+Only SaaS product UIs. Filter by industry. Saved me hours on my last dashboard build.
+
+04
+Navigation
+navbar.gallery
+Every navbar pattern you will ever need. Sticky, transparent, mega menu. One place, all styles.
+
+05
+Call to Action
+cta.gallery
+Most underrated site here. Study these CTAs. They are the gap between 1% and 8% conversion.
+
+@rishu.init
+Swipe

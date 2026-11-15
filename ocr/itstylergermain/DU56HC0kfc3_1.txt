@@ -1,0 +1,10 @@
+Skill #1
+★★★★★
+A brand-voice
+anthropics/brand-voice
+Design ⭐ 6,647
+Apply and enforce brand voice, style guide, and messaging pillars across content. Use when reviewing content for brand consistency, documenting a brand voice, adapting tone for different audiences, or checking terminology and style guide compliance.
+npx @smithery/cli@latest install anthropics/brand-voice --agent claude-code
+@itstylergermain
+skill add anthropics/brand-voice --agent claude-code
+save for later

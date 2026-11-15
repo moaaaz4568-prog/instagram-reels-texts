@@ -1,0 +1,4 @@
+4. Develop Production Systems
+Set up a pipeline so videos don't depend on motivation:
+• Research → Script → Voiceover → Edit → Thumbnail → Upload.
+• Outsource or automate repetitive parts (e.g., hire editors or use AI editing tools).

@@ -1,0 +1,14 @@
+APPENDIX A: TRUST SCORE METHODOLOGY
+
+Design Systems
+- md by VoltAgent - 55+ brand design systems
+- awesome-design by Paramchoudhary - Resume generation, optimization
+- resume-skills by smixs - Creative direction, brand development
+- creative-director-
+
+Game Development
+- godogen by htdt - Complete Godot projects. 850+ API docs
+- GodotPrompter by jame581 (28 + skills) - Godot 4.x: gameplay, UI
+- Unity-Skills by Beasty0728 - 543 skills. Semi-auto and full-auto mode
+
+@divyanshisharma

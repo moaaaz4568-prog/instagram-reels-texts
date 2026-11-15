@@ -1,0 +1,26 @@
+01 02 03 04 05 06 07 08 09 10
+Building the Zero-Human Org Chart
+The Founder (You)
+Role: The Board of Directors. Sets high-level
+OKRs, provides taste.
+The AI CEO
+• Tech Stack: Frontier Model (e.g., Claude Opus / GPT-4)
+• Role: Hires the team, breaks roadmaps into concrete
+tasks, and delegates.
+• Tip: Use cheaper/free models (via OpenRouter) to optimize token
+budget.
+Founding Engineer
+QA Specialist
+Video Editor
+Cheater
+STEP 01
+Name your company. Describe what it's trying to
+achieve. Create your first agent: the CEO. Paperclip
+works best when you run it locally, bring your own
+model—Claude Code, Codex, OpenCode, any of
+them work. Hot tip from Dotta: use a frontier model
+for your CEO and cheaper models for simpler tasks.
+Your CEO agent gets a default persona, a memory
+system, and a heartbeat checklist. From there, it can
+start delegating the rest of your
+agent team.

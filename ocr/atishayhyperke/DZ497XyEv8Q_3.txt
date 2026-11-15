@@ -1,0 +1,4 @@
+Step 3: Enrich with Clay
+The filtered list goes into Clay.
+I pull verified emails, LinkedIn profiles, company size, tech stack, and recent activity. This is the data that makes personalization actually work.
+Without this step, every email reads the same.

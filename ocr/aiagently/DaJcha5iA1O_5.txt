@@ -1,0 +1,29 @@
+Step 4
+Answer the questions
+
+Claude interviews you section by section. Eight areas,
+covered in order:
+
+1 Website & business
+Claude fetches your site & pre-fills
+
+2 Your ICP
+industry, size, title, geo, disqualifiers
+
+3 Lead source
+ReplitDB, CSV, or build from scratch
+
+4 Scoring signals
+what ranks a lead highest
+
+5 Outreach
+tone, cadence, booking link, sequence
+
+6 Approval & schedule
+how much control, how often
+
+7 Dashboard
+extra features, look and feel
+
+8 Apollo & integrations
+account, mailbox, Slack, Calendar

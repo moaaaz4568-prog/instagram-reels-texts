@@ -1,0 +1,4 @@
+Step 9: Integration
+No public API? No problem. Teng Lin's notebooklm-py makes the whole integration possible.
+Teng Lin
+teng-lin

@@ -1,0 +1,8 @@
+Suprava Sabat
+@suprva02
+
+The triggers used:
+
+Hiring, community scraping, Job change, Negative press/PR, podcasts, Competitor releasing a new feature, New tech stack
+
+The tools we used to find these triggers: Clay, Scraping bee and Trigify

@@ -1,0 +1,41 @@
+STEP 9
+SOP: Kimi K2.6 Playbook
+USE THESE 3 POWER PROMPTS
+FOCUS SHIP
+The right prompt = 10x results.
+</>
+1 REFACCTOR MODE
+Reduce latency by 30%
+Do not change public API
+Run tests after each change
+Cleaner code.
+Better performance.
+Zero API breakage.
+2 MULTI-FILE BUILD
+Implement feature across multiple modules
+Maintain backward compatibility
+Add tests + update docs
+Works across the system.
+No regressions.
+Docs + tests = future-proof.
+3 DEEP DEBUG
+Find root cause (not symptom)
+Fix at source
+Verify with tests
+Explain in 2 lines
+Real fixes.
+No more whack-a-mole.
+Confidence unlocked.
+Great engineers don't just code.
+They guide AI with precision.
+Clear intent.
+Better output.
+Right prompt.
+Right result.
+Repeat.
+Improve.
+Ship.
+Ship small.
+Improve.
+Win big.
+9 / 12

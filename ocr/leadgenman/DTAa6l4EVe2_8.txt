@@ -1,0 +1,13 @@
+8. AI Tool Stacking
+
+What It Is:
+Layering AI-native tools that share context so they run as one system.
+
+When To Use It:
+To build always-on workflows that cut costs and free up your team.
+
+Tools:
+Notion AI
+HighLevel
+ClickUp AI
+Airtable AI

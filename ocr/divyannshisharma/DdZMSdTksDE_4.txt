@@ -1,0 +1,67 @@
+The dashboard,
+live.
+
+FINANCE
+INCOME
+$4,200.00
+May 2026
+EXPENSES
+$1,996.80
+May 2026
+NET
++$2,203.20
+May 2026
+BALANCE
+$2,856.50
+All-time running
+
+May 2026
+Export Import
+
+ADD TRANSACTION
+Expense
+Income
+05/18/2026
+Merchant (e.g. Whole Foods)
+Category
+Note (optional)
+Add
+
+RECENT
+DATE	MERCHANT	CATEGORY	AMOUNT
+05/18	Whole Foods	Groceries	-$64.28
+05/13	Uber	Transport	-$12.50
+05/11	Landlord	Housing	-$1,850.00
+05/09	Netflix	Subscriptions	-$22.00
+05/09	Whole Foods	Groceries	-$46.18
+05/02	Acme Corp	Salary	+$2,200.00
+
+INCOME VS. EXPENSES (MONTHLY)
+$5,000
+$4,000
+$3,000
+$2,000
+$1,000
+$0
+-$1,000
+Mar 2026	Apr 2026	May 2026
+Income	Expenses
+
+SPENDING BY CATEGORY (SELECTED MONTH)
+Housing
+Groceries
+Subscriptions
+Transport
+
+RUNNING BALANCE
+
+MERCHANTS (SELECTED MONTH)
+$0	$500	$1,000	$1,500	$2,000
+Top 10
+
+Income. Expenses. Net. Balance.
+Spending by category. Top 10 merchants.
+Running balance over time.
+
+All from one sentence.
+No spreadsheet. No dev skills.

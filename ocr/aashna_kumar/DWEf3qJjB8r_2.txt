@@ -1,0 +1,9 @@
+@aashna_kumar
+1. IDEA FINDER PROMPT
+"I want to create a digital product to sell on Instagram. My niche is [X]. My skills and experience are [Y]. My target audience is [Z] and their biggest problem is [problem]. Give me the top 5 most profitable digital product ideas for this audience, ranked by ease of creation and income potential.
+For each one tell me:
+• what to name it
+• what to include
+• what price point to sell it at and why
+• which format works best (ebook, template, course, guide, checklist)
+Be specific. No generic advice. Also highlight which idea I should start with first."

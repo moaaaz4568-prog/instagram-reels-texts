@@ -1,0 +1,35 @@
+Skill Set 07
+Debugging
+DESCRIPTION
+Provides a disciplined,
+4-phase debugging
+framework that
+emphasizes
+identifying the root
+cause before applying
+fixes. Instead of trial-
+and-error, this
+approach promotes
+deep understanding
+of the issues, cleaner
+code, and long-term
+stability—making it
+especially valuable for
+complex systems and
+production-level
+debugging.
+MORE INFO
+https://lnkd.in/gn4c7Wfr
+obra / superpowers Public
+Code Issues 69 Pull requests 99
+main 37 Branches
+obra Add issue templates and dis
+claude-plugin
+codex
+cursor-plugin
+.github
+grepcode
+agents
+commands
+docs
+hooks

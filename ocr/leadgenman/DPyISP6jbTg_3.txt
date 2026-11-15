@@ -1,0 +1,10 @@
+Gather & Store the Data
+Connect the agent to external APIs, services, or databases to gather and store data that will help the agent perform its tasks.
+• Which tools does the AI need to connect to (APIs, databases)?
+supabase
+exa
+NEON
+Chroma
+Browserbase
+Pinecone
+Composio

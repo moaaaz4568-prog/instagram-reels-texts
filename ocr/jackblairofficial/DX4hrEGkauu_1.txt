@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+1. THE WALL DIAGNOSTIC
+
+What it does: maps your income trajectory and pinpoints the exact month it stopped growing.
+
+"You are a senior career economist who analyzes income trajectories for capped employees. Here are my last 3 years of total compensation by month: [PASTE]. Identify the month my income trajectory flattened. Calculate the gap between my actual earnings and the trajectory I was on before the wall. Tell me what category of ceiling this is: role-based, employer-based, industry-based, or skill-based. Be ruthless. No softening."

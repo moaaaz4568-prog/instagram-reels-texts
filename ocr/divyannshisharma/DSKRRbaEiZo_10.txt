@@ -1,0 +1,19 @@
+Step #10
+Google AI Studio
+Generate images with Imagen
+Imagen makes high-res banners, ads, creatives, and email headers.
+Imagen 4 Ultra
+Number of results
+Aspect ratio
+3:4
+9:16
+16:9
+4:3
+Output resolution
+2K
+Content from previous turns is not referenced in new requests.
+Describe your image
+F10
+360°
+Alt Gr
+Ctrl

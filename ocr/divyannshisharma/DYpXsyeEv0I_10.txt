@@ -1,0 +1,38 @@
+STEP 10
+SOP: Kimi K2.6 Playbook
+RUN THE LOOP
+(THIS IS THE SECRET)
+Never accept v1.
+Run this cycle:
+1 GENERATE SOLUTION
+</>
+Iteration.
+LOOP LEGEND
+LEGEND
+K2.6
+2 TEST IT
+Better every time.
+That's how legends are built.
+3 BREAK IT WITH FEEDBACK
+What failed?
+Why did it fail?
+What can be better?
+4 FIX IT
+Refine
+Improve
+Strengthen
+5 REPEAT
+Rinse.
+Learn.
+Level up.
+Track your loop:
+Iteration count
+Bugs found
+Quality improving
+Speed increasing
+Impact compound
+Small loops.
+Big results.
+Every time.
+Great output = iteration, not prompting.
+10 / 12

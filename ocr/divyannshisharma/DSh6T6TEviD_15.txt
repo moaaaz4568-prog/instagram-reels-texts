@@ -1,0 +1,33 @@
+Step #15
+Twilio Home
+My first ...
+Admin
+Inventory Numbers
+Filters
+Jump to Twilio account
+Reset filters
+Buy a Filter
+Account Dashboard
+Develop
+Monitor
+# Phone Numbers
+Manage
+Active numbers
+Active Numbers
+Capabilities
+Voice
+SMS
+MMS
+Fax
+Active Configuration
+Voice
+Webhook to POST:
+https://api.vapi.ai/twilio/inbound
+Messaging
+Webhook to POST:
+https://api.vapi.ai/twilio/sms
+26
+Buy a Twilio phone number
+($1/month) and connect it to VAPI
+Ctrl
+Alt Gr

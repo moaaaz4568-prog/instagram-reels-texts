@@ -1,0 +1,10 @@
+Step 3
+Create a new Claude
+Project "n8n Workflows"
+Create a project
+What are you working on?
+n8n workflows
+What are you trying to achieve?
+Describe your project, goals, subject, etc...
+Cancel
+Create project

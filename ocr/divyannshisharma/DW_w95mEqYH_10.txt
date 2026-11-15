@@ -1,0 +1,26 @@
+Repo Stack 09
+BEST PRACTICE
+shanraissan / claude-code-best-practice
+Code
+Issues 3
+Pull requests 2
+main
+1 Branch
+0 Tag
+shanraissan and claude-code-best-practice enriched D
+!
+.claude
+.codex
+.vscode
+agent-teams
+best-practice
+changelog
+development-workflows
+implementation
+DESCRIPTION
+31.3k stars and co-committed by Claude itself. This repo is the definitive best practices guide for Claude Code covering agent teams, orchestration workflows, vibe coding, and agentic engineering. The closest thing to an official playbook that isn't official.
+shanraissan.com
+vibe-coding
+agentic-engineering
+MORE INFO
+https://t.co/Bq5OzzIT2h

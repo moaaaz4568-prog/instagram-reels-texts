@@ -1,0 +1,11 @@
+Adam | YouTube
+@Adam_DelDuca
+
+To improve packaging:
+
+1. Keep titles concise and prompt intrigue
+2. Test titles with tools like AMI Headline Analyzer
+3. Use simple thumbnails with minimal text
+4. Test and analyze CTR in YouTube Studio
+
+Finally there’s view retention...

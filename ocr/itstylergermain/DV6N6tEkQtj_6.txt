@@ -1,0 +1,9 @@
+/btw
+
+Asks Claude a quick side question without it entering your conversation history or costing much context. Runs independently and won't interrupt Claude mid-response. Think of it as a "by the way, quick question..." that disappears after you read the answer.
+
+save for later
+
+@itstylergermain
+
+save for later

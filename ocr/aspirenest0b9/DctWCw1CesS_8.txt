@@ -1,0 +1,15 @@
+STEP 8
+Punit Kumar
+08 / 09
+Test the agent like a real customer
+Don't assume the first version will be perfect.
+Start a real WhatsApp conversation.
+Test things like:
+"What's the price?"
+"I want to book."
+"Is tomorrow available?"
+"Restart"
+Then give Claude feedback based on what happens.
+For example:
+"Reduce the back and forth. Ask only 2-3 questions before recommending a service."
+Claude can update the system and you test again.

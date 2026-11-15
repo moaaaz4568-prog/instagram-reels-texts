@@ -1,0 +1,7 @@
+Use XML Tags
+Claude is trained to pay special attention
+to XML tags for structuring prompts
+<text>
+{{TEXT}}
+</text>
+Swipe

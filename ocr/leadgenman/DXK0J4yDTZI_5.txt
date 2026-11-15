@@ -1,0 +1,11 @@
+L4 agents
+a loop that does not need you
+no human
+in this loop
+plan
+reflect
+agent
+(run until done)
+act
+observe
+the first layer where the model decides

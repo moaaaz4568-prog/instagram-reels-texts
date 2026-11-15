@@ -1,0 +1,8 @@
+The Basics.
+08
+I'd see the Claude icon at the top of my VS Code workspace. I'd click that to open a chat.
+it looks like this
+Now I can ask it to do anything I want.
+But it doesn't have any type of personality, or any special abilities...
+@itsstylergermain
+save for later

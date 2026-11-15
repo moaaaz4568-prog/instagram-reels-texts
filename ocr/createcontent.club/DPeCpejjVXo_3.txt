@@ -1,0 +1,5 @@
+LIGHTING
+Cheap
+Poor lighting and subject is too close to the background with no real separation
+Expensive
+The subject is properly lit with clear separation from the background

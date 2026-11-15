@@ -1,0 +1,20 @@
+GEMMA 4 MODEL SIZES - PICK YOUR POWER LEVEL
+E4B: laptops, 128K context, decent for simple tasks
+26B: workstations, 256K context, #6 Arena AI globally
+31B: flagship, 256K context, #3 Arena AI, 1452 ELO score
+Performance
+RAM
+Arena ELO
+
+4. Pick Your Power Level
+The right model depends entirely on your hardware, here's the exact breakdown.
+
+E4B: laptops, 128K context, decent for simple tasks
+26B: workstations, 256K context, #6 Arena AI globally
+31B: flagship, 256K context, #3 Arena AI, 1452 ELO score
+
+Performance
+RAM
+Arena ELO
+
+@divyanshisharma

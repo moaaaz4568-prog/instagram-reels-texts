@@ -1,0 +1,29 @@
+#4
+Underrated Tips
+Hidden levers that unlock 10x better results
+
+Claude Reddit
+Join these communities: r/ClaudeCode, r/Claude, r/Anthropic
+
+Claude Code Slash Commands
+On GitHub, you'll find a TON of free slash commands:
+https://github.com/wshobson/commands
+
+Claude Cowork
+In my opinion, Cowork is massively underrated - it's probably the best AI tool on the market.
+
+Token Usage
+Model selection matrix: Haiku 4.5 - (31.9%), Sonnet 4.5 - (10%), Opus 4.5 - (10%)
+
+Claude in Chrome (extension)
+An easy way to access Claude. Almost nobody has this downloaded right now, but it's pretty good.
+
+Style Selection
+Click "Use Style" in the Claude chatbox to change Claude's default response structure.
+
+CLAUDE
+COWORK
+
+Claude for Chrome
+
+Piloting

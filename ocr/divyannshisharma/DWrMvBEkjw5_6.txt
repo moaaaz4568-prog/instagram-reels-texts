@@ -1,0 +1,32 @@
+MASTER AI DAILY
+@divyanshisharma
+Claude Code + Codex
+DREAM TEAM
+CLAUDE
+CODE
++
+LINK:
+https://youtu.be/L7NpqHbp
+ZEY?si=H8KLOQ--13TSGNFI
+SOURCE:
+https://youtube.com/@cha
+se-H?si=BHuc7SKmZd-
+IVue
+DESCRIPTION:
+• OpenAI's Codex can now run inside Claude Code and it changes how you build with AI models.
+• How to install the Codex plugin inside Claude Code in under 5 minutes.
+• The two biggest reasons to use Codex alongside Opus 4.6, usage limits and cost.
+• Why having a second AI challenge your code finds what you'd otherwise miss.
+• The 7 attack surfaces Codex checks every time it reviews your codebase.
+• Live test: Adversarial review run on a real Twitter engagement bot with surprising results.
+• Opus vs Codex head-to-head — what each model caught that the other completely missed.
+• Why having the same AI plan, build, and evaluate its own code is a fundamental flaw.
+• How to use Opus 4.6 to plan and Codex to execute, the smarter way to split the work.
+• Why Codex is one of the best value plays in AI coding right now.
+• How to hand off execution to Codex when Anthropic usage limits kick in.
+• Why adversarial review beats a standard code review every single time.
+• The case for using two AI models together and why it produces results.
+Divyanshisharma
+AI Agentie Expert
+Save for
+reference

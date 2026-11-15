@@ -1,0 +1,26 @@
+automates the browser → finds
+automation and qa clients
+10 / 20
+GitHub
+public repository
+puppeteer / puppeteer
+Public
+95.4k
+puppeteer
+Fork
+Star 95.4k
+Used by < your list
+Read list
++ thousands
+TypeScript
+WHAT IT DOES
+javascript api that drives
+chrome and firefox.
+WHO TO MIT
+teams here
+browser. the
+it by hand
+need your builds.
+THE EXACT LINK
+github.com/puppeteer/puppeteer/network/dependents
+the github method

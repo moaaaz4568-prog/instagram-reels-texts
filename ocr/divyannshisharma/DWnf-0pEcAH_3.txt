@@ -1,0 +1,3 @@
+Step 3: Scaffold
+Run bun create video, pick Blank, and your
+project is ready instantly.

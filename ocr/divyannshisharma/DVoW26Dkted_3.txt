@@ -1,0 +1,44 @@
+#2
+Best Practices & Pro Tips
+How top builders actually use Claude (and why it works)
+
+Boris' Claude Code Set Up
+How the creator of Claude Code op... his setup (cheatsheet).
+
+Boris' Claude Code tips V2
+use 5 subagents
+I'll launch 5 explore sub-agents,
+Running 5 Explore agents... (ctrl+o to expan...
+Explore entry points and startup. 10
+
+Boris' Claude Code tips
+Plan first, build fast, version skills, us... and let Claude handle bugs and an...
+
+100 Combined Claude Tips
+50 Claude Code Tips: https://x.com/... /status/1701470607248564332?s=20
+
+Claude Code Best Tips
+https://www.builder.io/blog/claude-... code
+
+Best Practices for Claude Code
+https://code.claude.com/docs/en/best-... practices
+
+Claude Tips: experience on Reddit
+Use a manorepo - modular routing... stack - code is sufficiently modular - popular...
+
+My best
+CODE
+tips
+
+CLAUBE
+CODE
+
+Tips and patterns for getting the most out of Claude Code, from configuring your environment...
+Claude Code is an agentic coding assistant that can help you write, test, and debug code. Unlike a chatbot that answers questions and...
+We're constantly improving Claude Code. If you have feedback or ideas, please share them in the...
+
+Here's what I learned:
+- I use an amazing cursor for code...
+- One interesting use case is to have Claude...
+- I use a simple stack and popular...
+- If your code is sufficiently modularized, write SOLID files when trying to explain each "module" in...

@@ -1,0 +1,14 @@
+Step 6
+Connect Your Apps
+Under Connectors, link the apps you already use
+so it can do real work, not just chat. Not listed?
+Add a custom connector.
+CONNECTORS
+Gmail
+Connect
+Calendar
+Connect
+Notion
+Connect
+WhatsApp
+Connect

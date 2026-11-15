@@ -1,0 +1,12 @@
+OpenAI kind of cooked with...
+NEW CODEX 5.3
+RELEASE
+GPT-5.3
+VS
+AI
+CLAUDE OPUS 4
+OpenAI's most capable coding model yet.
+Combines 5.2-Codex's coding with GPT-5.2's reasoning, runs 25% faster, and you can steer it ask like a real teammate.
+Also the first model OpenAI flagged as "high risk" for cybersecurity.
+@its Tyler germain
+save for later

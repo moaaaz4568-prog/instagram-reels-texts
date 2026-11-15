@@ -1,0 +1,22 @@
+Strategy to build lead list
+The lead list
+a lot of companies look similar. three filters decide who actually goes in.
+everyone who looks similar
+matches the ICP
+right title, verified email
+has a reason to care
+your list
+small on purpose
+collect for every prospect:
+first_name | company | job_title | work_email
+website | linkedin_url | trigger_or_research_note
+Alex | XYZ | CEO | alex@xyz.com
+xyz.com | linkedin.com/in/alex | shipped v2, no posts yet
+before you add anyone, four questions:
+does this company match my ICP?
+is this the right decision maker?
+is the email address valid?
+why this offer fits them?
+can I say this?
+not mostly yes? they do not go in.
+The better the list, the less the copy has to work

@@ -1,0 +1,3 @@
+#4
+Name your bot and receive confirmation with
+commands list

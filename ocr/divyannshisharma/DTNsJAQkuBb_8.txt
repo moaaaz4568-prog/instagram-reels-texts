@@ -1,0 +1,6 @@
+Step #8
+tavily
+Overview
+API Keys
+Remote MCP
+Get your Tavily API key for web search capabilities

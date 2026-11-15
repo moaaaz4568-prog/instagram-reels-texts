@@ -1,0 +1,28 @@
+Skill Set 05
+Web Artifacts
+DESCRIPTION
+Transforms natural language into fully functional web components such as calculators, dashboards, widgets, and mini applications. By removing the need for frontend coding, it enables rapid prototyping and deployment of interactive tools, making it especially valuable for non-developers and teams looking to quickly build and test web-based solutions.
+MORE INFO
+https://lnkd.in/ggkpqZwK
+anthropics / skills Public
+Code Issues 163 Pull requests 404
+Files
+main
+frontend-design
+internal-comms
+mcp-builder
+pdf
+pptx
+skill-creator
+slack-gif-creator
+theme-factory
+web-artifacts-builder
+scripts
+LICENSE.txt
+skills / s
+ant-
+Name
+...
+scripts
+LIC
+SKIL

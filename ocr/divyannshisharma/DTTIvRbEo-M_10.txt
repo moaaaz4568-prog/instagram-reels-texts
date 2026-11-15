@@ -1,0 +1,55 @@
+Step #10
+INPUT
+OUTPUT
+WhatsApp Business Cloud
+Credential to connect with
+WhatsApp account
+Message
+Operation
+Send
+Sender Phone Number (or ID)
+Select
+Recipient's Phone Number
+When entering a phone number, make sure to include the country code
+MessageType
+Text
+Text Body
+Additional Fields
+Wire me up
+This node can only receive input data if you connect it to another node. Learn more
+Execute this node to view data or set mock data
+Add WhatsApp Business Cloud node for sending messages
+FHD 165Hz
+Esc
+Tab
+Caps Lock
+Shift
+Ctrl
+Fn
+Alt
+Space
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Enter
+7
+8
+9
+0
+-
+=
+Backspace

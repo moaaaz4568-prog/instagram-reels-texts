@@ -1,0 +1,19 @@
+Alchemy
+Agent Alchemy
+What you'll get:
+• Claude Code + plugins + task manager.
+• Streamlines agent workflows.
+10
+sequenzia / agent-alchemy Public
+Code Issues 4 Pull requests 1 Actions
+main
+sequenzia plugin
+.claude-p
+.claude
+agent-tools
+apps
+claude
+docs
+extensions/vscode
+internal
+ported

@@ -1,0 +1,7 @@
+SKILL
+claude-mem
+DESCRIPTION
+claude-mem
+Adds long-term memory to Claude so it can carry context and references across coding sessions. No more re-explaining your project setup every time you start a new conversation.
+MORE INFO
+https://github.com/anthropics/claude-mem

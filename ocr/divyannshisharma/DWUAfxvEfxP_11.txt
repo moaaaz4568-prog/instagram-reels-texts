@@ -1,0 +1,18 @@
+Isolated agent desktops
+What you'll get:
+• Secure, isolated environments for each agent.
+• Run tasks independently.
+11
+e2b-dev / desktop Public
+Code Issues 7 Pull requests 3 Actions
+11 Branches 53 Tags
+renovate[bot] Update dependency e2b (#174)
+.changeset
+.github
+.vscode
+examples
+packages
+readme-assets
+template
+.eslintrc.cjs
+.gitignore

@@ -1,0 +1,11 @@
+Step 15
+It Does the Reasoning
+Eg: A school has 450 students. They need to be split into groups for a field trip.
+Each bus 38 students and costs $275. Each van 12 students and costs $125. What is the way to transport all students with no empty seats?
+Thought for 15.2 seconds
+This is a classic optimization problem. You need to find the mix of buses and vans that moves all 450 students for the lowest total cost.
+Based on the cost-per-student, buses are far more cost-effective, so we must maximize the use of buses.
+Send a message
+gemma4
+Divyanshsharma
+16/18

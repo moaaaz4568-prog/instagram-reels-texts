@@ -1,0 +1,14 @@
+Dev jobs,
+Sept 2026:
+
+AI agents
+Experience building with AI coding agents (e.g. Claude Code, Copilot, Codex), including reviewing agent-generated output after merge.
+
+AI workflow
+The ideal candidate combines strong front-end and back-end engineering skills with a modern, AI-augmented development workflow, leveraging tools such as GitHub Copilot, Claude Code, Cursor, or similar. Use AI-assisted coding tools to accelerate development. Validate, test, and safely integrate AI-generated code into production systems.
+
+Core skill
+Demonstrated use of Claude and other AI tools is a core requirement. You must already use AI confidently to improve speed and quality.
+
+Tool stack
+For AI, we use Cursor, Claude Code, Helicone, Gemini, and OpenAI, and we're constantly evaluating new tools.

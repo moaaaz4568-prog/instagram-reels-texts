@@ -1,0 +1,12 @@
+Agentic Systems
+Planning | Orchestration | Coordination
+
+Multiple AI Agents working together
+instead of one agent trying to do
+everything alone.
+
+One plans, another executes, another
+checks the work. Each handles its own
+piece and passes context to the next.
+This is how a single AI helper becomes
+an entire AI workforce.

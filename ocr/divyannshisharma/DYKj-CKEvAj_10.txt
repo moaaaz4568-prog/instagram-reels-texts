@@ -1,0 +1,7 @@
+#10: EVERYTHING
+The agent harness performance optimization system.
+Skills, instincts, memory, security, and research-first
+development for Claude Code, Codex, Opencode, etc.
+github.com/affaan-m/everything-claude
+Divyanshi sharma
+10/10

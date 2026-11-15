@@ -1,0 +1,1 @@
+Types of machine learning algorithm. One, supervised. Two, unsupervised. Three, semi-supervised. Four, do you know? Comment below.

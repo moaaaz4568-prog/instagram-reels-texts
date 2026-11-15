@@ -1,0 +1,26 @@
+Claude Code + 5 CLIs
+that run my SaaS
+
+Finder File Edit View Go Window Help
+9:41 AM
+
+Manthan > CLI Stack
+Search
+
+FAVORITES
+CLI Stack
+
+Manthan Patel
+CLI Stack
+
+Claude Code
+GitHub CLI
+Supabase CLI
+Stripe CLI
+PostHog CLI
+Vercel CLI
+
+$ claude "fix the auth bug"
+Reading 4 files... Fixed.
+
+Dock icons (text not fully legible, skipping non-text icons)

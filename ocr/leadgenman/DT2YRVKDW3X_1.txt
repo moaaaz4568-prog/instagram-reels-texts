@@ -1,0 +1,34 @@
+How AI Agents Work
+User
+Query
+Response
+AI Agent
+LLIM
+Role
+Task
+Prompt
+Reasoning
+Planning
+Reflection
+Memory
+Long-term
+Short-term
+Tools
+Web search
+Gmail
+Single System
+User
+AI Agent
+Memory
+Tools
+Multi-Agent System
+User
+AI Agent
+Memory
+Tools
+AI Agent
+Memory
+Tools
+AI Agent
+Memory
+Tools

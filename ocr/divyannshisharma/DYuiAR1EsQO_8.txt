@@ -1,0 +1,43 @@
+The Vibe Stack
+10
+Open-Source
+Business &
+Subscriptions
+TOOLS
+AI-powered tools
+80%
+Open-Source Business & Subscriptions Cost-Cutters
+Save $67,540 /yr
+vs
+$12,480 /yr
+Region Expense Snapshot (yr)
+USA $27,480 4.22%
+EU $21,750 3.70%
+Asia $8,230 1.41%
+Global Avg. $16,490 2.81%
+Platform Store
+AWS Marketplace
+Google Cloud Marketplace
+Azure Marketplace
+DigitalOcean Marketplace
+GCP Marketplace
+Total Subscriptions
+Paid Plans $55,360
+Free Plans
+Save $55,360 /yr
+with Open-Source
+Reduction 23
+80%
+Smarter Stack. Stronger Business.
+43 akaunting/akaunting
+How it saves: A free open-source alternative to paid accounting software.
+44 faveosuite/faveo-helpdesk
+How it saves: A free customer support system (Zendesk alternative).
+45 jsdecena/laracom
+How it saves: A full e-commerce store built on Laravel.
+46 OpenDev-Society/openstock
+How it saves: Direct access to up-to-date market data.
+47 Mintplex-Labs/anything-llm
+How it saves: A local, private AI environment for working with doc.
+48 iflytek/astron-rpa
+How it saves: A comprehensive RPA (Robotic Process Automation) system.

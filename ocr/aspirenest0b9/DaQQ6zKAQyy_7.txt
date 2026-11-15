@@ -1,0 +1,21 @@
+Punit Kumar
+Professional
+marketing
+report
+> /market report https://company.com
+Claude combines every finding into one polished report — client-ready and boardroom-ready.
+> /market report
+Compiling results... formatting... generating PDF...
+✓ MARKETING-REPORT.pdf
+Marketing Report — company.com
+74
+/100
+✓ Exec Summary
+✓ Competitor Analysis
+✓ Quick Wins
+✓ SEO Report
+✓ Editor Analysis
+✓ Conversion Audit
+✓ 90-Day Plan
+CLAUDE CODE
+swipe >>

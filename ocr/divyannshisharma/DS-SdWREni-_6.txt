@@ -1,0 +1,8 @@
+Key Nodes
+11 drag-and-drop nodes like:
+Agent
+If/Else
+Guardrails
+User approvals
+MCP tools
+Loops

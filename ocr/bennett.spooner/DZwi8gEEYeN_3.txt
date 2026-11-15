@@ -1,0 +1,10 @@
+3. the money
+stripe ............................................................... 2.9% + $0.30
+payments. you handle tax + compliance.
+fan basis ......................................................... 3% + $0.00
+merchant of record. they handle it for you.
+you only pay when you get paid.
+tools:
+stripe fan
+basis
+@bennettX.ai

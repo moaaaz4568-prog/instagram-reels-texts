@@ -1,0 +1,31 @@
+How to Build an
+AI Operating System
+(that runs your business for you...)
+
+Claude Code v2.0.0
+
+Welcome back, Jack Tyler!
+
+Recent activity
+1m ago  Updated project memory
+8m ago  Updated claw'd feet
+2d ago  Add new words to spinner
+1w ago  Update unit tests
+.../resume for more
+
+What's new
+/agents to create subagents
+/security-review for review agents
+ctrl+b to background bashs
+.../help for more
+
+Sonnet 4.5
+/users/meacham/code/apps
+
+* Max 20x
+longer thinks
+
+> Try "edit <filepath> to ..."
+
+@itsylergermain
+save for later

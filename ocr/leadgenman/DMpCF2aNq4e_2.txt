@@ -1,0 +1,8 @@
+Trigger
+Webhook/Trigger
+Workflow Logic
+AI Agent
+Custom Code
+LangChain
+Vector DB
+Output

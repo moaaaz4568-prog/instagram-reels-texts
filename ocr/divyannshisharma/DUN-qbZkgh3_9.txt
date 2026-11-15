@@ -1,0 +1,20 @@
+Tools You Need The
+Complete Stack
+
+n8n
+Automation
+
+Apify
+Web scraping
+
+OpenRouter
+Multi-LLM
+
+Claude API
+Writing
+
+Perplexity
+Research
+
+Slack
++ Google Docs

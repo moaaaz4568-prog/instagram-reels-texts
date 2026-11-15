@@ -1,0 +1,23 @@
+2.
+Clay Enrichment
+You can copy this Clay template in your workspace to write personalised cold-mails based on the LinkedIn posts
+4. Scraping leads based on Intent Signals
+I have 9 scenarios on LinkedIn.
+I'll get my team to reach out to people.
+Try book calls.
+DM Scenarios
+Medium Intent
+Depending on an action taken by a prospect, we'll start a conversation with them in a personalized way
+NEW OUTBOUND FOLLOW
+VIEWED PROFILE
+COMMENTED FOR LEAD MAGNET
+High Intent (Qualified)
+REPLIED TO OUTBOUND MESSAGE
+REPLIED TO LEAD MAGNET GIVEAWAY
+NATURAL INBOUND
+ATTENDED EVENT IN INDUSTRY
+REPLIED TO OUTBOUND MESSAGE
+CLICKED ON COMPETITORS ADS
+Offer Specific Messaging Changing to Higher Intent Topic
+Successful Conversion
+APPOINTMENT BOOKED

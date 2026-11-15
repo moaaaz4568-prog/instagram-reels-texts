@@ -1,0 +1,27 @@
+Lead Infrastructure
+• Most teams juggle 5-6 tools to find, verify, emails, and export CSVs into campaigns.
+• It's slow, expensive, and data decays fast.
+• SmartProspect changes that. It finds, verify, and launch leads directly into campaigns. No exports. No extra tools. All inside Smartlead.
+• How it works:
+AI search → Triple verify → Campaign ready
+INTRODUCING
+SmartProspect
+Verified Leads. Zero Data Fees. One Platform.
+E.g. Product manager
+AI search
+... We've found 12,430 leads matching your filters
+Company attributes
+Name
+Domain
+Keywords
+Industry
+Sub-industry
+Samantha Green
+samantha.green@iqvia.com
+Verified
+samanthaG
+Replies Received (ROI)
+1900
+270 +66.6%
+Limit results
+25

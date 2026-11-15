@@ -1,0 +1,19 @@
+STEP 3
+Connect
+Retell → n8n
+In n8n:
+Webhook → POST
+Copy the
+webhook URL.
+Then put that URL
+inside your Retell
+custom function.
+Now the conversation becomes:
+Caller
+Retell AI
+Custom
+Function
+n8n
+Webhook
+Your AI can now
+trigger your automation.

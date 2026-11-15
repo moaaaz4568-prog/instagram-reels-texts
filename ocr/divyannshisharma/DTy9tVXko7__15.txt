@@ -1,0 +1,28 @@
+Mini Video Studio
+Library
+Tests
+Project
+3d
+Uncategorized
+Details
+AirplaneOverForest11 v3
+Duration: 15s
+Status: Success
+Resolution: 1920x1080
+AI Edit
+Describe the changes you want to
+Apply AI Edit
+Delete Version
+Select Timeline...
+New
+Drag rendered videos here
+FILL 360°
+Download MP4
+Add to Timeline
+1920x1080 - 15s
+Comment “Claude”
+below to get the prompts.
+W
+A
+S
+D

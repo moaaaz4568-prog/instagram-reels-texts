@@ -1,0 +1,19 @@
+SLIDE 8
+Skill 6:
+Web Artifacts Builder
+For when you want to build a real app inside Claude — not just a demo.
+Default Claude artifacts fall apart the moment you need:
+Multiple pages with routing
+State that persists between interactions
+Real UI components that actually work
+This skill gives Claude a full modern stack:
+React 18
+TS
+TypeScript
+Tailwind
+pre-built components
+40+
+Everything gets handled into one single HTML file at the end.
+Open it anywhere.
+Share it anywhere.
+github.com/anthropics/skills/tree/main/skills/web-artifacts-builder

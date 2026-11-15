@@ -1,0 +1,4 @@
+1943
+1950
+Neural Network Theory
+McCulloch and Pitts published the first mathematical model of a neural network. This became the foundation for every modern AI system in use today.

@@ -1,0 +1,20 @@
+Divyanshi | Agentic AI Expert
+What You Need: Two Tools
+Obsidian
+Free note-taking tool, no sign up
+Plain markdown files stored locally
+works in your vault
+Claude Code
+AI agent that works in your vault
+Requires Claude app, subscription
+2020-02-20
+Daily Exercise
+Daily Meditation
+Daily Note Completion
+I should do my own fundamental analysis into how things stay pure when they grow and become more mainstream.
+Claude Code v2.1.49
+I'll trace how your relationship with Obsidian has evolved, let's build a vocabulary map and search across the vault.
+search_query="vault:2-fool/mul | head -40"
+2024-02-20 15:12:25 Loading updated app package /Users/.../Application Support/obsidian/Obsidian-1.5.2...
+(tap to expand)
+...

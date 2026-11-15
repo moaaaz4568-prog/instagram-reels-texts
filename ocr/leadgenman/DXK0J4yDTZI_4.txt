@@ -1,0 +1,15 @@
+clone + commit
+MCP
+anything else
+DB
+SQL + vectors
+L3 tools
+how the model reaches into the real world
+the spider has hands)
+live facts
+N
+read docs
+shell
+run commands
+LLM
+:)

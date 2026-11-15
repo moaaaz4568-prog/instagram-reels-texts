@@ -1,0 +1,12 @@
+FILES.md
+
+Your file system is Claude's workspace. If you're still uploading, you're working backwards.
+
+Ask:
+
+- What if AI could see every file in your project?
+- What if it organized your messy folders?
+- What if it read 50 docs and summarized them?
+
+Claude Code doesn't need your files uploaded.
+It already lives inside them.

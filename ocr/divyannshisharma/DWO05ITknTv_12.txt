@@ -1,0 +1,10 @@
+Step 12: MCP
+Stitch has its own MCP server. Remote.
+Lives in the cloud. Claude can talk to it.
+Stitch via MCP
+Understanding Remote MCP
+API Keys vs OAuth
+When to use which
+Scenario
+Use API Keys
+Use OAuth

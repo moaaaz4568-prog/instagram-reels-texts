@@ -1,0 +1,4 @@
+Step #12
+Copy the video URL from
+Airtable and paste the URL where
+required.

@@ -1,0 +1,43 @@
+OVERVIEW
+
+Install the Claude Skill, answer the questions, paste it into Replit, collaborate with Agent-4, launch your AI SDR.
+
+1
+Download the Claude Skill
+Get the skill file from zackdries.com
+
+2
+Install the skill in Claude
+Upload the .md file to Claude
+
+3
+Activate with /aisdr
+Start a new chat and type the command
+
+4
+Answer the questions
+Claude interviews you, answer each section by
+
+5
+Paste into Replit
+Enable Plan mode, then paste your brief
+
+6
+Connect Apollo MCP
+Link Apollo to Replit Agent before building
+
+7
+Add your secrets
+Set your API keys in Replit
+
+8
+Confirm the plan & build
+Review, confirm, watch it build
+
+9
+Connect your mailbox
+Send your mailbox to Apollo
+
+10
+Hit Run – you’re live
+The 8-phase pipeline runs on autopilot

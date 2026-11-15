@@ -1,0 +1,17 @@
+Step 7: Code
+Code Review Before I Ship
+Claude writes most of my code
+markdown
+Review this code for:
+- Security issues (exposed keys, injection, XSS)
+- Logic errors and edge cases I might have missed
+- Performance problems
+- Anything that would make a senior dev uncomfortable
+
+For each issue: severity (Critical/High/Medium/Low),
+exact location, why it matters, and the corrected code.
+
+Be harsh. "Looks good overall" is not helpful.
+
+[PASTE CODE]
+Swipe →

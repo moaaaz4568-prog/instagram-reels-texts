@@ -1,0 +1,49 @@
+Customize Your
+AI Agent's Persona
+
+Train your AI to speak exactly like you. Custom
+instructions for every channel, message & interaction
+
+Manage Instructions
+Email Introduction
+Instruction: 12345
+IN: My - Manager/Copy
+12345 for CEOs/IT
+Instruction text no details
+Instruction: 8938
+Instruction: 8939
+Email follow-up
+LinkedIn message
+Phone calls
+Expand opportunities
+Add more channels
+
+Messaging
+Auto Follow
+
+Create messaging instructions
+Provide instructions to ensure your
+AI Agent communicates exactly as you wish
+
+Email Introduction
+Your first email to introduce your
+product and start a conversation
+
+Email follow-up
+Send as a reminder to encourage a
+response or prompt action
+
+LinkedIn message
+The message will be used in LinkedIn
+conversations
+
+Phone calls
+A conversation in which your AI Agent
+presents your product
+
+Get access +
+
+→ Set tone: formal, professional, or conversational
+→ Create unlimited messaging variations
+→ Test and optimize message performance
+→ AI learns from your best-performing templates

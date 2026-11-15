@@ -1,0 +1,19 @@
+PUNIT KUMAR
+From AI Assistant to AI Workforce
+Each agent runs inside the firm's governed AI infrastructure.
+INTAKE AGENT
+Captures and structures new matter information.
+RESEARCH AGENT
+Researches cases, authorities and legal sources.
+DOCUMENT AGENT
+Drafts documents using firm precedents and standards.
+CONTRACT REVIEW AGENT
+Reviews agreements against firm playbooks.
+REGULATORY AGENT
+Tracks regulatory developments and relevant changes.
+MATTER COORDINATOR
+Tracks deadlines, tasks and next actions.
+FIRM AI OS
+COMMAND CENTER
+SWIPE →
+07 / 10

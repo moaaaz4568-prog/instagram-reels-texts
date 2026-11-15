@@ -1,0 +1,26 @@
+How to start?
+Open Claude Code and type your slash command.
+README MIT license
+/geo quick <url>
+/geo citability <url>
+/geo crawlers <url>
+/geo llmstxt <url>
+/geo brands <url>
+/geo platforms <url>
+/geo schema <url>
+/geo technical <url>
+/geo content <url>
+/geo report <url>
+/geo report-pdf
+60-second GEO visibility snapshot
+Score content for AI citation readiness
+Check AI crawler access (robots.txt)
+Analyze or generate llmstxt
+Scan brand mentions across AI-cited platforms
+Platform-specific optimization
+Structured data analysis & generation
+Technical SEO audit
+Content quality & E-E-A-T assessment
+Generate client-ready GEO report
+Generate professional PDF report with charts & visualizations
+Swipe →

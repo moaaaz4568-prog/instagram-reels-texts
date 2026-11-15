@@ -1,0 +1,54 @@
+STOP FEEDING CLAUDE
+ENTIRE WEBPAGES
+
+HTML into context
+
+5. One URL can dump raw HTML into context
+
+You need one GitHub issue.
+Claude may receive navigation, headers,
+footer, HTML and banners too.
+
+Fix: Extract + compress external
+
+Feed Claude what matters —
+not the whole page.
+
+CODE / RULE
+# External content first.
+Public URLs → fetch + index, then search
+Never dump the full webpage inline.
+Docs → fetch once per session
+Never re-fetch unchanged content
+
+60KB WEBPAGE (RAW HTML)
+× Navigation
+× Headers
+× Footer
+× Banners
+× HTML noise
+× Everything you don’t need.
+BAD: Bloates context. Wastes tokens.
+
+COMPRESS
+Extract + summarize
+useful content only.
+Title
+Description
+Code / Details
+Comments
+Key info
+Remove everything
+that doesn’t help.
+
+USEFUL CONTEXT ONLY
+GOOD: Focused context.
+Saves tokens.
+
+BOTTOM LINE
+Extract first. Compress hard. Feed
+Claude only what matters.
+
+QUICK COMMAND
+memo-tool index ~/.claude/projects/
+--mode conversations

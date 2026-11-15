@@ -1,0 +1,7 @@
+- Returning Viewers – People who come back to watch your channel after their first visit.
+- Unique Viewers – The estimated number of different people watching your videos.
+- Peak Concurrent Viewers – Highest number of viewers watching at the same time during a live stream.
+- Realtime Analytics – Live tracking of views and engagement within the last 48 hours.
+- Audience Overlap – Shared viewers between your channel and others.
+TH
+HAN

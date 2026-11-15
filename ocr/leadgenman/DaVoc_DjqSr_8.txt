@@ -1,0 +1,9 @@
+SAM (Segment Anything Model)
+1 Image Input
+2 Prompt Input
+3 Image Encoder
+4 Prompt Encoder
+5 Image Embedding
+6 Mask Decoder
+7 Feature Correlation
+8 Segmentation Output

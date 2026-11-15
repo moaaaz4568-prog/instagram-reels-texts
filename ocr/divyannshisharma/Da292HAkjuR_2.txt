@@ -1,0 +1,26 @@
+3 Tool 1: GSAP for slide style video
+animation, frame-perfect.
+
+Timeline animation, frame-perfect.
+
+GSAP
+
+GSAP is the standard web animation library. Paired with Remotion, you get animated, slide-deck-style videos — each section revealing in sequence.
+
+Best for: SaaS intros, launch videos, structured walkthroughs.
+
+Claude Code x Remotion
+
+Scroll-trigger reveals
+Cards that stagger in
+
+Smooth easing
+No jittery cuts
+
+Staggered entrances
+Pacing feels intentional
+
+GSAP is for slide-deck style videos — sections reveal one after another, cards stagger in smoothly, exactly like a polished presentation.
+
+Best for:
+SaaS intros, launch videos, structured walkthroughs.

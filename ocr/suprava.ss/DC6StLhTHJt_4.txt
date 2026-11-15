@@ -1,0 +1,19 @@
+3
+The PPC Formula
+Identify a pain point, then offer a partial solution - to spark interest. Finish with a CTA, for the complete solution.
+
+Find Pain Point → Provide a partial solution → CTA for full solution
+
+PPC = Pain point + Partial Solution + Call to action
+
+Hi [Name],
+I noticed you've been checking out the case study section on our website, so I wanted to reach out. We might have exactly what you're looking for!
+Just last week, my team spent 30 hours building a system that delivers [Y result] in just [X weeks]. I think it could be a great fit for your team.
+Would you like to take a look? Let me know your thoughts—I'd be happy to share more details.
+P.S. [Add your one-liner personalization here, e.g., "Loved your recent post about scaling SaaS growth!"]
+Best,
+[Your Name]
+
+Pain Point
+Partial Solution
+CTA

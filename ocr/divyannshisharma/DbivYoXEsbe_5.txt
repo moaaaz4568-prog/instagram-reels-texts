@@ -1,0 +1,11 @@
+Slide 6 —
+Tool 4: Anytype
+06 / 10
+What it does:
+Notes, tasks, and your entire knowledge base —
+all stored locally on your device, fully encrypted.
+What it replaces:
+Notion Plus + Roam — $20 a month
+Notion is a $10 billion company. Anytype is yours.
+No one else can read your notes.
+github.com/anyproto/anytype-ts

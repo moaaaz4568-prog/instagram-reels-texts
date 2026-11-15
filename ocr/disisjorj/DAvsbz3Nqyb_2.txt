@@ -1,0 +1,4 @@
+stripe
+Stripe:
+To collect online
+payments

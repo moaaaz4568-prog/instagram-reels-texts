@@ -1,0 +1,20 @@
+Step 9: Integration
+No public API? No problem. Teng Lin's notebookm-py makes the whole integration possible.
+Teng Lin
+teng-lin
+Follow
+97 followers · 16 following
+XAI Pte. Ltd.
+New York
+teng@xai.com
+http://www.xai.com
+Pinned
+notebookm-py Public
+Unofficial Python API for Google NotebookLM
+Python  234  253
+beamcode Public
+TypeScript  2
+1,713 contributions in the last year
+Contribution activity
+March 2024
+Created 4 commits in 1 repository

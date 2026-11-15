@@ -1,0 +1,52 @@
+16. Hooks
+
+Curated custom slash commands
+• organized by category
+• pre-push hook for sync
+• index-based discovery
+Repo: https://github.com/danielrosehill/Claude-Slash-Commands
+
+TDD-based GitHub issue fixer
+• /fix-issue 456 → Refactor
+• Red → Green → Refactor automatically
+• creates PR automatically
+Repo: https://github.com/claude-commands/command-fix-issue
+
+Reply...
++ 📋 🔊 ⬆️
+
+Reply...
++ 📋 🔊 ⬆️
+
+Automated UI/UX design review
+• by Patrick Ellis
+• responsive + accessibility check
+• specialized subagent
+Repo: https://github.com/patrick-ellis/design-review-workflow
+
+TDD slash command by jerseycheeze
+• Red/Green/Refactor automation
+• test-first enforcement
+• feature-to-test breakdown
+Repo: https://github.com/jerseycheeze/tdd-implement
+
+Reply...
++ 📋 🔊 ⬆️
+
+Reply...
++ 📋 🔊 ⬆️
+
+Official security review slash command
+• scans PRs for issues
+• suggests fixes
+• easy to disable
+Repo: https://github.com/anthropics/claude-code-security-review
+
+Reply...
++ 📋 🔊 ⬆️
+
+Divyanshi sharma
+
+Category 8/10
+
+Category 8/10

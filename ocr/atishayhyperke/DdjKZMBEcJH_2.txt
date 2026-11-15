@@ -1,0 +1,24 @@
+2. Reply intelligence.
+Use AI to read and classify huge reply volumes, then find patterns humans would miss.
+REPLY STREAM
+Interesting, can you share pricing?
+Not a fit for us. Thanks!
+We use something else right now.
+Looping in my co-founder.
+This is perfect, let's do it.
+Who else is using this?
+AI CLASSIFIER
+AI
+INSIGHTS
+POSITIVE
+6,053
+5.80%
+NEGATIVE
+3,214
+3.08%
+REFERRAL
+2,437
+2.34%
+OOO
+1,983
+1.91%

@@ -1,0 +1,15 @@
+2. Waterfall enrichment.
+Route each lead through a short provider cascade and pay for matches.
+Raw Lead
+Unverified lead enters
+Provider A
+Enrich & filter with Provider A
+Provider B
+Enrich & filter with Provider B
+Provider C
+Enrich & filter with Provider C
+Provider D
+Enrich & filter with Provider D
+Match Found
+Pay only for matches
+Cascade stops when a match is found

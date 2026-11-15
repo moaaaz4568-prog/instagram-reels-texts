@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Calendar:
+
+New Tab
+Prompt
+Please build a calendar for us in the mission control.
+All your scheduled tasks and cron jobs should live here. Anytime I have you schedule a task, put it in the calendar so I can ensure you are doing them correctly.

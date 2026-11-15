@@ -1,0 +1,9 @@
+cold-email-pas-builder
+Added by
+User
+Last updated
+Feb 23, 2026
+Invoked by
+User or Claude
+Builds you cold email segments
+based on your ICP

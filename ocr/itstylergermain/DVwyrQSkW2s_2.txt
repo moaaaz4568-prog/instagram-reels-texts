@@ -1,0 +1,13 @@
+Tyler Germain @its Tylergermain
+
+I gave Claude Code one prompt to build me a local memory system using it.
+
+Every image, video, voice memo, and PDF I send or it generates gets embedded and stored. Then I search all of it with natural language.
+
+Build me a local memory system using Gemini Embedding 2. It should: Embed every image, video, voice memo, and PDF, or other media types that I send, or you generate.
+
+Store the vectors in ChromaDB.
+
+Then build a skill so you can search all of it with natural language - like 'the architecture diagram from last week' or 'the voice note about the product launching-2-preview as the model.'
+
+Use gemini-embeddl.

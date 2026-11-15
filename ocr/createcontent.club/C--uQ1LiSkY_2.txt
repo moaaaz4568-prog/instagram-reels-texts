@@ -1,0 +1,5 @@
+HERE IS THE CHATGPT PROMPT:
+
+“I am a content creator in the [INSERT YOUR NICHE HERE]. I want you to help me come up with 30 Instagram Reels short-form content ideas. Think deeply about the struggles, misconceptions, and dream outcomes of my target audience, which is [DESCRIBE YOUR TARGET AUDIENCE HERE], and build content ideas around that. Put it in a table format, label the X-axis with the struggles, misconceptions, and dream outcomes, and label the Y-axis 1-30. Before starting, I want you to ask me at least 10 questions that will truly help you understand my target audience, so you know who I am creating content for.”
+
+@Createcontent.club

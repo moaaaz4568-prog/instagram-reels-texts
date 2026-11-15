@@ -1,0 +1,26 @@
+Step 1
+Free AI. No Internet.
+Google just dropped Gemma 4 and it changes everything
+DATA PRIVACY COMPARISON: CLOUD VS. LOCAL AI
+CLOUD-BASED SERVICES
+(e.g., ChatGPT, Claude, Gemini)
+QUESTIONS
+& DATA
+SENT OUT
+Server
+Processing
+Data Exits
+User Machine
+A BIG DEAL FOR PRIVACY
+LOCAL-BASED AI
+(e.g., Gemma 4)
+DATA
+STAYS
+LOCAL
+On-Device
+Processing
+Nothing Sent
+Anywhere
+FULL DATA OWNERSHIP
+Divyanshsharma
+02/18

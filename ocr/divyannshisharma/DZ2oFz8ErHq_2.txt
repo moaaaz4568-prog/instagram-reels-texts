@@ -1,0 +1,28 @@
+TEMPLATE 1
+Agent Teams
+
+DESCRIPTION
+
+Agent Teams provide visual dashboards that show how multiple AI agents collaborate on the codebase. Each agent can handle a different part of the task while working together in a coordinated system. This allows complex work to be divided efficiently among several agents. As a result, development becomes faster, more organized, and easier to manage.
+
+MORE INFO
+
+https://x.com/juliagoldiee/o/status/2030509062836912402?s=46
+
+github.com/davila7/claude-code-templates
+
+Platform Solutions Resources
+
+davila7 / claude-code-templates
+
+Code Issues 65 Pull requests
+
+main 82 Branches 32 Tags
+
+github-actions[bot] chore: Update compo
+
+.claude-plugin
+.claude
+.github
+.vscode
+api

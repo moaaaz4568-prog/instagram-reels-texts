@@ -1,0 +1,33 @@
+Step #9
+Extract URLs
+Parameters
+Settings
+Language
+JavaScript
+const input = input.first().json.data
+const regex = /https?:\/\/[^\s]+/g
+const websites = input.match(regex)
+return websites.map(website => ({ json:
+{website: website}}))
+To make sure expressions after this node work, return the
+items that produced each output item. More info
+Outputs
+Docs
+JSON
+OUTPUT
+0
+0/0
+items
+website
+https://schema.org
+https://maps.google.com
+https://ps.google.com
+https://drive.google.com
+https://docs.google.com
+https://calendar.google.com
+https://mail.google.com
+https://accounts.google.com
+URL Extraction
+AI Node for lead emails.
+Feed into
+AI Node for lead emails.

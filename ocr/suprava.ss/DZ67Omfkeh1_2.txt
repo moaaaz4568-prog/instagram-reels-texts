@@ -1,0 +1,24 @@
+STEP 2 — CRAFT A PERSONAL MESSAGE
+PERSONAL MESSAGE
+02
+Turn the post into
+a personal message.
+Take the thread
+you found and turn it into an
+opener that proves you read it. Pick your
+channel.
+For LinkedIn DMs
+linkedin-dm-angle-generator
+For cold email
+cold-email-pas-builder
+USE EITHER SKILL
+linkedin-dm-angle-generator or cold-email-pas-builder
+Both take the same input — the thread and the pain point — and
+write a message template.
+SAMPLE OUTPUT
+"saw your post about reply rates dropping – what's
+your current drop sequence look like?"
+FIND
+WRITE
+SEND
+CONVERT

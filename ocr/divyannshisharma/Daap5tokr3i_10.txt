@@ -1,0 +1,12 @@
+11 HOW TO USE LOOPS
+How to use
+loops.
+>_ /loop 15 minutes + goal
+A loop lets Fable 5 run a task over and over automatically
+without you touching it.
+The format is simple: /loop [time interval] + goal
+Example: "/loop every 15 minutes, check if my build is
+passing and notify me if it fails."
+To stop it: /loop stop [loop name]
+This is one of the most powerful things you can do with Fable 5.
+Set a loop and let it run while you do something else.

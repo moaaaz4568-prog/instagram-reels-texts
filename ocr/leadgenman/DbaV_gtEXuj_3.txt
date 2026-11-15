@@ -1,0 +1,12 @@
+03
+Ultra Plan Mode
+Enter plan mode. DO NOT write any code yet.
+Task: [PASTE TASK] Constraints: [DEADLINE / STACK / NO-GO ZONES]
+1. Read every file this task touches, list them with one line on what each does today
+2. Map current behavior vs target behavior
+3. Propose 2-3 approaches with real tradeoffs: complexity, risk, blast radius
+4. Pick one and justify it in 3 lines
+5. Break it into steps small enough to verify one at a time, each with its own check
+6. List risks + the exact rollback for each
+7. Flag anything touching [AUTH / PAYMENTS / PROD DATA] for my explicit sign-off
+Then stop. Show me the plan and wait for my approval before touching a single file.

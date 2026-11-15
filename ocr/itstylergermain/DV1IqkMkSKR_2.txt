@@ -1,0 +1,11 @@
+The Download.
+download this
+https://code.visualstudio.com/
+Don't be intimidated.
+You need to use an IDE (a code editor) because
+Claude Desktop doesn't let you see files.
+When you're generating images, you'll want to
+see them.
+Then...
+@itsstylergermain
+save for later

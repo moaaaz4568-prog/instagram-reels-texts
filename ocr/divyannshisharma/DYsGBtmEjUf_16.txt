@@ -1,0 +1,35 @@
+16
+Monthly expense analysis
+with real conclusions
+
+Most people look at their bank statement and feel
+vaguely bad about their spending without
+understanding what's actually
+happening.
+
+Claude can turn raw numbers into a clear picture
+of where your money is going
+and what you
+should actually do about it.
+
+I'm going to paste my expenses from the last month.
+Analyze them and tell me:
+1 What categories am I spending the most on
+2 Where my spending looks unusual compared to what I described as my goals
+3 What I could cut without meaningfully affecting my life
+4 What I'm probably underspending on that matters
+5 One specific change that would have the biggest financial impact
+
+Here are my expenses:
+[paste your bank statement or expense list]
+
+My financial goals right now: [describe what you're trying to do —
+save more, pay off debt, invest, etc]
+
+This works best
+when you paste real data
+not estimates.
+
+Divyanshi sharma
+
+16/18

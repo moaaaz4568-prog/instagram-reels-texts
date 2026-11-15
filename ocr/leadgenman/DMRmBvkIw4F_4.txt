@@ -1,0 +1,3 @@
+Layer 3 - Planning
+Decompose goals into subtasks, build hierarchical plans, optimize sequences (e.g., via MDPs or tree-search), and simulate outcomes. Adapt to real-time changes.
+AI Agent Architecture

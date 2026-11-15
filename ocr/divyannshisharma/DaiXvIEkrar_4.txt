@@ -1,0 +1,30 @@
+SLIDE 5 FOUR PIECES, THAT'S IT
+Claude Managed Agents
+Building blocks
+Define
+agent
+Set a system prompt,
+model, skills, tools,
+permissions
+Configure
+environment
+Network allowlist and
+preinstalled packages
+Run a
+session
+Load it with resources
+(files, GitHub repos), layer
+in credentials
+Handle
+events
+Your agent communicates
+its actions; you steer it with
+additional events
+Define the agent — prompt, model, tools,
+permissions.
+Configure the environment — what it can
+access, what's installed.
+Run a session — load it with files and data,
+let it go.
+Handle events — steer it or stop it
+whenever you want.

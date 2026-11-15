@@ -1,0 +1,14 @@
+PUNIT GUPTA
+Skill 5.
+Predict Ad Performance
+Before Spending
+/ads-score
+Scoring - 1 to 10 on 6 dimensions
+• Multidimensional Scoring: Paste any ad creative to receive a 1–10 rating
+across 6 core metrics, including hook quality, CTA sharpness, and visual
+cohesion.
+• Pre-Flight Diagnostics: Identifies specific weak points and the "why"
+behind them before you spend a single dollar on testing.
+• Conversion Optimization: Evaluates emotional connection strength
+and offer structure to ensure your message resonates and converts.
+swipe

@@ -1,0 +1,2 @@
+MODEL NOMENCLATURE
+DeepSeek-R1 - 0528 - Qwen3 - 8B - MLX - 4bit

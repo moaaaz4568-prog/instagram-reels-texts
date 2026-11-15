@@ -1,0 +1,22 @@
+finds early startups to sell to
+16 / 20
+GitHub
+supabase / supabase
+public repository
+Public
+Fork
+Star
+107k
+supabase
+Used by
+your lead list
++ thousands
+TypeScript
+107k
+WHAT IT DOES
+the postgres platform startups build their backend on.
+WHO TO MINE IT FOR
+thousands of early stage startups in one list. get in before they scale up.
+THE EXACT LINK
+github.com/supabase/supabase/network/dependents
+• the github method

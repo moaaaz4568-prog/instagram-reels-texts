@@ -1,0 +1,23 @@
+The
+ANATOMY
+of a skill
+
+Think of each Skill like a recipe box. There's the
+recipe itself (instructions), ingredient lists (reference
+docs), and kitchen tools (scripts). Claude opens the
+box and knows exactly what to cook.
+
+your-skill-name/
+├── SKILL.md                      # Required - main skill file
+├── scripts/
+│   └── process_data.py           # Optional - executable code
+│                               # Example
+│   └── validate.sh               # Example
+├── references/
+│   └── api-guide.md              # Optional - documentation
+│   └── examples/
+│       └── report-template.md    # Optional - templates, etc.
+│                               # Example
+
+@itstylergermain
+save for later

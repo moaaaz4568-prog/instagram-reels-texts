@@ -1,0 +1,9 @@
+Step #1
+WhatsApp OAuth account
+Connection
+Sharing
+Details
+Client ID
+Client Secret
+Add WhatsApp Trigger node and
+connect to AI Agent

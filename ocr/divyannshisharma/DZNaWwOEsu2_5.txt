@@ -1,0 +1,48 @@
+SLIDE 6
+Morning
+synthesis workflow
+
+Every morning Claude reads your last 3 days of notes and creates one “Start of Day” note:
+
+Where you left off → What’s due today → What to focus on first
+
+Read it with coffee. Done.
+
+2025-05-15
+Morning Summary
+Focus
+* Deep work on Smart Connections MVP
+* ~1500 words for the productivity guide
+* Workout & protect focus
+* Top 3: Smart Connections chat improvements
+* 1 Build Smart Connections guide draft
+* 2 Write productivity guide draft
+* 3 Content ideas for newsletter
+
+Mindset
+* Energy: 8
+* Sleep: 7.5 hours
+* Focused and motivated
+* Big win: will be shipping a useful update today
+
+Learning
+* RAG vs graph context: improves answer quality
+* Simplific: in UX it drives more usage
+
+Yesterday’s Wins
+* Shippped Smart Connections v0.2
+* Gren session
+* Outlined guide structure
+
+Reflections
+* Consistent with daily planning is compounding. The system works when I work the system.
+
+Plan
+* Deep work: Smart Connections improvements
+* Build Smart Connections improvements
+* Write 1500 words
+* Ideas
+* Newsletter
+* Workout & plan tomorrow
+
+#daily-notes #planning #focus

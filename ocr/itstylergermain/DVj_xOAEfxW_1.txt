@@ -1,0 +1,29 @@
+Tyler Germain
+@its Tylergermain
+
+One command to send an email.
+One command to check your calendar.
+One command to upload a file.
+
+It used to take hundreds of lines of code.
+Now it's one line.
+
+gw docs
+Create & edit documents
+
+gw sheets
+Read & update data
+
+gw drive
+Upload & organize files
+
+gw gmail
+Send & search email
+
+gw calendar
+Schedule & manage events
+
+gw meet
+Create & join meetings
+
+all accessible via one auth token

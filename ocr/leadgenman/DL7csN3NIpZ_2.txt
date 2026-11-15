@@ -1,0 +1,2 @@
+MODEL NOMENCLATURE
+Mistral-Small-3.2-24B-Instruct-2506-GGUF

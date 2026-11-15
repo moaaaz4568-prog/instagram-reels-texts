@@ -1,0 +1,12 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Do this in the next 30 minutes:
+
+Block 30 minutes. Download Claude Desktop from claude.com/download. Create your three files. Set your Global Instructions. Run your first prompt.
+
+Build simple context files once, and let the system compound refine them weekly
+
+The real advantage isn't smarter prompting it's building better context
+
+...............

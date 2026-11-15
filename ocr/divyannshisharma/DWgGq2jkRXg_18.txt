@@ -1,0 +1,16 @@
+Resource Links
+Get the access for free.
+• Claude Documentation
+(start here for any feature): docs.claude.com
+• Claude Code Documentation
+(extensions, skills, agents, hooks): code.claude.com
+• Claude Cowork
+(launch post + feature overview): blog/cowork-research-preview
+• Claude Blog
+(every feature announcement as it drops): claude.com/blog
+• Claude Code Channels
+(Telegram/Discord setup guide): code.claude.com/docs/en/channels
+• Claude Partner Network
+(free to join, credential access): anthropic.com/partners
+@divyanshisharma
+save for later

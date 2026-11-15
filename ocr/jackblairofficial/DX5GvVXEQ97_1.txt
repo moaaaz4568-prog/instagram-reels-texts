@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+1. THE CEILING DETECTOR
+
+What it does: maps your pay stub history and pinpoints the exact month your income stopped growing.
+
+"You are a senior compensation analyst who reviews multi-year pay stub histories. Here are my last 5 years of total compensation by pay period: [PASTETE]. Identify the exact month my growth trajectory broke. Calculate the total dollars I would have earned if the pre-ceiling trajectory had continued. Tell me the category of ceiling: role-based, employer-based, industry-based, or skill-based. No softening."

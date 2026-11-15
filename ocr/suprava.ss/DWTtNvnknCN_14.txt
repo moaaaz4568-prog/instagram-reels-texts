@@ -1,0 +1,9 @@
+Suprava Sabat
+RUN ADS
+- Speed + scale.
+(But only works if your offer and messaging are dialled in.)
+CREATE OFFER
+DEFINE MESSAGING
+DESIGN CREATIVE
+SET TARGETING
+DIAL-IN SETTINGS

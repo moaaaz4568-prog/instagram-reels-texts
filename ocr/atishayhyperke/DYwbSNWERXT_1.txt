@@ -1,0 +1,10 @@
+Step 1: Build the lead list
+We pull raw lead lists using tools like
+Apify
+Clay
+AI Ark
+Raw export: 200,000 companies.
+This is the input that feeds into
+the rest of the system.
+The bigger and dirtier the list,
+the better. Filtering happens next.

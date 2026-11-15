@@ -1,0 +1,8 @@
+GANs
+Ian Goodfellow invented Generative Adversarial Networks. Two neural nets competing against each other could now create realistic images, voices and video. The era of generative AI officially started here.
+2014
+AlphaGo
+DeepMind's AlphaGo beat world champion Lee Sedol at Go, a game with more possible moves than atoms in the universe. AI was no longer just memorizing patterns. It was learning strategy.
+2016
+Voice AI
+Voice assistants like Siri, Alexa and Google Assistant exploded into millions of homes. AI quietly moved from research labs into everyday life.

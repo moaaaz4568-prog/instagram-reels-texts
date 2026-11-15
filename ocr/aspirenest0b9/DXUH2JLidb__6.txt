@@ -1,0 +1,13 @@
+Retrieval - Augmented
+Generation (RAG)
+What is it
+★ AI that works on top of your data So it reasons
+from real knowledge instead of guessing.
+When to use it
+★ When accuracy, expertise, and internal
+context matter most.
+HAYSTACK
+VECTRA
+LLAMAINDEX
+PUNIT GUPTA
+swipe >>>

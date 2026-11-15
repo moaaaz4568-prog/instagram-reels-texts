@@ -1,0 +1,6 @@
+LIGHT #2
+FILL LIGHT
+Without this, your key light creates harsh
+shadows.
+Add a fill light at a much lower setting to
+eliminate those shadows

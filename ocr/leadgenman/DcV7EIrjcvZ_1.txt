@@ -1,0 +1,9 @@
+Before AI:
+Must know
+data structures.
+Fluent in Python.
+
+After AI:
+Must know
+Claude Code.
+Fluent in English.

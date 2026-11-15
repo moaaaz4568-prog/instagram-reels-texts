@@ -1,0 +1,12 @@
+1
+Open the Apollo AI Assistant
+Help me find US based companies with 50,000 employees
+What do you want to do, Sarah?
+Help me find US companies with 500-5,000 employees that are currently using Tableau, Looker, Qlik, Sense, or Siemens and have been actively hiring data analysts, data engineers, or BI roles in the past year. These companies are probably dealing with data silos, scalability issues, or integration challenges that my team can solve. I want to identify which ones are most likely ready for a BI transformation project
+Search my records
+Automate a task
+Find decision makers
+Build prospect list
+Engage agents
+Top agents
+Build prospect list

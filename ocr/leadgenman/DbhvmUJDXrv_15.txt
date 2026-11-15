@@ -1,0 +1,13 @@
+PHASE 2
+(DAYS 31-60):
+Know When
+It Breaks.
+How I Find Out:
+error
+alert
+my phone
+posthog
+add sentry, better stack,
+and upstash.
+this whole layer costs nothing
+until you get big.

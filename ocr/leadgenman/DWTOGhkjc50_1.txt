@@ -1,0 +1,7 @@
+1.Prompt
+Vague prompts
+No constraints
+Passive language
+Over-explaining
+Ad-hoc prompts
+No focus

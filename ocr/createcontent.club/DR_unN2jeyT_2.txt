@@ -1,0 +1,9 @@
+All we do is batch tasks
+Here's exactly how we do it
+MON
+TUE
+WED
+THU
+FRI
+SAT
+SUN

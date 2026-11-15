@@ -1,0 +1,43 @@
+Slide 4
+A real test:
+the Parameter Golf challenge
+
+Parameter Golf is a public ML challenge:
+Train the best AI model you can in under 10 minutes,
+using a file size smaller than 16MB.
+
+let's run this
+8 hours and
+see what wins.
+
+The agent has to:
+Write training code → Launch it → Read
+the results → Decide what to try next →
+Repeat for up to 8 hours
+
+Fable 5 was tested against an
+earlier model (Opus 4.7) on this
+exact challenge.
+
+Parameter golf — Fable 5 vs Claude Opus 4.7
+20 experiments - val_bpb, lower is better
+● kept ○ discarded × crashed
+
+Fable 5 (best 1.1604)
+Claude Opus 4.7 (best 1.2178)
+
+val_bpb (lower is better)
+1.24
+1.22
+1.20
+1.18
+1.16
+0.0 2.5 5.0 7.5 10.0 12.5 15.0 17.5 20.0
+experiment # (0 = baseline)
+
+QK_GAIN_INIT=5.0 (-0.0016)
+0.048 train.eval (-0.0179)
+TRAIN_SEQ_LEN=2
+overlapped sliding-window eval (-0.0207)
+Int64 QAT + Int64 expo (-0.0163)
+fp16 pass-through tied embedding (-0.0063)

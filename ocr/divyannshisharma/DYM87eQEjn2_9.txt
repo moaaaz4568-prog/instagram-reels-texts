@@ -1,0 +1,64 @@
+divyanshisharma
+( 193 to 216 )
+Content & Copy
+/hero-villain
+hero villain narrative
+Content & Copy
+/lesson-story
+story with a lesson
+Content & Copy
+/data-story
+tell a story using data
+Content & Copy
+/substack
+Substack post format
+Content & Copy
+/linkedin
+LinkedIn post format
+Content & Copy
+/instagram
+Instagram caption format
+Content & Copy
+/voiceover
+voiceover script style
+Content & Copy
+/re-hook
+rewrite the hook only
+Content & Copy
+/ps
+write a killer P.S. line
+Content & Copy
+/punchy
+make it punchier
+Content & Copy
+/optimize
+focus on optimization
+Dev & Technical
+/docs
+write documentation only
+Dev & Technical
+/refactor
+refactor this code
+Dev & Technical
+/comments
+add code comments only
+Dev & Technical
+/test-cases
+write test cases only
+Dev & Technical
+/schema
+write the schema
+Dev & Technical
+/pseudocode
+write in pseudocode
+Dev & Technical
+/api-design
+design the API
+Dev & Technical
+/architecture
+high-level architecture
+Dev & Technical
+/sql
+write it in SQL
+Dev & Technical
+Swipe →

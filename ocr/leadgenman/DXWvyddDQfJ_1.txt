@@ -1,0 +1,16 @@
+/hooks
+Guardrails
+for the robot.
+Worried Claude will rm -rf your repo one day?
+/hooks match any tool call and block, lint, or
+Slack-ping it. One hook per rule. One line of
+settings.json.
+.hclaude/settings.json
+"hooks": {
+"PreToolUse": [
+{
+"matcher": "Bash(rm.*)",
+"action": "block"
+}
+]
+}

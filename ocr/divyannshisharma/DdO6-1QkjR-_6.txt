@@ -1,0 +1,12 @@
+SLIDE 7
+Skill 5:
+Theme Factory
+10 ready-made professional themes built in.
+Each theme includes:
+A complete color palette
+Font pairings that actually work together
+Consistent visual rules
+Apply any theme to anything — slides, docs, landing pages, reports — with one command.
+Or describe what you want and Claude generates a custom theme on the spot.
+No more “make it look nice” with zero direction. Now you have a system.
+github.com/anthropics/skills/tree/main/skills/theme-factory

@@ -1,0 +1,26 @@
+skills/
+Capabilities Claude picks on its own.
+
+What it does:
+• Model-invokable. Claude decides when to load
+• One folder per skill. SKILL.md inside
+• Persistent across every session
+
+Skills are the new prompts.
+
+1 ---
+2 name: ui-ux-pro-max
+3 description: Design intelligence on tap
+4 ---
+5
+6 # UI/UX Pro Max
+7 Use this skill when building any UI.
+8 50 styles, 21 palettes, 50 font pairs.
+9
+10 ## When to invoke
+11 – User says "design" or "build a UI"
+12 – File is .tsx, .vue, .svelte, .html
+13 – Project is dashboard or SaaS
+14 ## Reference
+15 – shadcn/ui MCP for examples
+16 # Claude loads this on its own.

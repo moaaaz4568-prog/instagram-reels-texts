@@ -1,0 +1,15 @@
+Prompt 4: Gumroad Sales System & Launch Plan
+
+Act as a digital product marketing strategist.
+Your job is to create a complete strategy to sell a digital product on Gumroad.
+Inputs:
+Product; Target audience. Price:
+Output:
+1. Product Page Strategy: Explain how the Gumroad product page should be structured.
+2. Offer Positioning: Explain how to make the product feel high-value.
+3. Audience Acquisition List 5 ways to get the first buyers.
+4. Launch Plan Create a 7-day launch strategy.
+5. Content Strategy Give 10 content ideas that promote the product organically.
+6. Social Proof Strategy Explain how to get early testimonials and reviews.
+7. Upsell Strategy Explain how to increase revenue per customer.
+8. Long-Term Growth Explain how to turn the product into a recurring revenue asset.

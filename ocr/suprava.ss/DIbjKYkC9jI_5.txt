@@ -1,0 +1,24 @@
+Enrich With Info + Title
++ Location + URL
+
+Enrich and get more details about
+each lead. Turn raw domains into
+usable contact info.
+
+A. Proxycurl credentials
+
+Create an API
+Key from
+Proxycurl
+
+Set credential
+in N8N: Header
+Auth
+
+*Add IF condition to
+continue if data found
+
+Name: Authorization
+
+Value: Bearer
+YOURAPLKEY

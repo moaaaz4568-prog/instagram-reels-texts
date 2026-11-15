@@ -1,0 +1,11 @@
+3
+30 Key Prompt Engineering Principles
+Optimize Token
+Audience and Role
+Unbiased Responses
+Affirmative Directives
+XML Tags for Structure
+Few-Shot Examples
+Output Primers
+Instructional Keywords
+Iterative Clarification

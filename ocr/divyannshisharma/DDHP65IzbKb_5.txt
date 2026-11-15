@@ -1,0 +1,14 @@
+prompt 4 →
+Classify job title by function
+Prompt:
+You can only reply by ONE of this value from this array:
+["Sales","Founder","Growth/Marketing/Ops","Recruiter","Other"]
+Never reply with several. Only ONE.
+Usually, job titles containing either "business", "sales", "sdr", "bdr", "account executive", "commercial" will be classified to "Sales"
+Examples:
+Input:Sales Operations Manager
+Output:Operations
+Input:Sales Development Representative
+Output:Sales
+Input:{job_title}
+Output:

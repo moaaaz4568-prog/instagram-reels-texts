@@ -1,0 +1,29 @@
+They're Not Using
+The Desktop App
+
+Claude Code for VSCode
+Anthropic
+
+Claude Code Extension for
+VS Code
+
+Marketplace
+
+IMPORTANT: This plugin requires Claude Code CLI to be
+installed separately. For more information, see the
+docs.
+
+Claude Code seamlessly integrates with your popular
+Integrated Development Environments (IDEs) to enhance
+your coding workflow. This integration allows you to
+leverage Claude Code's capabilities directly within your
+preferred development environment.
+
+They are using the Claude Code extension
+on VSCode, Cursor, or other IDEs.
+
+save for later
+
+@itstylergermain
+
+save for later

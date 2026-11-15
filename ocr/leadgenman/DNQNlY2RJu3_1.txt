@@ -1,0 +1,21 @@
+HTTP REQUEST
+
+The HTTP Request node is the most powerful and flexible integration point in n8n and it allows you to connect with virtually any service that offers an API, enabling you to send and receive data and even automate external interactions.
+
+Methods
+GET, POST, PUT, PATCH, DELETE
+Perform any type of API request, from retrieving data to sending updates.
+
+Authentication
+Basic Auth, Authentication, OAuth2, API Key
+Securely access protected resources across different services.
+
+Data Control
+Headers, Body, Response Format
+Send custom headers, choose request body formats, and manage how responses are processed.
+
+HTTP Request Node
+Input Data
+HTTP Request Node
+External API
+Response Data

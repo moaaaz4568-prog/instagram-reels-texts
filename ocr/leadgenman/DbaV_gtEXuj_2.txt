@@ -1,0 +1,20 @@
+02
+Create Your CLAUDE.md
+
+Scan this entire codebase, then generate a CLAUDE.md.
+
+Include:
+
+* What this project is, in 2 lines
+* Tech stack + the versions that matter
+* Commands: [DEV / BUILD / TEST / LINT] what to
+do
+* Architecture: where things live and week 1
+* Code conventions you actually detect in the code
+* Hard rules: [YOUR NON-NEGOTIABLES] -- without asking
+never touch
+* Gotchas a new engineer would hit in week 1
+
+Write rules as short imperatives. Nothing generic --
+only what is true for THIS repo. If you are unsure
+about a rule, ask me instead of inventing it.

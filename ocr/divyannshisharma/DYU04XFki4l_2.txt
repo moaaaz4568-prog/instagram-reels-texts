@@ -1,0 +1,75 @@
+@os.operator
+ERLY
+operatoros.ai
+DAY 1 → LEARN CLAUDE PROPERLY
+skill.md
+3.
+Claude
+101
+Inside Anthropic Academy
+YOU’LL LEARN:
+how Claude thinks
+prompting patterns
+context management
+structured outputs
+Best beginner
+foundation.
+SAVE THIS POST
+Resource at the end →
+Anthropic Academy / Courses
+Claude 101
+Learn how to use Claude for everyday work tasks,
+understand core features, and explore resources for
+more advanced learning on other topics.
+Register | FREE
+Curriculum
+Meet Claude
+What is Claude?
+Your first conversation with Claude
+Getting better results
+Claude desktop app: Chat, Cowork, Code
+Organizing your work and knowledge
+Introduction to projects
+Creating with artifacts
+Working with skills
+Expanding Claude’s reach
+Connecting your tools
+Enterprise search
+Research mode for deep dives
+Putting it all together
+Claude in action: use-cases by role
+Other ways to work with Claude
+Conclusion & certificate
+What’s next?
+Certificate of completion
+Claude deep web search,
+company research, people lookup, and code search using the Exa AI search API
+/create a skill called “exa” that gives
+macOS | Opus 4.6 | operatoros-agency
+bypass permissions on (shift+tab to cycle)
+Created: ~/.claude,
+Files:
+- SKILL.md - Main
+- references/api-reference.md - Exa API endpoint
+Decisions:
+- Type: Skill (user-invoked, predictable sequence)
+- Placement: Global (works across any project)
+- Tools: Bash, Read, Write, Grep, Glob
+6 Modes:
+- /exa web [query] - General web search
+- /exa company [query] - Company/business intel
+- /exa people [query] - People lookup (LinkedIn)
+- /exa code [query] - Github/code search
+- /exa similar [url] - Find similar pages
+- /exa fetch [url] - Get full content text
+Write(~/.claude/skills/exa/SKILL.md)
+258 lines to ~/.claude/skills/exa/SKILL.md
+1 name: exa
+2 description: >
+3 Deep web search, company research,
+4 use "web exa" [exa search] "search" "find
+5 "look up company", "who does [company]"
+6 "get the context of [url]", or when you need
+7 standard search. Supports 6 modes:
+8 argument-hint: web [company/people/code] similar [fetch]
+9 10+248 lines (ctrl+o to expand)

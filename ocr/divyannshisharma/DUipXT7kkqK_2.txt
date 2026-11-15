@@ -1,0 +1,41 @@
+Divyanshi | Agentic AI Expert
+Give your Moltbot unlimited memory:
+https://github.com/supermemoryai /
+clawdbot-supermemory
+supermemoryai
+Overview Repositories 19 Projects Packages People Sponsoring
+Filter: supermemory.com
+supermemory
+Give infinite context to your LLMs
+730 followers United States of America
+Pinned
+supermemory Public
+Memory engine and app that is extremely fast, scalable. The Memory API for
+the AI era.
+TypeScript 16.2k 1.8k
+install-mcp Public
+A simple CLI to install MCP servers into any client - auth included!
+TypeScript 167 28
+supermemory-mcp Public
+Your memories are in ChatGPT. But nowhere else. Universal Memory MCP
+makes your memories available to every single LLM. No login. One command to
+set it up.
+TypeScript 404 47
+memorybench Public
+Unified benchmark for evaluating conversational memory
+across datasets
+TypeScript 140 25
+opencode-supermemory Public
+Supermemory plugin for OpenCode
+TypeScript 604 47
+lim-bridge Public
+Interoperability between input formats of various LLMs, or payload,
+error handling, etc. built in.
+People
+Top languages
+TypeScript JavaScript C
+Most used topics
+ai-memory cloudflare cloudflare-workers
+drizzle-orm
+Report abuse
+...

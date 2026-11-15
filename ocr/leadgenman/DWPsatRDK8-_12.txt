@@ -1,0 +1,9 @@
+Ctrl 0
+Verbose Transcript
+See every tool call, file read, and bash command Claude
+runs. X-ray vision into the agent.
+$ claude [verbose]
+-> Read: src/auth/middlewareAware.ts
+-> Grep: "validateToken" (3 matches)
+-> Bash: npm test --silent
+-> Edit: src/auth/middlewareAware.ts:42

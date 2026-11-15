@@ -1,0 +1,71 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+The Problem:
+48 API calls/day = Burning Cash
+Complex Coding Tasks
+Default: Agent "wakes up" every 30 min
+3min (48 API calls/day) costing money
+The Fix: Install Local LLM
+Ollama
+Llama 3.2b
+100% Offline, $0 Cost
+Set up OpenClaw to use Local LLM for
+heartbeats
+The Flow:
+Local LLM
+(free)
+Premium
+API (paid)
+Save on expensive API tokens for heavy-
+lifting
+The Trap
+Free API credits from Google / AI
+sound like a superpower; but...
+- Low rate limits for humans.
+- humans, Agents (in
+- Crashes, throttling, or
+- API limits in min - min
+The Hack: Automated
+Fallback Models
+Set up fallback models in config. If primary
+API hangs one-time, OpenClaw automatically swaps
+over to a backup LLM (local or free tier) to keep
+working.
+Pro Move & Setup:
+Install Ollama & pull llama3.2b
+Route heartbeat check to local •HEARTBEAT=md empty
+(unless active automation)
+Problem: Without Skills
+OpenClaw is just
+another chatbot.
+Can't do things.
+Solution: Install Skills
+Digital Employee that can
+do things: Manage notes,
+calendar, run code!
+ClickawHub.com - Trusted Skills
+The Catch: Security Risk
+Skills are foreign code.
+Bad skill = Keys
+to your house.
+Always vet SKILL.md & check
+permissions. Use SkillGuard.
+Starter Pack & Strategy
+with: apple-notes, weather, github.
+Don't over-install. Bloated prompt, slows
+things.
+Problem
+Mid-chat model switching ruins
+context. Different models respond
+differently, causing severe "semantic
+drift" and breaking the workflow
+The Fix: Upgrade to
+Stable Paid Tier
+Pick one "best" AI (e.g., Claude 3.5
+sonnet) and use it as a "Worker"
+Genai: RaaS. Stick to it.
+Backup
+Strategy
+Primary API
+Fallback API

@@ -1,0 +1,45 @@
+MAKE CLAUDE
+SAY LESS
+
+CONTENT
+7. Claude’s output costs tokens too
+
+You often don’t need:
+✗ Long preambles
+✗ Huge comments
+✗ Repeated summaries
+✗ Full explanations after code
+
+Fix: Default to short, direct output.
+
+/> CODE / RULE
+output mode
+✅ Answer directly
+✅ Avoid unnecessary preambles
+✅ Don’t repeat the prompt
+✅ Keep explanations minimal
+✅ Expand only when requested
+
+✅ CONCISE MODE
+~1,000 TOKENS
+</>
+✅ Short. Direct. Saves tokens.
+
+✗ DEFAULT VERBOSE
+~3,000 TOKENS
+</>
+⚠️ Too long. Costs more. Harder to scan.
+
+~65%
+FEWER OUTPUT
+TOKENS
+
+💰 Fewer tokens
+💲 Lower cost
+⚡ Faster & easier to read
+
+/> QUICK RULE (drop-in)
+claude config set output_mode concise
+
+* BOTTOM LINE
+Default to short, direct answers. Expand only when you ask.

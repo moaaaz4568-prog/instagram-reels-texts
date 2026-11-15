@@ -1,0 +1,25 @@
+LlamaFile
+What you'll get:
+• LLM as single executable. Zero dependencies.
+• Portable, works offline across systems.
+7
+mozilla-ai / llamafile
+Code
+Issues
+Pull requests
+Discussions
+main
+12 Branches
+38 Tags
+Fix README_0.10.0 (#918)
+aittalam @ 7f5ee54
+.github
+llamafile
+build
+docs
+llama.cpp
+llama.cpp.patches
+llamafile
+plugin
+localscrape
+models

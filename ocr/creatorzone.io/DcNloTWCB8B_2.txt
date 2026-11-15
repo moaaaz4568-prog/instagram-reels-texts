@@ -1,0 +1,8 @@
+LTV - Lifetime value
+
+The total amount of revenue one customer generates during their time with your business.
+
+A customer pays $29 per month and stays for 14 months.
+LTV = $406.
+
+It helps you understand how valuable the average customer is over time.

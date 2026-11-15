@@ -1,0 +1,6 @@
+Churn
+The percentage of customers who stop using or paying for your product during a given period.
+Start with 100 subscribers and 6 leave during the month.
+Churn = 6%.
+High churn is like constantly refilling a leaking bucket.
+Acquiring more customers won't solve the underlying problem if retention is poor.

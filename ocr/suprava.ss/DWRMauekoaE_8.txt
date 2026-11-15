@@ -1,0 +1,7 @@
+We are doing the quarterly review for the brand. Help to split into 3 parallel tasks for this project:
+1. Create a marketing strategy for Simple Home
+2. Analyze the attached campaign performance data and build an interactive dashboard showing key metrics and trends
+3. Then create a strategy presentation deck of no more than 10 slides that summarizes findings from both the research and the dataset insights
+Save everything to /quarterly-review/. Now, outline your plan first before you execute the task.
+Skill 5: Campaign Presenter
+Claude takes everything from your research and data skills and turns it into a slide deck on brand. Ready to send.

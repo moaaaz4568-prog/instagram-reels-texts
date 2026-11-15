@@ -1,0 +1,12 @@
+Email
+Automation
+
+#11 Inbox Prioritizer Claude reads your unread emails, categorizes each one (action needed / FYI / delete), and drafts responses for the urgent ones. 20 emails processed in 3 minutes.
+
+#12 Follow-Up Tracker Claude checks your sent emails from the past week, finds anything without a reply, and drafts follow-up messages automatically. Never forget to follow up again.
+
+#13 Meeting Prep Brief Before any meeting Claude pulls the attendee's background, your past email exchanges, and shared documents. One-page briefing ready before you walk in.
+
+#14 Meeting Notes Processor Paste your raw messy notes after a meeting. Claude extracts decisions, open questions, action items with owners, and next steps. Clean summary ready to share.
+
+#15 Cold Outreach Drafter Give Claude a prospect's name and company. It researches them, finds a genuine connection, and drafts a personalized email that doesn't sound like a template.

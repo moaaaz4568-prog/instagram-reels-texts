@@ -1,0 +1,13 @@
+CLAUDE.md Files.
+
+This tells Claude exactly who it is, what it's doing, how to use certain tools, & information about the user. It looks different for every agent, and completely depends on the agent's purpose.
+
+here's one of mine
+
+It's unique for every project. You can put anything you want in it.
+
+But so far this isn't any different from a system prompt...
+
+@itstylergermain
+
+save for later

@@ -1,0 +1,20 @@
+prompt 14 →
+Research ICP
+Prompt:
+I'm prospecting a [ICP].
+
+I'm looking to sell them a [tool/service] that:
+- [value prop 1]
+- [value prop 2]
+- [value prop 3]
+- [value prop 4]
+- [value prop 5]
+
+List their top 3 KPIs.
+
+Give me the most likely top 3 problems they're facing in hitting these KPIs.
+
+Also give me their top 3 most likely lagging, leading and leading indicators.
+
+Give 3 suggestions of how my product can solve their top problem.
+Keep it concise.

@@ -1,0 +1,28 @@
+PART 10: DESIGN & CREATIVE
+
+▼ Video
+video-use by browser-user – AI video editing
+ndemo by splitbrain – Narrated demo videos with TTS
+claude-code-video-toolkit by digitalsamba – Remotion, ElevenLabs, ffmpeg
+remotion by Remotion (500 stars) – Programmatic video with React
+
+▼ 3D & Graphics
+video-use by browser-user – AI video editing
+ndemo by splitbrain – Narrated demo videos with TTS
+claude-code-video-toolkit by digitalsamba – Remotion, ElevenLabs, ffmpeg
+remotion by Remotion (500 stars) – Programmatic video with React
+
+▼ Game Dev
+video-use by browser-user – AI video editing
+ndemo by splitbrain – Narrated demo videos with TTS
+claude-code-video-toolkit by digitalsamba – Remotion, ElevenLabs, ffmpeg
+remotion by Remotion (500 stars) – Programmatic video with React
+
+▼ Design
+video-use by browser-user – AI video editing
+ndemo by splitbrain – Narrated demo videos with TTS
+claude-code-video-toolkit by digitalsamba – Remotion, ElevenLabs, ffmpeg
+remotion by Remotion (500 stars) – Programmatic video with React
+
+@divyanshisharma
+>>>

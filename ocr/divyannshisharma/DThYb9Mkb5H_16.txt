@@ -1,0 +1,27 @@
+Step #16
+AIS+
+Part 1: Cost Breakdown
+1. Chat Models: GPT-5 Mini vs. GPT-4.1 Mini
+   - GPT-5 Mini
+     • Input: $0.25 per million tokens
+     • Output: $1.00 per million tokens
+   - GPT-4.1 Mini
+     • Input: $0.40 per million tokens
+     • Output: $1.60 per million tokens
+   Comparison Highlights:
+   - GPT-5 Mini is more cost-efficient on input tokens (~38% cheaper), but has slightly higher output cost.
+   - Total cost will depend on your typical input/output token ratio—GPT-5 Mini generally yields lower overall cost given leaner input pricing.
+2. Image & Video Generation (GPT-4.1 Mini)
+   - Image Generation (DALL·E 3)
+     • Input tokens: $10.00 per million tokens
+     • Output tokens: $40.00 per million tokens
+     • Equivalent per image (square):
+       - Low quality: ~$0.01
+       - Medium: ~$0.04
+   - Video Generation (Sora-like / V3 Fast)
+     • Input tokens: $X.XX per million tokens
+     • Output tokens: $X.XX per million tokens
+     • Estimated per 5-sec clip:
+       - Low quality: ~$0.XX
+       - Medium: ~$0.XX
+Full cost breakdown: GPT-5 Mini is 38% cheaper on inputs than GPT-4

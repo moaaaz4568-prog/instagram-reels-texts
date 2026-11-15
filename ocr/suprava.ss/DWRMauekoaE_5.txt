@@ -1,0 +1,10 @@
+Create a Anatomy / Breakdown social media infographic about "What Makes the Perfect Bedsheet Set"
+Style: Blueprint / Technical
+Layout: Central Focus
+Colors: Monochrome + accent using rich navy and burnished copper
+
+Skill 3: Creative designer
+
+Install an image generation tool. Then tell
+Claude your exact brand colors, fonts, and the
+visual style you want as defaults.

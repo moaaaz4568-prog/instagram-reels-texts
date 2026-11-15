@@ -1,0 +1,13 @@
+13. Step 4: Launch Claude Code
+Claude Code
+Code boots up with
+Gemma as the active engine – free model.
+One command and Claude Code boots up with
+our terminal to start
+Run ollama launch claude in your terminal to start
+Claude Code launches gemma-4:e4b as the active model
+Free model confirmed — API Usage Billing shows zero cost
+Launch
+Engine
+Zero Cost
+@divyanshisharma

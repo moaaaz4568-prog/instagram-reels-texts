@@ -1,0 +1,10 @@
+LangMem
+mem0
+MemGPT
+zep
+Give it Memory
+Implement memory to help the AI
+learn and remember.
+• How will the AI retain important data?
+• What memory does it need for
+decision- making?

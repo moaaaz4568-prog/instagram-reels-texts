@@ -1,0 +1,35 @@
+Step #2
+Google Gemini(AI) Api account 3
+Connection
+Details
+Host
+https://generativelanguage.googleapis.com
+API Key
+Allowed HTTP Request Domains
+All
+Enterprise plan users can pull in credentials from external vaults. More info
+360Hz
+Create API credentials in
+Google AI Studio.
+F10
+Esc
+Q
+W
+E
+R
+T
+Y
+A
+S
+D
+F
+G
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl

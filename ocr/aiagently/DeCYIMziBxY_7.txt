@@ -1,0 +1,19 @@
+Step 7
+Run Your First Test
+Run it once before making it automatic.
+Check:
+Are the discoveries useful?
+Are the sources reliable?
+Is anything missing?
+Then improve the workflow.
+Google Sheets
+Google Docs
+Claude
+AI Opportunities
+Source	Opportunity	Priority	Status
+Reddit	New AI tool launch	High	Done
+GitHub	Open source agent	Medium	In Review
+Product Hunt	AI automation tool	High	Done
+LinkedIn	Hiring trends	Low	Pending
+Claude
+Here are 4 useful AI opportunities I found. All sources are reliable. I'm only missing a few from X (Twitter).

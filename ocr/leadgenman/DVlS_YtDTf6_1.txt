@@ -1,0 +1,1 @@
+Claude skills are reusable capabilities for AI agents, easily installed with a single command. They bundle slash commands, agents, hooks, and MCP servers into shareable packages that work across Claude Code, Cowork & Claude AI.

@@ -1,0 +1,13 @@
+04
+During breakfast:
+"Find founders building weird/cool things."
+Step 1: Ask Apollo: Find niche or fast-growing founders.
+Step 2: Let Apollo pull fresh matches.
+Step 3: Claude picks the 5 interesting and explains why.
+Breakfast scan running -> niche + fast-growing founders • 8:41 AM
+Claude x Apollo • Curiosity Mode
+[1] Apollo pulled 230 founders matching "niche"
+Filters: <50 headcount • YoY growth >10%
+[2] Claude read company sites, recent press
+[3] Picked the 5 most genuinely weird/cool
+Divyanshi sharma

@@ -1,0 +1,42 @@
+6. Markdown files
+
+Community "best-of" skill collection
+* 22k+ installs
+* SEO, marketing, design, security
+* safety warnings on untrusted skills
+Repo: https://github.com/travisvn/claude-skills
+Reply...
+
+Security research and audit skills
+* by Trail of Bits
+* SEO, marketing, design, security research skills
+* built for real world/awesome_security_firm
+* vulnerability detection workflows
+* built for real security engineering
+Repo: https://github.com/trailofbits/claude-code-skills
+Reply...
+
+Skills for scientific computing
+* specialized libraries for research
+* academic and lab workflows
+* data analysis ready
+Repo: https://github.com/K-Dense-AI/claude-scientific-skills
+Reply...
+
+10 production-tested skills
+* SEO audits, headless browser automation
+* Remotion video generation, diagrams
+* drop-in ready
+Repo: https://github.com/ay Automate/ay-skills
+Reply...
+
+A "list of lists" for deeper Claude use
+* knowledge acquisition, deeper thinking
+* skill automation utilities
+* meta-resource for curators
+Repo: https://github.com/BehiSecc/awesome-claude-skills
+Reply...
+
+Divyanshi sharma
+
+Category 3/10

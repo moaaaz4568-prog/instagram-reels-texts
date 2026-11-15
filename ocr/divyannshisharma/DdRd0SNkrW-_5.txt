@@ -1,0 +1,11 @@
+SLIDE 6 / 10
+For
+Teams & Businesses
+Stop switching between 10 apps all day:
+Slack — read channel history, post messages, search conversations
+Linear — manage issues and sprints without leaving Claude
+Notion — read and write pages and databases
+Jira / Confluence — issues, docs, project tracking (via Atlassian Rovo)
+Google Calendar — check availability, create events
+Gmail — read and send email (keep a human in the loop on sends)
+Claude stops being a chat window and starts being a teammate.

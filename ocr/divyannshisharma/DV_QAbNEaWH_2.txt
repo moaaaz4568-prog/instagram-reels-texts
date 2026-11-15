@@ -1,0 +1,6 @@
+Prefer the Terminal experience? Switch back in Settings. X
+/market-audit https://calendly.com
+Edit automatically settings.json
+2: One Command
+Type /market-audit + any URL
+and the magic starts.

@@ -1,0 +1,15 @@
+Most people read about AI automations.
+Bookmark tutorials. Tell themselves
+they'll "start tomorrow."
+
+This person spent an entire weekend actually
+building them. One after another. Getting them to work. Testing.
+Refining. Getting them to work.
+
+By Sunday night:
+45 working automations.
+Zero lines of code written.
+Just Claude, plain English, and
+a few free tools.
+
+Here's every single one.

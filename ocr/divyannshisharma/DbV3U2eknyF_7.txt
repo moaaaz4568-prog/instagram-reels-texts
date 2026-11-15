@@ -1,0 +1,27 @@
+The
+“Ask AI about me”
+button.
+
+Prompt:
+Add an "Ask AI about me" block to the bottom of every page on my site. It should have a button for ChatGPT, Claude, Perplexity, and Gemini. When a visitor clicks one, open the AI provider in a new tab with a pre-populated prompt:
+"Tell me about [my name] based on [my domain]. Summarize who they are, what they do, and how to get in touch."
+
++ Ask anything about me...
+
+Or ask AI providers:
+ChatGPT
+Claude
+Perplexity
+Gemini
+
+Make sure the webpage is optimized for AI. Generate a clean semantic HTML, Clear meta descriptions on every page, Imgs.txt, Robots.txt file at root.
+
+Add one block to the bottom of every page.
+
+Visitors click ChatGPT, Claude, Perplexity, or Gemini — and it opens with a pre-filled prompt asking who you are.
+
+You become discoverable by AI.
+Not just Google.
+
+Ask AI
+about me

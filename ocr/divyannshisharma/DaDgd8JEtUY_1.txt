@@ -1,0 +1,76 @@
+divyanshisharma
+(1 to 24)
+Output format
+/ghost
+only final answer, no explanation
+Output Format
+/minimal
+shortest possible response
+Output Format
+/si
+3-5 lines max
+Output Format
+/full
+Full detailed explanation
+Output Format
+/PhD
+PhD level explanation
+Output Format
+/numbered
+numbered list only
+Output Format
+/xml
+respond in XML format
+Output Format
+/code
+wrap everything in code blocks
+Output Format
+/tweet
+condense to tweet length
+Output Format
+/story
+respond as a short story
+Output Format
+/explain
+explain like I'm 5
+Output Format
+/explain
+explain like I'm 10
+Output Format
+/summary
+one paragraph summary only
+Output Format
+/table
+format as a table
+Output Format
+/markdown
+full markdown formatting
+Output Format
+/outline
+give the outline only
+Output Format
+/haiku
+respond in haiku form
+Output Format
+/script
+format as a screenplay
+Output Format
+/bullet
+bullet points only
+Output Format
+/json
+respond in JSON format
+Output Format
+/plaintext
+zero formatting, plain text
+Output Format
+/summary
+one paragraph summary
+Output Format
+/poem
+respond as a poem
+Output Format
+/qa
+format as Q&A pairs
+Output Format
+Swipe →

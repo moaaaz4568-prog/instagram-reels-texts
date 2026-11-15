@@ -1,0 +1,11 @@
+4
+Use (=getSocialLinks)
+as a Formula
+Use the function like any standard Google
+Sheets formula:
+=getSocialLinks
+It will add a table with
+profile links of
+LinkedIn
+facebook
+Instagram

@@ -1,0 +1,3 @@
+The problem
+Other AIs can't really analyze videos, but Google Gemini last version can.
+Gemini

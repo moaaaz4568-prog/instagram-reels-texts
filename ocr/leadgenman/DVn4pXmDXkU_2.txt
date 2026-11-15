@@ -1,0 +1,11 @@
+Large Language Models
+A super-autocomplete engine that reasons using attention.
+How it processes information:
+• Breaks text into tiny pieces (tokens)
+• Looks at all relevant tokens at once (self-attention = "focus where needed")
+• Builds meaning layer by layer
+• Predicts the next token
+Why it works:
+LLMs don't understand words, they understand relationships between pieces of text.
+Think of it as:
+A very smart "next-word predictor" that learned logic by reading the entire internet.

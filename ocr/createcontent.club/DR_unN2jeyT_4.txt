@@ -1,0 +1,5 @@
+TUE + WED Scripting
+HSGMC Framework
+1. Take those 7 viral ideas
+2. Use our HSGMC scripting framework
+3. Comment "SCRIPT" to get it

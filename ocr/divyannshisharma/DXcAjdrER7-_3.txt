@@ -1,0 +1,15 @@
+PART FIVE
+BUILD THIS YOURSELF
+The whole system is five pieces:
+Here’s how to set it up:
+1 OBSIDIAN = YOUR KNOWLEDGE BASE
+Memory, clients, actions, templates
+Sync across all devices
+2 VAULT INSIDE GOOGLE DRIVE
+3 TRANSCRIPTS → DRIVE
+Every call becomes searchable text
+4 OBSIDIAN MCP
+Claude reads + writes your vault
+5 Claude + MCP connectors
+Slack, Drive, Calendar access
+@divyanshisharma

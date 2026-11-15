@@ -1,0 +1,9 @@
+Step #4
+Create a personal project
+What are you working on?
+Video Generator
+What are you trying to achieve?
+Describe your project, goals, subject, etc...
+Cancel
+Create project
+Name it 'Video Generator' and add the secret prompt

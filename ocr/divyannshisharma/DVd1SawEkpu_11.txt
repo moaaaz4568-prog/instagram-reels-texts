@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Your first prompt after setup:
+
+"Read all the files in this folder completely. Then give me a summary of what you know about me, how I work, and what context you have access to."
+
+Review, fix your files early to prevent weak output
+Test with a real task and refine the files if needed

@@ -1,0 +1,12 @@
+Got it. Here’s the transcript of the spoken words:
+
+1. "Press to start."
+2. "Start button pressed."
+3. "Machine is on."
+4. "Checking... machine status."
+5. "Status: OK."
+6. "Ready to sew."
+7. "Seamstress station A."
+8. "Station A is ready."
+9. "Waiting for fabric input."
+10. "Sensor active."

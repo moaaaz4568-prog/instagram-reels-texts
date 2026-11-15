@@ -1,0 +1,47 @@
+2
+Copy & Paste the Code
+Paste the following Apps Script code (summarized version)
+
+// const url = 'https://' + domain;
+// const response = UrlFetchApp.fetch(url);
+// const html = response.getContentText();
+
+const regexPatterns = {
+  linkedin: 'https:\\/\\/www\\.linkedin\\.com\\/company\\/[a-zA-Z0-9_-]+',
+  twitter: 'https:\\/\\/www\\.twitter\\.com\\/[a-zA-Z0-9_]+',
+  instagram: 'https:\\/\\/www\\.instagram\\.com\\/[a-zA-Z0-9._]+',
+  youtube: 'https:\\/\\/www\\.youtube\\.com\\/channel\\/UC[a-zA-Z0-9_-]+',
+  facebook: 'https:\\/\\/www\\.facebook\\.com\\/[a-zA-Z0-9_-]+'
+};
+
+let socialLinks = {};
+
+for (let key in regexPatterns) {
+  let matches = html.match(regexPatterns[key]);
+  if (matches) {
+    socialLinks[key] = matches[0];
+  } else {
+    socialLinks[key] = 'Not found';
+  }
+}
+
+return [
+  socialLinks.linkedin, socialLinks.twitter, socialLinks.instagram, socialLinks.youtube,
+  socialLinks.facebook
+];
+
+let socialLinks = {};
+
+for (let key in regexPatterns) {
+  let matches = html.match(regexPatterns[key]);
+  if (matches) {
+    socialLinks[key] = matches[0];
+  } else {
+    socialLinks[key] = 'Not found';
+  }
+}
+
+return [
+  socialLinks.linkedin, socialLinks.twitter, socialLinks.instagram, socialLinks.youtube,
+  socialLinks.facebook
+];

@@ -1,0 +1,33 @@
+GITHUB REPOS
+TOP 10 CLAUDE CODE REPO THAT 10X'D MY OUTPUT
+- FULL FILE INCLUDED
+01 everything-claude-code
+affaan-m
+Agent harness: skills, memory, security tools * 57.2k
+02 claude-code-best-practice
+shanraissan
+From vibe coding to agentic engineering * 49.6k
+03 awesome-claude-skills
+ComposioHQ
+Curated Claude skills, resources and the engineering platform * 135k
+04 langchain
+langchain-ai
+The agent engineering platform * 135k
+05 claude-skills
+alirezazarevani
+232+ skills and plugins for coding agents * 13.2k
+06 Flowise
+FlowiseAI
+Build AI agents visually, no-code * 52.4k
+07 repomix
+yamadashy
+Pack your repo into one AI-friendly file * 24.1k
+08 Obsidian.md
+obsidianmd
+Plugins, themes and releases ecosystem * 17.2k
+09 notebooklm-py
+teng-lin
+Unofficial Python API for NotebookLM, edge functions and more * 2.2k
+10 supabase / cli
+supabase
+Manage Postgres, storage, edge functions and more * 2.2k

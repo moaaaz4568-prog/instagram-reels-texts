@@ -1,0 +1,52 @@
+04
+Already on Ollama
+Gemma 4 models are designed to deliver frontier-level
+performance at each size.
+vision
+tools
+thinking
+audio
+cloud
+eb4
+Name
+gemma4:latest
+c6e396d859 - 4 days ago
+gemma4:2b
+7fbdb8f5e45 - 4 days ago
+gemma4:4b latest
+c6e396d859 - 4 days ago
+gemma4:26b
+5571876f3079 - 4 days ago
+gemma4:31b
+6316f6e29137 - 4 days ago
+gemma4:2b-it-q4_K_M
+7fbdb8f5e45 - 4 days ago
+gemma4:2b-it-q8_0
+95e5aa2a6e6a - 4 days ago
+Size
+9.6GB
+7.2GB
+9.6GB
+18GB
+20GB
+7.2GB
+8.1GB
+Context
+128K
+128K
+128K
+256K
+256K
+128K
+128K
+Input
+Text, Image
+Text, Image
+Text, Image
+Text, Image
+Text, Image
+Text, Image
+Text, Image
+Made by
+Divyanshsharma
+05 →

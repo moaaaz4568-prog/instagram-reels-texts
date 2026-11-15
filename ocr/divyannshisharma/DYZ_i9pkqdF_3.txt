@@ -1,0 +1,39 @@
+03
+/ 04
+1/ Job Search
+>> Open Perplexity's Comet Browser
+>> Paste your LinkedIn URL
+>> And type this prompt :
+perplexity.mod
+01
+02
+03
+04
+05
+06
+07
+08
+09
+01 Here you can see my LinkedIn profile.
+02 Observe my complete LinkedIn profile,
+03 what my things have been, and find
+04 me _suitable jobs in San Francisco
+05 or the Bay Area which I could apply.
+06 Justify to me what are the top 5
+07 jobs I should apply and why these
+08 are the jobs that I must apply for
+09 overall. Also give me a note on
+10 what is the percentage fitment of
+11 the job profile with what my
+current profile is.
+LinkedIn
+Your job search powered
+by your network
+Explore Jobs
+Model
+What you get:
+Ranked roles
+Fitment scores
+Direct apply links
+3 hours of scrolling
+5 minutes of clarity

@@ -1,0 +1,33 @@
+06 TIP 2: TELL IT WHY, NOT JUST WHAT
+Tip 2: Tell it WHY, not just what.
+This is the biggest shift you need to make.
+
+Old way
+Prompt
+Write a blog post about AI agents.
+
+Fable 5 way
+Prompt
+Role:
+You are a senior content strategist and writer who specializes in AI and automation.
+Task:
+Write a blog post about AI agents.
+Context:
+• Target audience: technical professionals
+• Goal: explain what AI agents are, real-world use cases, and why they matter
+• Tone: clear, insightful, and actionable
+• Include examples and a strong conclusion
+Format:
+• 1000-1200 words
+• Use markdown with headings, bullets, and examples
+• Include an SEO-friendly title and meta description
+Constraints:
+• No fluff or repetition
+• Cite credible sources where relevant
+
+Old way: "Write me a landing page."
+Fable 5 way: "I'm building a landing page for a fitness app targeting busy moms. They need to sign up for a free trial. Write the hero section copy."
+
+Fable 5 needs the full picture to do its best work. Give it the context and it will figure out the right approach on its own.
+
+Use this formula every time: "I'm working on [the bigger task] for [who it's for]. They need [what the result enables]. With that in mind: [your actual request]."

@@ -1,0 +1,7 @@
+APPENDIX B: SECURITY CONSIDERATIONS
+
+Documented CVEs
+• Documented CVEs (all patched as of April 2026): CVE-2025-49596 (CVSS 9.4, RCE) (CVSS 8.7, RCE via via MCP Inspector), CVE-2025-5953 (CVSS 8.7, command injection), CVE-2025-54795 (CVSS 8.7, MCP consent bypass), CVE-2025-54794 (CVSS 7.7, path restriction bypass), CVE-2025-64755 (CVSS High, parsing bypass), CVE-2025-52882 (CVSS High, login validation), CVE-2025-53109 (CVSS High, filesystem symlink bypass), CVE-2025-53110 (CVSS High, path traversal), CVE-2026-21852 (CVSS 5.3, API key exfiltration).
+• Security best practices: 1) Prefer official skills from verified publishers. 2) Read SKILL.md before installing. 3) Favor stdlib-only skills. 4) Use sandboxed environments for experimental skills. 5) Run security-focused skills regularly. Subscribe to security advisories. 6)
+
+@divyanshisharma

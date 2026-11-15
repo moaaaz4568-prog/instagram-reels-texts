@@ -1,0 +1,14 @@
+Adam | YouTube
+@Adam_DelDuca
+
+1. Pick a gap market niche
+
+Use TubeLab, filter faceless channels with a $5+ RPM clearing $5K/mo
+
+If nobody is earning there, you won't
+
+2. Make Claude kill it
+
+I hand it the niche data and tell it to find every reason the channel fails
+
+If it can't build a real case, I move forward

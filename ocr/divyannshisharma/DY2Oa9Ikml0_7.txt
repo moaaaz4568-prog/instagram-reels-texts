@@ -1,0 +1,19 @@
+07
+Find interesting
+niche events during sunset
+
+Apollo turns them into a people list.
+3-step workflow:
+
+Step 1: Ask Claude: "Find interesting niche events in AI / marketing / startups."
+Step 2: Claude pulls themes, industries, or attendee signals.
+Step 3: Apollo turns those signals into a list of relevant people to connect with.
+
+01 · Outbound World 2026 · Lisbon · Jun 18-20
+Themes: cold email · AI SDR · deliverability · RevOp
+enterprise sales theater Speakers: Smartlead, Inst
+Apollo surfaced: 58 confirmed
+ICP match: 31
+Already in audience: 4
+
+Divyanshi sharma

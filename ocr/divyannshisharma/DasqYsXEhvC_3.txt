@@ -1,0 +1,15 @@
+The Intent Scoring Framework
+• Every community gets a hard value score from 0 to 100 based on linguistic signals.
+• Active Triggers: Higher weight assigned to phrases like "looking for a tool," "recommend an alternative," or "budget".
+• Audience Context: Baseline signals boosted by commercial keywords like SaaS, founder, marketing, and SEO
+
+Discord High Intent
+SaaS Founders Hub
+OVERVIEW MEMBERS
+12,400 members # Business
+A community for SaaS founders sharing growth tactics, pricing strategies, tool recommendations, and customer acquisition. Weekly AMAs with founders looking for...
+INTENT SIGNALS
+looking for +12 recommend +10 recommendation +10
+pricing +9 saas +9 founder +9
+INTENT SCORE
+100

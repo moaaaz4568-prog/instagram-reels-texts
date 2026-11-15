@@ -1,0 +1,26 @@
+6
+Permissions
+that don't
+babysit you
+Less friction. More flow.
+my-app — claude — 80x24
+Claude
+claude-code
+~ /code/ sonnet-4-6
+my-app
+Claude Code v2.0.76
+• Auto permissions mode enabled.
+Claude will make changes without asking.
+Review commits before pushing.
+By default Claude asks before every action.
+Fine when you're not watching. Useless when you're not.
+Set rules instead:
+Always allowed → reading files, running tests, checking git status
+Never allowed → force pushing, deleting everything, editing .env
+Or let Auto Mode decide. Anthropic found users approve 93% of prompts anyway —
+Auto Mode handles that 93%, you only get pinged on the risky 7%.
+Pick Permissive, Balanced, or Restrictive. Comes with
+prompt-injection scanning + a full audit trail.
+(Max/Team/Enterprise/API — not on Pro yet.)
+Rule of thumb:
+cheap to undo = auto-approve. Expensive to undo = never.

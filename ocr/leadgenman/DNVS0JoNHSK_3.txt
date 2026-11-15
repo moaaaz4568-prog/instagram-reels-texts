@@ -1,0 +1,16 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+Who Built It?
+Anthropic released it Nov 25, 2024.
+They also shipped:
+✅ SDKs (Python, TS, Java, C#)
+✅ Prebuilt servers for GitHub, Slack, Google Drive, Postgres
+MCP isn't theory, it's ready-to-run code.
+MCP
+LLM
+Unified API
+Model Context
+Protocol (MCP)
+Unique API
+Unique API
+Unique API

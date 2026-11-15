@@ -1,0 +1,8 @@
+04
+The fix comes from
+Andrej Karpathy.
+A founding member at OpenAI.
+He built something called the LLM Council.
+A framework that forces AI to challenge
+your thinking instead of agreeing with it.
+@a.aliraza1

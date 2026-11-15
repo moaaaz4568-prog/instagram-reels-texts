@@ -1,0 +1,9 @@
+Step #11
+Your new key:
+sk-or-v1-6f52aee15ef33921c7d8acda41d9d9b1
+Please copy it now and write it down somewhere
+safe. You will not be able to see it again.
+You can use it with OpenAI-compatible apps, or
+your own code
+Generate and securely
+copy your API key

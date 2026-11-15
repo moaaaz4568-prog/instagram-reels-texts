@@ -1,0 +1,27 @@
+LightRAG
+5. LightRAG
+https://github.com/hkuds/lightrag
+HKUDS / LightRAG Public
+Code Issues 176 Pull requests 17 Discussions Actions Projects Security Insights
+main 3 Branches 81 Tags
+Go to file
+danielnkald Bump API version to 0279
+ci/.github
+.github
+README.assets
+assets
+docs
+examples
+k8s-deploy
+lightrag
+lightrag_webui
+f6d9114 · 2 hours ago
+Add testing workflow guidelines to basic development rules
+Refact: Centralizes version management in dedicated module
+Add chinese version of README
+Add litewte link
+docs: rewrite InteractiveSetup.md for clarity and usability
+Merge branch 'main' into fix/cypher-injection-workspace-label
+Refactor Helm template to handle optional envFrom values s...
+Bump API version to 0279
+Merge pull request #2842 from HKUDS/dependabot/bun/light...

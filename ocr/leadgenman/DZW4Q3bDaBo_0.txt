@@ -1,0 +1,18 @@
+claude_setup.workspace
+leadgenman 2026
+set up claude code
+in one hour
+six blocks. ten minutes each. a real coding agent in your
+terminal by the end.
+first task
+install
+1
+2
+Launch
+3
+auth
+CLAUDE.md
+4
+5
+claude/
+6

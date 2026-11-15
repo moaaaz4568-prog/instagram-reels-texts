@@ -1,0 +1,15 @@
+PART 13: SPECIALIZED DOMAINS
+Education
+danielcregg / moodle-mcq Public
+Home Automation
+jmagar / claude-homelab Public
+Travel & Genealogy
+borski / travel-hacking-toolkit Public
+Health & Fitness
+coachmanjeet / agilefitness Public
+Programming Lang
+hmohamed01 / swift-development Public
+Meta & Directories
+VoltAgent / awesome-agent-skills Public
+https://www.notion.so/growth-exe/Part-13-Specialized-Domains-351a8cdc773980e68050c1bcceae7d97?source=copy_link
+@divyanshisharma

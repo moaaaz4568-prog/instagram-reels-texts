@@ -1,0 +1,6 @@
+CRITICAL STEP! DON'T SKIP THIS!
+Oops, don't forget!
+Open the JSON file you just downloaded. Look for the line that says client_email.
+COPY the email address there (it looks strange, very long, and ends with . @...iam.gserviceaccount.com ).
+Open the Google Sheet you want to automate, click Share, then PASTE that email and give it Editor access.
+If you skip this step, your bot will just sit there confused and won't be able to write anything!

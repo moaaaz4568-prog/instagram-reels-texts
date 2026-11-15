@@ -1,0 +1,6 @@
+however, ai is notorious for it's inconsistency.
+that's why, if you want to create AI influencers (that actually look real)
+use this command
+create_influencer_prompt
+Claude is asking you questions and builds a structured JSON prompt for Higgsfield.
+@divyanshisharma

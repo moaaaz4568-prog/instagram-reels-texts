@@ -1,0 +1,31 @@
+Make
+VS
+n8n
+Make
+n8n
+If no company urls were found, retrieve data from the website
+Loop Over Items
+Filter1
+OpenAI
+Merge2
+Full email
+Make
+VS
+n8n
+Loop Over Items1
+GetCompanyInfo
+Merge1
+Edit Fields
+Trigger
+Filter
+Filter2
+If
+Google Sheets Trigger
+Filter2
+If
+No company urls were found, retrieve data from the website
+Loop Over Items
+Filter1
+OpenAI
+Merge2
+Full email

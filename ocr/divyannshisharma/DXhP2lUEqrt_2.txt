@@ -1,0 +1,11 @@
+MCP SERVERS
+
+• Browser automation: lnkd.in/eMC5dUqR
+• Database + auth: lnkd.in/eSCpJPv
+• Deploy apps: github.com/Dokploy/mcp
+
+SKILLS
+
+• Browser control: lnkd.in/eppbgRaK
+• Full dev workflow: lnkd.in/ejAPia8C
+• Recurring tasks: github.com/tadaspetra

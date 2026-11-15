@@ -1,0 +1,18 @@
+BRAND OUTREACH
+claude code sponsor-outreach
+Researched 47 AI companies across Reddit, HN, YouTube, Instagram
+Filtered for brand fit + budget signals
+Generated 12 prospect profiles
+Drafted 12 personalized outreach emails
+Top Prospects
+Company Fit Score Category Signal
+Cursor 95/100 AI IDE Reddit
+Supabase 92/100 Database HN
+Vercel 90/100 Deployment YouTube
+Railway 88/100 Infrastructure Instagram
+Anthropic 86/100 HN
+Replicate 85/100 AI IDE Reddit
+12 personalized outreach emails
+Researches trending AI startups, builds a prospect list, and drafts personalized outreach emails. Sponsorships on autopilot.
+@itsylergermain
+save for later

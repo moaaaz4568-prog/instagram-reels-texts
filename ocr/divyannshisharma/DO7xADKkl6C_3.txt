@@ -1,0 +1,20 @@
+Step #3
+Customize n8n to you
+These questions help us tailor n8n to you
+What best describes your company?
+Education
+What describes you?
+IT
+What are you looking to automate?
+Select...
+Automations mainly be for?
+Myself
+Who will use your automations?
+People
+How big is your company?
+Less than 20 people
+How did you hear about n8n?
+Event
+Get started
+Customize n8n
+Secure your setup.

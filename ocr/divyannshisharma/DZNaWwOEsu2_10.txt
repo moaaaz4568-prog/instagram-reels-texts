@@ -1,0 +1,80 @@
+ADVANCED #2 & #3
+MCPVAULT
+free bridge connecting Claude directly to your vault.
+14 commands.
+Zero setup headaches.
+Official Obsidian Skills built by the CEO of Obsidian.
+12,900+ GitHub stars in 3 months.
+The officially endorsed way to connect AI to your vault.
+SKILLS
+steph-ango / obsidian-skills
+Obsidian Skills
+A collection of practical Obsidian skills to help you capture, connect, and create with confidence.
+Product
+Solutions
+Resources
+Enterprise
+Pricing
+Search Open Source
+Sign in
+Sign up
+Discussions
+Actions
+Projects
+Wiki
+Security
+Insights
+steph-ango / obsidian-skills Public
+Code
+Issues
+49
+Pull requests
+13
+main
+1 Branch
+0 Tags
+7e3b1c2 - 3 weeks ago
+214 Commits
+steph-ango Update README.md
+add .obsidian
+add assets
+add attachments
+add skills
+.gitignore
+LICENSE
+README.md
+Add community plugins recommendations
+Update skill icons
+Add diagrams for maps-of-content
+Add Advanced Linking skill
+Initial commit
+Add MIT License
+Update README.md
+3 weeks ago
+last month
+2 months ago
+last month
+3 weeks ago
+6 months ago
+6 months ago
+3 weeks ago
+README
+MIT license
+About
+A collection of practical Obsidian skills to help you capture, connect, and create with confidence.
+steph-ango/obsidian-skills
+Readme
+MIT License
+Activity
+9.8k stars
+409 forks
+28 watching
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+2
+steph-ango Steph Ango
+brianpeter Brian Petro

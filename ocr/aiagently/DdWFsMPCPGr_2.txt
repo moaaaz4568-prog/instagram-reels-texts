@@ -1,0 +1,27 @@
+Step 2
+Create New Project
+"WhatsApp AI Agent"
+Claude
++ New chat
+New project
+Artifacts
+Customize
+Recents
+WhatsApp AI Agent
+Website SEO Audit
+Claude Skill Project
+Real Estate Automation
+Content Strategy
+Create a new project
+Organize your work, add instructions, and give Claude the right context for your goals.
+Project name
+WhatsApp AI Agent |
+Optional description
+Add a brief description (e.g. "Build a WhatsApp AI Agent for lead capture and appointment booking")
+Project settings
+Claude can access
+Use artifacts
+Enable code execution
+Web search
+Cancel
+Create project

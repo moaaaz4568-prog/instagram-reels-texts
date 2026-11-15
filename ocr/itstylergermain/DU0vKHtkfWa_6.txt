@@ -1,0 +1,18 @@
+Local AI's moment? Minimax releases
+MINIMAX
+2.5
+SWE-Bench Verified
+SWE-Bench Pro
+Terminal Bench 2
+Multi-SWE-Bench
+SWE-Bench Multilingual
+w/ BIBE-Pro (AVG)
+Chinese startup MiniMax dropped an open source
+model that matches Claude Opus 4.6 on coding
+benchmarks, at 1/20th the cost (about $1/hour
+to run)
+MiniMax's own new code is now
+written by itself.
+@itsstylergermain
+save for later
+save for later

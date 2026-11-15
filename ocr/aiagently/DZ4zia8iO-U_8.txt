@@ -1,0 +1,15 @@
+Step 5:
+Build the n8n workflow
+
+Warm or hot reply comes in:
+
+• Find lead in Sample Leads sheet by em
+• Do they have a Linkedin URL? Validate i contains /in/
+• Already in Connection Queue? → updad priority to 1
+• Not in queue? → use LinkUp to find Link append as Priority 1
+• Already sent? → ignore
+Next time script runs they go first.
+
+n8n AUTOMATION
+AI Agent
+Tools Agent

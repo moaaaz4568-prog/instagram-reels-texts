@@ -1,0 +1,21 @@
+n8n vs LangGraph
+Agent Workflow Implementation
+n8n
+Visual Agent Workflow
+User Input
+AI Agent
+Tool Call
+Memory
+Decision
+Response
+LangGraph
+Graph-based Agents
+State
+Agent 1
+Agent 2
+Tool Node
+Conditional
+try
+done
+Continue
+End

@@ -1,0 +1,16 @@
+What Goes in
+Your CLAUDE.md
+
+What to put in it:
+
+Your stack and versions, the
+folder layout, the commands to run
+before every commit, and what it
+should never touch.
+
+Keep it short:
+
+Every line gets read on every
+single turn. So a bloated file
+quietly burns your tokens all day.
+200 lines in it is a sweet spot.

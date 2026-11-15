@@ -1,0 +1,10 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Memory:
+New Tab
+Prompt
+Please build a memory screen in our mission control.
+It should list all our mission control
+documents. We should also have a search
+component so I can quickly search through all our
+memories.

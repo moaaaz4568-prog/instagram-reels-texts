@@ -1,0 +1,11 @@
+03
+Performance
+Capabilities
+Performance
+Safety
+Download
+Performance vs size and Gemma 4 wins
+31B + 26B sit inside the efficiency frontier, beating models up to 20x their size on Elo score
+Made by
+Divyanshsharma
+04 →

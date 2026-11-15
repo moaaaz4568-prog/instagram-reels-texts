@@ -1,0 +1,19 @@
+USE CASE 04
+Clone the apps
+you’re still paying for.
+One developer rebuilt his favorite dictation app.
+Everything runs locally. Nothing leaves his machine.
+Dictate
+The future of productivity isn’t about doing more. It’s about focusing on what truly matters. By eliminating distractions and automating the busywork, we can create space for deeper work, creativity, and meaningful progress.
+100% LOCAL • NOTHING LEAVES THIS MACHINE
+Model: whisper-large (online)
+0.45
+Why rent software every month when you can
+own the workflow?
+Build a private, local-first version with the features you actually
+use—faster, cheaper, and fully under your control.
+STARTER PROMPT
+Analyze how [app] works. Create a step-by-step plan to rebuild
+its core features as a local application that runs entirely on my
+machine. Build an MVP, test every feature, fix issues, and
+continue iterating until the complete workflow works end to end.

@@ -1,0 +1,23 @@
+Path 6:
+Ethics, Safety, and Alignment
+
+What you do
+Design guardrails, audits, and on-call playbooks for agentic systems.
+
+Stack to learn
+Manus AI
+Claude Code
+Data and logs:
+Vercel
+Postgres
+Supabase
+
+30-day plan
+→ Week 1: Define unacceptable behaviors.
+→ Week 2: Add policy checks.
+→ Week 3: Create red-team prompts.
+→ Week 4: Set up incident logging and rollback.
+
+Metric that matters
+• Escapes prevented
+• Mean time to rollback

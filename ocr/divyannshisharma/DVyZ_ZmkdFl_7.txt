@@ -1,0 +1,33 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+IV. Basic Tools & Features
+
+1. Connectors
+
+These allow Claude to connect to your favorite tools
+
+Connectors
+Allow Claude to reference other apps and services for more context.
+
+Browse connectors
+
+Excalidraw
+Interactive
+Configure
+
+Figma
+Interactive
+Configure
+
+Google Calendar
+Configure
+
+Notion
+Configure
+
+Slack
+Interactive
+Configure
+
+●●●●●●●●●●

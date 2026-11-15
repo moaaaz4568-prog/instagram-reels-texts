@@ -1,0 +1,11 @@
+Step #18
+Save new job from RSS
+Job assistant AI Agent
+Templates
+Variables
+All executions
+Help
+FHD 144Hz
+Built with n8n, DeepSeek AI, Perplexity & LinkedIn RSS
+Geek AI,
+n RSS

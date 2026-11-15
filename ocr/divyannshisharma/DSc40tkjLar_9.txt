@@ -1,0 +1,15 @@
+Step #9
+Settings
+General
+Billing
+Members
+Public API
+Integration
+Account
+Documentation
+Arcads API Documentation
+Credentials
+Get new credentials
+Client ID
+Client Secret
+Get your Client ID and Secret from Arcads settings

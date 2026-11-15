@@ -1,0 +1,23 @@
+STEP 3
+Build memory
+Every correction becomes its own .md file, indexed and loaded and so only the relevant one loads and the same mistake never lands twice.
+How it works
+Small files. Big results.
+You
+You correct
+SAVES
+One file each
+.md
+LOADS
+Memory
+Next session
+Add this rule to Claude
+From now on, whenever I correct you, save it as its own .md file at ~/.claude/projects/{project}/memory/. Index everything in MEMORY.md.
+Example files
+MEMORY.md
+voice.md
+preferences.md
+One Account
+Same Files
+Works Everywhere
+Set Up in Minutes

@@ -1,0 +1,8 @@
+8.
+github.com/ArchiveBox/Arc...
+Point it at any link and it saves a complete,
+permanent copy, the full page, a PDF, a screenshot,
+the video, all of it, on your own drive. When the
+article gets edited or the page 404s later, your copy
+still opens. Your personal Wayback Machine.
+22K+ stars.

@@ -1,0 +1,12 @@
+08 / 11
+08
+Knowledge
+Obsidian
+Skills Pack
+Turn your second brain into a Claude Code power tool.
+08
+Claude Code read, write and search your vault — turning notes into living context.
+Live Context
+Vault Access
+Smart Search
+github.com/cline/obsidian-mcp

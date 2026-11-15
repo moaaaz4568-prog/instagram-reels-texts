@@ -1,0 +1,12 @@
+The Topic Rotator:
+Tools
+Variable name
+Topic Rotator
+Variable lifetime
+One cycle
+Variable value
+switch( ( floor( random( 5 ) ) + 1 ) ; 1 : topic1 ; 2 : topic2 ; 3 : topic3 ; 4 : topic4 ; 5 : topic5 )
+Cancel OK
+Topic Rotator
+Set variable
+First, understand that you can input formulas in Make, much like excel or Google sheets

@@ -1,0 +1,8 @@
+Jack Blair
+@jackblair_official
+
+4. The buyer who took the call angry.
+
+The fourth prompt makes Claude the buyer the last company burned, who interrupts you from the first sentence. You absorb, paraphrase, give the reason, offer two paths and ask the one question. Here's what it does:
+
+After every reply it tells you whether the temperature went up or down, and why. It tells you whether the temperature went up or down, and why. It doesn't let you off until the buyer stops fighting, and it never accepts a discount as the fix.

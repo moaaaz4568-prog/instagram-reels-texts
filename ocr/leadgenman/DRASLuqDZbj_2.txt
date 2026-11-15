@@ -1,0 +1,9 @@
+LlamaIndex
+
+A data framework that connects LLMs to external data by loading, indexing, and retrieving from 150+ sources and vector stores, enabling retrieval-augmented generation.
+
+Key Features:
+• Supports 150+ data sources (PDFs, SQL, APIs)
+• Integrates with 40+ vector databases
+• Query transformation splits complex queries into smaller, manageable parts
+• Strong at search and retrieval tasks

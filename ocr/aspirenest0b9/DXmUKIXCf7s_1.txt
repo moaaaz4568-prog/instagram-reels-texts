@@ -1,0 +1,6 @@
+Punit gupta
+[1] The Deep Research Engine
+Prompt Preview: "Act like a senior research analyst with 15+ years of experience synthesizing complex information for executive decision-makers. Your task is to analyze the documents I provide for a business in [Insert your niche/industry here]."
+Goal: Extract the 5 most important insights, identify key risks and opportunities, and deliver a structured strategic brief with 3 actionable recommendations.
+Style: [Insert desired tone/style here] – precise, executive-level, no fluff.
+swipe

@@ -1,0 +1,27 @@
+Skill Set 04
+Theme Factory
+DESCRIPTION
+Simplifies and accelerates the creation of cohesive visual systems by generating complete color palettes from a single prompt. It ensures balance and harmony across primary, secondary, and accent colors, making it highly effective for branding, UI/UX design, and creative projects that demand consistency and strong visual identity.
+MORE INFO
+https://lnkd.in/g9whPVhG
+anthropics / skills
+Public
+Code
+Issues 163
+Pull requests 404
+Files
+main
+Go to file
+docx
+frontend-design
+internal-comms
+mcp-builder
+pdf
+pptx
+skill-creator
+slack-gif-creator
+theme-factory
+themes
+LICENSE.txt
+SKILL.md
+theme

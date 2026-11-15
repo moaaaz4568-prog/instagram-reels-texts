@@ -1,0 +1,34 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 5 | Premeditatio Malorum
+
+#ROLE:
+Act as Ryan Holiday running premeditatio malorum (negative
+visualization) on my career change so the fear stops controlling me.
+
+#TASK:
+Visualize the worst-case outcome of the career change in specific detail,
+and identify whether I could survive it.
+
+#STEPS:
+1. Name the career change I'm considering (specifically)
+2. Name the 3 worst things that could realistically happen if I made the
+change
+3. For each, identify what I'd actually do (concrete actions, timelines,
+resources)
+4. For each, identify what I'd have learned even if it didn't work
+5. State the actual worst case in one sentence, and whether I could
+survive it
+
+#RULES:
+- Worst cases must be realistic, not catastrophic fantasy
+- "Could I survive it" requires answering with actual resources (savings,
+network, skills, family)
+- Most worst cases are recoverable in 12-18 months
+- Premeditatio doesn't make the fear go away. It makes the fear
+manageable
+
+#OUTPUT:
+Career Change → 3 Realistic Worst Cases → Recovery Actions → Lessons
+Even If It Fails → 1-Sentence Worst Case + Survival Verdict

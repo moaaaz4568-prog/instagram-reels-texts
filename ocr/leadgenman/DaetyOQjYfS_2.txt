@@ -1,0 +1,18 @@
+STEP - 1
+Set up your mailboxes
+1 Go to maildosoo.ai
+2 Register domains or connect your own
+3 Spin up your SMTP mailboxes
+4 SPF, DKIM, DMARC auto configured
+5 Export them or grab your API key
+maildoso
+Mailboxes
+built for outbound
+Diversify your sending strategy with reputable mailboxes built specifically for cold outreach, starting at just $0.49. Automate your SPF, DKIM, and DMARC setup, connect to your favorite tools in one click, and achieve 95%+ email deliverability.
+Watch the product video
+10M+
+emails sent per day
+4.7
+G2 rating with 197 reviews
+400K+
+mailboxes managed

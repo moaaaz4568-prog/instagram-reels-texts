@@ -1,0 +1,24 @@
+Lv 1
+AI Chat
+Copy-paste coding in a browser tab
+chat-prompt.txt - Notepad
+File Edit Format View Help
+You paste into claude.ai:
+"Here is my LeetCode problem + my whole
+file. Can you fix it?"
+Good evening, Manthan
+I am solving Two sum leetcode problem.
+here's my current code:
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+
+    }
+};
+I am stuck at this part. Can you help me complete the challenge
+help me complete the challenge
+Chat
+Code
+Opaq 4.8 Extra
+AI in a chat tab. You do all the work.
+02 / 09

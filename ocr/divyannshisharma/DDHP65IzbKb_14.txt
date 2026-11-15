@@ -1,0 +1,11 @@
+prompt 13 →
+Find Competitors
+Prompt:
+Visit [company name] website.
+Understand its core activity.
+Then use Google Search to find 10 companies doing the same activity.
+Return the result in a table. Columns are:
+- company name
+- website URL
+- Description
+Do not comment. Only return the table.

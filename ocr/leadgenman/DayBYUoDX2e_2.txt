@@ -1,0 +1,12 @@
+Agentic AI in 60 seconds
+What "agentic" means
+Systems that set a goal, plan multi-step actions, use tools, execute, and self-check.
+Core loop (SPAR)
+→ Sense: gather context and data
+→ Plan: choose steps and tools
+→ Act: do real work (APIs, files, calls)
+→ Reflect: verify, log, and improve
+Operator rules
+• Start with one workflow and one success metric
+• Measure minutes, accuracy, and dollars per run
+• Ship small. Add guardrails. Then scale

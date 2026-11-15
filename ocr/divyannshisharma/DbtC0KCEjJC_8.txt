@@ -1,0 +1,18 @@
+Why this matters:
+The AI models are already insanely smart. The real bottleneck isn't intelligence, it's how much REAL context you can give it.
+9:41
+Granola
+Listening and remembering
+What did I decide with the client on Tuesday?
+9:41 AM
+On Tuesday's call with Acme Corp (May 14, 2:00 – 2:45 PM), here's what you decided:
+We'll move forward with the custom analytics dashboard.
+Scope: 5 core reports (Revenue, CAC, Retention, LTV, Churn) + user segmentation.
+Timeline: 6 weeks from kickoff (target launch: June 25).
+Investment: $18,500 (agreed as fixed project fee).
+Next steps: You'll send the SOW by EOD Tuesday, and they'll review and sign by Friday.
+You also agreed to a bi-weekly check-in on Tuesdays at 10 AM.
+9:41 AM
+Source: Client Call – Acme Corp
+Tue, May 14, 2024 • 2:00 – 2:45 PM
+Ask anything about your past conversations...

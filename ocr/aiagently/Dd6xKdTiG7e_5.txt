@@ -1,0 +1,27 @@
+Step 5
+Add Global Instructions
+Under Settings > Cowork, write Global Instructions
+it follows every time. Then pick a mode:
+Manual to approve each step, or Auto.
+Settings
+Claude
+Home
+Projects
+Artifacts
+Cowork
+Settings
+Global Instructions
+Add your global in
+Auto
+Global Instruction
+“Always read my context files first and use them as the source of truth.
+Understand my goal, existing work, preferences, and file structure before
+taking action.
+Ask me before any big, destructive, or irreversible change. Never delete my files.
+Never overwrite important work. When possible, create a new version instead.
+For small, safe, reversible changes, use your judgment and move forward
+without unnecessary questions.
+Preserve my existing work, follow my instructions and preferences, and verify
+your work before finishing.
+Understand first. Preserve first. Then act.”
+Rule: Read first. Understand first. Preserve first. Then act.”

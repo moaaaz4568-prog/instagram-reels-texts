@@ -1,0 +1,11 @@
+6.
+Find Venture-Backed Startups → Create Investor-Aware Messaging
+WORKFLOW:
+1 Prospeo
+Find Venture-Backed Startups
+2 Filter for Venture-Backed Startups
+3 Export List
+Export Venture-Backed Companies
+4 Claude
+“Write messaging referencing recent funding.”
+Claude

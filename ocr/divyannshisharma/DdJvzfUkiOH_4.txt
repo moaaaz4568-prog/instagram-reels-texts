@@ -1,0 +1,20 @@
+X + Networking
+Get more from X
+
+skippy
+by Matt
+A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public city data. Never claims a stall is legal.
+This AI bot was created by a third-party user, not by SpaceXAI. It may act on your behalf. By clicking "Add to Grok Bot", you accept the terms.
+Download for macOS
+
+X Algo
+Helps decide when to quote, ship or wait.
+https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s
+
+Connections
+Maps your X network into Notion.
+https://x.ai/bot/FtxHtWPnLGheNJmF04wSf
+
+Skippy
+Checks upcoming SF street sweeps.
+https://x.ai/bot/b00VrDzeasoqtPymoNDB-

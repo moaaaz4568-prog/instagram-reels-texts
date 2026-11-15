@@ -1,0 +1,76 @@
+divyanshisharma
+( 49 to 72 )
+Tone & Style
+/dense
+information-dense, no padding
+Output Format
+/casual
+super casual tone
+Tone & Style
+/formal
+professional formal
+Tone & Style
+/academic
+scholarly academic tone
+Tone & Style
+/blunt
+no fluff, ultra direct
+Tone & Style
+/savage
+brutally honest feedback
+Tone & Style
+/gentle
+soft and encouraging
+Tone & Style
+/hype
+maximum enthusiasm
+Tone & Style
+/sarcastic
+dripping with sarcasm
+Tone & Style
+/sincere
+genuine, zero irony
+Tone & Style
+/enthusiastic
+over-the-top excitement
+Tone & Style
+/chill
+very relaxed vibe
+Tone & Style
+/anti-corporate
+plain speak, no jargon
+Tone & Style
+/deadpan
+completely flat delivery
+Tone & Style
+/stoic
+emotionless facts only
+Tone & Style
+/corporate
+corporate speak mode
+Tone & Style
+/pirate
+arr matey style
+Tone & Style
+/noir
+detective noir narration
+Tone & Style
+/shakespeare
+old English style
+Tone & Style
+/gen-z
+gen z slang throughout
+Tone & Style
+/therapist
+empathetic and reflective
+Tone & Style
+/boomer
+brutally honest feedback
+Tone & Style
+/coach
+motivational coach energy
+Tone & Style
+/professor
+lecture style delivery
+Tone & Style
+Swipe →

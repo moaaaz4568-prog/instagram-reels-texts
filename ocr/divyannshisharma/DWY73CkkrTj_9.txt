@@ -1,0 +1,12 @@
+Step 9: Email
+Too formal and you sound like a robot. Too casual and you sound unprofessional.
+This workflow fixes that:
+Draft an email.
+To: [NAME + how I know them]
+Goal: [WHAT I WANT THEM TO DO]
+Tone: professional but sounds like a real person
+Max: 5 sentences
+Context: [THE SITUATION]
+Does not sound like: a cold pitch template, corporate speak, or something ChatGPT would write.
+No "I hope this email finds you well."
+Swipe →

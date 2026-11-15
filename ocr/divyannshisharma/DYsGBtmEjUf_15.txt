@@ -1,0 +1,33 @@
+15
+Travel plan built around
+how you actually travel
+
+Your trip.
+Your style.
+Your plan!
+
+Most travel planning starts with destinations and ends
+with a generic itinerary you could find on any travel blog.
+Claude can do something different: build a plan around
+your specific travel style, pace, budget, and what actually
+matters to you, not what's on every must-see list.
+
+I'm planning a trip to [destination]. I'll be there for [number of days].
+My budget is approximately [amount] per day including accommodation.
+
+Here's how I actually travel: [describe your style — do you like slow mornings
+or packed days, touristy places or local spots, museums or food,
+active or relaxed, solo or with someone, etc].
+
+Things I want to avoid: [crowds, tourist traps, expensive restaurants,
+long transport times, etc].
+
+Build me a day-by-day itinerary that fits this. For each day, include where
+to stay, what to do, where to eat, and any logistics I need to know.
+Flag anything that requires booking in advance.
+
+The key is giving it real information about you
+not just dates and locations.
+
+Divyanshi sharma
+15/18

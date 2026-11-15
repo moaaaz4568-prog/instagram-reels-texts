@@ -1,0 +1,12 @@
+ick Setup - Scenes: w/changed on ip[ad
+Filters
+Scene Transitions
+ing
+Ver
+Fade
+Duration 400 ms
+Audio Mixer
+Microphone - Vertical
+0.0 dB
+Video Capture Device
+0.0 dB

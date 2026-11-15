@@ -1,0 +1,11 @@
+Content type
+JSON (application/json)
+Sets the Content-Type request header.
+Request content
+"key": "your-api-key",
+"model_id": "plat-diffusion-v131",
+"prompt": "ultra realistic close up portrait (beautiful pale cyberpunk f k emale with heavy black eyeliner))", "b lue eyes, shaved side haircut, hyper detail, cinematic lighting, magic neo n, dark red city, Canon EOS R3, niko n, f/1.4, ISO 200, 1/160s, 8K, RAW, fra nedited, symmetrical balance, in-mo, 8K",
+"negative_prompt": "painting, extr a fingers, mutated hands, poorly dr ed hands, poorly drawn face, de fo rmed, ugly, blurry, bad anatomy, ba
+Show advanced settings Cancel OK
+Content Type is commonly JSON. Typically this means you'll copy code over from the API documentation and paste it in the "body."
+As long as it has curly brackets on the top and bottom. This is JSON

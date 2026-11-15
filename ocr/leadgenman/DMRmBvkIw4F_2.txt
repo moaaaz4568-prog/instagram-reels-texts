@@ -1,0 +1,5 @@
+Layer 1 - Perception
+Process multimodal inputs like:
+Text (NLP), images (vision), audio, sensors and maintain
+situational context. Feeds structured data downstream.
+AI Agent Architecture

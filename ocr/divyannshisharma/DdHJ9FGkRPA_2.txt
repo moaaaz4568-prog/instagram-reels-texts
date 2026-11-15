@@ -1,0 +1,27 @@
+Step 2
+Open the meeting
+in Granola.
+Once the meeting is done, I run:
+/ Pain Point To LinkedIn Brief
+The recipe analyzes the conversation and identifies
+the core frustration the customer or prospect expressed.
+Recipe
+Pain Point To LinkedIn Brief
+Granola chat recipe
+Turns customer frustrations into a designer brief for a LinkedIn post.
+Made by Ruben Hassid
+Copy link
+Try recipe
+Prompt:
+A meeting just finished where a customer or prospect shared a frustration.
+Your job is to turn that pain point into a clear designer brief for a LinkedIn post.
+Rules:
+- Identify the core frustration expressed in the meeting
+- Write the brief so a designer can create a visual post without needing more context
+- Keep the tone relatable and human, not corporate
+1.8k
+Single notes
+Choose note to recipe with
+AI motion graphics workflow — from script to finished video
+SAND product launch — agent creation and content strategy with Mike
+Sri Lanka trip accommodation and transport planning

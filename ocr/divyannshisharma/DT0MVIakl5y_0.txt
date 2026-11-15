@@ -1,0 +1,16 @@
+This Boring AI Skill Will Create
+Millionaires in 2026
+Vapi MCP Server Vapi MCP
+Editor Executions Evaluations
+0/3 Active Share Save
+MCP Server
+Trigger
+Execute workflow
+Call 'Client Lookup CRM'
+Call 'New Client
+Lookup'
+Call 'Check
+Availability'
+Call 'Update
+Appointment'
+Swipe for (the roadmap)

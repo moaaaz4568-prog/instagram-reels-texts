@@ -1,0 +1,14 @@
+login.sh
+02
+0:10 -> 0:20
+block two -- launch and log in
+type one word, then authorize in the browser.
+code-setup -- Manthan Patel
+~/penanywhere > claude
+Welcome to Claude Code
+opening browser to authenticate...
+logged in as manthan@leadgenman.com
+run claude
+browser opens
+paste back - done
+api key instead? export ANTHROPIC_API_KEY and skip the browser.

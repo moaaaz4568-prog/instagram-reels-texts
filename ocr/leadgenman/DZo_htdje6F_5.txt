@@ -1,0 +1,12 @@
+Step 5
+Tell Claude to
+build your infra
+Afternoon, Manthan
+Currently unavailable.
+Learn more
+Claude Code is currently unavailable.
+Using the Maildoso MCP, register 5 domains, create 3 inboxes on each, set up a forwarding inbox for replies, and run a placement check so I only send from healthy mailboxes.
+Opus 4.8, Extra
+My email accounts (24)
+Search accounts or domains
+Claude handles the rest

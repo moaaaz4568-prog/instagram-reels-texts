@@ -1,0 +1,34 @@
+SLIDE 11
+HOW TO
+BUILD THIS
+Start simple. Don’t wire all 4 at once.
+Week 1 → Build Planner + Coder only. Run as a 2-agent chain.
+Week 2 → Add the Tester once the first two feel solid.
+Week 3 → Add the Reviewer as the final gate.
+By week 3 you have the full pipeline running.
+Each stage builds on the last.
+WEEK
+1
+Build Planner
++ Coder only.
+Run as a 2-agent chain.
+PLANNER
+CODER
+WEEK
+2
+Add the Tester
+once the first
+two feel solid.
+PLANNER
+CODER
+TESTER
+REVIEWER
+WEEK
+3
+Add the Reviewer
+as the final gate.
+PLANNER
+CODER
+TESTER
+REVIEWER
+Ship small. Iterate fast. Let the pipeline scale with you.

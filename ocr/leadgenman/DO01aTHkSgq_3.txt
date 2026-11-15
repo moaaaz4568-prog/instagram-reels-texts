@@ -1,0 +1,39 @@
+Turn Prompts
+into Pipeline
+
+Person
+Enrichment
+
+Company
+Enrichment
+
+Research &
+Prospecting
+
+Find Michael Jay contact data
+Michael Jay
+CTO
+San Francisco, USA
+Cybersecurity
+michael.jay@acme.com
+(415) 555-0879
+
+Get Acme Security company data
+Acme Security Corp.
+Boston, USA
+Cybersecurity
+Funding: $50M
+Intent score: Hot!
+
+Find CFOs at retail companies
+Contacts	Company	Links
+Kadin Saphron	CFO	Walmart	[In]
+Ryan Phillips	CFO	Amazon	[In]
+Charlie White	CFO	Costco	[In]
+Angel Calzoni	CFO	Target	[In]
+
+With MCP Server, one prompt gets you:
+→ Contact details
+→ Company information
+→ Real-time enrichment
+→ Intent signals

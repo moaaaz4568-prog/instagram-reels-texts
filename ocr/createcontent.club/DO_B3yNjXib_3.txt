@@ -1,0 +1,3 @@
+Then reads the script, and uses AI
+to generate an optimized caption
+depending on the platform

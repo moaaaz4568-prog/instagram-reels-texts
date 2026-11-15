@@ -1,0 +1,14 @@
+WORKFLOWS #5-6
+Idea
+Cross-Pollinator,
+Claude finds unexpected connections between notes written months apart.
+* Project Kickoff,
+Tell Claude your goals, it builds the full project folder for you.
+Less setup. More ship.
+PROJECT KICKOFF
+planning
+research
+assets
+docs
+tasks
+Claude gets it started.

@@ -1,0 +1,13 @@
+4
+/effort
+Dial the brain
+up or down.
+Grunt task or architecture decision?
+/effort low | medium | high | max sets how hard Claude
+thinks, mid-session. Burn tokens only when it actually
+matters.
+$ /effort max
+low
+medium
+high
+max

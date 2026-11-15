@@ -1,0 +1,8 @@
+Step 2
+Get your API key
+Go to settings
+Copy your Maildoso API key
+Settings
+Global Custom Domain Tracking
+API token
+You'll need this later

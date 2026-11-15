@@ -1,0 +1,8 @@
+Step 2 – Put Claude to work
+Paste this Prompt in Claude:
+You are a senior local marketing strategist. For each business in the list below, generate three deliverables:
+1. Diagnosis (50 words): what is wrong with their current online presence and what revenue is leaking because of it. Be concrete, no buzzwords.
+2. Site brief (100 words): hero angle, key services to highlight, tone that fits the industry, the call to action that will convert, one design choice that sets them apart from local competitors.
+3. Cold message (under 70 words): opens with one specific observation about THIS business, references their actual service or location, ends with a soft ask to see a mockup. Sound like a real person who looked them up. No corporate language. No mention of AI tools.
+Format as a clean table I can paste into a CRM.
+Here is the list: [paste CSV]

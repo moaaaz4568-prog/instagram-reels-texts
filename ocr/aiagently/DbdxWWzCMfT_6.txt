@@ -1,0 +1,19 @@
+Building This By Hand vs One Prompt
+OLD WAY
+VS
+NEW WAY
+Build the workflow node by node.
+Describe the offer, audience, and send time.
+Create a workflow to email all customers about our 20% off summer sale.
+Send it on May 25 at 10:00 AM EST.
+Build, schedules, and tests it for you.
+Export and clean your contact list manually.
+Clouds HA, schedules, and tests with one word, GO.
+Test by sending to yourself and hoping.
+You approve with one word, GO.
+Same result.
+Less work. More sales. That's the power of one prompt.
+Follow us on Instagram @aiagentlady
+Right Audience
+Perfect Message
+More Sales

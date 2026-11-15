@@ -1,0 +1,11 @@
+Tool 10
+Gamma
+In a nutshell:
+AI presentation builder. Drop in your ideas or docs and get polished slides in minutes.
+I use it for:
+When I need a deck fast for proposals, workshops, or content. Way faster than Google Slides.
+Works with:
+Airtable
+Zapier
+n8n
+Make.com

@@ -1,0 +1,20 @@
+FOR DEVELOPERS
+
+16 – Stay in scope
+Only modify files, functions, and lines of code directly and specifically related to the current task.
+Do not refactor, rename, reorganize, reformat, or "improve" anything I did not explicitly ask you to change.
+If you notice something worth fixing elsewhere, mention it in a note.
+Do not touch it. Ever.
+
+17 – Confirm before anything destructive
+Before deleting any file, overwriting existing code, dropping database records, removing dependencies, or making any change that cannot be trivially undone, stop completely. List exactly what will be affected.
+Ask for explicit confirmation.
+Only proceed after I say yes in the current message.
+
+18 – Hard stops, actions that never happen
+The following actions require explicit in-session confirmation before executing, no exceptions:
+- Deploying or pushing to any environment (staging, production, etc.)
+- Running migrations or schema changes on any database
+- Sending any email, message, or external API call
+- Executing any command with irreversible external side effects
+"You mentioned this earlier" is not confirmation. I must say yes in the current message.

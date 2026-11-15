@@ -1,0 +1,25 @@
+08 / 11
+BENNETTOS
+02 THE PREFIX
+// TOKEN OPTIMIZATION •
+PROTECT THE
+CACHE PREFIX.
+A cache read costs a tenth of a fresh read. On a long agent session that's the difference between a plan that lasts a week and one that dies Tuesday.
+
+~90%
+healthy cache hit rate on a stable prefix
+
+10%
+of base input price for a cached token
+
+// WHAT BREAKS IT MID-SESSION
+* Adding or removing an MCP server mid-session
+* Switching models halfway through a run
+* Timestamps or run ids in the system prompt
+
+// THE HABIT
+One stable system block per agent. Tools loaded per phase. Nothing rotating above the first user turn.
+* ALERT AT ZERO HIT RATE, NOT AT MONTH END
+
+@bennettos
+SWIPE →

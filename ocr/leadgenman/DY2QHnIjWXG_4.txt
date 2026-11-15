@@ -1,0 +1,11 @@
+Coworker
+WHAT IS BEHIND IT
+How the third door works.
+01 Read the task
+Classify the request before it costs a token.
+02 Pick the model
+Frontier when it has to be. Open-source when it doesn't.
+03 Ship the answer
+Same chat, cowork, code experience. One bill, 5x the volume.
+COWORKER.AI
+05 / 06

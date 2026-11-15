@@ -1,0 +1,25 @@
+Path 2:
+Agentic AI Developer
+
+What you do
+Build agents that plan, call tools, and close loops in production
+
+Stack to learn
+Cursor
+ChatGPT
+Gemini
+Windsurf
+Claude
+Mistral
+Manus AI
+Claude Code
+
+30-day plan
+→ Week 1: One agent. One workflow. Clear success test.
+→ Week 2: Add tool calls and retries. Log every step.
+→ Week 3: Add reflection checks. Cut tokens and latency.
+→ Week 4: Partial go-live with alerts.
+
+Metric that matters
+• Task completion rate
+• Dollars per run

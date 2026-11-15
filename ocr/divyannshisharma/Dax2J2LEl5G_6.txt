@@ -1,0 +1,195 @@
+TOP TOOL #6
+#6: Open LLM VTuber.
+An AI friend that
+lives on your desktop.
+06
+October
+Cartoon character
+powered by AI
+Hears your voice,
+sees your screen,
+remembers things
+You can watch it
+think before it
+speaks.
+Runs 100% offline.
+Never forgets you.
+Hears Your Voice
+Sees Your Screen
+Remembers Things
+Thinks Before
+It Speaks
+100% Offline
+Never Forgets You
+Always there.
+Always yours.
+Open LLM VTuber
+Your AI companion
+remembers and th
+About
+Open-LLM-VTuber / Open-LLM-VTuber
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Sign in
+Sign up
+Search or jump to...
+Open-LLM-VTuber / Open-LLM-VTuber
+Public
+Star 8.5k
+Fork 1.1k
+Watch 82
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Sign in
+Sign up
+Search or jump to...
+Open-LLM-VTuber / Open-LLM-VTuber
+Public
+Star 8.5k
+Fork 1.1k
+Watch 82
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Sign in
+Sign up
+Search or jump to...
+Open-LLM-VTuber / Open-LLM-VTuber
+Public
+Star 8.5k
+Fork 1.1k
+Watch 82
+main
+README.md
+LICENSE
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+.github/
+assets/
+backgrounds/
+characters/
+config_templates/
+doc/
+frontend/
+scripts/
+src/
+tests/
+translators/
+utils/
+14172 commits
+39 branches
+14 tags
+Release v1.2.1 (latest)
+10 months ago
+feat: add carousel, config, gemini rules for code assist and ...
+10 months ago
+feat: add carousel, config, gemini rules for code assist and ...
+4 months ago
+fix: diceocker in container
+4 months ago
+Rename "本" to "本" (using Live2D v2.1.0) to banner2c.jpg
+7 months ago
+update config, add character menu
+11 months ago
+ui: code: add more readme in directories
+11 months ago
+feat: add Finetune support in shallow_cpmo_arch (3/3)
+5 months ago
+docs: add warning note for doc directory
+11 months ago
+Merge pull request #10 from Open-LLM-VTuber/feat/add-local-llm-support
+11 months ago
+feat: add local LLM support for chat
+11 months ago
+update readme
+12 months ago
+fix: update dockerfile to use python 3.10
+12 months ago
+docs: add more info in readme
+12 months ago
+feat: add support for custom characters
+12 months ago
+update config template
+12 months ago
+feat: add support for custom characters
+12 months ago
+update readme
+12 months ago
+fix: update dockerfile to use python 3.10
+12 months ago
+docs: add more info in readme
+12 months ago
+feat: add support for custom characters
+12 months ago
+update config template
+12 months ago
+feat: add support for custom characters
+12 months ago
+update readme
+12 months ago
+Open-LLM-VTuber.github.io/
+chattts
+live2d
+local-web
+llm
+ai-vtuber
+ai-waifu
+ollama
+neuro-sama
+companion
+README
+companion
+View license
+Contributing
+Code of conduct
+Activity
+Custom properties
+8.5k stars
+82 watching
+1.1k forks
+Version 1.2.1 (tag: v1.2.1)
+10 months ago
+Open LLM VTuber
+Star
+Your AI companion
+remembers and th
+n that sees, hears,
+thinks with you.
+Voice
+Chat
+Screen
+Aware
+Memory
+Build-in
+Thinks
+First
+100%
+Offline
+Remembers
+You
+Not just a tool.
+A companion.
+github.com/Open-LLM-VTuber/Open-LL

@@ -1,0 +1,19 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+2. Claude Code
+
+Claude Code is the most powerful AI coding tool on the market.
+
+Write code, build websites, handle errors – literally anything.
+
+Claude Code is a more advanced tool, but if you're a coder and you're not using it already, you should.
+
+Find a small todo in the codebase and do it
++ <> Auto accept edits
+Select folder
+Create or update my CLAUDE.md file
+Search for a TODO comment and fix it
+Recommend areas to improve our tests
+Sonnet 4.6
+Local

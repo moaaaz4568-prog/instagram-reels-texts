@@ -1,0 +1,13 @@
+Anthropic Releases
+Claude Code
+Scheduled Tasks
+AGENT LOOPS
+CLAUDE
+CODE
+Claude Code now supports local scheduled tasks -
+basically prompt jobs at fixed intervals that run in the
+background as your computer is on. Plus, they also
+released agent loops, which are session-based
+recurring tasks you can create at any time.
+@itstylergermain
+save for later

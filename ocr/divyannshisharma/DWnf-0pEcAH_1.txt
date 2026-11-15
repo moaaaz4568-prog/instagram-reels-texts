@@ -1,0 +1,4 @@
+Step 1: Remotion
+They dropped an agent skill for AI motion
+graphics. One command installs it.
+SKILLS

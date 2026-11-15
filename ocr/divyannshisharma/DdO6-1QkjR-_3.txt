@@ -1,0 +1,29 @@
+SLIDE 4
+Skill 2:
+Algorithmic Art
+
+The idea: You give Claude an idea.
+You get back an interactive piece of generative art.
+
+What this skill does: Claude builds as an
+interactive art playground.
+Adjust parameters, create variations,
+and save the versions worth keeping.
+
+The result: All delivered as a single HTML file
+you can open anywhere.
+
+Infinite
+variations
+
+Adjust in
+real time
+
+Export when ready
+
+Perfect for NFT projects,
+digital art, and creative experiments.
+github.com/anthropics/skills/tree/main/skills/algorithmic-art
+
+Ideas become interfaces.
+Interfaces become art.

@@ -1,0 +1,26 @@
+The Vibe Stack
+06
+Step 2:
+Let Claude
+Write Everything
+GOOD MESSAGES
+GET REPLIES.
+REPLIES GET
+CLIENTS.
+Paste this prompt into Claude with your list of businesses:
+You're a senior local marketing strategist. For each business below, generate:
+1. Diagnosis (50 words):
+What's wrong with their online presence. What money they're losing. Be specific. No buzzwords.
+2. Site brief (100 words): What the new site should say, feel like, and do.
+3. Cold message (under 65 words): Opens with one specific thing you noticed about THIS business. Ends with a soft ask to see a mockup. No corporate words. Sound human. Do not mention any AI tools.
+4. Format as a table. List: [paste your 35 businesses here] Claude gives you a table. Done.
+Claude = your copywriting partner. Use it well.
+MINDSET: SOLVE REAL PROBLEMS. GET PAID WELL. RINSE. REPEAT.
+WHAT CLAUDE GIVES YOU
+✅ Clear diagnosis
+✅ Website plan
+✅ Personalized message
+✅ All in one table
+SAVE HOURS.
+SOUND HUMAN.
+CLOSE MORE.

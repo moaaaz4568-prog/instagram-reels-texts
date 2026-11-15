@@ -1,0 +1,4 @@
+Stop using MCP.
+Start using CLIs.
+claude
+code

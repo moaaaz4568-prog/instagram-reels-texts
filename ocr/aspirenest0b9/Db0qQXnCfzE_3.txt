@@ -1,0 +1,32 @@
+DEVELOPER AI
+04 / 14
+PUNIT GUPTA
+
+THE AGENIC DEV STACK
+IS EXPANDING
+
+When AI agents start writing software, new infrastructure becomes necessary around them.
+
+REPLICAS
+CODING-AGENT ORCHESTRATION
+Agents receive software tasks through existing team workflows and execute them in isolated environments.
+
+ARCHAL
+EVALUATION INFRASTRUCTURE
+Tools for testing whether autonomous systems actually work reliably.
+
+EMDASH
+AGENTIC DEV ENVIRONMENT
+A development environment designed around AI agents performing software work.
+
+STAGE
+AI CODE REVIEW
+Verification and review become increasingly important as AI generates more code.
+
+AI writes the code. A new stack makes that possible safely.
+
+Y Combinator
+
+SWIPE ->
+
+01

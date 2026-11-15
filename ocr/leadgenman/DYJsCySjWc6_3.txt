@@ -1,0 +1,6 @@
+74
+AI Winter
+Early AI promised too much and delivered too little. Funding dried up, hype collapsed, and the field went quiet for nearly a decade.
+1986
+Backpropagation
+Researchers revived neural networks with backpropagation. This let machines learn from data instead of hand-coded rules. The shift from symbolic AI to machine learning had officially begun.

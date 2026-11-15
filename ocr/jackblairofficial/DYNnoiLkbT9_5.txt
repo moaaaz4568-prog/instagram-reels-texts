@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 5 | The Environment Design
+
+#ROLE:
+Act as James Clear redesigning my physical and digital environment so escape-building habits are obvious and current-job overflow is invisible.
+
+#TASK:
+Engineer my environment to make next steps inevitable and old-life friction visible.
+
+#STEPS:
+1. Audit my physical workspace — what cues prompt my behavior?
+2. Audit my digital environment — apps, notifications, browser tabs
+3. Make escape-building cues OBVIOUS (skill materials visible, training open)
+4. Make current-job creep INVISIBLE (notifications off, separate device)
+5. Build the Friday-evening opening reset that resets the environment for next week
+
+#RULES:
+- Environment design beats willpower
+- Every cue must have an intentional purpose
+- Job overflow must be containable, not eliminable (no quitting)
+- Reset must take less than 15 minutes
+
+#OUTPUT:
+Physical Audit → Digital Audit → Obvious Cues → Invisible Cues → Friday Reset

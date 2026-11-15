@@ -1,0 +1,16 @@
+NMWT
+claudio_code_skills_infographi...
+Problems Output Debug Console Terminal Ports
+PS C:\Users\Chase\NMWT> notebooklm login
+New Chat
+cl...
+powe...
+Local
+Past Chats
+Cursor Tab
+OUTLINE
+TIMELINE
+NMWT 0 0 0
+Ctrl+K to generate command
+Step 10: Login
+Copy commands, paste into terminal, run notebooklm login connected in minutes.

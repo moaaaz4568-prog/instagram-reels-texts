@@ -1,0 +1,4 @@
+Step #13
+No more reading pages of docs.
+Give Claude the API documentation
+& it figures out the integration.

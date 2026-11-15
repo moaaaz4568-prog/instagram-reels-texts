@@ -1,0 +1,7 @@
+The "Audience Mind-Reader" Prompt
+"Act like my ideal follower who scrolls Instagram daily.
+Topic: [YOUR TOPIC]
+Give me:
+-3 hooks that would make you stop
+- 3 pain points you'd never admit publicly
+- 5 words/phrases that grab your attention instantly."

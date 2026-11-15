@@ -1,0 +1,49 @@
+divyanshisharma
+2/4 Category (Prompt 66 - 80)
+Category 2:
+AI Workflows
+
+66. Document Processing Pipeline
+Design a pipeline that ingests [DESCRIBE DOCUMENT TYPE], extracts structured data, validates it, and stores it in [DESCRIBE SYSTEM]. Handle OCR, various formats, and malformed inputs.
+
+67. Design a Personalization Engine
+Design an AI personalization system for an [DESCRIBE APPLICATION]. What signals should be used? How does it handle new users and recommendations?
+
+68. Build a Monitoring System for AI
+Design a monitoring system for an AI pipeline that traces output quality, latency, cost, and failure rates. What dashboards should be built?
+
+69. Create a Prompt Template Library
+Create a library of 10 reusable prompt templates for [DESCRIBE USE CASE]. Each template should have placeholders, usage instructions, and example inputs and outputs.
+
+70. Design a Human in the Loop System
+Design a system where an AI handles [DESCRIBE TASK] autonomously but routes edge cases to a human. Define the confidence thresholds, escalation paths, and how human feedback is incorporated.
+
+71. Knowledge Graph Extraction Pipeline
+Design a pipeline that reads [DESCRIBE DOCUMENTS] and extracts entities, relationships, and facts into a knowledge graph. Define the schema and extraction prompts.
+
+72. Create AI Customer Service Agent
+Design an AI customer service agent for [DESCRIBE BUSINESS]. What questions can it answer, when should it escalate to a human, and how should it handle frustrated customers?
+
+73. Design a Code Review AI
+Design an AI code review system that automatically reviews [DESCRIBE STANDARD] code, checks for best practices, and suggests improvements.
+
+74. Build a Research Assistant
+Design an AI research assistant that can [DESCRIBE RESEARCH TASKS]. How should it search, synthesize information, cite sources, and flag low confidence conclusions?
+
+75. Competitive Intelligence System
+Design an AI system that monitors [DESCRIBE COMPETITORS] and produces weekly intelligence reports covering [DESCRIBE AREAS]. What data sources should it monitor?
+
+76. Design a Meeting Intelligence System
+Design an AI system that processes meeting transcripts in [DESCRIBE OUTPUTS]. What clauses should trigger alerts? How should insights be communicated, and who should receive them?
+
+77. Build a Contract Analysis Pipeline
+Design an AI pipeline that analyzes contracts and flags [DESCRIBE RISK TYPES]. What clauses should be parsed? How should confidence be communicated, and when should a lawyer review?
+
+78. Create a Sentiment Analysis System
+Design a sentiment analysis system for [DESCRIBE DATA SOURCE]. What dimensions of sentiment matter, how should nuance be handled, and how should results be aggregated?
+
+79. Design a Lead Scoring System
+Design an AI lead scoring system for [DESCRIBE BUSINESS]. What signals predict conversion, how should scores be calculated, and how should sales teams use them?
+
+80. Content Recommendation Engine
+Design a content recommendation engine for [DESCRIBE PLATFORM]. What signals drive recommendations, how should diversity be maintained, and how should new content be handled?

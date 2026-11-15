@@ -1,0 +1,38 @@
+The Vibe Stack
+10
+LLM
+API Cost
+Optimization
+AI-powered tools
+48.7%
+Cost Reduction
+API
+Optimization
+$12,842
+48.7%
+Cost Reduction
+19
+wusimpl/
+AntigravityQuotaWatcher
+How it saves: Tools for strict quota and limit tracking for AI models.
+20
+yamadashy/
+repomix
+How it saves: Packs your entire local repository into a single compact file.
+21
+unslothai/unsloth/
+unsloth/notebooks
+How it saves: Allows low-VRAM fine-tuning, running of open-source models
+22
+black-forest-labs/
+flux
+How it saves: Local inference of top open-source image generation.
+23
+SYSTRAN/
+faster-whisper
+How it saves: Ultra-fast local audio-to-text transcription on your GPU.
+SYSTRAN/faster-whisper
+24
+QwenLM/
+Qwen3-TTS
+How it saves: Professional speech synthesis and voice cloning.

@@ -1,0 +1,31 @@
+Editor Executions Evaluations
+Input 1
+Input 2
+Merge
+combine
+Set Default True 2
+manual
+Is Approved?
+true
+false
+Execute workflow
+Activate Win
+Go to Settings
+16%
+R
+T
+Y
+U
+I
+O
+P
+D
+F
+G
+H
+J
+K
+L
+-Combines image + post text
+-Fallbacks image + pick approval if skipped
+-Final check before publishing

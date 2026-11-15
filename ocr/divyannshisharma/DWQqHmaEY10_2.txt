@@ -1,0 +1,22 @@
+Skill Set 01
+Frontend Design
+anthropics / skills Public
+Code Issues 163 Pull requests 404
+Files
+main
+.claude-plugin
+skills
+algorithmic-art
+brand-guidelines
+canvas-design
+claude-api
+doc-coauthoring
+docx
+frontend-design
+LICENSE.txt
+SKILL.md
+Go to file
+DESCRIPTION
+focuses on crafting visually refined, production-level interfaces that move beyond generic "AI slop" aesthetics. It emphasizes structured design systems, strong layout principles, spacing, and usage, and bold typography to create interfaces that feel intentional, modern, and brand-ready. Ideal for designers and developers aiming to build polished, high-impact experiences.
+MORE INFO
+https://lnkd.in/ggeE2Ajn

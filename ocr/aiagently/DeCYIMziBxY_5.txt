@@ -1,0 +1,29 @@
+Step 5
+Let Claude Build It
+Ask Claude to turn your prompt into
+a working automation.
+It should figure out:
+1
+What to
+search
+2
+What to
+filter
+3
+What to
+summarize
+4
+Where to
+save it
+You don't need to manually build every step.
+Claude
+New chat
+Projects
+Artifacts
+Customize
+Claude
+Good afternoon, Usamaa
+Turn this prompt into a working automation.
+Search for the latest AI news, filter for useful tools,
+summarize the key points, and save it to Notion. |
+Claude 4.8

@@ -1,0 +1,18 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+What still can be improved?
+
+Screenshots
+Still messy (wrong formats, bad image selection).
+Likely need a separate dedicated image skill.
+
+Scheduling
+No automatic reminders/news. Need cron job or automation (currently manual trigger).
+
+Marketing
+Papermark repo is open, but navigation + image retrieval isn't working properly.
+
+Review time
+Still spending too much time manually reviewing.
+May need a separate review bot.

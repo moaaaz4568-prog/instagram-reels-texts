@@ -1,0 +1,7 @@
+Step #3
+Hasan Toor
+xport ANTHROPIC_BASE_URL="http://localhost:11434"
+Next, Claude still expects an API key, so you give it a dummy value:
+export ANTHROPIC_API_AUTH_TOKEN="ollama"
+Set the base URL to connect Claude
+to your local computer

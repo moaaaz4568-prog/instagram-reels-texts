@@ -1,0 +1,24 @@
+Slide 9 —
+09 / 10
+Tool 7: Home Assistant
+Platform Solutions Resources Open Source Enterprise Pricing Sign in Sign up
+home-assistant / core Public
+Code Issues 2.6k Pull requests 836 Actions Projects Security and quality Insights
+dev 463 Branches 1609 Tags
+Go to file
+Code
+About
+Open source home automation that puts local control and privacy first.
+www.home-assistant.io
+python home-automation mqtt
+raspberry-pi iot internet-of-things
+asyncio homeassistant
+What it does:
+Controls your lights, doors, thermostat,
+and security cameras — all from one dashboard.
+What it replaces:
+SmartThings Pro + Alexa Plus — $25 a month
+Every smart device in your home works
+together in one place. No monthly fees ever.
+github.com/home-assistant/core
+COLTRANE

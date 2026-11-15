@@ -1,0 +1,16 @@
+STEP 3:
+
+Each agent gets a clear spec:
+- Name / role
+- What it's for
+- Which tools it can touch
+- When to run it
+- Its own system prompt
+
+AGENTS_TEMPLATE
+
+AGENT	ROLE	TOOLS	WHEN
+code-reviewer	Reviewer	Read, Grep	pre-merge
+debugger	Fixer	Bash, Edit	on failure
+researcher	Scout	WebSearch	on demand
++ New

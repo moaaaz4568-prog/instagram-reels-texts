@@ -1,0 +1,15 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Stop Planning in the Chat Window (Markdown is Forever)
+
+• No clear plan = wasted tokens and forgotten requirements
+
+The Mistake
+Planning in chat = constant re-explaining
+
+The Fix
+Create a PLAN.md or ROADMAP.md first
+
+The Workflow
+Update it – you manage, agent executes

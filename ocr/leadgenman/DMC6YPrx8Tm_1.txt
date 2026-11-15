@@ -1,0 +1,1 @@
+Model Context Protocol or MCP's as they are commonly known, provide a standardized way to connect AI models to different data sources and tools.

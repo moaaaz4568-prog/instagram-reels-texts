@@ -1,0 +1,22 @@
+prompt 10 →
+Clean company
+name variables
+
+Prompt:
+I will provide a company name that requires editing.
+Please simplify the name by removing any superfluous details to ensure it's clear, easy to read, and can be naturally used in written communication by a salesperson.
+
+People often include:
+- Extraneous information in the company name
+- The company's legal entity designation
+- The country of the company
+
+For example, if the provided company name is:
+"Name of the company | Agency web"
+It should be edited to:
+"Name of the company"
+
+Your task is to retain only the essential company name.
+Please clean the following company name:
+
+Output:

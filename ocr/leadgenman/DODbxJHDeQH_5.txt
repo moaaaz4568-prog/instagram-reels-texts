@@ -1,0 +1,15 @@
+Auto Follow-ups
+Money is in the follow-up.
+Automate follow-ups for higher replies.
+Saleshandy helps you improve your reply rate with automated and personalized follow-ups
+Day 1
+Step 1 Sending
+Welcome Mail
+{spin}Hi|Hello|Hey{endspin} {{First Name}},
+100 Sent 20 Opened 5 Replied
+as a new email on Monday, 5th February 2024, if a... activated today.
+Day 3
+Step 2 Sending as same thread on Wednesday, 7th February 2024
+Follow up 1
+{spin}Hi|Hello|Hey{endspin} {{First Name}},
+95 Sent 30 Opened 10 Replied

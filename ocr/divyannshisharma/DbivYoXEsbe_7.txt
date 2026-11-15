@@ -1,0 +1,68 @@
+Slide 8 —
+Tool 6: Syncthing
+08 / 1
+syncthing / syncthing Public
+Code Issues 371 Pull requests 18 Actions Projects Wiki Security and quality Insights
+main 8 Branches 678 Tags
+Go to file
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+quality
+Insights
+calmh "build: temporarily disable illums for release" 3 weeks ago
+.github
+assets
+cmd
+etc
+gui
+internal
+lib
+man
+meta
+proto
+Revert "build: temporarily disable illums for release"
+fix: on Windows don't allocate console if not opened inside ...
+fix: let umask do the thing (#10723)
+fix(systemd): add back chown allowed syscalls (#10605)
+fix(config): properly escape filenames in fancytree
+chore(build, mode): separate methods to drop a device vs its file...
+fix(protocol): be more stringent about blocks in non-file entri...
+chore(gui, man, authors): update docs, translations, and contr...
+Merge branch 'main' into v2
+chore: remove tracking change time index (#10579)
+12 hours ago
+3 months ago
+3 months ago
+3 months ago
+14 hours ago
+4 days ago
+3 months ago
+Open Source Continuous File Synchronization
+syncthing.net/
+P2P
+syncthing
+peer-to-peer
+Readme
+MPL-2.0 license
+Contributing
+Security policy
+Activity
+Custom properties
+85.2k stars
+last year
+1k watching
+5.3k forks
+Report repository
+What it does:
+Syncs your files across every device you own —
+directly, with no cloud in between.
+What it replaces: Dropbox $15 a month
+2TB — $15 a month
+Your files go straight from one device to another. No Dropbox.
+No Google Drive. No subscription. Just your files on your devices.
+github.com/syncthing/syncthing

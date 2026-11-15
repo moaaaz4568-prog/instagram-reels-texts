@@ -1,0 +1,3 @@
+Example 4
+✗ Boring : “Fitness Tips”.
+✓ Viral :”After 5 years of weight training, these are the things I wish I knew before I started.”

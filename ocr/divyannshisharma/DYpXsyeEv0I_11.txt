@@ -1,0 +1,31 @@
+STEP 11
+SOP: Kimi K2.6 Playbook
+WHEN IT BREAKS
+(REAL FIXES)
+FIX > PANIC
+K2.6
+Breaks happen.
+Fixes make
+legends.
+1 IT STARTS DOING
+RANDOM STUFF
+ADD:
+Scope: only this module.
+Do not touch anything else.
+2 IT FORGETS
+CONTEXT
+ADD:
+> add CONSTRAINTS.md
+> use /compact
+3 IT OVER-
+ADD:
+Make minimal change only.
+No refactors.
+4 ENGINEERS
+SILENT FAILURES
+ALWAYS SAY:
+Run full test suite.
+No come partial success.
+Do NOT assu
+Great output = iteration, not prompting.
+11 / 12

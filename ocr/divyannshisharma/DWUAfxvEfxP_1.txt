@@ -1,0 +1,20 @@
+Tavily
+What you'll get:
+• Search engine built for AI agents.
+• Real-time, AI-optimized search with accurate and context-aware results.
+1
+tavily-ai / tavily-mcp
+Code Issues 14 Pull requests 8 Actions
+main
+17 Branches 0 Tags
+Merge pull request #122 from tavily
+ParakhJagi
+assets
+src
+.gitignore
+Dockerfile
+LICENCE
+README.md
+package-lock.json
+package.json
+smithery.yaml

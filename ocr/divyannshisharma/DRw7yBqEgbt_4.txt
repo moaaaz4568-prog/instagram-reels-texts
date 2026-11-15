@@ -1,0 +1,9 @@
+3
+Export to Google Sheets
+Build your lead database
+Create new Google Sheet
+Name it "Lead List"
+Match column headers
+Copy AI-formatted data
+Paste into spreadsheet
+Clean, organized leads ready to contact!

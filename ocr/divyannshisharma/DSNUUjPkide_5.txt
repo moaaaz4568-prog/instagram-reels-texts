@@ -1,0 +1,3 @@
+Step #5
+Gemini API
+Thinking levels: Low = faster/ cheaper. High = deeper reasoning.

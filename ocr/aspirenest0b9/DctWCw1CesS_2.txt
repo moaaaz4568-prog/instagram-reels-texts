@@ -1,0 +1,21 @@
+STEP 2
+Punit Kumar
+02 / 09
+Give Claude the right instructions
+Your first prompt should explain:
+• What your business does
+• Who the customers are
+• What the agent should handle
+• How it should behave
+• What actions it should take
+• What information it should collect
+FOR EXAMPLE
+Answer
+↓
+Understand
+↓
+Recommend
+↓
+Book
+Don’t overcomplicate the first prompt.
+Start with the outcome and let Claude figure out the implementation.

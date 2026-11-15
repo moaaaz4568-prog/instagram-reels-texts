@@ -1,0 +1,58 @@
+NotebookLM
+01 / 18
+Open Weights
+LLMs
+* Llama 3.3 70B
+Meta's best open weights model, matches GPT-4 class
+Open Weights LLMs open weights
+* Llama 3.1 405B
+Meta's flagship open weights model, 405B params
+Open Weights LLMs open weights
+* Mistral Small 3.1
+24B open weights model, top efficiency-quality ratio
+Open Weights LLMs open weights
+* Mixtral 8x22B
+Mistral's MoE model, open weights, 141B total params
+Open Weights LLMs open weights
+* DeepSeek R1
+Best open source reasoning model, chain-of-thought
+Open Weights LLMs open weights
+* Gemma 3 27B
+Google's best open weights LLM, top benchmarks
+Open Weights LLMs open weights
+* DeepSeek V3
+DeepSeek's frontier MoE model, free open weights
+Open Weights LLMs open weights
+* Qwen 2.5 72B
+Alibaba's strongest open weights general model
+Open Weights LLMs open weights
+* Phi-4
+Microsoft 14B open weights model, punches above weight
+Open Weights LLMs open weights
+* Phi-4-mini
+Microsoft 3.8B open weights, tiny but capable
+Open Weights LLMs open weights
+* Qwen 2.5-Coder 32B
+Best open source coding model from Alibaba
+Open Weights LLMs open weights
+* QwQ-32B
+Alibaba's open source reasoning model
+Open Weights LLMs open weights
+* Kimi K2
+Moonshot's IT parameter open MoE, agentic tasks
+Open Weights LLMs open weights
+* Command R+
+Cohere open weights RAG-optimized model
+Open Weights LLMs open weights
+* OLMo 2
+AI2's fully open LLM with training data included
+Open Weights LLMs open weights
+* SmolLM2
+HuggingFace tiny open models, runs on CPU
+Open Weights LLMs open weights
+* Falcon 3 10B
+TII's open source LLM, strong reasoning
+Open Weights LLMs open weights
+* Zephyr Beta
+HuggingFace instruction-tuned open weights
+Open Weights LLMs open weights

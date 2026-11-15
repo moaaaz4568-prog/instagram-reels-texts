@@ -1,0 +1,25 @@
+hooks/
+Shell scripts that always fire.
+
+What it does:
+• Run before or after Claude tool calls
+• Block dangerous commands automatically
+• No prompt. No exception. Always fires.
+
+Hooks are your guardians.
+
+1 #!/usr/bin/env bash
+2 # Auto-format every file Claude edits.
+3 FILE=$(jq -r .tool_input.file_path)
+4
+5 case "$FILE" in
+6   *.ts|*.tsx|*.js|*.jsx)
+7     npx prettier --write "$FILE" ;;
+8   *.py)
+9     ruff format "$FILE" ;;
+10  *.go)
+11    gofmt -w "$FILE" ;;
+12 esac
+13
+14 # Fires after every Edit.
+15 # No questions asked.

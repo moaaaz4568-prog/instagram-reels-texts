@@ -1,0 +1,3 @@
+STOP 3
+The Health Check
+Turn guesswork into data. Check your SPF, DKIM, DMARC, blacklist status, and inbox placement across every provider in one dashboard.

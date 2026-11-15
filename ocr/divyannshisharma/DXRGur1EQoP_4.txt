@@ -1,0 +1,10 @@
+Continuation:
+
+14. Docker MCP: Manage Docker containers through Claude. Start, stop, inspect, and manage containers. Useful for deployment workflows and environment management.
+https://github.com/modelcontextprotocol/servers/tree/main/src/docker
+
+15. Sentry MCP: Connect Claude to your Sentry error monitoring. Pull error reports, analyze stack traces, identify patterns in production errors. Debugging at the speed of conversation.
+https://github.com/getsentry/sentry-mcp
+
+16. Codebase Memory MCP: Convert your codebase into a persistent knowledge graph. Claude remembers your project structure, patterns, and architecture across sessions. Essential for large codebases.
+https://github.com/DeusData/codebase-memory-mcp

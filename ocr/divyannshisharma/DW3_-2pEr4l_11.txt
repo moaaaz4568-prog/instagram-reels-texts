@@ -1,0 +1,9 @@
+11. Claude Gives You The Command
+Claude outputs a full comparison table with RAM requirements, quality scores and a single bottom line.
+Claude outputs every model size with RAM, trade-offs
+Bottom line: 27B Q8 fits your machine comfortably
+Copy install command straight from the terminal output
+Table
+Recommendation
+Copy-Paste
+@divyanshisharma

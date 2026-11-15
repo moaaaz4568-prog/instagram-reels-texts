@@ -1,0 +1,19 @@
+AI analysis
+at investment scale.
+Multi-Agent Property Intelligence
+Property Input
+Workflow Manager
+Sales
+25%
+Rental
+20%
+Location
+20%
+Strategy
+20%
+Market
+15%
+Decision Engine
+Risk Score
+ROI
+Report

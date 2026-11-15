@@ -1,0 +1,23 @@
+TOPIC RESEARCH
+claude > running youtube-research skill
+✓ PHASE 1: Topic exploration
+✓ PHASE 2: Competitor analysis (47 videos)
+✓ PHASE 3: Audience research
+✓ PHASE 4: Content gap analysis
+Summary:
+AI YouTube Production System
+Videos Analyzed: 47 • Avg Views: 198K • Content Gaps: 3
+Content Gaps:
+1. Lack of beginner-friendly guides
+2. Advanced workflow integration (e.g., NLE)
+3. Real-world ROI and time-saving data
+Recommended Angles:
+1. System reveal & step-by-step
+2. Honest results & realistic growth
+3. Production pipeline blueprint
+/Users/claude/research/ai-youtube-system.json
+Saved to:
+MacBook Pro
+It pulls trending topics from Reddit, YouTube, and X. Analyzes what's working for competitors. Then gives rare angles nobody else is covering.
+@itstylergermain
+save for later

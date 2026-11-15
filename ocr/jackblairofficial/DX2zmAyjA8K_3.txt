@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+3. THE REWRITE
+
+What it does: gives you the exact words to replace the death moment with, ready to deploy on the next call.
+
+"For each death moment you found, rewrite my exact words. Keep the same intent but eliminate the trigger. Use the language a closer with a 60% close rate would use in that exact moment. Format as side-by-side: what I said vs what I should have said. No theory. Just the new line, ready to use tomorrow."

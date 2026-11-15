@@ -1,0 +1,43 @@
+BENNETTOS
+05 / 11
+// THE ONE RULE
+EXPENSIVE TOKENS
+PLAN. CHEAP
+TOKENS TYPE.
+
+// CLAUDE · THINKING
+DECOMPOSE.
+SPEC. JUDGE.
+Break the goal into
+independent lanes
+Write the acceptance criteria
+up front
+Read summaries, never
+transcripts
+Decide, then hand off and
+forget
+~5% OF THE TOKENS
+~90% OF THE OUTCOME
+
+// GLM + CODEX · TYPING
+READ. WRITE.
+REPEAT. REPORT.
+Crawl the repo, the logs, the
+Draft, refactor, classify,
+transcribe
+Spawn sub-agents for wide
+sweeps
+Return one page, not one
+thread
+~95% OF THE TOKENS
+OFF THE CLAUDE METER
+
+Every token Claude spends reading raw tool output is a token
+spent twice: once to fetch it, once to carry it for the rest
+of the session.
+
+@bennettos
+
+SWIPE →
+
+لا يوجد نص

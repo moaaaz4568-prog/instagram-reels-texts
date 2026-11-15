@@ -1,0 +1,10 @@
+Prompt Engineering for LLMs
+What you'll learn:
+• Structured prompting techniques that work consistently
+• Getting reliable outputs from GPT, Claude, and other LLMs
+4
+O'REILLY
+Prompt Engineering for LLMs
+The Art and Science of Building Large Language Model-Based Applications
+John Berryman
+& Albert Ziegler

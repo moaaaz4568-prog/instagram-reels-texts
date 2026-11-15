@@ -1,0 +1,16 @@
+05 Step 2: Type one simple command
+Step 2:
+Type one simple command
+YouTube
+Stanford
+University
+How to
+Start a Startup
+Build An AI
+Native Company
+In Claude Code, type /watch and paste the link.
+That's the entire instruction. Claude handles everything else.
+/watch:watch
+https://youtu.be/abcd1234
+# video-url-or-path
+/watch:watch

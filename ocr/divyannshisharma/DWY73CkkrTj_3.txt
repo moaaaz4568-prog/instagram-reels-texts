@@ -1,0 +1,15 @@
+Step 3: Content
+Content Research: 10 Sources into One Brief in 5 Minute sample
+Now I copy-paste all the raw sources into Claude and run this:
+markdown
+Here are my sources on [TOPIC]:
+[PASTE ALL RAW MATERIAL]
+Extract:
+1. The 5 facts that matter most for my audience
+(builders, not consumers)
+2. Anything that contradicts the common narrative
+3. Specific numbers: stars, users, funding, benchmarks
+4. One angle nobody else is covering
+If two sources disagree, show me both sides.
+Don't summarize fluff. Only signal.
+Swipe →

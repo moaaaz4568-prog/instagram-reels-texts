@@ -1,0 +1,32 @@
+Trigger
+Data Mapping
+Filters & Routers
+App Actions
+Output
+Start Node
+State Manager
+LLM Agent
+Tool Node
+Code Executor
+Conditional Edge
+End Node
+Webhook/Trigger
+Workflow Logic
+AI Agent
+Custom Code
+LangChain
+Vector DB
+Output
+Crew Manager
+Task Queue
+Researcher Agent
+Writer Agent
+Analyst Agent
+Collaboration Hub
+Final Output
+VS
+VS
+VS
+VS
+VS
+crewai

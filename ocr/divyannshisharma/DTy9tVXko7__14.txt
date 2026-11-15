@@ -1,0 +1,13 @@
+Step #14
+Status: Success
+AI Prompt: remove the text "above the cloud" and the text below it
+Delete Version
+AI Edit
+change the color of the plane to red
+Apply AI Edit
+TSX Code (read-only)
+Add to Timeline
+FHD 30fps
+1920x1080 • 15s
+Change plane to red -
+instant results!

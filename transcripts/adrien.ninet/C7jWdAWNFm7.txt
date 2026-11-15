@@ -1,0 +1,1 @@
+Design hack to create moving gradients. Customize your gradient and add it to Framer, Figma or as a React component.

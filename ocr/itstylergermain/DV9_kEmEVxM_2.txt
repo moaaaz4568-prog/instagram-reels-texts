@@ -1,0 +1,4 @@
+Manage Instagram Posts
+Build me an Instagram content management dashboard. It should display scheduled posts, drafts, published content, and a backlog. Include the ability to add new post ideas with captions, post types, statuses and scheduled dates. Use a dark UI with a clean card-based layout.
+@its Tylergermain
+save for later

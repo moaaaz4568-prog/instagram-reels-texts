@@ -1,0 +1,27 @@
+PART 2
+Agent Frameworks 🤖
+
+08. OpenClaw: Viral open-source AI agent framework: persistent, multi-channel, self-improving personal AI agents.
+210K+ stars. Easiest way to start personal AI agents.
+https://github.com/openclaw/openclaw
+
+09. LangGraph: Multi-agent orchestration as code. Build agents as graphs with branching logic, human-in-the-loop, and persistent state. 26,000+ stars.
+https://github.com/langchain-ai/langgraph
+
+10. CrewAI: Multi-agent framework with roles, goals, and backstories. Each agent has a defined persona and responsibility. Good for team-like workflows.
+https://github.com/crewAIInc/crewAI
+
+11. AutoGPT: Full autonomous agent platform for long-running tasks. The OG agent framework. Matured significantly since early days.
+https://github.com/Significant-Gravitas/AutoGPT
+
+12. Dify: Open-source LLM app builder. Combines workflows, RAG, agents, and model management in one platform. Good for non-developers building AI apps.
+https://github.com/langgenius/dify
+
+13. OWL: Multi-agent cooperation framework. Tops the GAIA benchmark for agent coordination. Cutting edge research turned into usable code.
+https://github.com/camel-ai/owl
+
+14. CopilotKit: Embed AI copilots directly into your React applications. Ship AI features in your product, not just your workflow.
+https://github.com/CopilotKit/CopilotKit
+
+15. pydantic-ai: Type-safe agent framework built on Pydantic. For Python developers who want structured, validated agent outputs.
+https://github.com/pydantic/pydantic-ai

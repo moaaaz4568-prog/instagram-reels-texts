@@ -1,0 +1,10 @@
+Build your First Voice Agent
+• Retell is a platform for building, deploying, and monitoring reliable AI phone agents that can handle natural phone conversations over the phone.
+• Example:
+→ Customer calls in to check on an order status
+→ Answers common customer questions 24/7
+→ A patient calls after hours to schedule a meeting
+→ Calls new lead fills out a website form for a quote
+System Prompt
+Tool call & Features
+Testing

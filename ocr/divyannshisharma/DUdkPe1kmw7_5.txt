@@ -1,0 +1,27 @@
+HOW THEY COMMUNICATE WITH EACH OTHER
+
+Every project becomes a card on Mission Control’s Kanban board. Jarvis (the main agent) adds it and assigns it.
+A sample project:
+
+One specialist agent owns the card and drives it forward, but the system isn’t siloed.
+
+TASK DETAIL
+
+Agency Directory Outreach - White-Label AI Chatbot
+
+DONE NORMAL outbound directories agency distribution
+
+DESCRIPTION
+
+Objective: Get SiteGPT listed on agency directories where white-label/reseller chatbot buyers search.
+
+Target Directories:
+1. DesignRush - AI/chatbot
+2. Clutch.co - chatbot software tools category
+3. ProductHunt - agency software listings
+4. G2 - ensure agency/retailer positioning
+5. Capterra - white-label chatbot category
+
+Community Outreach:
+• r/agency - look for AI tools for clients discussions
+• r/webdev - chatbot recommendations threads

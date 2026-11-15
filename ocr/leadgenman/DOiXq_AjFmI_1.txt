@@ -1,0 +1,6 @@
+Code
+Allows you to run custom JavaScript or Python code to manipulate data, perform calculations, or integrate complex logic.
+Use cases:
+• Transform data: Convert JSON format to XML before sending it to another API.
+• Validate data: Check if a field meets specific conditions (e.g., valid email) before continuing the workflow.
+Code Node

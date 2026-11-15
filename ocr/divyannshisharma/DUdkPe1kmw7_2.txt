@@ -1,0 +1,10 @@
+WHY HE NEEDS MULTIPLE WORKERS
+He didn't want his main OpenClaw agent to be overwhelmed with context about multiple tasks. He wanted specialists for each important task. An agent that only writes content. An agent that only does development work. Etc. He can see each agent and their role on Mission Control. This is what his squad looks like:
+AGENTS
+16
+All Agents
+14 ACTIVE
+Bhanu
+LEAD
+Founder
+WORKING

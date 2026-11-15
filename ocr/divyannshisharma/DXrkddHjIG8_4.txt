@@ -1,0 +1,8 @@
+4. Testing AI System
+
+• Testing tool usage and outputs • Evaluating consistency
+• Using LLMs as judges (yes, meta—but useful)
+
+Goal: Make AI systems reliable, not just impressive
+
+Swipe →

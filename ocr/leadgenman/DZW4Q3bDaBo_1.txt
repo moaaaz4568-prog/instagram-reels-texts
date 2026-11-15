@@ -1,0 +1,15 @@
+before-you-start.md
+00
+before the clock starts
+three things you need open, or block one stalls.
+node 18 or newer
+node --version should print v18+
+a terminal you like
+iTerm, Warp, or the built-in. Claude lives here, not a browser.
+a claude account
+pro, max, or an anthropic api key. you authorize once.
+check -- zsh
+$ node --version
+v20.11.0
+you are good to go
+no signup walls inside the terminal. you log in from it.

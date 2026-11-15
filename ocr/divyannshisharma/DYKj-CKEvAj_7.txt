@@ -1,0 +1,7 @@
+#7: AWSOME SKILLS
+This repository is a curated collection of resources,
+tools, and skills specifically designed for customizing
+Claude AI workflows.
+github.com/ComposioHQ/claude-skills
+Divyanshi sharma
+07/10

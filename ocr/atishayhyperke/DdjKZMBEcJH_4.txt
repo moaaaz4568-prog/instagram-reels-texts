@@ -1,0 +1,61 @@
+4. Campaign monitoring.
+
+Let deterministic systems pull stats, flag issues and apply clear rules.
+
+CAMPAIGN CONTROL CENTER
+Last updated: 2m ago
+
+SENT
+812,340
++12.4% vs yesterday
+
+OPEN RATE
+8.1%
++0.73 pp vs yesterday
+
+REPLY RATE
+2.31%
++0.28 pp vs yesterday
+
+POSITIVE REPLY RATE
+5.61%
++0.91 pp vs yesterday
+
+ALERTS 3
+Open rate dropped below 8%
+Campaign: Q3_Founders_V2
+HIGH
+
+Reply rate below benchmark (2%)
+Campaign: Q3_ICP_US
+MEDIUM
+
+Bounce rate above 5%
+Campaign: Q3_SaaS_EU
+HIGH
+
+View all alerts →
+
+ACTIVE RULES
+Pause campaign if reply rate < 2%
+Applies to all outbound campaigns
+
+Flag if bounce rate > 5%
+Applies to all outbound campaigns
+
+Increase volume if positive reply rate > 5%
+Applies to warm campaigns only
+
+Stop sequence if 3+ hard bounces
+Applies to all outbound campaigns
+
+Manage rules →
+
+CAMPAIGN HEALTH
+
+| | SENT | OPEN RATE | REPLY RATE | HEALTH |
+|---|---|---|---|---|
+| Q3_Founders_V2 | 142,689 | 7.12% | 1.68% | POOR |
+| Q3_ICP_US | 215,430 | 8.41% | 1.91% | FAIR |
+| Q3_SaaS_EU | 187,904 | 9.32% | 2.87% | GOOD |
+| Q3_Enterprise_APAC | 122,317 | 10.21% | 3.26% | GOOD |

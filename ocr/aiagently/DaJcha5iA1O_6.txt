@@ -1,0 +1,11 @@
+Step 5
+Connect Apollo MCP
+IN REPLIT
+Link Apollo to the Replit Agent before you confirm the build. In Settings → Integrations → Add MCP Server, name it, paste the URL, then Test & Save.
+https://mcp.apollo.io/mcp
+Settings
+Connect an MCP server
+Display name
+MCP Server URL
+https://mcp.apollo.io/mcp
+Test & Save

@@ -1,0 +1,15 @@
+Step 1
+Set up your sending infrastructure
+Maildoso spins up cold email domains + inboxes
+Go to maildoso.ai and sign up
+Mailboxes
+built for outbound
+Diversify your sending strategy with reputable mailboxes built specifically for cold outreach, starting at just $0.49. Automate your SPF, DKIM, and DMARC setup, connect to your favorite tools in one click, and achieve 95%+ email deliverability.
+Watch the product video
+10M+
+emails sent per day
+4.7
+G2 rating with 197 reviews
+Get Started
+400k+
+mailboxes managed

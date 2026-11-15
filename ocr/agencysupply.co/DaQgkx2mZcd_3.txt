@@ -1,0 +1,43 @@
+Every Monday
+at 8am
+
+You Need
+
+The Proof You Need
+Status
+Type
+Hook
+Post Date
+Funnel Stage
+123 Outlier Score
+Outlier Source
+Buffer ID
+13 more properties
+Comments
+Add a comment...
+
+Inspiration Queue
+List Table
+LA DESIGN STUDIO on Instagram: "Instagra... 41589
+Gleb Rata on Instagram: "toughest ... 158
+Jackie | Holistic Nutritionist & Res... 1450.
+Leyla on Instagram: "Life g... genuine... 1350.
+VAL on Instagram: "Glad I took th... 1269.
+Shauryajit Singh on Instagram: "Most ...
+
+Content Brief
+Hook
+Your clients staying is proof your vision works.
+caption
+Progress isn't always linear.
+
+02
+
+Claude connected to Apify pulls
+the latest posts I've saved,
+analyzes what's working (hook,
+retention, comments, shares),
+assigns an outlier score, and turns
+the winning patterns into a draft
+post tailored to my audience .
+Comment "content" to set yours up

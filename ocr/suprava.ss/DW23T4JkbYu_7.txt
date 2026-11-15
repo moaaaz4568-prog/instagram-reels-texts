@@ -1,0 +1,10 @@
+Oliver Prompts @oliviscusAI · 1d
+ Someone just built a Claude Code skill that clones any website perfectly in one prompt.
+It uses the built-in Chrome MCP to go straight to the source. It pulls the exact fonts, colors, and layout directly from the browser.
+100% Open Source.
+1:12 Original
+Clone
+85
+303
+3.4K
+413K

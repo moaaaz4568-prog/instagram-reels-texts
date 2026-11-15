@@ -1,0 +1,19 @@
+divyanshisharma
+2/4 Category (Prompt 96 - 100)
+Category 2:
+AI Workflows
+
+96. Create an AI Scheduling System
+Design an AI scheduling system for [DESCRIBE USE CASE]. How should it handle conflicts, priorities, constraints, and last-minute changes?
+
+97. Design a Quality Control AI
+Design an AI quality control system for [DESCRIBE PRODUCT OR PROCESS]. What defects should be detected, and how should accuracy be acceptable?
+
+98. Build a News Aggregation System
+Design an AI news aggregation and summarization system for [DESCRIBE TOPICS]. How should sources be ranked, bias be detected, and duplicate stories be deduplicated?
+
+99. Personalized Learning System
+Design an AI personalized learning system for [DESCRIBE SUBJECT]. How should knowledge gaps be identified, content difficulty be adjusted, and progress be measured?
+
+100. Supply Chain Intelligence System
+Design an AI system that monitors [DESCRIBE SUPPLY CHAIN] and predicts disruptions, optimizes inventory, and recommends actions. What data sources are critical?

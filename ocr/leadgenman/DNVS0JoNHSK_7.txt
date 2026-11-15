@@ -1,0 +1,18 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+How To Set It Up
+(Claude + N8n)
+1. Use Claude as Your AI Assistant
+Claude can call MCP clients directly inside your app
+or agent. Prompt texts don't just generate text - they
+trigger real actions like summarizing Notion pages.
+2. Use n8n as Your MCP Server
+Set up a simple n8n workflow that:
+✅ Connects to Notion via API
+✅ Formats the output in JSON
+✅ Exposes it through a webhook endpoint
+3. Connect Claude to n8n via MCP
+Claude uses the MCP client to send structured
+requests to your n8n webhook. Result: A live,
+dynamic loop between your AI and your Notion
+content.

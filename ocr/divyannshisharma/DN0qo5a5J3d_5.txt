@@ -1,0 +1,7 @@
+5
+Metrics to Track
+Open Rate: 50%+
+Reply Rate: 10–25%
+Positive Replies: 3–10%
+Meeting Rate: 2–5%
+Bounce Rate: <2%

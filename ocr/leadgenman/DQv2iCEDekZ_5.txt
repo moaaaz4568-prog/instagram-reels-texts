@@ -1,0 +1,27 @@
+Functions
+Enable your agent to perform actions like calendar booking, CRM updates, etc.
+end_call
+
+Function Calling
+Executes real-time actions.
+Ex. Book appointments, Check inventory, Process payments, Update CRM
+
+Conversation Flow
+Controls dialogue structure.
+Ex. Guided pathways, Fallback handling, Multi-turn conversations, Intent routing
+
+Transfer Call
+Name
+transfer_call
+
+Warm Transfer
+Seamlessly hands off to humans.
+Ex. Complex escalations, Context preservation, Agent briefing notes
+
+MONITOR
+Call History
+Chat History
+
+Analytics & Monitoring
+Tracks performance metrics.
+Ex. Sentiment analysis, Call volumes, Latency tracking, Success rates

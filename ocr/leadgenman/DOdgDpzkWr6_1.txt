@@ -1,0 +1,21 @@
+AI Agents
+Workflows and Patterns
+Automated Workflow (rule-based, non-AI)
+User Query
+Defined step 1
+...
+Defined step n
+Response
+AI Workflow (non-agentic)
+User Query
+AI Model
+Act on user query
+Response
+Agentic Workflow Planning
+User Query
+AI Agent
+Make a plan
+Execute actions with tools
+Reflect on results of actions
+Response
+Result not ok

@@ -1,0 +1,27 @@
+Editor Executions Evaluation
+Supabase Vector Store
+OpenAI Chat Model1
+Embeddings OpenAI
+Uploading doc to vectorstore
+Supabase Vector Store1
+Google Drive Trigger
+fileCreated
+FileID
+manual
+Google Drive
+download: file
+Extract from File
+Extract from Text File
+Default Data Loader2
+Text Splitter
+Recursive Character Text Splitter2
+Embeddings
+Document
+Embeddings OpenAI
+Text Splitter
+Part 1: Auto-Upload to Vector Store
+- Google Drive watches folder
+- Extracts text from files
+- Splits into chunks
+- Creates AI embeddings
+- Stores in Supabase

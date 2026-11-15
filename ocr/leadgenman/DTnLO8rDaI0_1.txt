@@ -1,0 +1,11 @@
+Tool 1
+n8n
+In a nutshell:
+Open-source automation platform. Build workflows visually, add custom code when needed, and self-host for full control.
+I use it for:
+When you need AI nodes, webhooks, or complex branching logic. This is my backbone for any serious automation.
+Works with:
+HubSpot
+Telegram
+Slack
+Gmail

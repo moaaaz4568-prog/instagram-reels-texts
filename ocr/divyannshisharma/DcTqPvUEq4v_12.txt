@@ -1,0 +1,8 @@
+13 WHAT IF THERE'S NO CAPTIONS?
+What if there's
+no captions?
+For videos without captions — like a raw phone
+video, Loom, or Instagram reel — the skill uses
+Whisper to transcribe the audio instead.
+No
+captions?

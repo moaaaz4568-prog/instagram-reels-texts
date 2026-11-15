@@ -1,0 +1,13 @@
+The algorithm uses that number to decide how far to push you.
+
+HIGH PCR
+
+lots of trust → quality creator → pushed to more people
+
+LOW PCR
+
+profile leaks trust → no reason to push you → views hit a ceiling
+
+So when you can’t get more views, it can really just be a symptom: the algorithm doesn’t trust you enough to push you out.
+
+Save for later

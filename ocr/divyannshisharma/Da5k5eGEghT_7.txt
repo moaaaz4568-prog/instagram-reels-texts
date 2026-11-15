@@ -1,0 +1,26 @@
+Slide 8 — Tool 6: Syncthing
+08 / 10
+syncthing / syncthing Public
+Code Issues 371 Pull requests 18 Actions Projects Wiki Security and quality Insights
+main 8 Branches 678 Stars 8.12k Forks
+About
+Open Source Continuous File Synchronization
+syncthing.net/
+synchronization peer-to-peer
+Readme
+MIT-2.0 license
+Contributing
+Security policy
+Activity
+Custom properties
+85.2k stars
+1k watching
+5.3k forks
+Report repository
+What it does:
+Syncs your files across every device you own — directly, with no cloud in between.
+What it replaces:
+Dropbox 2TB — $15 a month
+Your files go straight from one device to another. No Dropbox. No Google Drive. No subscription. Just your files on your devices.
+github.com/syncthing
+/syncthing

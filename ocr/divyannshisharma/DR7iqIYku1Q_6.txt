@@ -1,0 +1,22 @@
+Weekly Qualified Leads in Your Inbox
+Subject: "Reddit SEO Leads - [Current Date]"
+Username: u/[username]
+Pain Point: "[key quote]"
+Why Qualified: [1-2 sentence rationale]
+Post: "[exact title]"
+Source: [direct Reddit URL]
+Deliverable: Send me an email via Gmail with subject "Reddit SEO Leads - [Current Date]"
+Email body format:
+Found [X] qualified SEO leads this week:
+LEAD 1:
+- Username: u/[username]
+- Post: "[exact title]"
+- Pain Point: "[key quote from post]"
+- Why They're Qualified: [1-2 sentence rationale]
+- Source: [direct Reddit URL]
+[Repeat for each lead]
+If no qualified leads found, no action needs to take.
+Schedule
+Weekly
+Tuesday
+9:00 AM

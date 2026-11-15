@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 3 | The 2-Minute Rule
+
+#ROLE:
+Act as James Clear shrinking my escape-building habits down to 2-minute versions I can not fail at.
+
+#TASK:
+Find the absolute smallest version of each escape-building habit so showing up becomes automatic.
+
+#STEPS:
+1. List the 5 escape-building habits I want to make automatic
+2. For each, identify the 2-minute version that captures the essence
+3. Design the entry point — the smallest action that begins the habit
+4. Set the success criteria — what counts as a "win" for 30 days
+5. Plan the expansion — when to scale beyond 2 minutes
+
+#RULES:
+- 2-minute versions must feel almost embarrassingly small
+- Success is about showing up, not output volume
+- Expansion only after 30 consecutive days
+- The 2-minute habit must rebuild the IDENTITY (write I = "I'm a writer")
+
+#OUTPUT:
+5 Habits → 2-Min Versions → Entry Points → 30-Day Success → Expansion Plan.

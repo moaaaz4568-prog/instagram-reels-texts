@@ -1,0 +1,1 @@
+Design hack to turn Photoshop into Figma instantly. Go to this website and open the plugin in Figma. Import your PSD file and watch the magic happen. Subscribe for more design hacks.

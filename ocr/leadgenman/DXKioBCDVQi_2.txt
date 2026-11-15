@@ -1,0 +1,26 @@
+Claude-Code.exe -- Select Components
+File Edit View Help
+Select Components
+Choose which components of Claude Code you want to install.
+hooks/
+Automate anything on tool events
+skills/
+Teach Claude new tricks (SKILL.md)
+plugins/
+Bundle and share with your team
+agents/
+Subagents for parallel work
+commands/
+Slash command shortcuts
+servers
+External tools & data sources
+Pro tip
+Check all 6 components (one subscription)
+Space required: 2.1 MB
+Space available: ∞ (one subscription)
+< Back
+Next >
+Cancel
+Start
+Claude -- Components
+4:22 PM

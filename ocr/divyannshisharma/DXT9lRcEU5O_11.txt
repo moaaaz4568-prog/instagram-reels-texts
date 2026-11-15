@@ -1,0 +1,11 @@
+Step 13
+GitHub Integration
+Connect your repo so it can explain modules, review PRs, and trace bugs with real context.
+Not connected
+GitHub Integration
+Gmail
+Google Calendar
+Google Drive
+Notion
+Divyanshisharma
+11/16

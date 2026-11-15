@@ -1,0 +1,12 @@
+Tool 2
+HighLevel
+In a nutshell:
+All-in-one CRM, funnel builder, and marketing automation platform.
+Handles everything from landing pages to SMS sequences.
+I use it for:
+When clients need a single system for leads, appointments, follow-ups, and payments without juggling 10 different tools.
+Works with:
+Meta
+Make
+Slack
+Twilio

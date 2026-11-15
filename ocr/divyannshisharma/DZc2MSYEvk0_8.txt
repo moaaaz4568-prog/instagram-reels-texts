@@ -1,0 +1,108 @@
+SLIDE 9
+THE ONE COMMAND
+THAT RUNS ALL 4
+
+You create one slash command
+called /ship
+
+Type: /ship add rate limiting to the login endpoint
+
+That's it. The orchestrator: → Sends it to the Planner →
+Waits for the spec → Sends spec to the Coder →
+Waits for the code → Sends changes to the Tester →
+Waits for test results → Sends everything to the Reviewer →
+Shows you the final verdict
+
+One line. Four agents. Full feature.
+
+THE ORCHESTRATOR:
+
+PLANNER
+Sends it to the Planner
+Waits for the spec
+
+CODER
+Sends spec to the Coder
+Waits for the code
+
+TESTER
+Sends changes to the Tester
+Waits for test results
+
+REVIEWER
+Sends everything
+to the Reviewer
+Shows you the
+final verdict
+
+>_/ship |
+
+EXPLORER
+PROJECT
+.pipeline
+H ship.md
+tests
+> ship.md
+src
+CODE.md
+tester.md
+reviewer.md
+README.md
+package.json
+
+main √ ⚠ 0
+
+.pipeline > H ship.md
+# Ship.md
+# Multi-Agent Software Delivery Pipeline
+version: 1.0.0
+description: Ship.md
+created: 2025-05-26T18:45:00Z
+
+# Orchestration Instructions
+Execute the full 4-agent pipeline in sequence. Each agent runs only if the previous step completed successfully.
+
+Pipeline Flow → Planner → Coder → Tester → Reviewer
+
+# 1. Planner Step
+- Read existing files: .pipeline/plan.md
+- Update .pipeline/plan.md with detailed implementation plan
+- Agent: Planner
+- Output: Updated .pipeline/plan.md
+- Stop pipeline on failure and report error
+
+# 2. Coder Step
+- Read .pipeline/plan.md
+- Implement code changes based on the plan
+- Create/modify code files in src/
+- Agent: Coder
+- Output: Updated code files
+- Stop pipeline on failure and report error
+
+# 3. Tester Step
+- Read implemented code files
+- Write comprehensive tests in tests/
+- Run tests and ensure all pass
+- Agent: Tester
+- Output: Test files and test results
+- Stop pipeline on failure and report error
+
+# 4. Reviewer Step
+- Read all artifacts: plan, code, tests
+- Perform final review and create .pipeline/review.md
+- Agent: Reviewer
+- Output: .pipeline/review.md with verdict
+- Stop pipeline on failure and report error
+
+# Success Criteria
+- All steps completed successfully
+- .pipeline/plan.md exists
+- Code files created/updated
+- Test files created and passing
+- .pipeline/review.md exists with "approved" verdict
+
+# Error Handling
+- Stop pipeline on any failure and why
+- Do not proceed to subsequent steps
+
+Ln 1, Col 1 Spaces: 2 UTF-8 LF Markdown

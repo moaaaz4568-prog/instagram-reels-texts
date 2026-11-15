@@ -1,0 +1,18 @@
+STEP 1 — FIND THE COMPLAINT
+01
+Find people complaining right now.
+Use the reddit-researcher skill to find them.
+Here's how:
+1 Tell Claude your niche and the problem you solve.
+2 The skill searches Reddit for posts where people are venting about it.
+3 You get back a ranked list of real threads, sorted by relevance.
+r/smallbusiness
+r/Entrepreneur
+r/sales
+r/SaaS
+USE THIS SKILL
+reddit-researcher
+Pulls real Reddit posts from the last 30 days, sorted by upvotes.
+No guessing where the leads are.
+ADD THIS PROMPT
+"Find Reddit posts from the last 30 days where people in [your niche] complain about [the problem you solve]."

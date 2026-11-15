@@ -1,0 +1,41 @@
+Prompt Engineering Guide
+https://lnkd.in/gjgbxQr
+
+dair-ai / Prompt-Engineering-Guide
+Code
+Issues
+168
+Pull requests
+80
+Actions
+Projects
+Security
+Insights
+Code
+About
+Guides, papers, lessons,
+notebooks and resources for p
+engineering, context engineeri
+RAG, and AI Agents.
+www.promptingguide.ai
+agent
+deep-learning
+openai
+language-model
+prompt-engineering
+rag
+prompt-engineering
+generative-ai
+chatgpt
+Readme
+MIT License
+Cite this repository
+Activity
+Custom properties
+Report repository
+
+Prompt Guide
+Papers, lessons, notebooks and resources
+Start with the Prompt Guide →
+
+@divyanshisharma

@@ -1,0 +1,35 @@
+Step 3
+It turns the pain point
+into a content brief.
+
+The recipe gives me:
+
+Pain point
+→ What they're struggling with
+
+Target audience
+→ Who else feels this pain
+
+Emotion to evoke
+→ What the reader should feel
+
+Suggested headline
+→ A punchy line for the visual
+
+AI motion graphics workflow — from script to finished video
+Workflow Overview
+• Entire video production (script, voiceover, scenes) handled by a single Claude skill
+• Built to replicate the visual consistency of professional explainers like Vox
+• Skill is the workflow itself, not a shortcut layered on top of one
+
+The Core Problem with Current AI Video Approaches
+• Most people generate one scene at a time; one prompt, one image, repeat
+• Results in inconsistent colors, styles, and visual language across scenes
+
+Pain point: Generating AI video one scene at a time creates a project where every scene feels slightly different.
+Target audience: Creators trying to make polished AI motion-graphics explainers.
+Emotion to evoke: Finally, someone gets why this feels so hard.
+Suggested headline: One Prompt at a Time Breaks Consistency
+Supporting text: "One prompt, one image, and then they repeat that very cycle." The result ends up being a project where every scene feels slightly different. You've got different colors, different style.
+
+Ask anything

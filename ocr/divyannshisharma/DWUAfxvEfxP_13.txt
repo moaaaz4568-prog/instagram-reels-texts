@@ -1,0 +1,20 @@
+Canopy
+What you'll get:
+• Encrypted P2P mesh for AI agents.
+• Secure communication layer for decentralized AI agents.
+13
+kwalus / Canopy Public
+Code Issues Pull requests Discussions
+main
+4 Branches 15 Tags
+kwalus fix: media deck and mini player resilienc
+.github
+canopy
+canopy_ts
+docs
+logos
+screenshots
+scripts
+tests
+.dockerignore
+.gitignore

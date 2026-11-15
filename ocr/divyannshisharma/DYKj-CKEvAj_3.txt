@@ -1,0 +1,7 @@
+#3: OBSIDIAN
+This manages 14 repositories and maintains popular
+public resources like the obsidian-releases list and
+the obsidian-api type definitions.
+github.com/obsidianmd
+Divyanshi sharma
+03/10

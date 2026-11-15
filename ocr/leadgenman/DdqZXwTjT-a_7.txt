@@ -1,0 +1,9 @@
+What Gmail
+looks at now
+
+Gmail now runs on its own signals, and the loudest
+one is users marking your email as spam.
+
+Outlook still checks Spamhaus at the door, so a
+listing gets you a hard bounce before anyone reads
+the email, and that is a huge share of B2B inboxes.

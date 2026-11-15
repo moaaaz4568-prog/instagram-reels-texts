@@ -1,0 +1,5 @@
+5. CLUSTERX OS
+
+• An agentic AI system that manages the entire lead qualification process from first contact to booked appointment.
+• It automatically engages new leads, handles WhatsApp and calls, qualifies budget, requirements, and buying intent, and follows up with prospects.
+• Connects conversations, qualification, follow-ups, CRM updates, and calendar booking in one centralized AI-powered system.

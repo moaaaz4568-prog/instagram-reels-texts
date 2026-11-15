@@ -1,0 +1,20 @@
+Components of
+AI Agents
+Agent Runtime
+LLM
+Reasoning
+Planning
+Reflection
+Prompt
+(Instructions)
+Task
+Role
+has
+access to
+Memory
+Short-term
+Long-term
+Tools
+Vector Search
+Engine
+Web Search

@@ -1,0 +1,19 @@
+STEP-4
+Review your deck
+
+Your presentation shows up with:
+→ Budget breakdown
+→ Timeline
+→ Deliverables
+→ Client-specific details
+
+All pulled from one Gmail thread.
+
+Automation project presentation with Gamma
+Got everything I need. Now let me generate the project presentation with Gamma based on Patrick's email.
+Gamma
+Here's what I pulled together:
+Email thread — from Univ Soli (signed as Patrick), sent today with subject "PI proposal: AI Automation for User Onboarding Workflow." I'm looking to automate the user onboarding process — specifically auto-add % users to their CRM and handling follow-up sequences. They asked about pricing and availability for a discovery call.
+AI Automation for User Onboarding Workflow
+A project proposal for Patrick & Univ Soli
+Edit in Gamma — transforming manual workflows into an intelligent, hands-free experience.

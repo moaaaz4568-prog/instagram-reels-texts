@@ -1,0 +1,17 @@
+Step #17
+Back to canvas
+Execute Workflow Trigger
+Test step
+This data is pinned. Unpin
+Parameters Settings
+Docs
+When an 'execute workflow' node calls this workflow, the execution starts here. Any data passed into the 'execute workflow' node will be output by this node.
+OUTPUT
+1 Item
+query
+email: samsek@proxa.co
+title: Follow Up Email
+html_message: Hi there!<br><br>This is Andy from Proxa, an AI automation agency specializing in helping businesses like yours transform and scale through smart automation solutions.<br><br>We're passionate about optimizing growth by reducing costs, and driving innovation by integrating cutting-edge AI technologies tailored to your needs.<br><br>Would you be interested in exploring how Proxa can revolutionize your business processes?<br><br>Feel free to reply to this email or contact us directly at andy@proxa.com.<br><br>Best regards,<br>Andy<br>Proxa - AI Automation Agency
+FHD 144Hz
+Lock A Z X C V B N M Alt Gr Ctrl
+Cover letters sent successfully - job applications on autopilot!

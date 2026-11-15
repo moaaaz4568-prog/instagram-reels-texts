@@ -1,0 +1,13 @@
+Claude Code:
+Developer's System
+Extensible platform for AI agents.
+The Extension Stack
+plugins
+hooks
+agents
+skills
+commands
+rules
+CLAUDE.md
+@divyanshisharma
+save for later

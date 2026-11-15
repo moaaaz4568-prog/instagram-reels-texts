@@ -1,0 +1,33 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+Why Should You Care?
+Before MCP:
+• Every AI tool needed a custom integration for every app it talked to.
+• One model x many tools = dozens of one-off connectors. Painful. Slow.
+With MCP:
+• All tools speak the same language.
+• One model connects once. Every tool plugs in.
+• It's like going from 50 random chargers -> to one universal USB-C.
+Without MCP
+ChatGPT
+Claude
+Gemini
+Database
+Email
+CRM
+Analytics
+Internal App
+M x N
+With MCP
+ChatGPT
+Claude
+Gemini
+Gemini
+Ben1
+MCP
+Database
+Email
+CRM
+Analytics
+Internal App
+M + N

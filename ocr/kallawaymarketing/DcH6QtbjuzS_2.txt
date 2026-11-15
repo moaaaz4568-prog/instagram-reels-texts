@@ -1,0 +1,8 @@
+FOR EXAMPLE:
+Analyze my top 25 videos from the last 4 months and tell me exactly why the best-performing hooks outperformed all others
+Opus 5
+I have enough to synthesize. Let me tag each video with topic + format and build the artifact.
+Used 4 tools, ran 2 commands
+Created artifact: competitor-topics-formats-30day
+Here's the breakdown of your biggest 10 watchlist competitors over the last 30 days — 94 videos, 80M+ combined views. The interactive view above lets you toggle Topic / Format charts and click any
+Writing...

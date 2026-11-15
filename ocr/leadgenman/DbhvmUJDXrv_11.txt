@@ -1,0 +1,14 @@
+Three Files in
+Every Repo
+
+1. CLAUDE.md:
+→ Your stack, your folder layout, and what
+it should never touch.
+
+2. .claudeignore:
+→ Keeps build folders, lock files and huge
+assets out of the context window.
+
+3. The CI workflow:
+→ Typecheck, lint, tests and a security
+audit on every single push.

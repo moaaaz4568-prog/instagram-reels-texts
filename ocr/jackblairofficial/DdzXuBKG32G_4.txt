@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+4. The 3 out of 10.
+
+"Four. Don't get excited." The last prompt turns Claude into a buyer who rated himself a 3 and meant it: polite, busy, and dropping a point every time I pitch. I run the Yale questions on him and type STOP for the grade. Here's what it does:
+
+He dropped to a 2 the moment I pitched, and ended on a 5 after he priced the problem himself and named the two techs he trained. It named the question that moved him most and the exact moment I slipped back into convincing.

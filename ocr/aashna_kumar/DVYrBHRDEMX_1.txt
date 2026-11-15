@@ -1,0 +1,5 @@
+@aashna_kumar
+BAD PROMPT
+Create a viral Instagram carousel post about growing on Instagram.
+GOOD PROMPT
+You're a master Instagram carousel strategist. My audience is female entrepreneurs learning AI content tools. Create an 8-slide carousel about [topic] using the hook → problem → solution → transformation flow. Keep it conversational and no corporate speak.

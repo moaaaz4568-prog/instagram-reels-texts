@@ -1,0 +1,12 @@
+Calendar Page
+
+Content Calendar
+Schedule and track your content pipeline
+
+March 2026
+
+Build a content calendar page that displays scheduled posts and previously posted posts in a monthly calendar view. Each day should be able to hold multiple content items shown as colored chips. Include filters by platform (Instagram, YouTube, etc.) and a dark UI.
+
+@itsstylergermain
+
+save for later

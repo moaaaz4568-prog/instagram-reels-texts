@@ -1,0 +1,3 @@
+Example 3
+✗ Boring : “Weight loss advice”.
+✓ Viral :”Why you keep losing and gaining the same 5kg (and how to fix it).”

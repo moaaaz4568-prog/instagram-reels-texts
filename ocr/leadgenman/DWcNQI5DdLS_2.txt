@@ -1,0 +1,21 @@
+2 / 5
+/expert-panel
+Notepad
+File Edit Format View Help
+Get three expert perspectives before deciding. This skill assembles 2-3 domain specialists who analyze your question from different angles, cross-pollinate ideas, and converge on a recommendation. Architecture decisions, tech choice opinion.
+Code Review
+4 issues found. Fix
+Fix All
+@leadgenai/skills/expert-panel.txt
+Windows System32\cmd.exe
+> /expert-panel "WebSockets or SSE?"
+Assembling panel...
+✓ Backend Systems Architect
+✓ Frontend Performance Engineer
+✓ DevOps / Infrastructure Lead
+Analysis
+— Round 1: Initial
+[Architect] SSE simpler for read-only
+[Frontend] Auto-reconnect built in
+✓ Recommendation: Use SSE
+C:\users\manthan> claude

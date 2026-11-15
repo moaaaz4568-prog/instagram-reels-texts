@@ -1,0 +1,12 @@
+AI Agents
+Tools | Memory | Planning
+
+An AI Agent is an LLM with tools,
+memory, and the ability to take action
+on its own. Instead of just answering your
+question, it goes out and does the work.
+
+Give it a goal and it figures out the steps.
+It books the meeting, writes the email,
+pulls data from your CRM. This is where
+AI starts doing actual work.

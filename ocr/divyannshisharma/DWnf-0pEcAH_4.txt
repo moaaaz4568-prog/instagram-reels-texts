@@ -1,0 +1,19 @@
+Step 4: Setup
+Your folder opens in VS Code with the
+Remotion skill already wired into Claude.
+EXPLORER
+MOTION-DESIGN
+claude
+public
+.gitignore
+prettier.config.js
+eslint.config.mjs
+package.json
+postcss.config.mjs
+README.md
+tsconfig.json
+tsc
+motion-design
+Open Chat
+Show All Commands
+Toggle Terminal

@@ -1,0 +1,10 @@
+Continuation:
+
+38. Task Master AI: Your AI project manager. Feed a PRD and get structured tasks with dependencies. Claude executes them one by one. Turns chaos into a proper pipeline.
+https://github.com/eyaltedeno/claude-task-master
+
+39. fastmcp: Build your own MCP servers in minimal Python. The fastest way to create custom tool integrations. If none of the existing servers do what you need, build one with fastmcp in an afternoon.
+https://github.com/jlowin/fastmcp
+
+40. MCPHub: Manage all your MCP servers through one dashboard. Start, stop, configure, and monitor multiple servers via HTTP. Essential once you have more than five servers running.
+https://github.com/samanhappy/mcphub

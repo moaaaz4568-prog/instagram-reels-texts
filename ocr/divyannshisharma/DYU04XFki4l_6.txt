@@ -1,0 +1,42 @@
+7. @os.operator
+operatoros.ai
+Explore real prompts.
+Learn what works.
+Ship faster.
+USE CASES
+Claude Use Cases
+Library
+(Official Docs)
+use-cases.md
+Search use cases
+Audit a folder of visual assets against your guidelines
+In Claude Cowork, Claude reads exports at full resolution to spot off-brand colors...
+Anthropic
+Cowork
+Adapt a standard textbook page to every reading level
+Opus 4.7 reads a single source page in detail and returns a finished book page for each audience that needs it. Here, one textbook...
+Anthropic
+Cowork
+Remote control your computer with Dispatch
+Use Dispatch in your computer - all from the Claude...
+Anthropic
+Cowork
+Kick off long-running computer tasks from the Claude mobile app
+Check progress on a running task, give me market opportunities.
+Anthropic
+Cowork
+Write a viral LinkedIn post about productivity hacks for founders.
+Copy
+Analyze this startup idea and give me market opportunities.
+Copy
+Steal working prompts.
+Fastest way to learn.
+1. Copy
+Browse proven prompts that actually work.
+2. Modify
+Adapt to your context. Make it yours.
+3. Deploy
+Use with Claude. Get insane results.
+Day 2
+Become dangerous.
+C

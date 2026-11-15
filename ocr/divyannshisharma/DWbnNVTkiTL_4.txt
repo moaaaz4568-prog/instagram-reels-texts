@@ -1,0 +1,11 @@
+01 02 03 04 05 06 07 08 09 10
+The Memento Problem
+AI agents wake up incredibly capable, but completely amnesic. They need "Polaroids" and "tattoos" to know who they are and what they are supposed to do.
+Paperclip solves this with the Heartbeat Checklist.
+1. Wake Up
+2. Read Identity & Quality Bar (The Heartbeat)
+3. Check Today's Plan & Assignments
+4. Execute Tasks
+Operator Tip: When an agent fails, add a rule to their Heartbeat. Example: "Always ask QA to review before closing the issue."
+STEP 02
+Your agents are like the guy from Memento—they wake up capable, but without context. They know how to code, write, and execute, but not who they are or what they should be doing. You have to guide them by defining who they are, their role, tasks, and quality standards—that's the heartbeat. When they start a task, they read this context and act accordingly. If something goes wrong, you update the heartbeat with rules like setting success conditions or requiring QA before closing tasks.

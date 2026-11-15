@@ -1,0 +1,4 @@
+One command to install.
+Copy one line. Paste it in your terminal. Done.
+Run it on any website, any time. It will crawl the site, fire the agents, score every category, and export the PDF, every single time.
+Swipe →

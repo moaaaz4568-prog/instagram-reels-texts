@@ -1,0 +1,27 @@
+Step 2 →
+Copy & Paste the Code
+Paste the following Apps Script code
+(summarized version)
+const similarWeb_api_key = "YOUR_API_KEY";
+
+function getTraffic(domain) {
+  var url = "https://api.similarweb.com/v1/similar-rank/" + domain + "/rank?api_key=" + similarWeb_api_key;
+  var response = UrlFetchApp.fetch(url, {"muteHttpExceptions": true});
+  var rank = JSON.parse(response.getContentText()).similar_rank.rank;
+  return calculateTraffic(rank);
+}
+
+function calculateTraffic(rank) {
+  if (rank > 3079440) return "Not Enough Traffic";
+  const data = [[0, 86400000000], [20, 14000000000], [118, 200000000], ...];
+  let lowerBound, upperBound, lowerTraffic, upperTraffic;
+  for (let i = 0; i < data.length; i++) {
+    let c = data[i][1];
+    if (data[i][0] >= rank) {
+      upperBound = data[i][0]; upperTraffic = data[i][1];
+      lowerBound = data[i-1][0]; lowerTraffic = data[i-1][1];
+      break;
+    }
+  }
+  return lowerTraffic + (rank - lowerBound) * (upperTraffic - lowerTraffic) / (upperBound - lowerBound);
+}

@@ -1,0 +1,20 @@
+STEP 2
+Build context
+~/CLAUDE.md is the onboarding doc Claude reads before every chat, so you write it once. It loads before your first message, every session.
+~/CLAUDE.md
+## Role
+## Voice
+## Banned words
+## Defaults
+## Push back
+## Who it is for
+## Output format
+## Never do
+## Tools I use
+## Projects
+## How to ask me
+Help me build my CLAUDE.md from scratch. Ask me about my business, my voice, my banned words, my output defaults, and how I want you to work. Save it to ~/CLAUDE.md.
+One Account
+Same Files
+Works Everywhere
+Set Up in Minutes

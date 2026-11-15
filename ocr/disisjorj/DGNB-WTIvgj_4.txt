@@ -1,0 +1,7 @@
+export settings
+2 very important rules here:
+1080p 30fps
+MP4.file
+*turn on
+“Upload at highest quality” on Instagram
+Upload → More options → Upload at highest quality

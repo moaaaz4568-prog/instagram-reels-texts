@@ -1,0 +1,11 @@
+Step #12
+WhatsApp account
+Connection tested successfully
+Details
+Access Token
+Business Account ID
+1030051362386123
+Enterprise plan users can pull in credentials from external vaults. More info
+FHD 360Hz
+Connect WhatsApp account
+with credentials and test

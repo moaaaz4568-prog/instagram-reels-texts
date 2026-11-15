@@ -1,0 +1,5 @@
+ARPU - Average revenue per user
+Your total revenue divided by the number of customers or users.
+$50,000 in revenue from 500 users.
+ARPU = $100.
+It shows how much revenue the average user generates. Lower ARPU generally requires more customers to reach the same revenue level, while higher ARPU means each customer contributes more.

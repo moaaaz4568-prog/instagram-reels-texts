@@ -1,0 +1,18 @@
+Path 7:
+Biz Dev & Operations (Agent GTM)
+What you do
+Package, price, and run agentic offers for real customers.
+Stack to learn
+n8n
+Clay
+Smartlead
+Make
+Apollo AI
+30-day plan
+→ Week 1: Pick one vertical.
+→ Week 2: Build a 7-minute Loom demo.
+→ Week 3: Sell a 10-day starter workflow.
+→ Week 4: Track ROI and testimonials.
+Metric that matters
+• Deals closed
+• ROI per client

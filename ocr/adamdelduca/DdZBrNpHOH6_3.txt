@@ -1,0 +1,4 @@
+Step 3: Generate topics with Claude
+90% of your videos' results come from picking the right topic
+Rather than guess, just emulate what's already working
+Look at this channel, find the pattern on why and what these topics are and break it down into a clear strategy/format, and then suggest 25 new topics that are adjacent to the top performing topics on this channel

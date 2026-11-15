@@ -1,0 +1,6 @@
+Higgsfield:
+one prompt, real output
+
+Type what you want to see. Claude sends it to Higgsfield. Seconds later you get a real image.
+
+One sentence. One click. Done.

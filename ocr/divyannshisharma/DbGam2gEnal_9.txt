@@ -1,0 +1,62 @@
+SLIDE 10
+WHAT YOU
+WAKE UP TO
+You typed one command before bed.
+By morning you have:
+A written spec of what was planned
+The actual code written
+Tests written and run
+A SHIP / NEEDS WORK / BLOCK verdict waiting for you
+You just do the final review and merge.
+The pipeline did everything else.
+z z
+>_ /ship
+SPEC
+What was planned
+CODE
+What was written for you
+TESTS
+SHIP
+NEEDS WORK
+BLOCK
+Favorites
+AirDrop
+Recents
+Applications
+Desktop
+Documents
+Downloads
+iCloud
+iCloud Drive
+Shared
+Locations
+MacBook Pro
+Tags
+Work
+Projects
+Personal
+Ideas
+Archive
+All Tags...
+.pipeline
+Name
+plan.md
+code.md
+test.md
+review.md
+Date Modified
+Today at 6:12 AM
+Today at 6:42 AM
+Today at 7:18 AM
+Today at 7:55 AM
+Size
+14 KB
+89 KB
+52 KB
+31 KB
+Kind
+Markdown
+Markdown
+Markdown
+Markdown
+4 items, 183.23 GB available

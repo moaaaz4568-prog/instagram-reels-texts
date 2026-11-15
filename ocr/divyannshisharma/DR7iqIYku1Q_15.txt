@@ -1,0 +1,17 @@
+Conversion Optimizer
+discovery
+Product page
+Cart process
+Checkout
+Act as a conversion optimization expert specializing in supplement stores.
+STEP 1: Audit our eStore: https://natures-source.com/
+Follow the process document for the whole auditing process.
+SOP: E-commerce UX Audit... as if you are a customer.
+Document friction points in:
+- Product discovery (search, filters, categories)
+- Product page (info clarity, trust signals, CTA)
+- Cart experience
+- Checkout flow
+STEP 2: Visit other supplement industry leaders: http://vitamart.ca/,
+https://www.canadianvitaminshop.com/
+Really visit their sites and analyze the same journey following the process document.

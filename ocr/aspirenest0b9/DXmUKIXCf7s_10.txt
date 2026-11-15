@@ -1,0 +1,32 @@
+PROMPT 03
+The Content Repurposing System
+→ Turn one piece of content into ten formats across every platform
+
+Why Did I Bring This Into the Game?
+Because creating content from scratch is a trap. And every day is a trap.
+→ It’s exhausting. It’s inefficient. And it’s completely unnecessary.
+The best operators don’t create more content.
+They extract more value from what already exists.
+
+One LinkedIn post becomes a newsletter. One podcast episode becomes five carousels. One client case study becomes a PDF lead magnet, a cold email, and a LinkedIn story.
+This prompt turns Claude into your content repurposing engine. Feed it one piece of content, tell it what formats you need — walk away with a week’s worth of assets.
+→ This is how you build a content machine without burning out.
+
+How the Prompt Works
+→ Role: Senior content strategist and multi-platform copywriter
+→ Goal: Extract maximum reach from a single piece of content
+→ Instructions: Adapt the core idea across multiple formats and platforms
+→ Output: Ready-to-publish content across LinkedIn, email, PDF, and more
+
+How to Customize This Prompt
+Paste your original content in first. Then tell Claude:
+- What formats you need (LinkedIn post, email, carousel, PDF, Reddit, etc.)
+- Your tone of voice
+- Your target audience
+- Any platform-specific requirements
+
+Example pre-prompt:
+
+ZDTS · zackdesira.com
+swipe >>>
+Page 9

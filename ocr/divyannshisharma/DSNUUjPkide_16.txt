@@ -1,0 +1,38 @@
+Step #16
+Multi-step workflows. Gmail integration working perfectly.
+Personal
+Gemini 3 Pro
+Add tag
+Inbox
+received
+2 items total
+2 items total
+Team
+OpenRouter Chat Model
+Google Gemini Chat Model
+Simple Memory
+Send a message
+Gmail
+Execute workflow
+on form submission
+Hide chat
+Session: fs22a...
+Logs
+Clear excel
+Google Gemini Chat Model
+Success: 162...
+INPUT
+Human: send an email to nate@example.com asking if he wants to get lunch this weekend
+('error': "Bad request - please check your parameters")
+AI Age...
+Simpl...
+Goo...
+OUTPUT
+Success: 162...
+INPUT
+Human: send an email to nate@example.com asking if he wants to get lunch this weekend
+('error': "Bad request - please check your parameters")
+AI Age...
+Simpl...
+Goo...
+OUTPUT

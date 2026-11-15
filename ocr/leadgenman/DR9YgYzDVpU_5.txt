@@ -1,0 +1,6 @@
+In short,
+ADK is like Lego blocks for AI agent teams.
+FlightAgent
+HotelAgent
+DatabaseAgent
+WeatherAgent

@@ -1,0 +1,15 @@
+PART 1: OFFICIAL ANTHROPIC SKILLS
+Repo: github.com/anthropics/skills
+DOCUMENT
+docx, pdf, pptx, xlsx
+DEVELOPMENT
+frontend, webapp, claude api
+MCP & META
+mcp-builder, skill-creator
+ENTERPRISE
+doc, brand, internal-comms
+CREATIVE
+canvas-design, theme-factory
+(121,000 stars): 17 skills
+inside
+@divyanshisharma

@@ -1,0 +1,10 @@
+Step 7
+Teach It a Task
+Use Record a skill. Walk through a task once while it watches. and it saves those steps as a reusable skill you can run anytime.
+ADD TO CHAT
+Add files
+Connect apps
+Record a skill
+RECORDING...
+Show Claude how to do this task.
+It will remember the steps and turn them into a reusable skill.

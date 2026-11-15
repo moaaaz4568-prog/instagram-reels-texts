@@ -1,0 +1,23 @@
+The API: developers
+building on Claude
+
+Biggest practical changes.
+
+Cost control
+- Effort levels replace token budgets
+- Medium = balanced, Max = powerful but expensive
+
+Ready-to-use tools
+- Streaming, structured outputs, web + code tools all live
+
+Scale
+- 1M context + auto compaction
+
+Enterprise
+- Data residency + platform integrations
+
+Key unlock
+- API Skills = reusable automation
+
+@divyanshisharma
+save for later

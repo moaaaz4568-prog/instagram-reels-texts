@@ -1,0 +1,10 @@
+Step 5: Analysis
+Data Analysis Without Spreadsheets
+Old way was export CSV, open Google Sheets, spend 40 min building formulas, realize it was wrong, start over.
+markdown
+Analyze this data. I need:
+1. Top 3 trends over time
+2. Anything unusual or unexpected
+3. Correlations between [COLUMN A] and [COLUMN B]
+Table first, then a 2-paragraph summary explaining what this means in plain English. If the dataset is too small for a conclusion, say so.
+Swipe →

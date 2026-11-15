@@ -1,0 +1,14 @@
+Adam | YouTube
+@Adam_DelDuca
+
+2. ChatGPT
+
+ChatGPT is a great tool for:
+- Ideation
+- Scriptwriting
+
+For ideas: enter in prompts like “give me 10 video ideas relating to Bitcoin”
+
+For scripts: enter in prompts like “provide me the outline of the book “Atomic Habits”
+
+Then manually edit it to your needs

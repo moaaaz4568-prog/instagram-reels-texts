@@ -1,0 +1,8 @@
+Large Language Model Architecture
+LLM
+1. Tokenization
+2. Embedding
+3. Attention
+4. Feed-Forward
+5. Normalization
+6. Prediction

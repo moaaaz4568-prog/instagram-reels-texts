@@ -1,0 +1,4 @@
+Research Agent
+Organize tabs into workspaces and auto-analyze all pages
+Surface themes, patterns, and quick fact-checks
+Save prompts and switch into deep-research mode fast

@@ -1,0 +1,29 @@
+The 5 levels of
+Claude Code
+2x
+5x
+10x
+20x
+50x
+Prompt
+Skill
+Skill Chain
+Agent
+Agent Team
+One-off task
+Asks clarifying Qs
+Returns ranked list
+Multi-step pipeline
+3+ skills chained
+End-to-end automation
+Parallel workforce
+4+ coordinated agents
+Full pipeline ops
+Reusable playbook
+Repeatable output
+No questions asked
+Background worker
+Large datasets
+Resumes on failure
+@leadgenman
+01 / 07

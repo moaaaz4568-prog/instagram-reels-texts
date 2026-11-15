@@ -1,0 +1,31 @@
+Phase 1:
+n8n?
+What is n8n?
+Core Architecture
+n8n is a free, open-source automation tool that connects apps, services, and AI agents without heavy coding.
+
+Trigger Nodes:
+• Start workflows
+• Lightning icon is automatically identifier
+• Can be scheduled or event-based
+• Support multiple trigger types
+• Essential for workflow initiation
+
+Action Nodes:
+• Perform operations in workflows
+• Execute tasks sequentially
+• Process and transform data
+• Connect to external services
+• Chain multiple actions together
+
+Tool Nodes:
+• Connect to external services
+• Optional AI agent execution
+• Integrate with APIs
+• Enhance workflow capabilities
+• Support custom workflow integrations
+
+Instagram
+Divyanshi
+1 2 3 4 5 6
+SWIPE

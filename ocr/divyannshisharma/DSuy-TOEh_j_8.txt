@@ -1,0 +1,39 @@
+Step #8
+Overview
+Web Scraper Agent
+Executions
+Auto refresh
+Chat
+Templates
+Insights
+Help
+Settings
+Dec 14, 15:02:40
+Succeeded in 29.995s
+Dec 14, 15:02:40
+Succeeded in 29.995s
+Dec 14, 00:48:30
+Succeeded in 27.634s
+Dec 14, 00:48:17
+Succeeded in 9.662s
+Dec 14, 00:47:54
+Succeeded in 22.083s
+Dec 14, 00:46:23
+Succeeded in 14.512s
+Dec 14, 00:46:10
+Succeeded in 7.328s
+Dec 14, 00:44:24
+Succeeded in 21.846s
+Dec 14, 00:44:03
+When chat message received
+Web Scraper Agent
+OpenAI Chat Model
+Simple Memory
+0 / 3
+Publish
+Saved
+Evaluations
+Which execution should this workflow save?
+Chat
+Logs
+Behind the scenes? Your n8n workflow running live.

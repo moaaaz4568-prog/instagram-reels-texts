@@ -1,0 +1,6 @@
+THE /Analyze COMMAND
+Most people don't know this, but you can just type
+/analyze into Claude, paste any video link,
+and get a full analysis of it.
++
+Opus 4.8 High

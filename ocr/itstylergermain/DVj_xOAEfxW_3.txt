@@ -1,0 +1,15 @@
+Tyler Germain @its Tylergermain
+But there's one problem.
+Claude Code has no idea this CLI exists.
+If you ask it to check your calendar or send an email, it doesn't know how.
+Welcome to Claude Code!
+/help for help, /status for your current setup
+cwd: /Users/danipower/Proyectos/Judini/mcp-code-graph
+clau
+Tips for getting started:
+1. Run /init to create a CLAUDE.md file with instructions for Claude
+2. Run /terminal-setup to set up terminal integration
+3. Use Claude to help with file analysis, editing, bash commands and git
+4. Be as specific as you would with another engineer for the best results
+* Tip: Send messages to Claude while it works to steer Claude in real-time
+> Try "write a test for package.json"

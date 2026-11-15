@@ -1,0 +1,6 @@
+OpenAI Releases
+GPT5.4
+GPT-5.4 Thinking
+GPT-5.4 is OpenAI's first model in a while that actually starts to give Claude a run for it's money. They combined reasoning, coding, and agentic workflows in one model. It's also OpenAI's first general-purpose model with native computer-use built in.
+@itsstylergmain
+save for later

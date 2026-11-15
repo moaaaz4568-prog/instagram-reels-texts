@@ -1,0 +1,45 @@
+#3
+Valuable Tools & Resources
+The ecosystem: tools, repos, extensions, and workflows
+
+Claude Code for Everyone
+A course that teaches your Claude Code IN Claude Code: https://ccforeveryone.com/
+
+Prompt Library
+https://platform.claude.com/docs/en/build-with-resources/prompt-library/library
+
+Prompt Optimizer
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-improver
+
+Claude Directory
+An all-in-one Claude directory platform.
+https://www.claudedirectory.co/
+
+Claude Skills Marketplace
+128,000+ Claude Skills ready to install.
+skillspmp.com
+
+Claude Code Marketplace
+Plug-ins, tools & more. https://claudeplaces.com/
+
+CLAUDE
+CODE
+FOR
+
+Prompt
+Evaluate
+Examples
+Improve prompt
+
+The home for Claude
+enthusiasts
+Explore and generate rules, browse MCPs, find jobs, and connect with the community.
+
+for the open SKILL.md ecosystem
+const skills = 128,427;
+Install (be careful).
+Discover open-source agent skills from GitHub
+
+CLAUDE CODE
+MARKETPLACE
+A comprehensive directory for discovering plugin marketplaces

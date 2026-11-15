@@ -1,0 +1,2 @@
+Step 2: Pipeline
+Scrape YouTube, hit a RAG system, get analysis and deliverables.

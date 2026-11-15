@@ -1,0 +1,20 @@
+5. The list is the message.
+Segment first. Decide why your offer matters to that group. Write the email last.
+1. SEGMENT FIRST
+ICP 1
+Pain: X
+Goal: Y
+ICP 2
+Pain: A
+Goal: B
+ICP 3
+Pain: M
+Goal: N
+2. MAKE IT RELEVANT
+Why this offer matters to ICP 1
+Why this offer matters to ICP 2
+Why this offer matters to ICP 3
+3. WRITE LAST
+Email tailored for ICP 1
+Email tailored for ICP 2
+Email tailored for ICP 3

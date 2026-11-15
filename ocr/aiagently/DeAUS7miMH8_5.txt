@@ -1,0 +1,67 @@
+Step 5
+FIND WHERE MONEY
+IS GOING
+
+1 Now give Claude
+a real job.
+Paste:
+"Act as my Meta Ads analyst.
+Analyze my active campaigns
+and identify the 3 biggest
+opportunities to improve
+performance. Look at spend,
+results, CPA, CTR, CPM, ROAS,
+frequency and creative performance.
+Explain each opportunity in simple
+language and tell me what I should
+test next."
+
+Claude
+Analyze my active campaigns
+and identify the 3 biggest opportunities to improve performance.
+Look at spend, results, CPA, CTR, CPM, ROAS, frequency and
+creative performance. Explain each opportunity in simple
+language and tell me what I should test next.
+Meta Ads
+
+2 Now Claude isn't just
+showing you numbers.
+It's turning your ad data
+into actions.
+
+Claude
+Meta Ads Performance Analysis
+Here are the 3 biggest opportunities to improve your results:
+
+1 Creative Fatigue
+Your CTR has dropped and frequency is high.
+CTR 0.8% -42%
+Frequency 4.8 +6%
+ROAS 1.8 -35%
+What to test:
+• New creative formats
+• Shorter videos (5-15s)
+• Fresh hooks and angles
+
+2 High CPA on Prospecting
+Your cost per result is higher than it should be.
+CPA $18.40 +54%
+CPM $12.60 +38%
+ROAS 2.1 -28%
+What to test:
+• Narrower audience
+• Better targeting interests
+• Lookalike audience (1-3%)
+
+3 Underperforming Ad Set
+One of your ad sets is spending a lot with low results.
+Spend $320 +72%
+Results 12 -56%
+ROAS 0.9 -48%
+What to test:
+• Pause or rework this ad set
+• Test new audiences
+• Try different creatives
+
+Now you know exactly
+where your money is going and what to do next.

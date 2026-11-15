@@ -1,0 +1,25 @@
+CopilotKit
+What you’ll get:
+• Embed AI copilots into React apps.
+• Enables interactive, in-app AI guidance for users.
+CopilotKit / CopilotKit
+Code
+Issues 540
+Pull requests 64
+Discussions
+Public
+main
+154 Branches
+1379 Tags
+maxcorp
+fix: update @ag-ui deps to 0.0.48 to fix...
+.changeset
+.claude
+.cursor/rules
+.github
+.superset
+assets
+community
+dev-docs/architecture
+docs
+6

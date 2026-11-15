@@ -1,0 +1,8 @@
+Tools You’ll Need
+Find high-signal accounts
+Grok
+Scrape and DM outreach
+reacher
+for finding high-signal accounts
+for scraping and DM outreach
+A browser (I recommend using the web version of Grok)

@@ -1,0 +1,20 @@
+Rules Directory:
+Modular Instructions
+
+API conventions edits.
+
+.claude/rules/
+├── code-style.md
+├── testing.md
+├── api-conventions.md
+└── security.md
+
+---paths: "**/*.test.tsx"---#
+Test ConventionsUse React Testing Library, not Enzyme.
+Test behavior, not implementation.
+Always include at least one integration test per component.
+Mock API calls with MSW, never with jest.mock on fetch.
+
+@divyanshisharma
+
+save for later

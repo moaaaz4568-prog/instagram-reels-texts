@@ -1,0 +1,4 @@
+Step #9
+Claude Code for VS Code
+Claude Code Extension for VS Code
+Install Claude Code extensions

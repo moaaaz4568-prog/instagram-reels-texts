@@ -1,0 +1,12 @@
+Voice AI & Avatars
+What is it
+Tools that you can build AI calling agent , and video presence at scale.
+When to use it
+When communication, storytelling, and human connection matter.
+Eleven
+Labs
+VAPI
+synthesia
+Heygen
+PUNIT GUPTA
+swipe

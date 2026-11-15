@@ -1,0 +1,27 @@
+@os.operator
+operatoros.ai
+DAY 1 → LEARN CLAUDE PROPERLY
+2. Anthropic Academy
+The official free learning hub.
+COVERS:
+Claude fundamentals
+Prompt engineering
+Claude Code
+MCP
+API building
+AI Fluency certs
+This alone can make you better than 90% of Claude users.
+SAVE THIS POST
+Resource at the end →
+Anthropic courses
+Claude 101
+Learn how to use Claude for everyday work tasks, understand core features, and explore resources for more advanced learning on other topics.
+Claude Code 101
+Learn how to use Claude Code effectively in your daily development workflow.
+Introduction to Claude Cowork
+Learn to work alongside Claude on your real files and projects. This hands-on course covers the Cowork task list, plugins and skills, file and research workflows, and how to steer multi-step work responsibly — so you're productive in your first week.
+Claude Code in Action
+Integrate Claude Code into your development workflow
+Framework & Foundations
+Learn to collaborate with AI systems efficiently, ethically, and safely
+skill.md

@@ -1,0 +1,23 @@
+Step 2: Set up your database (in simple terms)
+
+Sonnet 4.6
+
+* Every app needs to store data:
+Users, Payments, Content
+
+* What Supabase gives you:
+• A database (PostgreSQL)
+• Authentication (backup system)
+• File storage (images, docs)
+• APIs auto-created for your app
+
+* Simple explanation:
+It's like a ready-made backend you don't have to code
+
+👉 Supabase
+🔗 https://github.com/supabase/supabase
+
+npx supabase init
+npx supabase start
+
+A

@@ -1,0 +1,18 @@
+Step 6
+Connect Your AI Model
+Your WhatsApp agent needs an AI model to understand messages and generate replies.
+
+1 Use OpenRouter as the AI gateway.
+2 Add your OPENROUTER_API_KEY.
+3 Then choose the AI model you want your agent to use.
+
+OpenRouter
+AI models. One API.
+
+1 Go to OpenRouter
+2 Go to API Keys
+3 Create API Key
+4 Add Your API Key
+5 Why OpenRouter?
+Final Step
+OpenRouter → API Keys → Create API Key

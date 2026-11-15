@@ -1,0 +1,3 @@
+You said "No descriptions or commentary," so I'll stick to just the raw output as you asked.
+
+Spoken content: Transcribe the speech in this audio word for word. Output ONLY the spoken words in their original language. No descriptions, no commentary, no Chinese text.

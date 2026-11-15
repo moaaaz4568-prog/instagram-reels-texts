@@ -1,0 +1,42 @@
+MASTER AI DAILY
+@divyanshisharma
+
+Claude Code Advanced
+
+$ claude --course-outline
+CLAUDE CODE ADVANCED — 3 HOURS
+1. System Prompts & CLAUDE.
+2. Agent Harnesses & Teams
+3. Skills, Subagents & Auto-parallelization
+4. Browser Automation
+5. Organization & Security
+Ready to begin. Press Enter to start...
+3:18:23
+
+LINK:
+https://youtube.com/UptmKhlVm
+N8p?si=SlGOiEUZKYrXa1oU
+
+SOURCE:
+https://youtube.com/@nick
+sgarvey?si=dpJkzg_0E-VVa-h9
+
+DESCRIPTION:
+• We'll start with an advanced look at CLAUDE model and system prompts.
+• How to optimize these to actually improve quality, which is simpler than you think.
+• Agent harnesses and how to build larger projects with Claude Code.
+• Agent teams and other examples of extension task parallelization.
+• Skills, Subagents, and other forms of organizing stuff progressively over time.
+• Karpentry's outreach approach for improving use cases you can apply this to.
+• Browser automation, the major players, Computer Use, Browser Use.
+• How to deal with performance fluctuations in Claude Code.
+• Workspace organization for personal, business, and client projects.
+• Security for larger projects, stuff like the recent auto-mode, as well as OAuth.
+• Which integrations are actually worth adding
+• Finally, rounding it out with a discussion all about where Claude Code is going.
+
+Divyanshisharma
+AI Agentive Expert
+
+Save for
+reference

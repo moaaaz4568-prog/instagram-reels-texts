@@ -1,0 +1,17 @@
+Full setup (simple view)
+Sonnet 4.6
+View:
+• Open SaaS → app structure
+• Supabase → database
+• Claude → writes code
+• Repomix → gives context
+• Flowise → AI features
+• Vercel → deploy
+• Stripe → payments
+Why this is a big shift
+Sonnet 4.6
+Before (2020):
+• Needed developers • $10K+ investment • 3–6 months
+Now (2026):
+• Solo builder • ~$20/month • 1–2 weeks
+A

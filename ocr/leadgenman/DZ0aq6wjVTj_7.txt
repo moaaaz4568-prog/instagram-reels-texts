@@ -1,0 +1,7 @@
+Karpathy Skills
+Built from Karpathy's viral rant. Stops Claude
+making silent wrong guesses and over-engineering.
+github.com/multica-ai/karpathy-skills
+Manthan Patel | @leadgenman
+8 / 15
+github.com/multica-ai/karpathy-skills

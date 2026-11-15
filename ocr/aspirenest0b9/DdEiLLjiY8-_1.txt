@@ -1,0 +1,16 @@
+PUNIT KUMAR
+An AI Operating System
+built around how your firm
+actually works.
+A governed AI layer that sits between your firm's existing systems and AI models.
+MATTER CONTEXT
+AUDIT TRAILS
+FIRM KNOWLEDGE
+DOCUMENTS
+HUMAN REVIEW
+FIRM AI OS
+AI AGENTS
+PERMISSIONS
+WORKFLOWS
+SWIPE
+02 / 10

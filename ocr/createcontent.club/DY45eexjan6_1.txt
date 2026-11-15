@@ -1,0 +1,16 @@
+We built an agent that will turn
+your video scripts into ready to
+upload carousels
+
+ccc-carousel-generator
+
+I want you to help me create a carousel for Instagram with these colors: white, black and this color: #F7C400.
+This is the script I wrote: Claude released a new AI that can literally create viral content for you on autopilot and I can't believe that no one is talking about it. So, unless you've been living under a rock, you know that Claude released the first AI agents with Claude code and co-work, so now it can literally do things for you, it's not just a chat with an AI model. What you might NOT know is that the Instagram carousel with white, black, and orange (#F7C400). Let me break it down:
+
+1. Hero (black) — Hook: "Claude just released an AI that creates viral content on autopilot" — Context: Claude Code + Cowork agents
+2. Content (white) — The opportunity: AI can now create your content
+3. Content (black) — The 4 AI Agents breakdown
+4. Steps (white) — The catch: it's free
+5. Content (black) — CTA (orange gradient): "
+
+Writing...

@@ -1,0 +1,11 @@
+10.
+github.com/dani-garcia/va...
+The entire Bitwarden password server rewritten
+to run on a $5 box, with every paid premium
+feature unlocked, file attachments, hardware keys,
+vault health reports, free. Every official Bitwarden
+app syncs straight to it. The per-seat fee just
+stopped existing. 59K stars.
+Most people will scroll past this and keep paying
+for all of it.
+The ones who bookmark it never go back.

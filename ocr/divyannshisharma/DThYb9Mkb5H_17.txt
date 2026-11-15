@@ -1,0 +1,21 @@
+Step #17
+AIS+
+Part 2: Setup Instructions
+JSON Workflows to Download (9 Files)
+• Creative Agent (4 workflows)
+1. Edit Image
+2. Create an Image
+3. Image to Video
+4. Create Video
+• Posting Agent (3 workflows)
+1. X Post
+2. TikTok Post
+3. Instagram Post
+• Ultimate Media Agent (2 workflows)
+1. Ultimate Agent
+2. Create Doc Tool
+The rest should integrate seamlessly as subflows, so you don't file.
+Google Environment Setup
+1. Folders in Google Drive
+2. Google Drive Agent Connection
+Complete setup guide with 9 JSON workflows ready to import

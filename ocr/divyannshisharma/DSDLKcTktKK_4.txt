@@ -1,0 +1,21 @@
+Step #4
+Models
+Google: Gemini 3 Pro Preview
+OpenRouter
+Input Modalities
+Text
+Image
+Audio
+Video
+Output Modalities
+Text
+Image
+Embeddings
+Context length
+Prompt pricing
+90 Series
+GPT
+ThenPerf:GTE-Base
+ThenPerf:GTE-Large
+Infiact:LS-E5-Large-v2
+Use OpenRouter: One account, 500+ models including Gemini 3 Pro.

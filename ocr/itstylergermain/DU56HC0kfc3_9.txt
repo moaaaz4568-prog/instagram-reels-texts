@@ -1,0 +1,13 @@
+Skill #9
+figma
+openai/figma
+Design 7,309
+Use the Figma MCP server to fetch design context,
+screenshots, variables, and assets from Figma, and to
+translate Figma nodes into production code. Trigger when
+a task involves Figma URLs, node IDs, design-to-code
+implementation, or troubleshooting.
+npx @smithery/cli@latest install figma --code
+add openai/figma --agent claude
+@istylergermain
+save for later

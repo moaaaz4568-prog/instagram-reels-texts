@@ -1,0 +1,8 @@
+Organized .claude folder
+skills/
+hooks/
+agents/
+CLAUDE.md
+is your
+UNFAIR advantage.
+The 3-step setup →

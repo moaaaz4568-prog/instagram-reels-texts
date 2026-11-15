@@ -1,0 +1,43 @@
+AI AGENTLY
+Step 5: Connect
+n8n MCP With Claude
+Open Claude.
+Connect your
+MCP server
+using the current MCP
+connection method
+supported by your
+Claude environment
+and n8n setup.
+1
+1st go to n8n
+copy mcp
+n8n MCP Server
+MCP URL
+https://your-n8n-domain.com/mcp
+Connect
+2
+then add in
+claude mcp tab
+Claude Settings
+General
+MCP
+Tools
+Advanced
+MCP Server URL
+https://your-n8n-domain.com/mcp
+Status: Connected
+Once connected,
+Claude can work with
+your n8n automation
+environment through MCP.
+The idea is:
+You tell Claude what you
+want.
+Claude can then work with
+the available n8n tools
+instead of you manually
+creating every piece
+from scratch.
+Your all in one
+Growth Partner

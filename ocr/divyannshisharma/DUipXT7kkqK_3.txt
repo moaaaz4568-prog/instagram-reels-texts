@@ -1,0 +1,52 @@
+Diyanshi | Agentic AI Expert
+@diyanshisharma
+
+Advanced prompt injection defense system for Clawdbot:
+https://clawdhub.com/seojoonkim/prompt-guard
+
+seojoonkim / prompt-guard
+Code Issues 1 Pull requests Discussions Actions Projects Security Insights
+Type / to search
+Add file
+Code
+main 1 Branch 0 Tags
+About
+prompt-guard Public
+seojoonkim feat: Auto-report HIGH+ detections to Hivepipe API for collective im... 66e47b1 1 hour ago
+blog docs: add blog post for dev.to/medium
+scripts feat: Auto-report HIGH+ detections to Hivepipe API for colle... python security ai-security ai-agent prompt-injection llm-security clawdbot mitogen
+ARCHITECTURE.md v2.5.1: CRITICAL - System Prompt Mimicry Detection
+CHANGELOG.md feat: Hivepipe API Integration v2.6.0
+README.md docs: Phase 1 SEO optimization
+SECURITY.md feat: Hivepipe API Integration v2.6.0
+SKILL.md feat: Hivepipe API Integration v2.6.0
+config-example.yaml initial release: Prompt Guard v2.2.0 18 weeks ago
+requirements.txt chore: add requirements.txt with pyyaml dependency 5 days ago
+
+5 days ago
+1 hour ago
+2 days ago
+4 days ago
+2 days ago
+5 days ago
+2 days ago
+18 weeks ago
+5 days ago
+
+36 Commits
+python security ai-security ai-agent prompt-injection llm-security clawdbot mitogen
+Readme
+Security policy
+Activity
+55 stars
+0 watching
+7 forks
+Report repository
+
+Releases
+
+Advanced prompt injection defense system for AI agents. Multi-language detection, severity scoring, and secure auditing.
+
+About
+
+Releases

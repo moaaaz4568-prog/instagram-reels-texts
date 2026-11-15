@@ -1,0 +1,7 @@
+08
+Install Ollama
+One command. macOS + Linux.
+curl -fsSL https://ollama.com/install.sh | sh
+Made by
+Divyanshsharma
+09 →

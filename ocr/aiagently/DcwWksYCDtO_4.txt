@@ -1,0 +1,35 @@
+3: GIVE YOUR AI A BRAIN
+NOW CONNECT
+WITH THE API
+1 Create an OpenAI API key.
+Go to platform.openai.com
+Sign in → API Keys → Create new secret key
+API keys
+platform.openai.com
++ Create new secret key
+sk-***************
+2 Then add it to your .env.local:
+OPENAI_API_KEY=YOUR_KEY
+.env
+3 Now your system can do this:
+1
+2
+3
+4
+How long
+does delivery
+take?
+Customer:
+"How long does
+delivery take?"
+AI understands
+the question
+AI creates
+the answer
+WhatsApp
+sends the answer
+Delivery usually
+takes 2-3
+business days.
+Your chatbot can now
+THINK + REPLY. 🚀

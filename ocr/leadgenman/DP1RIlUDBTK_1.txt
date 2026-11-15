@@ -1,0 +1,5 @@
+What is a Workspace?
+
+“Workspace = the main canvas where you build your automation.”
+
+Think of the workspace like your digital work desk. This is where you arrange nodes, visualize automation sequences, and manage everything visually. Without the workspace, you’d have no place to build your flow.

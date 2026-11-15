@@ -1,0 +1,14 @@
+4. Make
+scheduling
+easy.
+
+Offer two times.
+Use the calendar link as
+a fallback, not the
+first obstacle.
+
+Tue 2:00 PM
+
+Wed 11:00 AM
+
+calendar link = fallback

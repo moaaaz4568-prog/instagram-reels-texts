@@ -1,0 +1,20 @@
+How I built it
+
+Step 1: Prompting the Discovery Map
+• Go to your cursor agent workspace, initialize your criteria, and run the discovery sequence:
+• "Build an AI platform that turns public Discord and Slack online communities into a live map of customer buying intent..."
+
+AI intent mapping platform 📋 purpledizzy67/AI-Customer-Map
+build an AI platform that turn public discord, slack online communities into a live map of customer buying intent, helping me discover and reach potential customers faster. You can find public discord groups from https://disboard.org/ and public slack group from https://slofile.com/ plus i also have apify api key let me know if you want that
+Environment ready
+Worked for 10m 57s
+IntentMap is built and ready — a platform that maps public Discord and Slack communities by customer buying intent
+PR: https://github.com/purpledizzy67/AI-Customer-Map/pull/1
+
+What you get
+Feature | Details
+Slack discovery | Live scrapers, intent signals, filters by platform/tier
+Discord discovery | Apify integration for Disboard (Cloudflare-protected)
+Intent scoring | Keyword signals + optional OpenAI hybrid analysis (0–100, Hot/Warm/Cool/Cold)
+Live intent map | D3 scatter plot — intent score x community reach
+Outreach panel | Join links, intent signals, filters by platform/tier

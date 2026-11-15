@@ -1,0 +1,22 @@
+Two Flows That
+Run Every Day
+
+Prompt →
+Shipped:
+
+I prompt it
+Claude Code
+writes it
+CI checks pass
+Vercel preview
+then live
+
+New user →
+Paying:
+
+Signs up
+Supabase auth
+Stripe checkout
+Resend sends
+the receipt
+Intercom if stuck

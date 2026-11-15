@@ -1,0 +1,16 @@
+RUN THE Bulk Analysis
+Not only do you get the individual video breakdowns, you can also batch analyze that entire set of videos at once.
+analyze the videos and then provide an analysis on the common topics
+that are outperforming |
+Opus 4.8 High
++
+Loaded tools >
+Running all 8 analyses in parallel now.
+Analyze video >
+Analyze video
+Analyze video
+Analyze video
+Using sandcastles...
+Doing this surfaces the hidden trends, insights, and
+patterns you would not have seen otherwise.
+K

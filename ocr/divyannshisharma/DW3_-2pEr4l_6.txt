@@ -1,0 +1,27 @@
+WHAT APACHE 2.0 CHANGES IS
+Apache 2.0 is a standard, well-understood open source license that basically says: use it
+however you want. No "harmful use" carve-outs, no custom clauses, no ambiguity about
+whether your fine-tuned derivative can be deployed commercially.
+Modify freely
+Redistribute weights
+Commercial use
+Fine-tune & ship
+Self-host for clients
+Sell access
+BEFORE VS. AFTER
+Custom Google License
+"Harmful use" carve-outs, custom clauses
+Apache 2.0
+Standard open source terms
+Flat, well-known license
+
+6. Apache 2.0 Changes Everything
+One license change unlocked Gemma for the entire
+world, you can now build, ship, sell and redistribute.
+Commercial use, modification, redistribution all allowed
+Fine-tune it, ship it, self-host for clients, sell access freely
+Zero harmful use carve-outs, zero custom clauses
+Commercial
+Open
+Ship It
+@divyanshisharma

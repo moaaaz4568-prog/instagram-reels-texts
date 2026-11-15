@@ -1,0 +1,6 @@
+PRO TIP
+If you don’t know
+how to structure your
+API call or the JSON
+has an error...ask
+ChatGPT!

@@ -1,0 +1,49 @@
+divyanshisharma
+3/4 Category (Prompt 101 - 115)
+Category 3:
+Research and Analysis
+
+101. Deep Research Brief
+Research [TOPIC] comprehensively. Cover the current state, key players, recent developments, open questions, and what experts disagree about. Structure as a research brief.
+
+102. Competitive Analysis
+Analyze [COMPANY/PRODUCT] against its top 5 competitors. Compare on [DIMENSIONS]. Identify where it leads, where it lags, and where the biggest opportunities are.
+
+103. Market Size Estimation
+Estimate the market size for [DESCRIBE MARKET]. Use a bottom-up approach, [DIMENSIONS]. Identify where it leads, where it lags, and where the biggest opportunities are.
+
+104. Argument Steel-Manning
+Steel-man the argument that [CONTROVERSIAL POSITION]. Present the strongest possible version of this argument as its best advocate would make it. Then identify its weakest points.
+
+105. Investment Thesis Analysis
+Analyze the investment thesis for [COMPANY/ASSET]. What has to be true for this to be a good investment, what are the key risks, and what would change your view?
+
+106. SWOT Analysis
+Conduct a deep SWOT analysis for [COMPANY/PROJECT/IDEA]. Go beyond surface level observations and identify second-order implications of each factor.
+
+107. First Principles Analysis
+[PROBLEM/INDUSTRY/ASSUMPTION] from first principles. What are the irreducible truths, what assumptions are people making that might be wrong, and what does this suggest?
+
+108. Historical Pattern Analysis
+Analyze historical examples of [DESCRIBE SITUATION OR PATTERN]. What patterns emerge, what caused success or failure, and what lessons apply to [CURRENT SITUATION]?
+
+109. Data Interpretation
+Interpret this data: [PASTE DATA OR DESCRIBE DATASET]. What are the key insights, what is surprising, what questions does it raise, and what decisions does it support?
+
+110. Risk Analysis
+Conduct a comprehensive risk analysis for [DESCRIBE PROJECT OR DECISION]. Identify all risks, assess likelihood and impact, prioritize them, and suggest mitigations for the top five.
+
+111. Scenario Planning
+Develop three scenarios for [DESCRIBE SITUATION]: a base case, an optimistic case, and a pessimistic case. What would cause each to occur and how should we prepare for each?
+
+112. Literature Review
+Summarize the current state of research on [TOPIC]. What is well established, what is contested, what are the major schools of thought, and what are the key open questions?
+
+113. Policy Analysis
+Analyze the policy [DESCRIBE POLICY] from multiple stakeholder perspectives. Who benefits, who is harmed, what are the intended and unintended consequences, what alternatives exist?
+
+114. Technology Assessment
+Assess the technology [DESCRIBE TECHNOLOGY] for use in [DESCRIBE CONTEXT]. Evaluate maturity, capabilities, limitations, costs, alternatives, and implementation risks.
+
+115. Business Model Analysis
+Analyze the business model of [COMPANY]. How does it make money, what are its unit economics, what drives growth, what are its vulnerabilities, and how defensible is it?

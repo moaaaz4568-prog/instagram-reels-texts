@@ -1,0 +1,5 @@
+Step 5: Auto-launch in Smartlead
+
+Once approved, the system builds the campaign in Smartlead via API, uploads 5,000 verified leads, configures the schedule and follow-ups, and starts sending.
+
+Zero clicks inside Smartlead.

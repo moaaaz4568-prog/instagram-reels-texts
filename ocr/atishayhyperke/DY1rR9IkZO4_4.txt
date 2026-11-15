@@ -1,0 +1,9 @@
+4. MCP Server Development
+
+Why: MCP is how AI tools plug into every SaaS now. every SaaS is racing to ship one and most don't have the in-house talent.
+
+What you do
+► build Model Context Protocol servers that connect Claude, GPT, and other LLMs to a company's internal tools and data.
+
+Rate
+► $2,500 to $5,000 per month per client

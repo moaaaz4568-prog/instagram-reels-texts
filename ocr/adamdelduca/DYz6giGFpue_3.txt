@@ -1,0 +1,7 @@
+vidrush
+3
+This is where production finally speeds up.
+I use vidrush to move from script to voiceover,
+visuals, and edited video without wasting
+time in a messy workflow.
+Swipe →

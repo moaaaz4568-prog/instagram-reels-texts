@@ -1,0 +1,8 @@
+1. Offer system.
+We decide what outcome, mechanism and low-friction next step the market is most likely to care about.
+Outcome
+The specific result our prospect cares about.
+Mechanism
+How we deliver that outcome in a simple, credible way.
+Next step
+The low-friction action we invite them to take.

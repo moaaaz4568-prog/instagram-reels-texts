@@ -1,0 +1,18 @@
+antfarm dashboard
+feature-dev
+plan
+setup
+implement
+verify
+test
+pr
+review
+Stories
+S-1: Create OAuth provider configuration module
+S-2: Implement Google OAuth callback handler
+S-3: Implement GitHub OAuth callback handler
+S-4: Add JWT token generation and validation
+@divyanshsharma
+HOW TO SETUP A TEAM OF AGENTS IN OPENCLAW:
+IN JUST 1 COMMAND
+SWIPE FOR MORE

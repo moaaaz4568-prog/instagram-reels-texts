@@ -1,0 +1,22 @@
+File Organization Automations
+organizer Weekly Claude sorts your
+Downloads folder, renames files consistently, and deletes anything
+older than 60 days. Clean workspace without you touching it.
+#31 Downloads Folder Organizer
+#32 Receipt Processor Monthly Claude scans your receipts
+extracts date, vendor, amount, and category from each one, and
+creates a categorized spreadsheet with totals.
+#33 Document Renamer Claude batch-renames files in any folder
+following your naming rules. Client files get the client prefix. Invoices
+get the date. Screenshots get descriptions.
+#34 PDF Merger Combine multiple PDF files into one document
+with proper ordering. Useful for proposals, portfolios, and report
+packages.
+#35 Knowledge Base Updater After every project Claude takes
+your raw notes and integrates the key insights into your organized
+knowledge base. Tagged, linked, and categorized.
+#36 Invoice Generator Give Claude client name, project details,
+and amount. It generates a professional PDF invoice, saves it, and
+drafts the email to send with it attached.
+#37 Backup Verifier Weekly Claude checks that your critical files
+have been backed up and flags anything that seems off.

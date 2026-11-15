@@ -1,0 +1,11 @@
+In a few seconds it will show you a full breakdown
+of the video structure and exactly why it went viral.
+
+1. Script Analysis
+Total Length: ~47 seconds
+
+Section	Timestamp	Script Line(s)	Analysis & Framework
+HOOK	0:00 - 0:05	“So there’s a new crazy Instagram update that could easily get you 10 times more views and followers and no one is talking about it.”	Numbers-Based + Interrupt. Words: 23 (Over the 10-word limit). Stakes: Massive growth (10x views).
+SELLING THE SOLUTION	0:05 - 0:12	“The CEO of Instagram himself announced this feature recently in the private Instagram updates channel. So here’s exactly how it works and how you should use it.”	Authority Endorsement. Type: Authority. Function: Uses Adam Mosseri to build credibility. Anticipation: Promises to show “exactly how”.
+GIVING THE PRINCIPLE	0:13 - 0:24	“You can now link other videos or even Instagram profiles directly in your videos through a clickable sticker. All you need to do is download the Edits app by Instagram...”	Clear steps. Language: Simple, 5th-grade level. Demonstrable: Shows the interface.
+MAKING IT APPLICABLE	0:25 - 0:43	“Next time you create a Reel, instead of just ending it... suggest...”	Actionable: Provides a specific strategy for the next Reel.

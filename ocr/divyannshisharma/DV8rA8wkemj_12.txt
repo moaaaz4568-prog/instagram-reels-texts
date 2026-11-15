@@ -1,0 +1,20 @@
+Best Agentic Coding practices
+https://lnkd.in/gs9zyCf
+Claude Code Docs
+Claude Code overview
+Claude Code is an AI-powered coding assistant that helps you build features, fix bugs, and automate development tasks. It understands your entire codebase and can work across multiple files and tools to get things done.
+Get started
+Choose your subscription or Anthropic API key, and get started. Most requirements need a Claude subscription or Anthropic API key. The Terminal CLI and VS Code also support third-party providers.
+Platforms and Integrations
+Remote Control
+Claude Code on the web
+On this page
+Copy page
+Get started
+What you can do
+Use Claude Code everywhere you work
+Next steps
+Claude Code
+codebase, edits files, runs commands
+Start with Claude Code →
+@divyanshisharma

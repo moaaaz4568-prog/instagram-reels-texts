@@ -1,0 +1,12 @@
+Set Up a Morning Briefing System
+Send Claude this message
+Claude Code's
+Set up an automated morning briefing using Claude Code's
+scheduled tasks.
+Every day at 8am, you should: read my /memory files, check
+active.md in /todos, summarize what I was last working on,
+and generate 3 priorities for today.
+Then send the briefing to my Slack as a DM using a webhook.
+Store the webhook URL in my .env file as SLACK_WEBHOOK_URL.
+save for later
+@itstylergermain

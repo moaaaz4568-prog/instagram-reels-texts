@@ -1,0 +1,4 @@
+Step #8
+Enter edit mode to edit files using
+commands like /edit <file> or
+/edit <task>.

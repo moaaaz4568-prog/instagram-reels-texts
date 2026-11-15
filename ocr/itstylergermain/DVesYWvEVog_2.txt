@@ -1,0 +1,10 @@
+Tyler Germain @itstylergermain
+How it works:
+1. Opens a cloud browser
+2. Types, clicks, scrolls like a human
+3. Records the entire session
+4. Adds Screen Studio-style zooms
+5. Exports as a polished video
+Claude Code does the entire thing, start to finish. One command.
+Claude Skills
+ANTHROPIC

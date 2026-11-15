@@ -1,0 +1,7 @@
+Install Any MCP Server:
+The process is the same for almost every server:
+1. Clone or install the server (usually npm install or pip install)
+2. Add the server configuration to your Claude settings
+3. Provide any required API keys as environment variables
+4. Restart Claude
+Most servers take under five minutes to set up. The official Anthropic servers are the simplest – often one command.

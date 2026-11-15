@@ -1,0 +1,65 @@
+Find VC List
+Provide a list of the top venture capital (vc) firms in the Us, prioritized
+by Assets Under Management (Aum). For each firm, include the name,
+estimatedAum,investmentfocus,website,and apubliclyavailable
+contact email ifpossible.Present the results in a clear and structured
+format suitable for direct outreach and strategic research.
+Providealistof thetopvent.
+个
+Suna'sComputer
+CreateFile
+<>Source
+Preview
+Providea listof the topventure capital(VC)firmsin theUnitedStates,prioritized by
+AssetsUnder Management(AUM).Foreachfirm,include thename,estimated AUM,
+investmentfocusorstage（e.g,early-stage,growth,sector-specific),websiteRanda
+TopUsVentureCapitalFirmsbyAssetsUnder
+publiclyavailable contact email ifpossible.Present theresults ina clear and structured
+Management(AUM)
+format suitablefor directoutreach andstrategicresearch.
+ThislistpresentstheleadingventurecapitalfirmsintheUnitedStates,prioritized
+by theirAssetsUnderManagement(AUM).Eachentry includeskeyinformation
+Suna
+relevantforstrategicresearchandoutreach.
+Il createacomprehensive listof the topventurecapitalfirmsintheUnitedStatesprioritizedby
+AssetsUnderManagement(AuM).Let me start by planning this task and then gathering the
+1.TigerGlobal Management
+necessary information.
+·AUM:~$125billion
+Planning
+·InvestmentFocus:Technology-enabled companiesacrosspublicandprivate
+markets,withemphasisonInternet,software,consumer,andfinancial
+1.Research the topVCfirms in theUSbyAUM
+technologyindustries
+2.Collect details foreachfirm including:
+·Stage:Earlytolate-stageinvestments
+Name
+·Website:tigerglobal.com
+·EstimatedAUM
+·Contact:media@tigerglobal.com
+·Investmentfocus/stage
+Headquarters:9West57thSt,35thFloor,NewYork,NY10019
+·Website URL
+·Phone:(212)984-8800
+·Contact email(if publicly available)
+3.Organize the data in a clear format
+NotableInvestments:ByteDance,Stripe,Flipkart,Waymo,OpenAl
+4.Present the final results
+2.AndreessenHorowitz(a16z)
+Let me createa todo list to track my progress:
+·AUM:~$42-45billion
+Creating File todo.md
+InvestmentFocus:Stage-agnostic investments acrossAl,healthcare,
+consumer.crvpto.enterprise.fintech.aames.and infrastructure
+Now thatve createdmy todo list,ll startresearching the topVCfirms in the USbyAUM.Letme
+MD
+5/19/2025,7:15:55 PM
+beginby searching for authoritative sources or
+>
+31/31
+Skip to end
+QSearching Web top US venture capital firm...
+13/15
+Jump toLatest
+Research → Analysis → Formatting → Results
+(31 steps automated on your behalf)

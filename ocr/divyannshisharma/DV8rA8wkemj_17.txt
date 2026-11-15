@@ -1,0 +1,59 @@
+AI Agents with MCP
+https://lnkd.in/dR22bEiz
+
+O'REILLY
+Explore Skills Features Radar Blog Buy Courses
+Search for books, courses, events, and more
+
+Read now
+Unlock full access
+Buy online
+
+Contents
+Brief Table of Contents (Not
+Yet Final)
+1. Agentic AI and MCP
+2. An Introduction to the
+Model Context Protocol
+3. Making an Intelligent
+Application Agentic with
+MCP Clients
+4. MCP Clients: Advanced
+Use and Best Practices
+5. Building MCP Servers:
+Providing Tools, Prompts and
+Resources to Applications
+6. Building MCP Servers:
+Advanced Use with Utilities
+and Integrating Client
+
+Overview
+Since its release in late 2024, Anthropic's Model Context Protocol (MCP) has redefined how developers build and connect AI
+tools, data, and tools. All Agents with MCP is the first comprehensive guide to this rapidly emerging standard, helping
+engineers unlock its full potential with hands-on projects. Whether you're developing agentic workflows, bridging tools across
+platforms, or creating robust multi-agent systems, this book walks you through every layer of MCP—from protocol structure to
+agent implementation.
+Author Kyle Stratis provides the practical expertise needed to build fully functional MCP servers, clients, and more. Unlike high-
+level or fragmented documentation, this book gives you a deep, systems-level understanding of MCP's capabilities—and
+limitations. With its flexible, modular approach, MCP continues to gain traction across the generative AI community; this
+ensures you're ready to build with it confidently and effectively.
+Understand the structure and core concepts of the Model Context Protocol
+Build complete MCP servers, clients, and transport layers in Python
+Consume tools, prompts, and data via MCP-based agent workflows
+Extend agent capabilities with MCP for large-scale and AI-native
+accessed to this title plus top books
+and audiobooks from O'Reilly and nearly 200 top publishers, thousands of
+courses curated by job role, 150+ live events each month,
+and much more.
+
+Become an O'Reilly member and get unlimited
+access to this title plus top books
+and audiobooks from O'Reilly and nearly 200 top publishers, thousands of
+courses curated by job role, 150+ live events each month,
+and much more.
+
+Anthropic's (MCP)
+MCP servers, clients, and transport layers
+Start with MCP →
+
+@divyanshsharma

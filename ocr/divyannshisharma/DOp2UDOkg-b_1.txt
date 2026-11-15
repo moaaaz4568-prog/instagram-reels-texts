@@ -1,0 +1,10 @@
+What You'll Ship:
+One brain, three channels
+WhatsApp & SMS → 2-way chat
+Email (Omnisend) → nurture
+Tags, scores, triggers → automatic
+USER
+n8n
+LLM
+Omnisend
+Automations

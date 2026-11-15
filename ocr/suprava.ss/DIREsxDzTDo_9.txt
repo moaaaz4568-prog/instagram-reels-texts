@@ -1,0 +1,25 @@
+3. N8N SENDS THE REPLY
+
+Use the Send Email node
+
+Pull in GPT reply + personalize with name/company
+
+4. SLACK ALERT (OPTIONAL BUT POWERFUL):
+
+If intent = "Interested"
+
+Drop lead in #hot-leads Slack channel with preview
+
+Why this works?
+
+✅ Replies sent in minutes
+✅ AI handles qualification
+✅ No lead gets ignored
+✅ You only step in when needed
+
+This agent has replied to 3000+ emails — I’ve booked calls while I sleep.
+
+Suprava Sabat
+Co-founder, Acquisition X
+
+10/15

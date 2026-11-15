@@ -1,0 +1,21 @@
+finds customers for automation and ai
+17 / 20
+GitHub
+public repository
+n8n-io / n8n
+Public
+Fork
+Star
+198k
+Used by
+your lead list
++ thousands
+198k
+TypeScript
+WHAT IT DOES
+workflow automation with native ai and 400+ integrations.
+WHO TO MINE IT FOR
+teams already automating. they get the value, they just have no time to build it all.
+THE EXACT LINK
+github.com/n8n-io/n8n/network/dependents
+the github method

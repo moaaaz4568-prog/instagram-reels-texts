@@ -1,0 +1,11 @@
+How it works
+
+• The Aggregator: Direct scrapes from Slofile + API-driven discovery on Disboard.
+• The Processor: Text is parsed, categorized, and fed into an Intent Analyzer.
+• The Output: Clean data points synced directly to a centralized SQLite database and visualized on your dashboard.
+
+Cursor Agent
+Slofile
+Disboard
+Apify API
+Apollo API

@@ -1,0 +1,9 @@
+Prompt 4:
+Carousel Content Machine
+
+Write a 10-slide carousel about
+[topic] for [niche]. Slide 1: hook
+that stops the scroll. Slides 2–9:
+one insight per slide with a
+punchy headline. Slide 10: CTA that
+drives saves and follows.

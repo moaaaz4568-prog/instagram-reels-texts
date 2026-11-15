@@ -1,0 +1,9 @@
+Step #11
+Add to Sheet (for value...
+Execute step
+OUTPUT
+Execute this node to view data
+or set mock data
+Add to Google Sheets
+Keep your leads organized
+and export-ready.

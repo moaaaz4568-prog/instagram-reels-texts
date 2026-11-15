@@ -1,0 +1,18 @@
+Step #2
+I wanted to conduct research specifically on the generative AI space and create a slide deck for a C-suite executive team telling them how to create an AI adoption roadmap for 2026, what are the different types of agents that might be useful? Let's say I just want
+Great question! For a project like this—researching the generative AI landscape and creating an executive-level AI adoption roadmap presentation—here are the three or
+Writing...
+Progress
+Artifacts
+Outputs created during this task will appear here.
+Context
+Selected folders
+CoworkAgents
+Reply...
+Plus 4.5
+Queue
+Claude is AI and can make mistakes. Please double-check responses.
+FIO 360Hz
+Discover Built-in agents: Bash, Explore, Plan & more
+Alt Gr
+Ctrl

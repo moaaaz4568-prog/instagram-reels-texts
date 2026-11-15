@@ -1,0 +1,70 @@
+divyanshisharma
+( 241 to 264 )
+Analysis
+/monorepo
+monorepo structure
+Dev & Technical
+/prompt-eng
+apply prompt engineering
+Dev & Technical
+/mcp
+how to build this as MCP
+Dev & Technical
+/swot
+SWOT analysis
+Analysis
+/porter
+Porter's 5 Forces
+Analysis
+/pest PEST analysis
+PEST analysis
+Analysis
+/market-size
+market size estimate
+Analysis
+/trend
+trend analysis
+Analysis
+/jtbd
+Jobs to Be Done analysis
+Analysis
+/gap-analysis
+gap analysis
+Analysis
+/benchmark
+benchmark against industry
+Analysis
+/journey
+customer journey map
+Analysis
+/ab-test
+A/B test design
+Analysis
+/retention
+retention angle
+Analysis
+/forecast
+forecasting angle
+Analysis
+/persona
+create a user persona
+Analysis
+/cohort
+cohort analysis
+Analysis
+/funnel
+funnel breakdown
+Analysis
+/survey
+write survey questions
+Analysis
+/interview
+interview question guide
+Analysis
+/ltv
+lifetime value framing
+Analysis
+/churn
+churn analysis
+Analysis
+Swipe →

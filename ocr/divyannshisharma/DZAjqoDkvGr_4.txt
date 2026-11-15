@@ -1,0 +1,46 @@
+4. AutoClay by Neo Mhr
+- Run Clay people searches from terminal
+- Clay’s new MCP handles this now
+- Works at scale efficiently
+- Useful for GTM workflows
+
+Platform Solutions Resources Open to... Sign in Sign up
+Notifications Fork 1 Star 13
+neomhr / clay-cpi-cli Public
+Code Issues 11 Pull requests Actions Source Enterprise Pricing
+Search or jump to...
+main 1 Branch 0 Tags
+neomhr Update CPI repository URLs
+clay-cpi
+docs
+scil
+tests
+.env.example
+.gitignore
+LICENSE
+README.md
+install.sh
+pyproject.toml
+25a7651 · 5 days ago · 14 Commits
+About
+No description, website, or topics provided.
+Rename CLI to Clay CPI 5 days ago
+Rename CLI to Clay CPI 5 days ago
+Rename CLI to Clay CPI 5 days ago
+Initial release: autoclay v0.1.0 3 months ago
+Initial release: autoclay v0.1.0 3 months ago
+Initial release: autoclay v0.1.0 3 months ago
+Update CPI repository URLs 5 days ago
+Update CPI repository URLs 5 days ago
+chore: add fields for pyypi 5 days ago
+Readme
+MIT license
+Activity
+13 stars
+0 watching
+1 fork
+Report repository
+Releases
+No releases published
+Packages
+No packages published

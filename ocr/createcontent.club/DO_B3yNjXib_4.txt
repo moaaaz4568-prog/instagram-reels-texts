@@ -1,0 +1,4 @@
+Downloads the video and uploads
+it to all major social media
+platforms while adding the auto-
+generated caption.

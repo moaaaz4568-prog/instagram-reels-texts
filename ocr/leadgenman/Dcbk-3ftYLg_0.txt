@@ -1,0 +1,34 @@
+Life of a Software Dev
+Skill Level
+Machine Learning
+$\theta = \theta - \alpha \nabla J(\theta)$
+System Design
+Algorithms
+$O(n^2)$ works fine
+Data Structures
+JavaScript
+"1" + 1 = "11"
+HTML / CSS
+<body>
+  <h1>Hello</h1>
+  <body>
+</html>
+Calculus
+$dy/dx$
+$f'(x) =$
+Geometry
+Basic
+Operations
+(+ - x ÷)
+Alphabets
+(A B C D)
+Vibe Coding Tools
+ChatGPT
+Claude
+DeepSeek
+Lovable
+Gemini
+Childhood
+High School
+CS Degree
+First Job

@@ -1,0 +1,28 @@
+Step #17
+AIS+
+Part 2: Setup Instructions
+JSON Workflows to Download (9 Files)
+Creative Agent AI (workflows)
+1. Edit Image
+2. Create an Image
+3. Image to Video
+4. Create Video
+5. Text Post
+Posting Agent AI (workflows)
+1. X Post
+2. TikTok Post
+3. Instagram Post
+Ultimate Media Agent AI (workflows)
+1. Ultimate Agent
+2. Create Doc Tool
+The rest should integrate seamlessly as subflows, so you don't have
+files.
+Google Environment Setup
+1. Folders in Google Drive
+Create folder "Media Analyst" - This will hold all inputs and documents.
+Create folder "Media Output" - This will hold all media outputs.
+2. Google Drive API Connection Credentials
+Search Drive API, trained to the Media Analysts folder
+Search Media Local pointed to the Media folder
+Complete setup guide with 9 JSON
+workflows ready to import

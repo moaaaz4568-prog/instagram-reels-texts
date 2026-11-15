@@ -1,0 +1,31 @@
+Get Shit Done
+
+9. GSD (Get Shit Done)
+https://github.com/gsd-build/get-shit-done
+
+gsd-build / get-shit-done Public
+
+Code Issues 20 Pull requests 11 Discussions Actions Projects Security Insights
+
+main 97 Branches 180 Tags
+
+glittercowboy and cla feat: Headless prompt
+
+.github
+agents
+assets
+bin
+commands/gsd
+docs
+get-shit-done
+hooks
+scripts
+
+Go to file
+
+fetch: auto-init flag, headless prompts, and prompt sanitizer ...
+fix: add "available_agent_types" to all workflows spawning n...
+docs: update repository references from glittercowboy to gsd...
+Merge pull request #1385 from gsd-build/fix/autonomous-ui...
+fix: stale hook detection checks wrong directory path
+fix: security scan self-detection and Windows test compatibility

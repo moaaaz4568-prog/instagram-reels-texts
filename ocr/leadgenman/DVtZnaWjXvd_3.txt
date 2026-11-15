@@ -1,0 +1,8 @@
+5 free resoures.rtfcd — Edited
+B I U S Helvetica Regular 20
+Guides:
+1. Claude Prompting Best Practices: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2. Claude Code Best Practices: https://code.claude.com/docs/en/best-practices
+3. The Complete Guide to Building Skills: https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
+4. Claude's Constitution: https://www.anthropic.com/constitution
+5. Claude Insider Documentation: https://www.claudeinsider.com/docs/getting-started

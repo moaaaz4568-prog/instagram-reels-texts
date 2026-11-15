@@ -1,0 +1,30 @@
+It does the heavy lifting.
+You probably hate spending a
+week writing a client audit report.
+AI Platform Readiness
+This score reflects how likely your content is to be cited by each AI search platform. A score below 50 indicates
+significant barriers to citation on that platform.
+Google AI Overview
+ChatGPT
+Perplexity
+Gemini
+Bing Copilot
+69/100
+68/100
+68/100
+68/100
+60/100
+58/100
+AI Platform	Score	Status
+Google AI Overview	69/100	Moderate
+ChatGPT	68/100	Moderate
+Perplexity	68/100	Moderate
+Gemini	68/100	Moderate
+Bing Copilot	60/100	Moderate
+5 sub-agents score AI citability,
+brand authority, technical ability,
+GEO,
+content quality, and schema, then
+auto-generate a PDF you can
+send directly to a client.
+Swipe →

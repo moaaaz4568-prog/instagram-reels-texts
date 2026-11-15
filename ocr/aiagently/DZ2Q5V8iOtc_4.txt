@@ -1,0 +1,5 @@
+Prompt #3
+The Investor Teardown
+"You are a skeptical VC partner doing due diligence on my business. You've seen 200 pitches this year and you're looking for reasons to pass.
+Review my business and give me: 1. The 3 biggest holes in my model that would make you say no 2. The question you'd ask in the partner meeting that I probably can't answer yet 3. The comparable company that tried this and failed, and why I might repeat their mistake
+Here's my business overview: [DESCRIBE YOUR BUSINESS, REVENUE MODEL, TRACTION, AND MARKET]"

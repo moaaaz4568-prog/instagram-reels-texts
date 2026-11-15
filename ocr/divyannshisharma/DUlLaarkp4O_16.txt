@@ -1,0 +1,12 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+3. Management:
+bash
+antfarm workflow list
+List available workflows
+bash
+antfarm workflow install <id>
+Install a single workflow
+bash
+antfarm workflow uninstall <id>
+Remove a single workflow

@@ -1,0 +1,6 @@
+SLIDE 8 IT BROKE. IT FIXED ITSELF.
+It broke.
+It fixed itself.
+Claude Console
+Analysis: Just in Thyme
+Mid-run it hit two real errors — a rejected color format, a data merge issue. No one touched it. It read the failure, patched the script, and kept going. Total overhead: about 25 seconds.

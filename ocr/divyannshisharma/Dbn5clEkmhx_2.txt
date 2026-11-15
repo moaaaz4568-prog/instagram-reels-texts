@@ -1,0 +1,42 @@
+Level 1:
+Give it your knowledge.
+
+Send it any YouTube link and say
+"learn this, summarize it, save it."
+Now you can ask it questions
+about that video forever.
+
+“
+
+grok-4.5
+
+Hey there, I want you to go ahead and learn this video, summarize it back to me
+in five crisp bullet points, and then just save it to your obsidian memory
+suite that I can ask you questions about it whenever.
+https://www.youtube.com/watch?v=ISbyp_dQp8E
+
+17:36
+
+5 bullets
+• Local Budapest guide (private): 10 must-try Hungarian dishes beyond tourist surface-level picks
+(~10 min, Stuffed Cabbage Adventure Adventures).
+• Core flavor stack everywhere: paprika (sweet/spicy), sour cream, pork, onion, lard —
+paprika only went mainstream in vitamin C role).
+• The 10: Hortobágyi crêpe → Jókar bean soup → Jókar beef soup/potato fry → Brassói
+pork+garlic potatoes → lecsó → gulyás → chicken paprikash → stuffed cabbage → porkolt
+(this #1 if you only pick one).
+• Context bits: Ottoman-era pork dominance; meatica, gulyás-in-bread is gimmick; fish is rare
+outside lecsó at markets.
+• Skip for this video: langos / street food — sequels basic restaurants named: Gyető Gulyás,
+Rosenstein, 21 Hungarian Kitchen.
+
+Saved
+• Type: YouTube transcript (complete)
+• Path: /Users/jackroberts/Obsidian Wiki/Transcripts/2026-07-26-10-best-budapestian-food-
+ib-budapest-your-must-try-by-local-budapesti-food-guide-ISbyp_dQp8E.md
+• Validation: 1611 words • 93 segments • 99.0% coverage • 10:19
+• Source: https://www.youtube.com/watch?v=ISbyp_dQp8E
+mutable transcript). Ask anything about it anytime — I’ll pull from that file.
+Reply INGEST if you want it wired into wiki concepts/index/log.
+
+Raw capture only (im

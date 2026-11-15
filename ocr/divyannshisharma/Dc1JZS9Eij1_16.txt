@@ -1,0 +1,5 @@
+SLIDE 17
+Open it in Obsidian
+To open the new vault, go to Obsidian – “Open folder as vault” → pick the folder Graphify just created.
+, it shows up as a real, working notebook.
+Just like that,

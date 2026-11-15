@@ -1,0 +1,6 @@
+Think OS
+The terminal-native AI agents. Each one ready to plan, refactor & build with you.
+Claude Code: Agentic coding agent right inside your terminal.
+Codex: OpenAI's coding agent. Accelerates real engineering work.
+Gemini: Google's terminal AI. Fast, free tier, strong on fronts.
+Aider: Open-source pair programmer that lives in your terminal.

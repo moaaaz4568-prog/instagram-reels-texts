@@ -1,0 +1,16 @@
+Find model...
+qwen3-vl:30b
+qwen3-vl:8b
+qwen3-vl:4b
+qwen3:30b
+qwen3:8b
+qwen3:4b
+gemma4
+Send a message
+gemma4
+Step 10
+Search “Gemma4”
+Or run ollama pull gemma4 in command
+prompt - 9.6GB, downloads in minutes
+Divyanshisharma
+11/18

@@ -1,0 +1,8 @@
+Google AI Studio
+Playground
+Explore Gemini models
+Step 3
+Data Stays on Your Device
+ChatGPT, Claude, and Gemini all send your data to servers. Gemma 4 doesn't.
+Divyanshisharma
+04/18

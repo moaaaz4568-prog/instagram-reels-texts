@@ -1,0 +1,18 @@
+Auto-Add to Smartlead
+or LinkedIn Campaigns
+
+Skip manual work—push
+leads straight into outreach.
+
+1. HTTP call to auto add
+
+Add campaign
+ID & API key.
+Set input
+fields
+
+If added, Set
+Gsheet Input
+as "YES"
+
+And it's done! 🎉

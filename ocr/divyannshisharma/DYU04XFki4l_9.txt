@@ -1,0 +1,84 @@
+@os.operator
+Explore real prompts.
+Learn what works.
+Ship faster.
+operatoros.a
+MCP 1
+MCP 2
+Using the MCP connector
+in the Messages API
+mcp-connector.md
+(Official)
+overview.md
+mcp-1.md
+mcp-2.md
+examples.md
+best-practices.md
+Using the MCP connector in the Messages API
+The MCP connector uses two components:
+1. MCP Server Definition (mcp_servers array): Defines server connection details (URL, authentication)
+2. MCP Toolset (tools array): Configures which tools to enable and how to configure them
+Basic example
+This example enables all tools from an MCP server with default configuration:
+client = anthropic.Anthropic()
+response = client.messages.create(
+model="claude-opus-4-7",
+messages=[{"role": "user", "content": "What tools do you have available?"}],
+max_tokens=1000,
+mcp_servers=[
+{
+"type": "url",
+"url": "https://example-sample-server.modelcontextprotocol.io/sse",
+"name": "example-mcp",
+"authorization_token": "YOUR_TOKEN",
+"tools": [
+{
+"name": "example-mcp-server-name",
+"mcp_server_name": "example-mcp"
+}
+],
+"timeout_ms": 20000,
+}
+]
+)
+print(response)
+MCP 1
+Two is better than one.
+Connect anything.
+Chain capabilities.
+Unlock more.
+MCP 2
+Reliable & secure.
+Composable by design.
+Faster workflows.
+Built for scale.
+Mix, match & extend easily.
+Trust to build.
+HOW IT WORKS
+1. Get Access
+Obtain access to MCP 1 and MCP 2.
+2. Connect
+Configure both MCPs in your environment.
+3. Integrate
+Use your tools in apps and workflows.
+4. Ship Faster
+Build powerful solutions and ship with confidence.
+Data + Actions
+Turn data into actionable outcomes.
+More power. More context. More impact.
+Endless possibilities
+Tools + AI
+Combine tools with intelligence seamlessly.
+Multi-Source
+Pull from multiple sources. One unified flow.
+Define potential.
+Day 2
+Build for Scale
+Handle more multiple without slowing you down.
+LET'S BUILD
+Become
+dangerous.
+More power. More context. More impact.
+Become
+dangerous.
+LET'S BUILD

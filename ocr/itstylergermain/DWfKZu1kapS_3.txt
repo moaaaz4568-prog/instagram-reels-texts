@@ -1,0 +1,3 @@
+Inbox Manager
+Try this prompt
+Create an Inbox Manager skill that connects to Gmail via Google Workspace CLI. It should read incoming emails, apply labels across categories (Clients, Leads, Partnerships, Urgent, Admin, Team, FYI), draft replies in my tone, and send me a Slack DM when something needs my attention. Never send anything, draft only. I approve before anything goes out.

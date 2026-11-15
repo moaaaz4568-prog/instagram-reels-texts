@@ -1,0 +1,3 @@
+It was about understanding
+the data structures that all
+tech is built on

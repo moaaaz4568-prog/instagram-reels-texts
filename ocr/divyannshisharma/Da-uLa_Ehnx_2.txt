@@ -1,0 +1,13 @@
+Connect
+GoHighLevel
+to windsor.
+
+windsor.ai
+
+Connect your GoHighLevel account
+Grant GoHighLevel Access
+
+Go to windsor.ai → "Add Data" → search GoHighLevel → "Grant GoHighLevel Access" → log in → pick the accounts you want it reading from.
+
+Windsor is the pipe.
+It pulls your GHL data so Claude can actually read it instead of guessing.

@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Office:
+The Office
+Build Council - S...
+New Tab
+Prompt
+Please build me a digital office screen where I can view each agent working. They should be rep by individual avatars and have their own work areas and computers. When they are working they should be at their computer. I should be able to quickly view the status of every team member.
+......

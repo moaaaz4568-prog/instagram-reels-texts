@@ -1,0 +1,22 @@
+Step #7
+Excellent! All three research agents have returned comprehensive findings. Let me update the todo list and now use the Plan agent to synthesize this into a roadmap framework:
+View steps
+Now I have a comprehensive roadmap framework. Let me read the pptx
+View steps
+I now have all the documentation. Let me create the executive presentation using the html2pptx workflow. I'll create a bold, executive-focused design.
+View steps
+Now let me create the JavaScript file to generate the PowerPoint:
+Opus 4.5
+Queue
+Strategy Gap: Success vs. Failure
+The Strategy Gap: Success vs. Failure
+Formal AI strategy is the single biggest differentiator
+WITHOUT FORMAL STRATEGY
+37%
+Success Rate
+WITH FORMAL STRATEGY
+80%
+Success Rate
+High performers are 3x more likely to have redesigned workflows, not just added AI
+Page
+Agents build frameworks and presentations for you

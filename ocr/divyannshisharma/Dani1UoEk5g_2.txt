@@ -1,0 +1,34 @@
+STEP 2
+Connect
+Granola to
+Claude.
+Link Granola with Claude and let your
+meeting transcripts power your work.
+Directory
+Skills
+Connectors
+Plugins
+< Back
+Granola
+The AI notepad for meetings
+Connect Granola to Claude to your meeting history. Ask questions about your work and use your conversation
+context to get things done.
+Developed by Granola
+Only use connectors from developers you trust. Anthropic does not control and cannot verify that they will work as intended or that they won't
+change.
+Tools 4
+query_granola list_meetings get_meeting get_meeting_transcript
+Details
+Author
+Granola
+More info
+Documentation
+Support
+Privacy Policy
+Disconnect
+Connector URL
+https://mcp.granola.ai/mcp
+Open Claude → click Connectors →
+search "Granola" → hit Connect.
+That's it. Claude can now read every
+meeting transcript you've ever had.

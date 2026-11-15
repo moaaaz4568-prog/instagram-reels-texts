@@ -1,0 +1,15 @@
+Suprava Sabat
+This system does all this:
+Analyzes past campaigns
+Generates campaign ideas
+Writes email sequences
+Creates spin-tax variations
+Builds campaigns automatically
+All we do is review and approve.
+Claude Skills
+For MARKETING
+> marketing-research
+> social-content
+> creative-designer
+> data-analysis
+> campaign-presenter

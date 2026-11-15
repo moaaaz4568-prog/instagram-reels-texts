@@ -1,0 +1,3 @@
+Daily Review
+Try this prompt
+Create a Daily Review skill that connects to Slack via MCP. It should read all messages from every channel in the workspace (including ones I'm not in) from the last 24 hours. Summarize by: client channels, internal updates, urgent items, and action items for me. Deliver a clean morning briefing as a Slack DM so I never have to manually scroll to stay informed.

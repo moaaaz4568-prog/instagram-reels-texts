@@ -1,0 +1,15 @@
+Step #6
+Deploy Sell Side DeFi Research
+Analyst
+Stay up to date with everything happening in DeFi
+Orgo API Key Required
+Templates are deployed to Orgo VMs. Enter your API key to continue.
+Orgo API Key *
+Validate
+Anthropic API Key *
+sk-ant-...
+Get your key from Anthropic Console
+Cancel
+Deploy Agent
+FHD 360Hz
+Paste your Orgo API key and click validate to verify it works

@@ -1,0 +1,29 @@
+4 TIER 1: /loop WITH /goal
+Loops alone
+aren’t enough.
+Pair /loop with /goal.
+
+Loops alone have a problem:
+Claude does 30 of 50 tasks, calls the rest "handled," and bails.
+
+Fix it:
+/loop 5m process the rest "handled."
+don’t stop until the queue is empty
+
+Now Claude keeps going until it’s actually done.
+Not "good enough." Done.
+
+Use it for:
+→ fixing flaky tests until zero fail
+→ processing a queue until it’s clear
+→ investigating a bug until one theory holds
+
+* Without /goal — You Are the Loop
+You prompt → Claude works → Claude stops → You review
+You review again ← Claude stops ← Claude works ← You prompt again
+You are the bottleneck. Every turn requires your input to continue.
+
+* With /goal — Claude Closes the Loop
+You set the goal → Claude works → Evaluator checks → Not done → Claude starts next turn
+Done ✓ → Goal cleared
+You are removed from the loop. Claude works until the condition is met.

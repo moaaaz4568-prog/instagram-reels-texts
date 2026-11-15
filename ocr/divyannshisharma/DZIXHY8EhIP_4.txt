@@ -1,0 +1,21 @@
+step 3: 
+connect to notebooklm✨
+1 Open your terminal and run:
+$ pip install notebooklm-py
+then notebooklm login
+2 A browser opens → log in with Google → Claude Code can now talk to NotebookLM automatically.
+research-monster — zsh
+notebooklm-py
+lm-py
+$ pip install notebooklm-py
+Collecting notebooklm-py
+Successfully installed notebooklm-py-0.1.7
+in
+$ notebooklm login
+Opening browser for authentication...
+If the browser doesn't open, visit:
+https://accounts.google.com/o/oauth2/auth
+Login successful.
+You are now authenticated with NotebookLM.
+$
+one-time setup. lifetime benefit. ♡

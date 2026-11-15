@@ -1,0 +1,77 @@
+aa46ad6e87?installed_from_directory=true
+Claude
+7
+Checkfrontend design skill>
+Now I have everything I need. Let me build the full 50-company table as a clean widget,
+using my knowledge of B2B SaaS companies actively hiring GTM roles combined with the
+verified signalsfrom theresearch.
+Search companies..
+All stages
+use apollo to find the contact
+All sizes
+details like Linkedln and their email ID
+Showing50of50companies
+#
+Company
+Category
+Employees
+ARRest.
+Stage
+STMrole sigi
+Checkr
+Background screening
+1,000-2,000
+Saas
+Private
+GTMT
+ketingmeleageeoste
+NinjaOne
+IT management
+2
+1,000-2,000
+Private
+platform
+Product Marketlngefanager-
+Apify
+3
+Medallia
+vate
+GTM Analytics BediefiAealyst
+米
+Apollo.io
+BigCommerce
+Public
+Director,GTM Rrogefinktnag
+Canva
+Director,Operalee r
+Composio
+Add files or photos
+Series
+Gamma
+Take a screenshot
+Public
+Google Drive
+Add toproject
+Private
+GTM System
+Add from GitHub
+Manage connectors
+Private
+Content SpecialiatleGnieu
+Add connector
+B Skills
+Series B
+Head of GTM undefined
+Tool access
+品
+Connectors
+Load tools when needed
+SeriesB
+Product Marketinglefinager /(
+Research
+00-500
+Private
+GTM Lead-Lifeecleficed
+Life sclences Saas
+Web search
+Use style

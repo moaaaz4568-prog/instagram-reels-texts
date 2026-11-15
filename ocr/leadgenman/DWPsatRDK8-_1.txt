@@ -1,0 +1,17 @@
+Ctrl + T
+Toggle Todos
+Show/hide the task list. Track what Claude is working
+on and what is done.
+claude
+[Ctrl+T] Toggle Todos: ON
+Tasks:
+✓ Refactor auth module
+✓ Add rate limiting
+☐ Write unit tests
+☐ Update README
+[2/4 complete]
+Manthan Patel
+— claude code
+Manthan Patel
+— claude code
+REC

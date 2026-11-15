@@ -1,0 +1,48 @@
+Step 6: Sources
+Video URLs go directly to NotebookLM.
+Up to 50 sources loaded without
+touching the interface.
+Chase Demo
+Sources
+Chat
+Studio
+Search the web for new sources
+Web
+Fast Research
+Select all sources
+567 Hours of Claude Code Lessons...
+60 Seconds to Build a Claude Cod...
+Anthropic's Full Claude Skills Guide...
+Claude Agent Skills Explained
+Claude Code - Full Tutorial for Beg...
+Claude Code Skills & skills.sh - Cla...
+Claude Code Skills - The Only Tutor...
+Claude Code Skills Are Broken (Be...
+Today - 1:48 PM
+Based on all the sources, what is the number 1 most recommended or most
+important Claude Code skill that creators talk about? What skill do they
+emphasize the most?
+Based on the sources, creators identify Agent Skills (or simply "Skills") as the
+most powerful feature of Claude Code. While they emphasize the Skill Creator and
+the use of Plan Mode as the most important specific skills to master.
+The Most Recommended Specific Skill: The Skill Creator
+The most frequently recommended specific skill the Skill Creator (sometimes
+called the "Meta Skill"). Creators emphasize this skill for several reasons:
+• Onboarding Claude: It serves as an "onboarding guide" that teaches Claude
+how to build subsequent specialized skills tailored to your specific business or
+coding workflows.
+• Essential First Step: Multiple creators make using the Skill Creator the very
+first thing they install. It's not in-built by default - you manually task into a
+• Automation Loop: It allows you to turn "successful manual tasks into a
+repeatable, automated process simply by telling Claude, "I like what I just did;
+do it again."
+20 sources
+Start typing...
+Notebook LM can be specific skill; use Claude skills
+Audio Overview
+Map Mode
+Flashcards
+BETA
+Data Table
++ Create notebook
+Share

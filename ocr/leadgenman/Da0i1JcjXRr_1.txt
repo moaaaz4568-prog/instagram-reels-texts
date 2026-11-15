@@ -1,0 +1,18 @@
+DEPARTMENT 01 / 07
+Developers
+Ship code faster, from scaffold to QA.
+Superpowers
+Full skill pack for planning
+Context7
+Pulls living + TDD
+version-exact docs
+MCP Builder
+Wire Claude to any
+tool
+Skill Creator
+Scaffold your own skills
+Webapp Testing
+Browser-tests your app
+Claude-Mem
+Memory across sessions
+Your build team

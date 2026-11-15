@@ -1,0 +1,12 @@
+Want all 5 levels?
+Comment
+"LEVELS"
+levels-guide.txt - Notepad
+File Edit Format View Help
+prompt setup guide
+SKILL.md templates
+skill chain examples
+agent configuration
+agent Team patterns
+@leogennman
+07 / 07

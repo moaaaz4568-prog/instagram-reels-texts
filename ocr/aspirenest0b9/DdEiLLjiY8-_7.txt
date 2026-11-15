@@ -1,0 +1,17 @@
+PUNIT KUMAR
+Built for the Reality of Legal Work
+01
+Permission
+Who can access what?
+02
+Isolation
+Which matter does the context belong to?
+03
+Human Review
+Which outputs require lawyer approval?
+04
+Auditability
+What did the AI access, do and produce?
+Governance isn't added after the AI is deployed. It is built into the architecture.
+SWIPE →
+08 / 10

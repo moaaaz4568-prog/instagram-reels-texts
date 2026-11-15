@@ -1,0 +1,13 @@
+3: Agents Launch
+It crawls, analyzes, scores, and writes the
+report simultaneously.
+/market-audit https://calendly.com
+Thinking
+Update Todos
+Fetch Calendly homepage and key interior pages
+Detect business type and map site architecture
+Launch 5 parallel marketing analysis subagents
+Synthesize scores and aggregate recommendations
+Write MARKETING-AUDIT.md report
+Display terminal summary
+Starting the full marketing audit for

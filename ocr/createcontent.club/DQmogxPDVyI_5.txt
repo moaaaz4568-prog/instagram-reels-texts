@@ -1,0 +1,4 @@
+5 LUT (Loop, Upgrade, Test)
+• Create loops to increase rewatchability
+• Upgrade your visuals with overlays
+• Test different formats and hooks

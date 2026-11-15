@@ -1,0 +1,8 @@
+2.
+github.com/searxng/searxng
+Your own private search engine that pulls
+results from Google, Bing, and 100+ others
+at once, while tracking nothing and showing
+zero ads. No profile, no logging, no IP tied to
+your searches. Google's answers without
+Google watching you type them.

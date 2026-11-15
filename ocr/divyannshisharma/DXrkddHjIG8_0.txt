@@ -1,0 +1,24 @@
+Divyanshi
+@divyanshi sharma
+10 AI skills
+to learn in 2026
+(Complete guide with
+FREE resources)
+Swipe →
+Layers
+Nodes
+Layers
+def learn_model(data):
+    commands
+    key_commands=[data]
+    cey = learn_model(cey)
+    # learn command
+    data = prospect(data)
+    # Data: results data
+    return model(data)
+Data Collection
+Preprocessing
+Feature
+Engineering
+Model Training
+AI

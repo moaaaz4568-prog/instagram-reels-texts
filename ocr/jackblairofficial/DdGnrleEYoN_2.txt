@@ -1,0 +1,9 @@
+Jack Blair
+@jackblairofficial
+
+2. Reverse engineer what's already closing
+
+Know the method before you copy it.
+Reda sold 1,582 cars in one year without pressuring a single buyer, and most of them came back or sent someone. Paste this to Claude:
+
+Reverse engineer how Ali Reda sells cars. Break his method into what he actually says and does at each stage of a sale: first contact, discovery, presentation, objections, the close, and follow up. Use only the lines and habits he has documented in interviews and profiles, and explain why each one calms a nervous buyer. Then rewrite every line for a [INSERT OFFER] Zoom call. No generic sales advice. Base every line on what he actually does.

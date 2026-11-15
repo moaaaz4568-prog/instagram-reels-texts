@@ -1,0 +1,21 @@
+Repo Stack 08
+REPOMIX
+DESCRIPTION
+Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+repomix.com
+nodejs chatbot language-model
+MORE INFO
+https://t.co/KGAPZb14Du
+yamadashy / repomix Public
+Code Issues 129 Pull requests 26
+main 85 Branches 12
+yamadashy Merge pull request #13
+.agents
+.claude-plugin
+.claude
+.cursor
+.devcontainer
+.github
+.kiro/steering
+bin
+browser

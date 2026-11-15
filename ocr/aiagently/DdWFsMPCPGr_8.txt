@@ -1,0 +1,86 @@
+Step 8
+Turn Conversations
+Into Bookings
+
+Now give your agent the ability to take action, not just chat.
+Connect a booking system like Cal.com and add the required API credentials
+and event settings.
+
+Settings
+
+Cal.com
+Booking infrastructure for modern teams.
+
+1 Go to Cal.com
+Create an account or log in to your existing
+Cal.com account.
+
+2 Get API Credentials
+Find your API keys in the developer section.
+
+3 Configure Events
+Set up your booking events (e.g. property viewing,
+consultation, call).
+
+4 Add to Your Agent
+Enter the API credentials and event settings
+in your project.
+
+Your Booking
+Add your Cal.com credentials and event details.
+
+Cal.com API Key
+ck_live_1234567890abc
+
+Event Type
+Property Viewing
+
+Duration
+30 minutes
+
+Timezone
+Asia/Karachi
+
+Save Settings
+
+Your agent can then:
+
+1 Check availability
+Looks at your calendar
+and available slots.
+
+2 Show slots
+Shares available times
+with the customer.
+
+3 Collect details
+Gets the required
+information and confirms
+with the customer.
+
+4 Book
+Creates the appointment
+and adds it to your calendar.
+
+More than just Cal.com
+You can also connect it to your CRM,
+calendar, or internal tools instead of Cal.com.
+
+HubSpot (CRM)
+Notion
+Slack
+And more...
+
+The goal
+Turn a conversation into a
+confirmed appointment.
+
+Great! I have some available slots.
+Which time works best for you?
+
+Property Viewing
+30 minutes
+10:00 AM
+
+Perfect! Your viewing is booked for
+11:00 AM. You'll get a confirmation email shortly.

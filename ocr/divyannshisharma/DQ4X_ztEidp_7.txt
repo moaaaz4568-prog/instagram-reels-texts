@@ -1,0 +1,11 @@
+2.
+Filter Quality
+Advanced Filters:
+Bio Keywords
+Filter leads based on keywords present or absent in their bios
+creator x youtuber x influencer x owner x founder x ceo x
+Enter bio keyword
+Tip: Add "-" before a keyword to exclude it (e.g., -crypto).
+Specific location targeting
+Only verified accounts
+Must have link in bio

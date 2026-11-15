@@ -1,0 +1,22 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+How It Works
+MCP Server
+→ Connects to your tools (files, APIs, databases)
+→ Exposes them in a standard JSON format
+MCP Client
+→ Runs inside your AI app
+→ Asks for context or triggers actions on demand
+They talk via JSON over HTTP. Simple, modular, and built to scale.
+MCP
+architecture
+MCP clients
+MCP client
+client.py
+MCP hosts
+MCP server
+MCP server
+Remote services
+MCP server
+Local data
+sources

@@ -1,0 +1,11 @@
+Step #12
+Meeting Notes Processor
+When chat message received
+Chat Model
+OpenAI
+Chat
+Templates
+Insights
+Help
+Settings
+Meeting Notes Processor that extracts action items.

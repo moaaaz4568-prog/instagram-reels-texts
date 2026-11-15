@@ -1,0 +1,30 @@
+STEP 1
+SOP: Kimi K2.6 Playbook
+KNOW YOU’RE WHAT DEALING WITH
+This is NOT a chatbot.
+Kimi K2.6 is a junior engineer that never sleeps:
+* reads your entire codebase
+* writes + refactors code
+* runs commands + tests
+* fixes its own mistakes
+* keeps iterating for hours
+Your job: give outcomes, not instructions
+your entire codebase
+never sleeps
+Codebase
+Engineer
+K2.6
+</>
+24/7
+plans, executes, iterates
+KIMI
+Introducing Agent Swarm
+Powered by Kimi K2.6
+KK
+CVPR Researcher
+Deep-dive into CVPR archives
+KIMI
+Think in outcomes.
+Think in systems.
+Think 10x.
+1 / 12

@@ -1,0 +1,12 @@
+GET vs POST
+Method
+Map
+POST
+Method
+Map
+GET
+Most calls will be either GET or POST.
+GET retrieves data.
+POST sends data.
+Use GET to get the info you need for an automation.
+Use POST to activate a function.

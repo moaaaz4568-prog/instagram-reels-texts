@@ -1,0 +1,10 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+I. VPS versus Local Hardware
+
+Local Hardware
+Running on your own computer
+
+Virtual Server
+Running on a rented remote server

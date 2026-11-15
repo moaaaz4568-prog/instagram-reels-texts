@@ -1,0 +1,14 @@
+Step 3: Make AI actually understand your project
+Sonnet 4.6
+Most people say: “AI gives bad code”
+The real problem:
+AI doesn’t see your whole project
+What it does:
+• Project into one AI-readable format
+• Reduces token usage
+• Gives full context to Claude
+Result:
+Claude writes code that actually fits your app
+Repomix
+https://github.com/yamadashy/repomix
+npx repomix

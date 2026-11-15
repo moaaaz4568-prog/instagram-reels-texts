@@ -1,0 +1,28 @@
+plugins/
+
+First-class in 2026.
+
+What it does:
+• Bundles agents, commands, hooks, MCP scales.
+• Install once. Use forever.
+• Share across projects + teammates
+
+Plugins are how Claude scales.
+
+{
+  "name": "claude-finance",
+  "version": "1.0.0",
+  "description": "Finance agents by Anthropic",
+  "author": "anthropic",
+  "agents": [
+    "risk-officer",
+    "market-analyst",
+    "portfolio-manager", "trade-executor",
+    "compliance-checker", "research-assistant"
+  ],
+  "commands": ["analyze", "rebalance"],
+  "mcp_servers": ["bloomberg", "yahoo-finance"]
+}
+
+# Run /plugin install claude-finance.
+# Once. Then forever. claude-finance.

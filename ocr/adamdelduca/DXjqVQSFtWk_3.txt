@@ -1,0 +1,26 @@
+Adam | YouTube
+@Adam_DelDuca
+
+3. Claude
+
+For scripts:
+enter in prompts like “write
+me 1000 word blog post on Bitcoin”
+
+Then manually edit it to your needs
+
+I
+n October 2008, amid the wreckage of a global financial crisis, an anonymous
+figure calling themselves Satoshi Nakamoto published a nine-page white paper
+that would quietly detonate inside the world of finance. The paper described Bitcoin
+— a peer-to-peer electronic cash system that needed no bank, no government, and
+no trusted third party to function. Most people who read it assumed it was an
+interesting curiosity at best, a libertarian fantasy at worst. Nobody expected it to still
+be the most-discussed asset on the planet nearly two decades later.
+
+Yet here we are. Bitcoin has been declared dead over 400 times by journalists,
+economists, and regulators. It has survived exchange collapses, government bans,
+congressional hearings, and enough regulatory drama to fill several Netflix series.
+Each time, it has returned — sometimes at higher prices, always with more
+institutional scar tissue. Understanding why requires looking past the price charts
+and into what Bitcoin actually is.

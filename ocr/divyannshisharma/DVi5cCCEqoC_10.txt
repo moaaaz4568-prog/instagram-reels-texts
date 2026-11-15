@@ -1,0 +1,33 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+3. Connection Finding
+
+Connections
+Growing knowledge: Hard to track connections
+Ask Claude: Find notes related to a concept
+Smart search: Claude scans the entire vault quickly
+Better links: Suggests connections between notes
+
+Quick Wrap
+Did I explore anything new today?
+What did I actually move forward?
+What bottleneck became obvious?
+One thing I want to carry into tomorrow:
+Don't forget to /close-day
+
+- Writer: /claude
+I wrote 350 lines to .../commands/graduate.md
+- Graduation: Daily note idea extractor
+For purposes .../commands/graduate.md
+I was a kid to now. It's interesting how these things just happen and compound over time, and we don't really ...
+- The /graduate.md is meant to distill, synthesize, and original thinking accumulate in daily notes but rarely graduate into standalone documents. This command takes on策展ing through bullshit ... a best candidate, and helps you decide what to ...
+- Scan Recent Daily Notes
+10. Read the past 14 days of daily notes using the Obsidian CLI.
+(turtle to expand)
+A command is built. You can now run it with /graduate. It will:
+1. Scan the past 14 days of daily notes for ideas (tagged ideas, energy signals, raised thoughts, unconnected links, recurring ...
+2. Cross-reference each candidate against the vault to see if it already exists, is underdeveloped, or is ...
+3. Present candidates in a prioritized table with source quotes
+4. Graduate the ones you choose into standalone notes with proper backlinks, or enrich existing thin notes
+5. Push what was skipped as recurring ideas (tagged in future.md)

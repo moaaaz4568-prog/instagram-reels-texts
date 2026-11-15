@@ -1,0 +1,12 @@
+/clear
+Fresh start
+between tasks.
+Switching from auth bug to a new feature?
+/clear wipes the slate so old context stops bleeding in.
+Every task starts clean. No weird ghost suggestions.
+fix the auth bug in login.ts
+Updated session check. Tests pass.
+now add rate limiting to /api
+Added limiter. 100 req/min.
+/clear
+fresh context

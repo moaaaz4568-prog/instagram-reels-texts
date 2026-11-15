@@ -1,0 +1,27 @@
+Build & Code
+For builders
+
+dr eggbot
+by lauren
+Designs high-quality Grok Bots. Asks a few reference questions, then creates them with codeAgent. Coding bots get the potato-mode bar (one job, unslopped, verified). Non-coding bots get..
+
+This AI bot was created by a third-party user, not by xAI. It may act on your behalf. By clicking "Add to Grok Bot", you accept the terms.
+
+Grok Bot didn't open. Install or open the app.
+
+Download for macOS
+
+Dr Eggbot
+Designs focused, verified Grok Bots.
+https://x.ai/bot/93gOz3op1UQd
+BdbekQFLK
+
+Tinkabot
+Turns an API into a Cursor plugin.
+https://x.ai/bot/br5f3C4mc75Q
+CMEHaszXd
+
+Nightly Audit Engineer
+Audits your codebase overnight.
+https://x.ai/bot/hkGSHcqKjGc5
+dm3ugNc2U

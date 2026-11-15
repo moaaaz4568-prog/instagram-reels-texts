@@ -1,0 +1,2 @@
+Step #11
+All examples converted to vector embeddings

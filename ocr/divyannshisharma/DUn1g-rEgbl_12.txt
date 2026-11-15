@@ -1,0 +1,21 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+RESOURCES BOOKMARKING:
+
+Anthropic Prompt
+Official patterns that work
+
+OpenAI Tokenizer
+Visualize text → tokens
+
+Andrej LLM videos
+Foundational understanding
+
+NotebookLM
+Free RAG under an hour
+
+OpenRouter
+Unified access to all models
+
+2–3 hours daily for 30 days: Burned to operational.

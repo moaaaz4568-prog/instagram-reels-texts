@@ -1,0 +1,14 @@
+Claude Skills
+@aiagently
+03
+Productive Writing
+CONTENT WRITING
++ NOTION
+usamaakram/claude-code-skills-pack
+skills/writing-skill.md
+Write full blog posts and articles inside
+Claude, then push finished drafts straight
+into your Notion database.
+• Drafts land in Notion with full metadata
+• Manage your editorial calendar from chat
+• End-to-end: ideation → draft → publish-ready

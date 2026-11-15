@@ -1,0 +1,23 @@
+Repo Stack 06
+CLAUDE SKILLS
+DESCRIPTION
+220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+alirezavezani.me
+agentic-ai
+claude-code-skills
+openclaw-plugins
+MORE INFO
+https://t.co/pcXlvK7d9u
+alirezavezani / claude-skills Public
+Code Issues 7 Pull requests 6
+main 5 Branches 2 T Descriptions
+alirezavezani Merge pull request #
+.autoresearch/seo/skill-o
+.claude-plugin
+.claude/commands
+codex-plugin
+.codex
+.gemini
+.github
+agents
+business-growth

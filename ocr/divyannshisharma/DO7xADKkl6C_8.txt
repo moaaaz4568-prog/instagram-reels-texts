@@ -1,0 +1,13 @@
+Step #8
+Use template
+Import to an n8n destination
+Import template to prithai.cloud/workspace
+Import template to n8n.srv9.com n8n workflow canvas
+Copied! Next, paste into your n8n workflow canvas
+Get started with n8n
+Get started free with n8n cloud
+Open self-hosting installation docs
+Import Templates
+Explore free templates
+at
+n8n.io/workflows.

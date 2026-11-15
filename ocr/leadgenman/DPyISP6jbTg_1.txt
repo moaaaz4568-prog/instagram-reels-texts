@@ -1,0 +1,10 @@
+miro
+Whimsical
+Figma
+Define & Design
+Identify what the agent needs to accomplish.
+• What problem will this AI solve?
+• What actions should the AI take?
+• What tools will you be using?
+• Where will the data come from (e.g., websites, APIs)?
+• What should the user experience look like?

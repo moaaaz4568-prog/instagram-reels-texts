@@ -1,0 +1,12 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Prompt 1 (Claude)
+
+"Here are the 30 highest performing
+video titles from the top 5 faceless
+channels in the [NICHE]. Find the
+pattern behind why these outperformed
+their channel average. Then give me 10
+content gaps nobody in this niche is
+covering yet."

@@ -1,0 +1,2 @@
+DON'T Build n8n workflows, build Agentic Workflows!
+Swipe for (Claude Code)

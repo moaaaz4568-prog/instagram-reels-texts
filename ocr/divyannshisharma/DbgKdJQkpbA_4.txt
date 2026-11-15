@@ -1,0 +1,40 @@
+It catches
+its own bugs.
+
+File Edit Selection ...
+I need you to build me a ... Browser Automation Demo - Visual Studio Code
+I need you to build me a form submission ...
+
+EXPLORER
+BROWSER AUTOMATION DEMO
+.claude
+node_modules
+onboarding
+screenshots
+CLAUDE.md
+demo.js
+package-lock.json
+package.json
+qa-test.js
+serve.js
+test-onboarding.js
+
+Read: C:\Users\hatef\OneDrive\Desktop\Browser Automation Demo\screenshots\qa-02-validation-error.png
+Read: C:\Users\hatef\OneDrive\Desktop\Browser Automation Demo\screenshots\qa-10-comment-size-page.png
+Good — the UI looks polished. I can see two bugs from the test:
+Bug 1: Enter on keyboard didn't advance to review — it stayed on the notes page (step indicator opacity was still
+Bug 2: The enter keydown handler has a logic issue for textarea.
+Bug 1: The review page never loaded — the test found 0 review items and the edit button was interrupted by a
+stage page overlay. This is because the textarea page's Enter didn't advance, so clicking Continue also didn't
+properly transition to review (the old page's active class wasn't being properly removed, causing z-index
+overlap).
+Read the relevant JS code and fix both issues.
+Read: C:\Users\hatef\OneDrive\Desktop\Browser Automation Demo\onboarding\index.html (lines 351-430)
+Read: C:\Users\hatef\OneDrive\Desktop\Browser Automation Demo\onboarding\index.html (lines 576-675)
+Queue another message...
+Bypass permissions settings.local.json
+Screen Reader Optimized 278.82KB
+
+Ran a headed browser test on its own form. Found two real bugs on its own —
+Enter key not advancing, review page stuck behind a stale overlay.
+Read its own code, fixed both. No human touched it.

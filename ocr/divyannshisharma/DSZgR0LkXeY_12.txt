@@ -1,0 +1,27 @@
+Step #12
+Storage
+Need help getting started with Storage? Ask Gemini
+Protect your Storage resources from abuse, such as billing fraud or phishing. Configure App Check
+Review changes to Cloud Storage. Firebase pricing plan requirements.
+Upload file
+gs://skool-swag-hub.firebasestorage.app
+Google_AI_Studio_2025-08-21T08_41_19.768Z.png
+Name	Size	Type	Last modified
+Google_AI_...	1.46 MB	Image/png	21 Aug 2025
+21T08_39_...	2.322 KB	Image/png	21 Aug 2025
+Google_AI_...	1.02 MB	Image/png	21 Aug 2025
+21T08_39_...	0.263 MB	Image/png	21 Aug 2025
+Google_AI_...	1.17 MB	Image/png	21 Aug 2025
+21T08_23_...	1.9102 MB	Image/png	21 Aug 2025
+Google_AI_...	794.5 KB	Image/png	21 Aug 2025
+21T08_14_...	1.167.308 bytes	Image/png	21 Aug 2025
+Google_AI_...	1.11 MB	Image/png	21 Aug 2025
+21T08_11_...	9.7882.png	Image/png	21 Aug 2025, 16:44:16
+21 Aug 2025, 16:44:16
+Google_AI_Studio_2025-08-21T08_41_19.768Z.png
+Name	Size
+1,167,308 bytes
+Type	Image/png
+Created	21 Aug 2025, 16:44:16
+Updated	21 Aug 2025, 16:44:16
+Upload AI-generated assets to Firebase Storage

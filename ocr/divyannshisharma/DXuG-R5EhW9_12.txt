@@ -1,0 +1,30 @@
+PART 12: AUTOMATION & PRODUCTIVITY
+cc-switch by farion1231
+Context management
+n8n-skills by czlonkowski
+n8n workflow automation
+firecrawl-claude-plugin
+Web scrape, search, extract
+qdrant-skills by Qdrant
+Vector database patterns
+gsap-skills by GreenSock
+Animation library
+wonda by degaussai
+AI productivity
+beautiful-prose by SHADOW
+Prose generation
+humanizer by blader
+Content humanization
+tweetclaw by Xquik-dev
+Twitter/X content
+x-article-publisher by dev
+Article publishing
+email-marketing-bible
+Email marketing guide
+ai-marketing-skills by Brian
+Marketing automation
+advertising-skills by realkim
+Avatars, offers, headlines
+whatsapp-integrate by gok
+WhatsApp integration
+@divyanishsharma

@@ -1,0 +1,5 @@
+Okay, here’s the raw transcript without any fluff or analysis.
+
+How to create unlimited custom illustrations using AI. First grab a screenshot of a style that you like and upload it to ChatGPT. Ask it to create a custom JSON prompt based on that reference style. Then copy the prompt, open a new chat, and tweak it for the object you want. Boom! Just reuse the prompt and you can now generate anything. The best part? The style stays perfectly consistent. To take it further, import it into Midjourney and add smooth animation.
+
+Animatronics.

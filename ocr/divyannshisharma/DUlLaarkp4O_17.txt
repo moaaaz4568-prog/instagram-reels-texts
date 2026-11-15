@@ -1,0 +1,11 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+bash
+antfarm dashboard
+Start the web dashboard
+bash
+antfarm logs
+View recent log entries
+bash
+install github.com/snarktank/antfarm
+Tell your OpenClaw agent

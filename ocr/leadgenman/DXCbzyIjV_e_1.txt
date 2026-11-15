@@ -1,0 +1,23 @@
+Ingredients
+What's actually running in prod right now.
+Next.js 15
+React framework for production
+Claude Code
+AI coding agent
+Supabase
+Postgres DB + auth + storage + RLS
+Stripe
+Payments, checkout, webhooks
+Resend
+Transactional emails
+Vercel
+Deploy with one command
+GitHub Actions
+CI/CD pipelines
+Upstash Redis
+Rate limiting + caching
+PostHog
+Product analytics + feature flags
+Sentry
+Error tracking + monitoring
+Under $200. Most offer generous free tiers.

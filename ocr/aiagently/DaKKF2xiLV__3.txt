@@ -1,0 +1,5 @@
+Tip 3 – Catch
+workflow
+Error Trigger
+1 item
+Never let your workflows fail silently. Add a separate "Error Trigger" workflow that catches every failure across all your automations. When something breaks, it sends you a Slack message or email instantly with the workflow name and error. One workflow protects all.

@@ -1,0 +1,24 @@
+Content Brief Agent
+Meet AI Mode
+detailed questions for better responses
+Content Gaps: What's missing or underexplored across these
+articles?
+Data Usage: Statistics, case studies, concrete examples used
+or missing?
+Content Depth: Average word count, level of detail
+Authority & Trust Signals: Including external links, author bio,
+schema markup?
+Based on this analysis, create a new Google Doc titled "Content
+Brief for [Article Title]." Include the following sections:
+Content Gaps: List key topics or angles that are missing or
+underexplored in the existing articles.
+Data Usage: Suggest specific statistics, case studies, or
+examples that could strengthen the content.
+Content Depth: Recommend a target word count and level of
+detail based on top-ranking articles.
+Authority & Trust: Recommend external links, author bio
+details, and schema markup to enhance credibility.
+Content Gaps → What's missing or underexplored?
+Data Usage → Statistics, case studies, examples
+Content Depth → Word count, high detail level
+Authority & Trust → External links, author bio, schema

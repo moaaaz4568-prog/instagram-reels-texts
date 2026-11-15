@@ -1,0 +1,6 @@
+Step #6
+Web Scraper Agent
+When chat message received
+OpenAI Chat Model
+Simple Memory
+Web scraper agent that crawls entire websites.

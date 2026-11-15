@@ -1,0 +1,9 @@
+Tools Included (2/2)
+• Unsloth AI
+• Blaxel
+• Infisical
+• Firecrawl
+• Exa
+• Browser Use
+• Supabase
+• Pinecone

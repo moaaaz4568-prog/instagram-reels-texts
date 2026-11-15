@@ -1,0 +1,19 @@
+Without Warmup
+Goal: Send more emails and hope volume compensates for poor deliverability
+
+to me
+This message seems dangerous
+It contains a suspicious link that was used to
+
+With Warmup 📶
+Goal: 95%+ inbox placement so every email you send has a real chance of getting opened, read, and replied to
+
+Sent today
+1,900
+
+Received today
+1,700
+
+Deliverability 99%
+Inbox 38,700
+Spam 400

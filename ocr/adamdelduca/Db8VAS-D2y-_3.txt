@@ -1,0 +1,2 @@
+The channels growing right now aren't using better tools than you
+They're feeding those tools better context

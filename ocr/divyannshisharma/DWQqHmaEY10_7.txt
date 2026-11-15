@@ -1,0 +1,19 @@
+Skill Set 06
+Superpowers
+DESCRIPTION
+A comprehensive suite of 20+ battle-tested capabilities designed to supercharge your entire development workflow. It integrates practices like test-driven development (TDD), structured debugging, and a clear plan-to-execute pipeline, allowing you to move from idea to production with speed and precision. Ideal for developers who want to build scalable, reliable systems with AI as a true co-pilot.
+MORE INFO
+https://lnkd.in/gn4c7Wfr
+obra / superpowers Public
+Code Issues 69 Pull requests 99
+main 37 Branches
+obra Add issue templates and dis
+.claude-plugin
+.codex
+.cursor-plugin
+.github
+.opencode
+.agents
+.commands
+.docs
+.books

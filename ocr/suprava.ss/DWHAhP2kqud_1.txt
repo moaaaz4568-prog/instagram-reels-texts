@@ -1,0 +1,9 @@
+Suprava Sabat
+What this clause system does:
+• Finds leads on LinkedIn
+• Sends connection requests & InMails
+• Classifies cold email replies
+• Runs autonomously
+System Architecture
+LinkedIn
+PARALLEL FLOW: Email Replies

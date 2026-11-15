@@ -1,0 +1,6 @@
+Jack Blaire
+@jackblairofficial
+4. "When I launched CUDA, the audience was complete silence. Nobody wanted it. Nobody asked for it. Nobody understood it."
+Huang on the moment that built Nvidia's AI dominance.
+He poured a decade of revenue into a software layer that turned graphics chips into general-purpose compute engines. Wall Street hated it. The product had no customers. He kept building.
+When the AI boom hit, CUDA was the only thing it could run on.

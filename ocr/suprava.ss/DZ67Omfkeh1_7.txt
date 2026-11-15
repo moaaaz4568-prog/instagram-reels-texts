@@ -1,0 +1,24 @@
+STEP 7 — AUTOMATE THE REPEAT PART
+07
+Research runs on
+autopilot.
+Sending stays human.
+Claude can't DM on Reddit for you. But it can
+run the search weekly, rank the best threads,
+and queue up draft openers — so you open
+your laptop to a ready list, not a blank search
+bar.
+Mon: research runs
+Tue: openers drafted
+Wed-Fri: you send
+Reddit
+Claude
+Ready list
+USE THESE SKILLS TOGETHER
+reddit-researcher + linkedin-dm-angle-generator
+Run both on a weekly cadence to turn "I should check Reddit"
+into a standing system that does the finding and writing for you.
+FIND
+WRITE
+SEND
+CONVERT

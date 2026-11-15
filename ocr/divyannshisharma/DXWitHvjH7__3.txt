@@ -1,0 +1,16 @@
+PART 3
+MCP Servers & Tool 🔗
+16. Tavily: Search engine built for AI agents. Not blue links – clean, structured, LLM-ready data. Four tools: search, extract, crawl, map. Connects as remote MCP in one minute.
+🔗 https://github.com/tavily-ai/tavily-mcp
+17. Context7: Injects up-to-date library documentation into your LLM’s context. No more hallucinated APIs or deprecated methods. Add “use context7” to your prompt and it pulls current docs. Supports thousands of libraries.
+🔗 https://github.com/upstash/context7
+18. Task Master AI: Your AI’s project manager. Feed it a PRD and it generates structured tasks with dependencies. Claude executes them one by one. Turns chaotic sessions into organized pipelines.
+🔗 https://github.com/evoyalaio/claude-task-master
+19. MCP Playwright: Browser automation for LLMs. Control a real browser through natural language. Testing, scraping, interaction.
+🔗 https://github.com/execuautomation/mcp-playwright
+20. fastmcp: Build MCP servers in minimal Python. The fastest way to create custom tool integrations for Claude or any MCP-compatible model.
+🔗 https://github.com/jlowin/fastmcp
+21. markdownify-mcp: Convert PDFs, images, and audio into Markdown. Feed any document type into your AI workflow.
+🔗 https://github.com/zcaceres/markdownify-mcp
+22. MCPHub: Manage multiple MCP servers via HTTP. One dashboard for all your tool connections.
+🔗 https://github.com/samanhappy/mcphub

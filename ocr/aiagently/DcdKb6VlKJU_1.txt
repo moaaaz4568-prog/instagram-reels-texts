@@ -1,0 +1,19 @@
+STEP 1
+Install Claude Code
+Start with your workspace.
+Choose how you want to work, connect your files, and keep everything in one place.
+SetUp and running in under a minute.
+Terminal
+macOS, Linux, WSL
+npm i -g
+Desktop app
+Native on Mac and Windows
+download
+VS Code
+Side panel in your editor
+extension
+npm install -g @anthropic-ai/claude-code
+One Account
+Same Files
+Works Everywhere
+Set Up in Minutes

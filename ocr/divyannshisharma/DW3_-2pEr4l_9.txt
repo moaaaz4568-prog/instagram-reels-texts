@@ -1,0 +1,10 @@
+Ollama
+9. Step 1: Download Ollama
+Ollama is the tool that makes running open models locally feel as easy as downloading an app.
+Go to ollama.com and hit the download button
+Available for Mac, Linux and Windows — all supported
+One terminal command or one click install, done in seconds
+Download
+Local
+Fast Setup
+@divyanshisharma

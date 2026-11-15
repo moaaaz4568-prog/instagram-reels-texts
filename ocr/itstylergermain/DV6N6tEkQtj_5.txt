@@ -1,0 +1,8 @@
+/Loop
+Runs a prompt repeatedly on a set interval
+while your session stays open (like: /loop 5m
+check if the deploy finished). Ideal for
+polling a process or babysitting a task in the
+background.
+@itsstylegermain
+save for later

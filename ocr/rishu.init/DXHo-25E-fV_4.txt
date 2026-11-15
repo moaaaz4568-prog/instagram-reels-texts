@@ -1,0 +1,12 @@
+05 / 11
+05
+Claude Mem
+Manager
+Give Claude a brain that actually remembers between sessions.
+Persistent memory layer for Claude. Store context, preferences and project state so you never re-explain
+yourself.
+Persist Context
+Session Memory
+Zero Config
+github.com/nichochar/claude-mem
+05

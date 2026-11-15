@@ -1,0 +1,10 @@
+cold-email-formula-builder
+Added by
+User
+Last updated
+Jan 30, 2026
+Invoked by
+User or Claude
+Creates cold email formulas that
+works 99% of the time.
+MacBook Air

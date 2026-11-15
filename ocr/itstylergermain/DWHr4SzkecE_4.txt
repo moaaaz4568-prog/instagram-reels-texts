@@ -1,0 +1,7 @@
+Develop a To-Do Dashboard
+Send Claude this message
+message
+Build me a real-time to-do dashboard using Next.js and Supabase. Set up a todos table in Supabase with fields for title, status, priority, assigned_agent, and updated_at.
+Enable Supabase Realtime on the table so it updates live via websockets – no refresh needed. When an agent completes a task, it should update the status directly in Supabase and the dashboard reflects it instantly. Style it dark, minimal, and clean.
+save for later
+@itstylergermain

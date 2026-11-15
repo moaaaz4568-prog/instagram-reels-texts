@@ -1,0 +1,35 @@
+STEP 02
+GET YOUR FREE
+GEMINI KEY
+1 Go to Google AI Studio.
+Open your browser and visit
+https://aistudio.google.com
+2 Create a free Gemini API key.
+Sign in with your Google account
+and create a new AI API key.
+3 Copy the key.
+Once it's created, copy the API key
+from the dashboard.
+4 That's it.
+You'll use this key to let Gemini help
+Claude understand the actual
+YouTube video.
+Google
+and visit
+Home
+API keys
+Models
+Library
+More
+Gemini
+Build with Gemini
+Create API key
+API key
+AIZaSyB8fXk1...7gHk
+Key created successfully
+Gemini
+(understands
+YouTube video)
+Claude
+(Claude
+does the work)

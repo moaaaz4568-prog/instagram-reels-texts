@@ -1,0 +1,5 @@
+Step 4: Quick human review
+The only manual step in the entire system.
+Slack pings me with a "new campaign ready, approve or change?" message. I review the copy, the angle, and the segment.
+Reply APPROVE → system launches.
+Reply CHANGE + note → system rewrites and re-posts.

@@ -1,0 +1,5 @@
+STEP 4
+Run the /viral-content Skill
+Downloads, transcribes, captions, posts.
+All by itself.
+/viral-content

@@ -1,0 +1,7 @@
+FONT CHOICE
+Cheap
+Using complex Serif fonts that are hard to read and using multiple different ones
+Expensive
+Using Sans Serif fonts that are cleaner and easier to read and stick to only 2 fonts
+Example text
+EXAMPLE text

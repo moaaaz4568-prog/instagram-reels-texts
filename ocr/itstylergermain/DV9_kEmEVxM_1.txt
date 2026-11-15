@@ -1,0 +1,17 @@
+Getting Started.
+
+We are going to be building this with Claude Code. Start a new project, open a new chat window, and type this:
+
+Send this to Claude
+
+You are building a content management dashboard. Use Next.js, Tailwind CSS, and shadcn/ui for components.
+
+Set up the project structure with the following sections: Instagram Manager, Analytics, Content Calendar, Competitor Tracker, and News Consolidator.
+
+Use a dark theme globally. Create placeholder pages for each section with a shared sidebar navigation.
+
+When the initial project is set up, create a CLAUDE.md file that documents the tech stack, folder structure, component conventions, and any important decisions made during setup.
+
+@itsylergermain
+
+save for later

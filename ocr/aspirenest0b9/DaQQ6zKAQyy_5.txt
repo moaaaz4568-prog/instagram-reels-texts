@@ -1,0 +1,19 @@
+Punit Kumar
+AI ad campaign generator
+> /market ads https://company.com
+Claude analyzes your offer, then writes platform-ready ad copy — hooks, headlines, primary text, and creative direction.
+✅ Facebook Ads
+✅ LinkedIn Ads
+✅ Google Ads
+✅ Instagram Ads
+> /market ads
+Analyzing product... generating hooks...
+Writing headlines... creating ad copy...
+✅ Done
+FACEBOOK · SPONSORED
+Stop guessing what’s broken on your site.
+Get a full marketing audit — SEO, conversion, and competitor gaps — in one AI-generated report.
+Get My Free Audit →
+✅ Creative Ideas
+✅ Target Audience
+swipe >>

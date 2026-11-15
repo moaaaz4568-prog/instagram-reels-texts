@@ -1,0 +1,18 @@
+HOW TO CREATE THE FILE
+takes 2 minutes
+
+Open your project folder
+
+and create a new file. Name it exactly "CLAUDE.md" - capital letters, no spaces. It's just a plain text file with a .md extension.
+
+Open it in any text editor
+
+Notepad, TextEdit, VS Code and whatever you use. You'll paste your instructions directly in Code and whatever you use. Into this file in plain text.
+
+Copy the instructions from this article
+
+that are relevant to you. Paste them in. You don't need all 21, start with 3 or 4 that solve your biggest frustrations first.
+
+Save the file. Claude Code reads it
+
+automatically every time you open a session in that folder. No setup, no extra steps - it just works from the first message.

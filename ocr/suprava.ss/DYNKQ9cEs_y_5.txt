@@ -1,0 +1,31 @@
+I use this skill to find my
+exact IcP + their current issues
+based on age, gender, new hires etc
+xlep
+Acql x
+米
+Clau x
+Q
+☆
+icp-qualifier
+Added by
+Last updated
+Trigb
+You
+Apr 7,2026
+Slashc
+'.auto
+Description
+Qualifies a CsV of companies against a B2B Su
+stomerProfile)targetingsales/GTM/outreach tools.Fetch
+Tier2,orDisqualify,and outputs an enriched sv.
+Version
+1.0.0
+Allowed tools
+BashaditWeehAssQstn
+Emoji
+Tags
+icp,qalfcation,eadgnrationbb,saascutbound
+ICP Qualifier Skill
+Trigger
+Use thisskill when the user runs /icp-qualifier or asks toqualify leads","qualify companies","run I

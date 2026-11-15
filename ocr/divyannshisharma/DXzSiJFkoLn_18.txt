@@ -1,0 +1,36 @@
+18. Learning
+
+Claude Code playbook with TDD workflows
+• integration test patterns
+• CI/CD pipeline configs
+• PR prep guides
+Repo: https://github.com/RiyaParikh0112/claude-code-playbook
+
+Power-user tips collection
+• custom status line scripts
+• CI/CD pipeline configs in containers
+• system prompt halving tricks
+• Claude Code in containers
+Repo: https://github.com/iannuttall/claude-code-tips
+
+Topic-based discovery of prompt repos
+• community-submitted repos
+• tagged for navigation
+• fresh additions regularly
+Repo: https://github.com/topics/awesome-claude-prompts
+
+Systematic context priming approach
+• scenario-specific commands
+• project context patterns
+• reference templates
+Repo: https://github.com/disler/context-priming
+
+Real-world lessons and workflows
+• TODO.md discipline
+• cost management tips
+• refactor strategies
+Repo: https://github.com/shaharia-lab/my-claude-code-journey
+
+Divyanshi sharma
+
+Category 9/10

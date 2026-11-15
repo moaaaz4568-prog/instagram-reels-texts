@@ -1,0 +1,39 @@
+Step 2
+CONNECT META ADS
+TO CLAUDE
+Go to:
+Connectors
+Add custom connector
+Settings
+Enter:
+Name: Meta Ads
+Remote MCP server URL:
+https://mcp.facebook.com/ads
+Claude
+Home
+Projects
+Artifacts
+Chats
+Settings
+Profile
+Appearance
+Account
+Connectors
+Advanced
+Connectors
+Connect Claude to your favorite tools and services to get more done.
++ Add custom connector
+Custom connectors
+Available connectors
+Google Drive
+GitHub
+Slack
+Notion
+Add custom connector
+x
+Name
+Meta Ads
+MCP server URL
+https://mcp.facebook.com/ads
+Cancel
+Add

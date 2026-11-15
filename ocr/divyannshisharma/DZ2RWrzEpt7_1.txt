@@ -1,0 +1,49 @@
+01
+LLM INFERENCE
+
+run models locally, no api, no limits, no bill.
+
+01 ollama
+98K
+run llama, mistral, qwen, gemma locally with one command.
+supports gpu acceleration, rest api, openai-compatible endpoints.
+github.com/ollama/ollama
+
+02 llama.cpp
+72K
+llm inference in pure c++, runs on cpu, gpu, apple silicon. if ollama
+is the car, llama.cpp is the engine.
+github.com/ggerganov/llama.cpp
+
+03 vllm
+44K
+high-throughput llm serving for production. continuous batching,
+paged attention, openai-compatible api.
+github.com/vllm-project/vllm
+
+04 lm studio
+28K
+desktop app for running local llms. download from hugging face,
+get an openai-compatible local server. best for non-developers.
+github.com/lm-studio/lm-studio
+
+05 jan
+26K
+open-source chatgpt alternative that runs 100% offline. clean ui,
+model management, local api. no data leaves your machine.
+github.com/janhq/jan
+
+06 text-gen-webui
+42K
+swiss army knife for local llms. every model format, every backend.
+character mode, notebook mode, api mode.
+github.com/oobabooga/text-generation-webui
+
+07 localai
+26K
+self-hosted openai drop-in replacement. same api, local models.
+swap gpt/claude without changing a line of code.
+github.com/mudler/LocalAI
+
+Divyanshi sharma
+01/10

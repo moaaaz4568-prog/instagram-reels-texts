@@ -1,0 +1,16 @@
+04
+Spec-Driven Development
+
+We build specs first. Write a spec for: [FEATURE]
+Context: [WHO USES IT + WHY NOW]
+
+Spec format:
+
+* Behavior: given / when / then, every case -- happy path, edge cases, failure states
+* API contract: inputs, outputs, error shapes, status codes
+* Data: schema changes + migrations needed
+* UI states: loading, empty, error, success
+* Non-goals: what this spec deliberately skips
+* Acceptance checklist I can verify line by line
+
+After I approve the spec, implement EXACTLY the spec. If reality forces a deviation, stop, update the spec, get my ok, then continue. The spec is the source of truth, not the code.

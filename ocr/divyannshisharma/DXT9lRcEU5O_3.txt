@@ -1,0 +1,23 @@
+Step 3
+Project Files
+Upload your documents once to a Project - your guidelines, specs, and research stay there
+Files
+2% of project capacity used
++
+untapped_niche_analysis.md
+536 lines
+MD
+style_guide.md
+174 lines
+MD
+scripting_guidelines.md
+758 lines
+MD
+README.md
+450 lines
+project_brief_template.md
+426 lines
+content_template_s.md
+614 lines
+Divyanshisharma
+3/16

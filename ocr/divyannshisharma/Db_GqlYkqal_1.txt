@@ -1,0 +1,33 @@
+SLIDE 1 / 10
+What is MCP?
+MCP = Model Context Protocol
+Think of it like a USB-C port for AI.
+Before MCP: every AI tool needed its own special connection to every app.
+Messy, slow, complicated.
+After MCP: any AI that speaks MCP can plug into any tool that speaks MCP back.
+One standard. Everything connects.
+Claude, Gemini, Codex, Cursor — they all speak it now. Over 20,000 servers exist.
+Most are junk. Here are the 50 worry tools.
+One Standard. Endless Connections.
+Like USB-C for devices, Claude connects to many tools through one protocol.
+Figma
+Design
+Notion
+Docs & Notes
+Google Drive
+Files & Storage
+GitHub
+Code & Repos
+stripe
+Stripe
+Payments
+Slack
+Messages
+Linear
+Issues & Projects
+Claude
+AI
+Any MCP Server
+Web APIs & Tools
+= USB-C (Universal Standard)
+= MCP Protocol (One Standard)

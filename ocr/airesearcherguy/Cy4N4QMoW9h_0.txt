@@ -1,0 +1,38 @@
+trigger
+make.com
+Scenario
+custom search
+topic ->
+search title
+adwords
+api
+kw planner
+kws
+type ?
+rotate
+listicle
+how-to
+authoritative
+> 100 IK
+3pm
+titles cw
+Ch -> any le -> SEO (w
+AI
+GPT4
+kw
+GPT4
+titles cw
+Intro
+Body
+Conclusion
+expert
+kb
+outline
+score
+cw rewrite
+CE edit
+AI
+Claude?
+make
+output
+format -> publish

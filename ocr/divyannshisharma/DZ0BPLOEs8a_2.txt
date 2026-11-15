@@ -1,0 +1,7 @@
+2. Find Agencies Generate Service-Specific Messaging
+Claude
+WORKFLOW:
+1 Prospeo Find Agencies
+2 Filter: Agency List Filter for Agencies
+3 Export List Export Agencies
+4 Claude Companies "Create agency-specific cold emails."

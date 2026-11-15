@@ -1,0 +1,6 @@
+Step #13
+1. Trigger
+2. The Analyst
+3. Research Tool
+4. Delivery
+Firefly Workflow: Transcripts → Research → Auto-generated briefs.

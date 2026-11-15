@@ -1,0 +1,45 @@
+Claude Mem
+1. Claude Mem
+https://github.com/thedotmack/claude-mem
+thedotmack / claude-mem
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Projects
+Security
+Insights
+main
+27 Branches
+229 Tags
+Go to file
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Projects
+Security
+Insights
+the dotmack feat: improve Gemini CLI timeline display by stripping ANSI colors an...
+a565a2f yesterday
+.claude-plugin
+.claude
+.github
+plan
+cursor-hooks
+docs
+install
+installer
+openclaw
+chore: bump version to 10.6.2
+feat: add interactive CLI installer with @clack/prompts (#1093)
+Upgrade GitHub Actions for Node 24 compatibility (#876)
+chore: bump version to 10.4.4
+refactor: implement in-process worker architecture for hooks ...
+fix(openclaw): inject context via system prompt instead of ov...
+fix: add rewrite rule so install.cmean.ai root serves install.sh
+fix: add compiled installer dist so CLI installation works
+fix(openclaw): inject context via system prompt instead of ov...
+fix(openclaw): inject context via system prompt instead of ov...

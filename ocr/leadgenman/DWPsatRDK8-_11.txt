@@ -1,0 +1,13 @@
+@
+File Mention
+Type @ to reference any file in your project. Claude reads it immediately. Precise context injection.
+$ claude
+You: Check @src/auth/middleware.ts for security issues against @src/config/security.ts
+Claude: Reading both files...
+@
+You: Check @src/auth/middleware.ts for security issues against @src/config/security.ts
+Claude: Reading both files...
+@
+$ claude
+You: Check @src/auth/middleware.ts for security issues against @src/config/security.ts
+Claude: Reading both files...

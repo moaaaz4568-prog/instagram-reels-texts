@@ -1,0 +1,22 @@
+Create Your Own Skill
+in 3 steps
+
+1 Create the folder
+mkdir -p .claude/skills/my-skill/
+Each skill lives in its own directory.
+
+2 Write SKILL.md
+---
+name: my-skill
+description: What this skill does.
+user-invocable: true
+---
+# My Custom Skill
+Instructions for Claude go here.
+Be specific. Give examples.
+Frontmatter tells Claude what this skill does, so it knows when to load it.
+
+3 Done. Claude auto-detects it.
+claude "use /my-skill to build X"
+No config. No setup. Just works.
+Pro tip: add tools: in frontmatter to give your skill access to Read, Grep, Bash, etc.

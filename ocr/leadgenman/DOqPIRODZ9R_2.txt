@@ -1,0 +1,8 @@
+LLM Temperature Settings
+Temperature Settings
+Temperature
+Adjusts the randomness or creativity of the output. Higher the range, more creative the result.
+Value Range : 0 to 2.
+Use Case
+• Use high temperature to generate creative, diverse text for storytelling or brainstorming.
+• Use low temperature for accurate, consistent outputs like technical writing or data extraction.

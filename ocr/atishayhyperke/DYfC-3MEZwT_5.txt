@@ -1,0 +1,5 @@
+5. AI Workflow Automation (n8n)
+Build no-code automations that connect ChatGPT, Gmail, Slack, and CRMs. In a weekend you can ship your first real workflow that saves a business 10 hours a week.
+What you can make:
+$500 to $2K per build
+$500 to $1.5K/month retainer

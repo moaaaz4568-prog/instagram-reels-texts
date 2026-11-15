@@ -1,0 +1,9 @@
+Define a Soul & Personality
+Send Claude this message
+message
+Read everything in my /memory directory, then write a personality.md that defines how you should think, communicate, and make decisions when working with me.
+Base it entirely on patterns you observe in my files. This becomes your soul for every future session.
+Other information:
+[Insert any other relevant details here]
+save for later
+@itstylergermain

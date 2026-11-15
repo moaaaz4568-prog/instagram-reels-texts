@@ -1,0 +1,32 @@
+1
+Agent Reach
+Give your AI agent eyes across the internet
+Twitter/X, Reddit, YouTube, GitHub & more.
+Scrap anything.
+agent-reach.py
+import agent_reach as ar
+client = ar.Client()
+results = client.scrape(
+    platform="twitter",
+    query="AI agents",
+    limit=50
+)
+for item in results:
+    print(item.title)
+    print(item.url)
+print("---")
+Twitter / X
+Live results
+Reddit
+Live results
+YouTube
+Live results
+GitHub
+Live results
+More Sources
+Live results
+> agent-reach run
+Scraping in progress...
+Results
+Found 128 results
+Done.

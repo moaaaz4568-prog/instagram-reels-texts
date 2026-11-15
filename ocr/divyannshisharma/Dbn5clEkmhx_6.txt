@@ -1,0 +1,82 @@
+Level 3:
+Give it taste.
+
+“It needs to build things that actually look good — decks, PDFs, designs. Right now, one model is #1 in the world at this: Kimi K3. Even beats Claude Fable 5.
+
+Frontend Code Arena
+Kimi-K3: Ranked #1
+
+Arena
+
+Leaderboard
+
+Compare leading frontier models on the blind frontend and coding benchmark.
+
+Arena function-calls allow you to build AI products with thousands of APIs from hundreds of categories including Search, Daily News, E-Commerce/Shopping, Social Media, and more.
+
+View the leaderboard →
+
+Frontend Code Arena
+ARENA.AI
+
+Kimi-K3
+1,679
+
+Claude Fable 5
+1,631
+
+GPT-5.5-Son (High)
+1,618
+
+GLM-5 (Max)
+1,587
+
+Claude Opus 4.5 (Thinking)
+1,562
+
+Grok-4.5
+1,558
+
+Claude Opus 4.7 (Thinking)
+1,558
+
+Claude Opus 4.7
+1,555
+
+Claude Opus 4.6 (Thinking)
+1,542
+
+Claude Sonnet 5 (High)
+1,538
+
+Mistral Small 3.1
+1,538
+
+Claude Opus 4.6
+1,534
+
+Claude Opus 4.6
+1,534
+
+Seed-2.1-Pro
+1,526
+
+GLM-5.1
+1,522
+
+Claude Sonnet 4.6
+1,516
+
+Kimi-K2.6
+1,515
+
+GPT-5.5 (High)
+1,504
+
+MiniMax-M3
+1,493
+
+1,450 1,500 1,550 1,600 1,650
+
+SOURCE: ARENA.AI LEADERBOARD (ARENA.AI/LEADERBOARD/CODE)
+NOTE: ARENA SCORE

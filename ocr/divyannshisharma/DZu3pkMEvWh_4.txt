@@ -1,0 +1,38 @@
+05 step 2:
+go to
+data controls.
+we're heading
+here next
+scroll
+down
+Sharing Data retention
+Data controls
+Visibility Model bids
+You're eligible for up to 7 free weekly evals.
+Usage beyond these limits, as well as usage for other models, will be billed at standard rates. Some
+limitations apply. Learn more.
+Disabled
+Enabled for all projects
+Enabled for selected projects
+Share inputs and outputs with OpenAI
+This controls your experience for everyone who helps to make better models. When you share your data, OpenAI may
+retain it for up to 3 years. We do not use your shared data to train our general-purpose models, and outputs are never used
+to train our general-purpose models. Learn more about privacy.
+You're eligible for free daily usage on traffic shared with OpenAI.
+Up to 250K tokens per day on gpt-4o, gpt-4o-mini, gpt-4, gpt-3.5-turbo, gpt-4-turbo, gpt-4o-audio, gpt-4o-mini-audio,
+gpt-4o-realtime, gpt-4o-mini-realtime, o1, o1-mini, o1-preview, dALL·E, Embeddings, Assistants, and Vision.
+Usage up to 2.5x times per day on gpt-4o-mini, gpt-4o, gpt-4, gpt-3.5-turbo, gpt-4-turbo, gpt-4o-audio, gpt-4o-mini-audio,
+gpt-4o-realtime, gpt-4o-mini-realtime, o1, o1-mini, o1-preview, dALL·E, Embeddings, Assistants, and Vision.
+Usage beyond these limits, as well as usage for other models, will be billed at standard rates. Some
+limitations apply. Learn more.
+Disabled
+Enabled for all projects
+Enabled for selected projects
+Save
+sharing
+tab
+In the left menu, scroll down and click “Data controls.”
+Then click on the “Sharing” tab at the top of the page.
+* You’ll see two sections here — one for sharing your evaluation
+data and one for sharing your inputs and outputs.
+You need to turn both of them on.

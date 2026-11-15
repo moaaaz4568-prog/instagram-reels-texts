@@ -1,0 +1,32 @@
+CLAUDE / RECRUITING OS
+PUNIT GUPTA
+BUILT INSIDE CLAUDE CODE
+The project structure
+that makes it repeatable.
+CLAUDE CODE / AI RECRUITER OS
+EXPLORER
+CLAUDE.md
+Knowledge/
+Skills/
+Agents/
+Reports/
+Templates/
+Prompts/
+CLAUDE.md
+# AI Recruiting Operating System
+## Mission
+Recruiting workflows, codified.
+## Instructions
+- Read knowledge before acting
+- Use skills as specialist modules
+- Delegate through agents
+- Connect tools with MCP
+SYSTEM MODES
+Voice Mode
+Plan Mode
+Sub Agents
+MCP
+Markdown
+Wiki
+08 / 10
+AI RECRUITING OS

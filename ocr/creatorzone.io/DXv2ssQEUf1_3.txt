@@ -1,0 +1,5 @@
+Marketing = Short-term spike
+Branding = Long-term dominance
+
+Marketing drives sales.
+Branding builds loyalty.

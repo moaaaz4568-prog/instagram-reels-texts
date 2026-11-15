@@ -1,0 +1,13 @@
+prompt 12 →
+Find Target Audience
+Prompt:
+This is the company website content([website_content])
+Guess the target audience of the company.
+Classify and choose 1 from this list:
+[sales teams, marketing teams, HR teams, customer Service teams, consumers, finance teams, accounting teams, IT teams, developer teams...]
+Guess the target audience of the company.
+Classify and choose 1 from this list:
+[sales teams, marketing teams, HR teams, customer Service teams, consumers, finance teams, accounting teams, IT teams, developer teams...]
+Write it in lowercase.
+Output:
+sales teams

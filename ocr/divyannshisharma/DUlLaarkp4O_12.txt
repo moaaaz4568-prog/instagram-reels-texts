@@ -1,0 +1,16 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Security:
+
+Curated repo only:
+Antfarm installs workflows only from the official repository. No arbitrary remote sources.
+
+Reviewed for prompt:
+Every Antfarm workflow is reviewed for prompt injection and malicious agents.
+
+Community-driven:
+Submit a PR to add a workflow: all contributions undergo security review.
+
+Transparent by default:
+All workflows are plain YAML and Markdown: fully readable before install.

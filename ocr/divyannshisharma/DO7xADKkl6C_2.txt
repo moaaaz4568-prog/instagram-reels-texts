@@ -1,0 +1,14 @@
+Step #2
+1. Why did you buy VPS hosting?
+For commercial reasons (profit)
+For personal reasons (growth)
+2. What do you plan to build on Hostinger?
+Website or content site
+Web or mobile application
+AI and machine learning
+Data analytics infrastructure
+API
+Video or live streaming platform
+Web3 or decentralized app
+Self-Host n8n
+Install n8n on your VPS.

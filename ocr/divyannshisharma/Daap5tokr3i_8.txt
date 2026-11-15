@@ -1,0 +1,20 @@
+09 TIP 5: BUILD IT A MEMORY
+Tip 5:
+Build it a memory.
+Fable 5 works best when it can
+remember lessons from previous runs
+and use them next time.
+The simplest way to do this is to give
+it a markdown file and tell it to write
+notes there.
+Use this exact instruction:
+“Store one lesson per file with a one-line
+summary at the top. Record corrections
+and confirmed approaches — including
+why they matter — in the notes. Don’t save what the
+chat history already records. Update an
+existing note rather than creating a
+duplicate. Delete notes that turn out to
+be wrong.”
+Over time your agent gets smarter
+every single session.

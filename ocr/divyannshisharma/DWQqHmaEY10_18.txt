@@ -1,0 +1,39 @@
+Skill Set 17
+MCP Server
+DESCRIPTION
+haris-musa / excel-mcp-server Public
+< > Code Issues 36 Pull requests 8
+main 1 Branch 7 Ta
+bryankthompson feat: Add MCPB
+github/workflows
+assets
+docs
+src/excel_mcp
+.gitignore
+.mcpignore
+python-version
+LICENSE
+README.md
+TO
+Provides a powerful
+way to interact with
+and manipulate Excel
+data without needing
+Microsoft Excel itself.
+It enables automation,
+data processing, and
+analysis through
+command-based
+workflows, making it
+highly efficient for
+handling large
+datasets, generating
+reports, and
+integrating
+spreadsheet
+functionality into
+larger systems or
+applications.
+MORE INFO
+https://github.com/haris-
+musa/excel-mcp-server

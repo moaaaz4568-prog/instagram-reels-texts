@@ -1,0 +1,5 @@
+THE TITLE TEXT IS THE MOST IMPORTANT PART OF YOUR HOOK.
+How To Create a Killer Hook
+The most important part
+I built a Claude skill that writes banger title text based on data.
+K

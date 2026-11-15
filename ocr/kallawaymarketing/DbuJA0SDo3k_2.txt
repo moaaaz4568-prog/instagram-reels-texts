@@ -1,0 +1,9 @@
+WORD 1: SUBJECT CLARITY WORD
+This calls out the subject of the video in the hook.
+Script
+Hook
+Body
+CTA
+SUBJECT
+Could be you, me, I, we, or any other subject.
+K

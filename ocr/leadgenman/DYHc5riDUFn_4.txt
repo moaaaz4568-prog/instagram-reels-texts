@@ -1,0 +1,23 @@
+commands/
+Slash commands you trigger by name.
+What it does:
+• Each .md file becomes /command-name
+• You decide when to run it
+• Pre-built workflows on tap
+Type /commit. Claude does the rest.
+1 ---
+2 description: Analyze diff and write commit msg
+3 ---
+4
+5 # /commit
+6 Run `git status` and `git diff --staged`.
+7 Identify the *why*, not the *what*.
+8
+9 ## Format
+10 - Subject: 50 chars, imperative mood
+11 - Body: explain the reasoning
+12 - Use NM-XXX prefix
+13 ## Never
+14 - Push without asking
+15 - Use --no-verify
+16 # Slash commands = fastest UX.

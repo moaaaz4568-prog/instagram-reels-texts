@@ -1,0 +1,13 @@
+4. AI Coding Assistant
+
+What It Is:
+AI tools that write, debug, and refactor code alongside you in your IDE.
+
+When To Use It:
+Building features faster, fixing bugs, generating boilerplate, or learning a new language or framework.
+
+Tools:
+Cursor
+OpenAI Codex
+Claude Code
+Windsurf

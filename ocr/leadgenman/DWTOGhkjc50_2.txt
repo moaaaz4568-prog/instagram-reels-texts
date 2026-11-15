@@ -1,0 +1,6 @@
+2.Model
+Wrong model choice
+Cost vs intelligence
+Context limits
+Capability mismatch
+Tool-calling gaps

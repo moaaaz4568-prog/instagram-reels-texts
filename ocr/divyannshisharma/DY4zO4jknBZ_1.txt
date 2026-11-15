@@ -1,0 +1,30 @@
+NotebookLM → Claude
+SKILLS FACTORY
+Build a new AI expert in 5 minutes · Zero hallucinations
+1
+OPEN NOTEBOOKLM –
+ADD YOUR BEST SOURCES
+PDFs · articles · Youtube links
+2
+ASK NOTEBOOKLM
+TO WRITE A SKILL
+.MD FILE
+3
+DROP THE FILE INTO
+CLAUDE CODE SKILLS FOLDER
+4
+CLAUDE READS THE SKILL ·
+FOLLOWS THE RECIPE
+5
+ONE SKILL PER JOB TYPE
+Loop
+ready to use
+/mnt/skills/ · one file, ready to use
+Consistent output · every single time
+Email · landing page · FAQ · support reply
+REPEAT THE LOOP FOR EVERY NEW SKILL →
+email
+landing page
+FAQ
+support reply
+anything else →

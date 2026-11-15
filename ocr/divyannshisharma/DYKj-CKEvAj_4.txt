@@ -1,0 +1,7 @@
+#4: LANGCHAIN
+It's an open-source agent engineering platform with
+a massive community following, boasting over 135k
+stars and 22.4k forks. This project is highly active.
+github.com/langchain-ai/langchain
+Divyanshi sharma
+04/10

@@ -1,0 +1,6 @@
+#5
+SimpleClaw deploys your instance automatically
+- no technical skills needed
+Deploy OpenClaw under 1 minute
+Starting your deployment
+Traditional Method vs SimpleClaw

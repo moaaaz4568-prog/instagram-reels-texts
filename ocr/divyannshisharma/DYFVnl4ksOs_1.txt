@@ -1,0 +1,19 @@
+#1
+What is ‘prompt engineering’ anyway?
+
+What is ‘prompt engineering’ anyway?
+The practice of systematically improving prompts for LLM applications – through testing, evaluation, analysis, and optimization of prompts.
+
+Skills involved:
+- Programming in natural language
+- Clear, unambiguous, precise writing
+- Conceptual engineering
+- Creating experiments with a scientific mindset
+- Product thinking – what is the ideal model behavior for your product?
+- Testing
+- Understanding the LLMs
+- Aggregating and understanding failure modes + thinking of ways to fix them
+- Making LLMs scale to a wide range of inputs
+- Modeling LLMs as a probabilistic system
+
+(There is also a small circular arrow icon at the bottom right of the inner box, but it’s not text.)

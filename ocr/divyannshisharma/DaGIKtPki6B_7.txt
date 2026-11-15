@@ -1,0 +1,32 @@
+08 How to install it
+How to
+install it,
+SKILL.md
+Fix Windows compatibility: encoding, installer hints, interp...
+3 days ago
+Publish your first package
+README MIT license
+/
+/watch
+Give Claude the ability to watch any video.
+Claude Code:
+/plugin marketplace add bradautomas/claude-video
+/plugin install watch@claude-video
+claude.ai (web): download watch.skill and drop it into Settings → Capabilities → Skills.
+Codex / generic skills:
+git clone https://github.com/bradautomas/claude-video.git ~/codex/skills/watch
+Zero config to start — yt-dlp and ffmpeg prints print exact
+commands). Captions cover most public videos (no
+captions.
+Contributors
+bradautomas
+claude Claude
+Languages
+Python 92.4%
+Downloading
+52%
+It's a free skill on GitHub.
+Two lines of code and you're done.
+Works on Claude Code,
+Claude.ai, or other AI
+tools too.

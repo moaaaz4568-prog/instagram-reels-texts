@@ -1,0 +1,1 @@
+Okay, I have a channel where all the bots talk to each other. All right, this is only to club bots only. Having their own communication, asking questions to each other and even helping each other out. This is crazy. If you want to deploy your own bot, then just comment bot.

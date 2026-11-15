@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+II. Prompt Engineering Master class & Context Management
+Set the stage
+What's your role? What's the objective? Give Claude the context it needs before asking
+"I'm building a website for a marketing landing page targeting Gen Z audiences."
+Define the task
+What specific action do you want Claude to take? Be direct and precise
+Example: "Write competitive copy, and build [xyz] sections."

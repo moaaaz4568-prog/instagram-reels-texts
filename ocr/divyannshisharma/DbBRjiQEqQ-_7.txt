@@ -1,0 +1,6 @@
+Research Automation
+#26 Legal Document Summarizer Any contract or terms of service — Claude reads it and gives you a plain English summary of your obligations, deadlines, risks, and unusual clauses.
+#27 Patent Scanner Describe an invention or feature. Claude searches for existing patents, summarizes potential conflicts, and identifies how your approach is different.
+#28 Book Notes Extractor Feed Claude your highlights from any book. It organizes by theme, identifies key principles, and creates a one-page action plan from the book’s insights.
+#29 Trend Prediction Analyzer Claude analyzes signals across social media, search trends, and industry reports. Produces a forecast of which topics are growing, peaking, and declining.
+#30 Data Pattern Finder Upload any spreadsheet. Claude finds patterns, anomalies, correlations, and trends. Presents findings in a clear summary with specific numbers.

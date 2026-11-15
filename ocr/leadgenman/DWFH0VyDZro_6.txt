@@ -1,0 +1,15 @@
+You don't "prompt" Claude
+Code you "orchestrate" it.
+
+Same superpowers every time:
+Files + Commands + Memory + Tools
+
+Agent
+
+Files
+
+Commands
+
+Memory
+
+Tools

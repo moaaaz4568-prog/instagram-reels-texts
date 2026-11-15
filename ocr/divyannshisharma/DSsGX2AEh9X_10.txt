@@ -1,0 +1,8 @@
+Step #10
+INPUT
+OUTPUT
+WhatsApp Business Cloud
+This node can only receive input data if you connect it to another node. Learn more
+Wire me up
+Execute this node to view data or set mock data
+Add WhatsApp Business Cloud node for sending messages

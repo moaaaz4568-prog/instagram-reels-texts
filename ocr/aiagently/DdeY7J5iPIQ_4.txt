@@ -1,0 +1,23 @@
+STEP 04
+WORDS +
+VISUALS
+Now your setup can understand two sides
+of the video:
+YouTube Skill
+Captures the words
+transcript.
+Transcript
+"The best way to grow is
+with consistent action..."
++
+Gemini
+Understands the video
+and visuals.
+Visuals
+Scenes
+Context
++
+Together:
+WORDS + VISUALS =
+MORE COMPLETE
+KNOWLEDGE

@@ -1,0 +1,19 @@
+Tyler Germain @its Tylergermain
+
+I made a video breaking down how it works and how I set up each of these.
+
+Comment "CLAUDE" and I'll send it over.
+
+New scheduled task
+Name
+Daily copy-write review
+Description
+Write yesterday's commit and flag anything concerning
+Look at the commits from the last 24 hours. Summarize what changed, call out any patterns or missing tests, and draw anything worth fixing.
+Select folder
+WORKSPACE
+Frequency
+Daily
+09:00 AM
+Cancel
+Create task

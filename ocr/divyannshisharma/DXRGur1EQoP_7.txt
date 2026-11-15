@@ -1,0 +1,9 @@
+Data & Analytics:
+24. Snowflake MCP: Query Snowflake data warehouses through natural language. Claude writes the SQL, the server executes it against your Snowflake instance. Enterprise-grade data access.
+https://github.com/datawiz168/mcp-snowflake-service
+25. BigQuery MCP: Connect to Google BigQuery for large-scale data analysis. Run queries on massive datasets through conversational interfaces.
+https://github.com/LucasHild/mcp-server-bigquery
+26. Supabase MCP: Full Supabase integration. Query databases, manage auth, handle storage. If your application backend is Supabase, this is essential.
+https://github.com/supabase-community/supabase-mcp
+27. MongoDB MCP: Connect to MongoDB databases. Query collections, aggregate data, manage documents. For anyone using MongoDB as their data layer.
+https://github.com/kilicsh/mcp-mongo-server

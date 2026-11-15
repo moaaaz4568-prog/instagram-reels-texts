@@ -1,0 +1,19 @@
+H
+Hallucination
+When an AI confidently generates false or
+fabricated information
+
+I
+Inference
+The process of running a trained model to get
+predictions
+
+J
+Jailbreak
+Tricking an AI into bypassing its safety
+guidelines
+
+K
+Knowledge Base
+A structured store of information an AI can
+retrieve from

@@ -1,0 +1,12 @@
+Step 2
+claude-code-setup -- Manthan Patel -- zsh
+~/penanywhere $ claude
+Welcome to Claude Code
+opening browser to authenticate...
+ Logged in as manthan@leadgenman.com
+run claude
+browser opens
+paste back - done
+cd into your project folder and run
+claude – it reads your whole
+codebase on its own

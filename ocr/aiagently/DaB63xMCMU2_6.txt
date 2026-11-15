@@ -1,0 +1,4 @@
+Prompt #5
+A great video with a bad thumbnail gets zero views.
+"My video is titled: [your title]. Here is what the video is about: [one sentence summary]. Give me 5 thumbnail concepts for this video. For each one describe the image, the text overlay, the colors, and why it will make someone stop scrolling.
+Make them feel like MrBeast-level thumbnails not beginner thumbnails."

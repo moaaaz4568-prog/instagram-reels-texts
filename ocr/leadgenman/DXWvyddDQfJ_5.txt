@@ -1,0 +1,18 @@
+/worktree
+Parallel features,
+no branch chaos.
+
+Two features, one main branch = merge hell.
+/worktree spawns an isolated git worktree per session.
+Ship side by side without stepping on anything.
+
+your-repo/
+feature-ui
+$ claude
+building navbar
+
+bugfix-auth
+$ claude
+fixing login race
+
+2 sessions // both running right now

@@ -1,0 +1,18 @@
+The Claude Code Resource Bible.
+54 tools. Agents. MCP servers.
+Skills. Automation.
+
+Official → code.claude.com/docs
+Directories → https://lnkd.in/emQbMwbG
+Mcp Servers → https://lnkd.in/eMC5dUqR
+Skills → https://lnkd.in/eppbgRaK
+Multiplexers → github.com/coder/mux
+Agent Frameworks → lnkd.in/eMt3sS7N
+Automation → lnkd.in/e9sarX3R
+Articles → https://lnkd.in/e9gfhHhm
+Certificate → https://lnkd.in/ekUBf8a6
+MCP list → lnkd.in/ebE2iDvV
+Database → https://lnkd.in/eEScJPv
+Browser control → lnkd.in/eppbgRaK
+Parallel dev → github.com/coder/mux
+CLI tools → https://lnkd.in/e9gfhHhm

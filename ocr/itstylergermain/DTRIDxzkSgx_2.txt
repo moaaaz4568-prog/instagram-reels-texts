@@ -1,0 +1,3 @@
+CRM Agents
+Close as a traditional CRM, Gemini (with tools) to manage contacts, n8n to orchestrate daily tasks.
+@itstylergermain

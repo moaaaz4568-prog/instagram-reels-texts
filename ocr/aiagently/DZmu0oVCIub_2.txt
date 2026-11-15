@@ -1,0 +1,43 @@
+STEP 2
+Upload 6 Documents
+Hormozzi's voice, his coaching questions, his 3 books, and your business docs does
+
+Claude
+Hormozzi business coach
++ New chat
+Projects
+Artifacts
+Customize
+Recents
+Content strategy for coaching program
+Hook ideas
+Instagram carousel
+Hook ideas
+Weekly business review template
+Email sequence for leads
+Pricing strategy analysis
+View all →
+Usama
+
+Hormozzi business coach
+Upload files
+Instructions
+Claude should respond in this project
+Files
+files to reference in your project chats
+Hormozzi voice.pdf
+PDF - 1.2 MB
+Coaching questions.pdf
+PDF - 1.1 MB
+$100M Offers.pdf
+PDF - 2.4 MB
+$100M Money Models.pdf
+PDF - 2.1 MB
+$100M Leads.pdf
+PDF - 1.8 MB
+My business docs.pdf
+PDF - 3.3 MB
+
+files in this project are private and can only be accessed by you.
+
+Claude

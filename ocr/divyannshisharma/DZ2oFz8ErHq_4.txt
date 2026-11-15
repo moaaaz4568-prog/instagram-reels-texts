@@ -1,0 +1,46 @@
+TEMPLATE 3
+MCP
+Integrations
+
+DESCRIPTION
+MCP Integrations
+allow Claude to
+connect directly with
+external tools,
+applications, and
+workflows. Through
+this connection,
+agents can access
+documents,
+databases, and
+productivity
+platforms. They can
+retrieve information,
+update systems, and
+trigger actions
+automatically. This
+creates a connected
+environment.
+
+README Code of conduct Contributing
+
+🚀 Quick Installation
+# Install a complete development stack
+npx claude-code-templates@latest --agent all
+
+# Browse and install interactively
+npx claude-code-templates@latest
+
+# Install specific components
+npx claude-code-templates@latest --agent-search
+npx claude-code-templates@latest --component-docs
+npx claude-code-templates@latest --setup
+npx claude-code-templates@latest --hooks
+npx claude-code-templates@latest --mcp
+
+What You Get
+
+MORE INFO
+https://x.com/juliangoldiese
+o/status/2030509062836
+912402?s=46

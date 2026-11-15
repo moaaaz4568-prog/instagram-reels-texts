@@ -1,0 +1,5 @@
+Analytics Page
+Analytics
+Create an analytics dashboard page with bar charts and line graphs showing content performance metrics, from my social media accounts. Use Metricool for the data. Include total impressions, engagement rate, follower growth, and top performing posts. Dark theme, with a date picker.
+@itsstyleagermain
+save for later

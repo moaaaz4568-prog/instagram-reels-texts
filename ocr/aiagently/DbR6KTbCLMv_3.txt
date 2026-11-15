@@ -1,0 +1,40 @@
+LEVEL 3 OF 3
+RUN IT
+IN THE CLOUD
+
+AI AGENT WORKFLOW
+INPUT / TRIGGER -> AI AGENT -> TOOLS & APIS -> PROCESS -> OUTPUT / DELIVERED
+
+1
+Your skill works.
+Your schedule works.
+Now remove your laptop.
+-e code
+
+2
+Install Claude Code once.
+npm install -g @anthropic-ai/claude
+
+3
+Drop in the same skill.
+No changes.
+No rewrites.
+
+4
+Tell it:
+"Run my skill every morning
+at 7 AM."
+EVERY MORNING
+7:00 AM
+
+5
+Claude Code handles the rest.
+APIs. Files. Agents.
+
+6
+Close your laptop.
+The work keeps moving.
+
+7
+Manage everything
+from your browser.

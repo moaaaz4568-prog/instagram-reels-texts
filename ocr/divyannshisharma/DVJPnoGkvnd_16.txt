@@ -1,0 +1,32 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Top Models
+MiniMax-M2.5 $1677.82
+140.4M · 3557 msgs
+gpt-5.3-codex $1.17
+2.2M · 80 msgs
+gemini-2.5-pro $0.21
+134.6K · 9 msgs
+gateway-injected $0.00
+0 · 2 msgs
+delivery-mirror $0.00
+0 · 1 msgs
+
+Top Providers
+minimax $1677.82
+140.4M · 3557 msgs
+openai-codex $1.17
+2.2M · 80 msgs
+google $0.21
+134.6K · 9 msgs
+openclaw $0.00
+0 · 3 msgs
+lmstudio $0.00
+538.9K · 39 msgs
+
+• Just look at this dashboard.
+• My agent chewed through 140.4 million tokens in 2 days.
+• At raw API rates, that's a $1,677.82 bill.
+• On a flat-rate coding plan, my actual cost was $50.
+• Don't go bankrupt running raw APIs.

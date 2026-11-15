@@ -1,0 +1,49 @@
+divyanshisharma
+3/4 Category (Prompt 131 - 145)
+Category 3:
+Research and Analysis
+
+131. Mental Model Application
+Apply the mental model of [DESCRIBE MENTAL MODEL] to analyze [DESCRIBE SITUATION]. Imagine it is 12 months from now. What went wrong? Why did it happen? What would have been done differently?
+
+132. Pre-Mortem Analysis
+Conduct a pre-mortem for [DESCRIBE PLAN]. Imagine it is 12 months from now, and this has failed. What went wrong? What did it fail, and what could have been done differently?
+
+133. Value Chain Analysis
+Map the value chain for [DESCRIBE INDUSTRY]. Where is value created, where is it captured, where are the margins, and where is disruption most likely to occur?
+
+134. Network Effects Analysis
+Analyze the network effects dynamics in [DESCRIBE MARKET OR PRODUCT]. What type of network effects exists, how strong are they, and what does this mean for competitive dynamics?
+
+135. Jobs to Be Done Analysis
+Apply the Jobs to Be Done framework to understand why customers hire [PRODUCT OR SERVICE]. What functional, emotional, and social jobs is it doing?
+
+136. Moat Analysis
+Analyze the competitive moat of [COMPANY]. What sustainable advantages does it have, how durable are they, and what would erode them?
+
+137. Demographic Analysis
+Analyze the demographic trends affecting [DESCRIBE MARKET OR INDUSTRY]. What shifts are occurring, how fast, and what are the implications for the next 10 years?
+
+138. Supply and Demand Analysis
+Analyze the supply and demand dynamics for [DESCRIBE MARKET]. What drives the demand, what are the supply constraints, and what is the market balance?
+
+139. Innovation Analysis
+Analyze the innovation landscape in [DESCRIBE FIELD]. Where is innovation happening, who are the key innovators, what approaches are being tried, and where are the white spaces?
+
+140. Pricing Power Analysis
+Analyze the pricing power for [COMPANY OR PRODUCT]. Can prices be raised without losing customers, what justifies premium pricing, and what limits pricing power?
+
+141. Channel Analysis
+Analyze the distribution channels for [DESCRIBE PRODUCT OR SERVICE]. Which channels touch the target customer most efficiently, what are the economics of each, and what is the optimal mix?
+
+142. Brand Analysis
+Analyze the brand of [COMPANY]. What does it stand for, how is it perceived, what is its equity, and what would strengthen or damage it?
+
+143. Churn Analysis Framework
+Design a framework for analyzing customer churn in [DESCRIBE BUSINESS]. What are the leading indicators, what segments churn most, what interventions are most effective?
+
+144. Partnership Strategy Analysis
+Analyze potential partnership strategies for [DESCRIBE COMPANY]. What types of partners would create the most value, what would make a good partnership, and what are the risks?
+
+145. Go to Market Analysis
+Analyze the go to market strategy for [DESCRIBE PRODUCT]. Who is the sales beachhead customer, what is the sales motion, how does word of mouth work, and what drives viral growth?

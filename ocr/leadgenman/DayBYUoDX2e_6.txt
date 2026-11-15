@@ -1,0 +1,22 @@
+Path 4:
+AI Product Manager / Strategist
+What you do
+Turn agent capabilities into workflows
+customers love and trust.
+Stack to learn
+Lovable
+Base44
+Manus AI
+Emergent
+Replit
+Analytics:
+PostHog
+Supabase
+30-day plan
+→ Week 1: Interview 5 users.
+→ Week 2: Define a single high-value task.
+→ Week 3: Write acceptance tests.
+→ Week 4: Ship a thing. Slice. Measure adoption.
+Metric that matters
+• Weekly active workflows
+• Time-to-value

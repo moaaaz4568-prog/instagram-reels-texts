@@ -1,0 +1,7 @@
+Widgets
+Add interactive UI inside the chat:
+Checkout cards
+Calendars
+Product lists
+Email previews
+Flight info

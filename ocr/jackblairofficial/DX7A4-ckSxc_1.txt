@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+1. THE DEAD LEAD AUTOPSY
+
+What it does: takes your last 50 dead leads and tells you exactly why they went cold.
+
+"You are a senior closer who specializes in pipeline recovery. Here are 50 leads that went cold in my pipeline over the last 90 days, with notes on the last interaction: [PASTE]. Group them into 5 categories of why they died. For each category, give me the exact reactivation message that has the highest reply rate based on what you know about reopening dead deals."

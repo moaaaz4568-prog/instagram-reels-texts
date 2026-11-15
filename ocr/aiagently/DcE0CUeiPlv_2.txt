@@ -1,0 +1,31 @@
+1. Go to Claude
+Open Claude App in your Desktop.
+
+2. Open Plugins
+Go to the Plugins section inside Claude.
+
+3. Add Your Plugin
+Click "Create Plugin" then click "Upload Plugin".
+
+4. Upload AI Sales Team
+Upload these AI Sales Team skill files in your plugin section.
+
+5. Your AI Sales Team is Ready!
+Claude is now powered with your AI Sales Team skills.
+
+The skills are what turn Claude into a sales team.
+
+Customize Claude
+Create new plugins
+Browse plugins
+
+AI Sales Team Skills
+/sales prospect
+/sales contacts
+/sales outreach
+/sales prep
+
+→ Research a company
+→ Find decision-makers
+→ Create personalized outreach
+→ Prepare for a sales call

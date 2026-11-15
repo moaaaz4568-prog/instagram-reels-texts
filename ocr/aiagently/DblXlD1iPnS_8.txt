@@ -1,0 +1,26 @@
+AI AGENTLY
+Step 8:
+Test the Workflow
+
+For example:
+Hey, what services do you offer?
+
+WhatsApp
+Your business number.
+
+Meta
+WhatsApp
+
+The workflow should run:
+WhatsApp → Meta → n8n → Claude → Reply → WhatsApp
+
+Customer receives something like:
+We help businesses automate repetitive tasks and lead generation. What would you like to automate?
+10:30 AM ✓
+
+That's your first working AI reply.
+
+And your WhatsApp AI agent ready!
+
+Your all in one
+Growth Partner

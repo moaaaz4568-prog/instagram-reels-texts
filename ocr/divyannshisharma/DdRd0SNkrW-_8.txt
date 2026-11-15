@@ -1,0 +1,33 @@
+SLIDE 9 / 10
+For
+CRYPTO &
+Web3
+Read first. Trade later. Always.
+CoinGecko — crypto prices
+and market data
+Dune — onchain analytics
+and queries
+Etherscan — blockchain explorer,
+contract verification
+The Graph — query onchain data
+without running your own indexer
+When you're ready to do more: ⚡ Base MCP — Coinbase's official gateway.
+Swap tokens, track portfolio, hit DeFi protocols. Non-custodial — you still
+sign every transaction in the Base app.
+Alpaca — trade US stocks and crypto.
+Start in paper trading mode first.
+Read-Only First
+Start safe. Data flows in, never out.
+Read-Only
+No write or trade
+access enabled
+Data flows in
+No data flows out
+(read-only)
+Account Data
+Portfolio Info
+Market Data
+History & Balances
+Safe Starting Point
+Explore and analyze with complete peace of mind.
+Enable write/trade access only when you're ready.

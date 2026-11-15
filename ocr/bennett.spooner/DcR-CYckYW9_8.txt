@@ -1,0 +1,39 @@
+09 / 11
+03 ROUTING
+// BENNETTOS
+// TOKEN OPTIMIZATION • 03 ROUTING
+A MODEL PER SEAT.
+
+WORK
+Decomposition, architecture, judgement
+Briefs, review, merge decisions
+Codogen, tests, execution loops
+Bulk refactors, crawls, long reads
+Watchers, cron, classification, triage
+
+LANE
+gement
+■ FABLE 5 / OPUS 5
+■ CLAUDE · SONNET
+■ CODEX
+■ GLM-5.2
+■ GLM · FLASH
+
+Routing is the cheapest optimization you have: nothing about the task changes, only which meter it lands on. Escalation is one-way: a worker can ask for a decision, never take one.
+
+@bennettos
+
+SWIPE →
+
+// LIVE ROSTER • MODEL PINNED PER SEAT
+
+Stats
+Forms, Reruns,
+Communications,
+Connector
+Fances
+TIC
+
+// LIVE ROSTER • MODEL PINNED PER SEAT
+@bennettos
+SWIPE →

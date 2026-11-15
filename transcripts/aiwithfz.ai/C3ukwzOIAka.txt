@@ -1,0 +1,1 @@
+Model accuracy of linear regression. R squared should be higher. MSE should be lower. RMSE should be lower. MAE should be lower. Adjusted R squared should be higher. DWS comment below.

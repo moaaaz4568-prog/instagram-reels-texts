@@ -1,0 +1,11 @@
+#OPEN_MODEL
+Gemma 4 12B can run
+on a 16GB laptop.
+Google's new multimodal model.
+it
+Apache 2.0. Unsloth's GGUFs shrink
+to 8GB RAM with 256K context.
+12B params
+16GB RAM • APACHE 2.0
+03 / 08 →
+@rishu.init

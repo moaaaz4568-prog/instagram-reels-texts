@@ -1,0 +1,12 @@
+Masked Language Models
+Reads sentences like a human: sees the whole thing, predicts hidden words.
+How it processes information:
+• Masks some tokens
+• Looks at full left + right context
+• Predicts missing text
+• Builds contextual embeddings
+Why it works:
+Its bidirectional view gives it deep semantic understanding.
+Think of it as:
+A language model trained on "fill in the blanks."
+→

@@ -1,0 +1,13 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+How it works:
+
+Define:
+Agents as a role, workspace and steps in YAML. Each agent has a role, workspace, and strict acceptance criteria.
+
+Install:
+One command provisions everything: no Docker, queues, or external services.
+
+Run It:
+Agents work independently: claim tasks, pass context, SQLite tracks state, cron runs.

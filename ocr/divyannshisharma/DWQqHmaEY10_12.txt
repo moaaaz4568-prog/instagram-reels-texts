@@ -1,0 +1,19 @@
+Skill Set 11
+Remotion
+DESCRIPTION
+Covers advanced techniques for AI-driven video creation using modern frameworks. It guides you through scripting, animation logic, rendering optimization, and storytelling, helping you produce high-quality, engaging video content that is both visually compelling and production-ready. give it a bit big
+remotion-dev / remotion Public
+Code Issues 6 Pull requests 8
+main 335 Branches
+JonnyBurger Merge pull request
+claude
+cursor
+github
+.github
+.vscode
+packages
+.cursorignore
+.gitattributes
+.gitignore
+MORE INFO
+https://lnkd.in/g-TMEZ8R

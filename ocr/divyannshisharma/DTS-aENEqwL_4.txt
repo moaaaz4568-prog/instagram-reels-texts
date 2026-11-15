@@ -1,0 +1,20 @@
+Step #4
+Home
+Google Cloud Storage account
+Google Cloud Storage (OAuth 2.0)
+Connection
+Sharing
+Details
+Account connected
+Reconnect
+Sign in with Google
+Help need filling out these fields? Open docs
+OAuth Redirect URL
+https://oauth.n8n.cloud/oauth2/callback
+In Google Cloud Storage, use the URL above when prompted to enter an OAuth callback or redirect URL
+Client ID
+204857847143-j6itd0q4ug2rki9q1n3c2rfv6kkr8.apps.googleusercontent.com
+Client Secret
+Enterprise plan users can pull in credentials from external vaults. More info
+Setup Google Cloud Storage
+for media files

@@ -1,0 +1,11 @@
+Tool 8
+Smartlead
+In a nutshell:
+Cold email infrastructure. Unlimited mailboxes, auto-warmup, and send personalized sequences at scale.
+I use it for:
+When running outbound campaigns that need high deliverability. Handles inbox rotation automatically.
+Works with:
+n8n
+Clay
+HubSpot
+RB2B

@@ -1,0 +1,4 @@
+Tip 6 - Approve
+Human review
+Request approval via services like Slack and Telegram before making tool calls
+Not every decision should be made by a bot. Use the "Wait" node set to "Wait for Webhook" to pause your workflow until a human approves it. Send an approval link to Slack or email, and the workflow only continues when someone clicks approve. Perfect for sending contracts, invoices, or important emails.

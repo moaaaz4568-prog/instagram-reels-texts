@@ -1,0 +1,11 @@
+WHERE TO START
+Open Google
+Cloud Console.
+You can just Google "Google Cloud
+Console" or go directly to
+console.cloud.google.com
+Google Cloud
+Console.
+Don't panic when you see the interface! It
+looks complex, but actually, we only need
+a few clicks. Seriously, just follow the steps.

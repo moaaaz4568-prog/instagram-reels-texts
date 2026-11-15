@@ -1,0 +1,32 @@
+STEP 02
+Find the ideas.
+(not just the pages)
+
+graphy doesn't save 145 pages as 145 files.
+It reads every page and pulls out the actual IDEAS inside them.
+One page might contain 5 different ideas. Graphify finds all of them.
+
+145 Pages of Docs
+Raw documentation
+Graphify
+Reads deeply.
+Understands context.
+Ideas Extracted
+Authentication
+API Design Best Practices
+Core Concepts
+Data Models
+Rate Limiting
+Error Handling
+WebSockets
+Pagination
+Ideas. Connected. Ready to use.
+
+Scans every page
+Reads the full docs deeply
+Extracts real ideas
+Not just headings or titles
+Connects the dots
+Finds relationships & context
+Ready for the next step
+Organized, meaningful, actionable

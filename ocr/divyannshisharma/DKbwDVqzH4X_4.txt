@@ -1,0 +1,15 @@
+3
+Get Your API Key
+Go to the Google Custom Search API and get the API key.
+Search engine ID
+Before using the Custom Search JSON API you will first need to create and configure your Programmable Search Engine. If you have already created a Programmable Search Engine, you can start by visiting the Programmable Search Engine control panel. Follow the tutorial to learn more about different configuration options.
+After you have created a Programmable Search Engine, visit the help center to learn how to locate your Search Engine ID.
+API key
+Custom Search JSON API requires the use of an API key. Get a Key
+Programmable
+engine
+Get a key
+Copy the key
+and paste it
+into your
+script

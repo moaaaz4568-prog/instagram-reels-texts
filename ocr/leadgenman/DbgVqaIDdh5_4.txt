@@ -1,0 +1,18 @@
+3
+LLM Engineer's
+Handbook
+This one goes past the basics.
+Fine-tuning, chatbots, search that works.
+EXPERT INSIGHT
+In color
+LLM Engineer's
+Handbook
+Master the art of engineering large
+language models from concept to production
+Forewords by
+Julien Chaumont
+Hamza Tahir
+Antonio Gulli
+Maxime Labonne
+packt>
+Paul Iusztin

@@ -1,0 +1,10 @@
+Getting to Know the Interface
+n8n is simple
+once you know
+the basics.
+If you’re just starting out, first learn the
+4 main components that form the
+foundation of all automations:
+Workspace, Node, Trigger, and
+Flow.
+Let’s break them down.

@@ -1,0 +1,22 @@
+Step #4
+Overview
+Prod. executions
+60
+Failed prod. executions
+11
+Failure rate
+18.3%
+Time saved
+3.25s
+Workflows
+Credentials
+Executions
+Data tables
+old EXAMPLES
+Website Builder AI Results
+Website Leads
+key value
+scam comments
+1
+25/page
+Create examples database in n8n data tables

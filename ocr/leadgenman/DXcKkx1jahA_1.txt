@@ -1,0 +1,80 @@
+Agentic AI Concepts
+
+Observability, Logging & Monitoring
+Privacy & Access Control
+Security
+Routing, Scheduling & Coordination
+Resource Scaling (Horizontal/Vertical)
+Task Planning & Knowledge Decomposition
+Multi-Agent RAG & Knowledge Sharing
+Agent Reasoning (ReAct, Chain-of-Thought, ToT)
+Message Protocols
+Long-term Memory
+Tokenization & Inference Parameters
+RAG
+LLMs
+GPT
+ChatGPT
+Voice
+Memory
+Fine-tuning & Adaptation
+Context
+Prompt Engineering
+State Management
+Multi-Step Tool Chaining
+Safe Interruptibility
+Fail-Safe Design
+Emergent Behavior Analysis & Control
+Error Handling, Retries & Resilience
+Agentic Systems
+AI Agents
+Agentic Infra
+Agent Communication
+Inter-Agent Communication
+Compliance & Governance (GDPR, HIPAA, AI Act)
+Fairness, Bias & Ethical Controls
+Hierarchical Planning
+Tool Chaining
+Agent Reasoning
+Multi-Agent RAG
+Resource Scaling
+Observability
+Security
+Privacy
+Routing
+Scheduling
+Coordination
+Task Planning
+Decomposition
+Message Protocols
+Long-term Memory
+Tokenization
+Inference Parameters
+RAG
+GPT
+ChatGPT
+Voice
+Memory
+Fine-tuning
+Adaptation
+Context
+Prompt Engineering
+State Management
+Multi-Step Tool Chaining
+Safe Interruptibility
+Fail-Safe Design
+Emergent Behavior Analysis
+Error Handling
+Retries
+Resilience
+Compliance
+Governance
+GDPR
+HIPAA
+AI Act
+Fairness
+Bias
+Ethical Controls
+Hierarchical Planning
+Agent Communication
+Inter-Agent Communication

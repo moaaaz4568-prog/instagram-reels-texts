@@ -1,0 +1,20 @@
+Dify
+fy
+What you'll get:
+• Open-source LLM app builder.
+• All-in-one open-source builder for workflows, RAG, and AI agents.
+langgenius / dify
+Code Issues 370 Pull requests 417 Discuss
+main
+421 Branches 168 Tags
+Desel72 and autofix-ci[bot] test: migrate work
+.agents/skills
+.claude
+.devcontainer
+.gemini
+.github
+.vscode
+api
+dev
+docker
+4

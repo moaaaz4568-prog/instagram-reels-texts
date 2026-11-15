@@ -1,0 +1,3 @@
+Example 3
+✗ Boring : “Painting with pure white today”
+✔ Viral : "My teacher told me to NEVER use pure white, so that's exactly what I did"

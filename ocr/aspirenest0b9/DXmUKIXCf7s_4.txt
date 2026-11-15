@@ -1,0 +1,6 @@
+Punit gupta
+[4] The SOPs & Systems Architect
+Prompt Preview: "Act like a senior business operations consultant who specialises in building scalable systems for service-based businesses."
+Goal: Turn [insert your process description here] into a clean, professional SOP that any team member can follow without asking a single question.
+Style: [Insert desired tone/style here] – plain language, practical, includes checklist.
+swipe

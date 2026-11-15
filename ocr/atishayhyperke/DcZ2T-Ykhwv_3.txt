@@ -1,0 +1,3 @@
+2%
+3. Use 2% reply rate as a deliverability floor.
+Below that, diagnose inbox placement before blaming the offer.

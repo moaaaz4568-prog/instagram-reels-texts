@@ -1,0 +1,6 @@
+/init
+
+Scans your project and auto-generates a CLAUDE.md file with detected build commands, architecture notes, and conventions. Run this at the start of every new project so Claude has persistent context from day one.
+
+@itsTylerGermain
+save for later

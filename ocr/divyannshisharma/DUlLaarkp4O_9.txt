@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Minimal by design:
+No Redis, no Kafka,
+no orchestrator.
+YAML + SQLite +
+cron. That's it.
+Antfarm is a zero-dependency TypeScript
+CLI that runs anywhere OpenClaw does.

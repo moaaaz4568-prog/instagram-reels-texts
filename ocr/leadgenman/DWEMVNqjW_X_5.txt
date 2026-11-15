@@ -1,0 +1,18 @@
+Without Warmup
+Track open rates and wonder
+why they're low
+
+Opens
+Bounces
+Spam
+Rate
+
+With Warmup
+Track inbox placement, reputation, and
+blacklist status
+
+Inbox
+Rate
+Reputation
+Score
+Blacklist

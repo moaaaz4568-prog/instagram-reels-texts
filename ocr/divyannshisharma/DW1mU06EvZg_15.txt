@@ -1,0 +1,8 @@
+15
+Switch providers
+> Switch model/auth provider to Ollama in onboard flow
+> Ollama base URL: http://127.0.0.1:11434. Cancel and resume
+> Mode: Local — no internet required after this point
+Made by
+Divyanshsharma
+16 →

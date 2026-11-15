@@ -1,0 +1,4 @@
+Prompt #3
+Now you need 90 days of content so you never run out of ideas.
+"Here is my channel identity: [paste the output from step 2]. Give me 30 YouTube video ideas for this channel. For each idea give me the title, a one-line description of what the video covers, and why someone would click on it.
+Make the titles feel like they belong on a channel with 500K subscribers."

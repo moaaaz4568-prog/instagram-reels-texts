@@ -1,0 +1,11 @@
+The Problem:
+5 Tools for 1 Deck
+
+→ You get a client email with a brief
+→ Open a separate tool to build a deck
+→ Copy paste info back and forth
+→ Manually design every slide
+→ Manual = SLOW
+
+Most people spend 2+ hours building
+a deck that could take 2 minutes.

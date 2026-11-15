@@ -1,0 +1,26 @@
+HOW TO GET THE Plugin?
+Install the Sandcastles.ai plugin inside Claude.
+Sandcastles
+/analyze
+Customize
+Skills
+connectors
+Sandcastles
+Skills
+connectors
+analyze
+channels-add
+channels-recap
+channels-search
+channels-suggest
+formats-global
+formats-watchlist
+hooks-global
+hooks-watchlist
+topics
+video-suggest
+videos-global
+videos-watchlist
+rules
+videos-watchlist
+It gives you access to 14 different social media Claude skills, including /analyze. Comment “CLAUDE” for the links and instructions on how to set it up.

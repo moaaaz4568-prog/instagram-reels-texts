@@ -1,0 +1,8 @@
+13
+OpenClaw
+> OpenClaw onboard shows full security disclaimer
+> Use Ollama native URL (not /v1) for reliable tool calling
+> Pairing/allowlists. Sandbox + least-privilege tools
+Made by
+Divyanshsharma
+14 →

@@ -1,0 +1,7 @@
+Before AI:
+We'll write the
+tests later
+
+After AI:
+We'll write the
+tests later

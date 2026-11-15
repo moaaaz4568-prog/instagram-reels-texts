@@ -1,0 +1,26 @@
+SLIDE 2 | THE EXPONENTIAL
+ONENTIAL
+Model capabilities
+have increased
+exponentially.
+Model capabilities have increased exponentially
+AI
+Days
+Task horizon
+Seconds
+Releases
+2024
+2026+
+Opus 3
+Opus 4
+Opus 4.5
+Opus 4.6
+Opus 4.7
+Opus 4.8
+Claude's task horizon went from
+seconds to days in under two years.
+Opus 3 could write a function.
+Opus 4.8 resolves your entire
+backlog overnight.
+The next leap: full business pipelines,
+end to end, automatically.

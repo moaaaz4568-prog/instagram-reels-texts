@@ -1,0 +1,17 @@
+05 / 05
+05
+The Skills Stack
+Drop any skill file into your folder to give Claude new powers.
+clip-extractor-skill
+Podcast to Shorts pipeline
+ACTIVE
+linkedin-skill
+Post + carousel generation
+ACTIVE
+video-skill
+Long-form YouTube creator
+ACTIVE
+EXTENSIBLE
+SKILLS
+AI
+@divyanshisharma

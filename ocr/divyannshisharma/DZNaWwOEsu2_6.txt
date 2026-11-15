@@ -1,0 +1,57 @@
+SLIDE 7
+Workflows #2–4
+Meeting Processor
+
+Meeting Processor → messy notes in, structured action items out
+
+Research Ingestion → article link in, connected summary note out
+
+Weekly Review → Claude scans your week, creates your Friday summary automatically
+
+Smart Connections – Team Meeting
+06 - Meetings / Team Meeting
+2025-05-15 Team Meeting
+May 15, 2025
+Smart Connections
+
+Agenda
+• Product update
+• Smart Connections MVP
+• Marketing site & messaging
+• Next steps
+
+Linked mentions
+Smart Connections MVP Plan
+As discussed in [2025-05-15 Team Meeting], we're targeting May 30 for MVP...
+Product Roadmap
+...MVP launch timeline confirmed in [2025-05-15 Team Meeting]...
+Marketing Site v1 Brief
+...Copy direction aligned in [2025-05-15 Team Meeting]...
+
+Backlinks
+2025-05-08 Team Meeting
+...We'll review MVP scope in the next meeting ([2025-05-15 Team Meeting])...
+
+Decisions
+• Ship Smart Connections MVP on May 30
+• Focus on AI-powered note connections + daily summary
+
+Action Items
+Task | Owner | Due Date | Status
+---|---|---|---
+Finalize MVP Scope | Brian | May 16 | Done
+Build Smart Connections Improvements | Alex | May 23 | In Progress
+Draft marketing site copy | Sam | May 19 | To Do
+Design landing page v1 | Taylor | May 21 | To Do
+
+Links & References
+Smart Connections MVP Plan
+Product Roadmap
+Marketing Site v1 Brief
+Previous Meeting (2025-05-08)
+
+Notes
+"The goal is to make connections feel effortless and valuable every day." - Brian
+Focus on clarity, speed, and actionable insights.
+
+350 words 2,134 characters 0 backlinks

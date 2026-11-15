@@ -1,0 +1,10 @@
+GPT 5 Fast
+GPT 5 Fast ($0.08/min)
+GPT 5 mini ($0.012/min)
+Connect Your LLM
+Choose the AI brain that powers
+your agent's intelligence.
+• Which LLM fits your use case?
+• GPT-4o for complex reasoning?
+• Claude for long context?
+• Custom fine-tuned models?

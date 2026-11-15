@@ -1,0 +1,23 @@
+10
+The Full Toolkit + CTA
+Use the right tool. Get better results.
+Right skill. Right library.
+Start simple. Iterate.
+GSAP
+Timeline
+SaaS intros, launch videos, fixed choreography.
+D3.js
+Data, animated
+Feed it data, describe the
+D3 for animated data. Three.js for 3D scenes. Lottie for
+3D scenes
+Vanilla for simple. React, Claude renders.
+when composition
+demands.
+Lottie
+Lightweight
+Social clips and
+micro-content. Fastest path.
+Across all four — install the skill, render with the right settings, talk to Claude in the same session.
+GSAP for slide-style timelines. D3 for animated data. Three.js for 3D scenes. Lottie for quick, lightweight clips.
+Follow for more Claude Code + Remotion tutorials like this.

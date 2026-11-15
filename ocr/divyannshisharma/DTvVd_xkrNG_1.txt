@@ -1,0 +1,44 @@
+Step #1
+Google Antigravity
+Product
+Use
+Cases
+Pricing
+Blog
+Resources
+Home
+Getting Started
+Agent
+Models
+Agent Modes / Settings
+Skills
+Rules / Workflows
+Task Groups
+Agent Skills
+Skills are reusable packages of knowledge that extend what the agent can do.
+Instructions for how to approach a specific type of task
+Best practices and conventions to follow
+Optional scripts and resources the agent can use
+When you start a conversation, the agent sees a list of available skills with their names and descriptions. If a skill looks relevant to your task, the agent reads the full instructions and follows them.
+What are skills?
+Skills are reusable packages of knowledge that extend what the agent can do.
+Instructions for how to approach a specific type of task
+Best practices and conventions to follow
+Optional scripts and resources the agent can use
+When you start a conversation, the agent sees a list of available skills with their names and descriptions. If a skill looks relevant to your task, the agent reads the full instructions and follows them.
+Skill folder structure
+How the agent uses skills
+Best practices
+Example: A code review skill
+Where skills live
+Location
+Workspace-specific
+Global (all workspaces)
+Scope
+Workspace-specific
+Global (all workspaces)
+Where skills live
+Workspace skills are great for project-specific workflows, like your team's deployment process or testing conventions.
+Global skills work across all your projects. Use these for personal utilities or general-purpose tools you want everywhere.
+Creating a skill
+Skills = Reusable packages that extend what your AI agent can do

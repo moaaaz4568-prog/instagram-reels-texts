@@ -1,0 +1,9 @@
+ChatKit Playground
+Fully customize your chat widget:
+Corner radius
+Fonts
+Attachments
+Model picker
+Colors
+Persona style
+Start message

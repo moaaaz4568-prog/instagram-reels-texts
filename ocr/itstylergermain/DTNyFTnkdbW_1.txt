@@ -1,0 +1,26 @@
+"Human fuel"
+Physically grounded, but costly
+$10 / inferred hour
+
+"Neural fuel"
+Infinitely scalable, limited by
+compute and data
+$0.001 / inferred hour
+
+"Fossil fuel"
+Unstructured strings of bytes
+$0.0001 / inferred hour
+
+Real Data
+Synthetic Data
+Web Data
+YouTube
+Reddit
+GitHub
+
+Ray Summit 2025 Keynote: Physical AI Turing Test with Jim Fan from NVIDIA
+
+Jim Fan discussing the
+physical turing test
+
+@itstylergermain

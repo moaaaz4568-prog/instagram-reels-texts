@@ -1,0 +1,41 @@
+06 / 11
+
+// BENNETTOS
+
+// THE WORKER POOL
+
+THE
+HERMES DOES THE
+DIRTY WORK.
+
+Hermes sits on the board as its own employee with its own
+lanes: GLM-5.2 on Ollama Cloud, Codex on the ChatGPT
+plan. A worker doesn't just answer a brief: it fans out
+into sub-agents on someone else's plan, then hands back a
+distilled page.
+
+token brief from a
+deep hand
+
+INSIDE
+~600
+
+40K+
+
+OUT
+1-2K
+
+$ hermes gateway # loopback + tailscale
+$ hermes run --lane glm --summarize 1500 # cap
+
+REAL AGENTS
+
+@bennettos
+
+SWIPE →
+
+REAL AGENTS
+
+@bennettos
+
+SWIPE →

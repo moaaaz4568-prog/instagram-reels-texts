@@ -1,0 +1,25 @@
+finds customers for web development 11 / 20
+GitHub
+vercel / next.js
+public repository
+Public
+Fork
+Star
+141k
+Used by
+your lead list
++ thousands
+JavaScript
+141k
+WHAT IT DOES
+the react framework the
+modern web runs on.
+WHO TO MINE IT FOR
+every company in the
+dependent
+lists list ships a real
+product. warm dev and
+design leads.
+THE EXACT LINK
+github.com/vercel/next.js/network/dependencies
+• the github method

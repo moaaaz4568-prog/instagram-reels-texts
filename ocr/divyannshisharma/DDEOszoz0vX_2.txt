@@ -1,0 +1,46 @@
+1
+Set Up
+Google Sheets
+Navigate to Extensions > Apps Script to
+create a new script project
+Google
+Sheets
+Extensions
+Apps Script
+Find competitors using Google Sheets
+File Edit View Insert Format Data Tools Extensions Help
+B2
+100%
+A B C
+Company Name Competitors
+1 Notion ClickUp, Coda, Crite, Asana
+2 Asana ClickUp, Wrike, monday.com
+3 Monday ClickBoard, Monday.com, Gantt
+4 Smartsheet Airtable, TeamGantt, Coda
+5 Trello Asana, Monday.com, ClickUp
+6 Airtable Notion, ClickUp, Coda
+7 Coda Notion, Airtable, ClickUp
+Add-ons
+Apps Script
+AppSheet
+Cargo
+GPT for Sheets "and Docs"
+SerpAPI - Search Engine Results and Ranks
+whatsapp, Zoho
+& CRM Plat
+Stack Over
+jantom Meetin
+code
+schbat, Zoh
+SEANCE, webdev, Coastal Guru
+...
+Company Name Competitors
+Notion ClickUp, Coda, Crite, Asana
+Asana ClickUp, Wrike, monday.com
+Monday ClickBoard, Monday.com, Gantt
+Smartsheet Airtable, TeamGantt, Coda
+Trello Asana, Monday.com, ClickUp
+Airtable Notion, ClickUp, Coda
+Coda Notion, Airtable, ClickUp
+Add-ons
+Apps Script

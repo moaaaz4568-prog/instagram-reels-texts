@@ -1,0 +1,38 @@
+Tyler Germain
+@itstylergermain
+
+Most AI knowledge tools use something
+called RAG.
+
+It converts your documents into numbers.
+When you ask a question, it searches those
+numbers for matches.
+
+Humans can't read any of it. And the results
+can be unreliable.
+
+YOUR DOCUMENTS
+MEETING
+NOTES
+Q3 REPORT
+RESEARCH
+ARTICLE
+
+0.123
+-1.2
+1.45
+-0.9
+-1.5
+
+0.123
+-0.123
+1.45
+-0.9
+-0.23
+
+VECTOR DATABASE
+
+KNOWLEDGE IN, UNREADABLE NUMBERS OUT
+
+@itstylergermain
+save for later

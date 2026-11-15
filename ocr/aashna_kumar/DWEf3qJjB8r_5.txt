@@ -1,0 +1,9 @@
+@aashna_kumar
+4. CAROUSEL CONTENT PROMPT
+Create a 9-slide Instagram carousel that sells my digital product without sounding like an ad. My product is [product name] and it helps [audience] achieve [result].
+Structure:
+Slide 1: a strong hook (can use a trend, stat, or relatable line)
+Slides 2-6: valuable teaching (solve one clear problem)
+Slide 7: a common myth people believe Slide 8: a short transformation or example
+Slide 9: soft CTA to comment [keyword] for my free training
+Tone: conversational, simple, real. Add curiosity in each slide.

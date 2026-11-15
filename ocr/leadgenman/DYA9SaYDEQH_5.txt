@@ -1,0 +1,11 @@
+P
+Prompt
+The input text you give an AI to guide its response
+
+Q
+Quantization
+Compressing a model's precision to run faster on less hardware
+
+R
+RAG
+Retrieval-Augmented Generation -- feeding real documents to improve answers

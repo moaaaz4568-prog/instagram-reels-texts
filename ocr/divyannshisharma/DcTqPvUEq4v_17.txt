@@ -1,0 +1,5 @@
+18 USE CASE 2
+Use case 2:
+Zoom into a moment of a video.
+You don’t have to analyze the whole video.
+Just give Claude the exact start and end time, and it only processes that small window — saving time and tokens.

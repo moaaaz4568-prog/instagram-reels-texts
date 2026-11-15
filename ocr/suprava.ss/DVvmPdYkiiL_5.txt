@@ -1,0 +1,10 @@
+Suprava Sabat
+Step 4: Campaign Creation (Automatic)
+Once approved, the system:
+• Builds the campaigns
+• Adds the sequences
+• Applies delays
+• Applies schedules
+• Formats everything
+All inside the campaign platform.
+Demo - Ops Directors Tech UK - v1 - EXP-20260217-TIMEDRAIN - Vari...

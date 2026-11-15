@@ -1,0 +1,10 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+• Competitor & daily/weekly research
+
+→ Anthropic released Claude Opus 4.6 with 1M token context and enhanced agent capabilities (Feb 5)
+→ OpenAI launched GPT-5.3-Codex, 25% faster with advanced agentic coding (Feb 5)
+→ Big Tech announced $650B combined AI infrastructure spend for 2026 (investors skeptical)
+→ Meta announced $200B capex plan for 2026, restricting WhatsApp API access to Meta AI only
+→ Chinese AI firms (Alibaba, ByteDance) released

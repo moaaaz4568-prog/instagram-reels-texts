@@ -1,0 +1,15 @@
+W
+Weights
+The learned parameters inside a neural network
+
+X
+XGBoost
+Gradient boosting algorithm that builds decision trees sequentially to minimize errors
+
+Y
+YOLO
+You Only Look Once -- a real-time object detection algorithm
+
+Z
+Zero-shot
+Performing a task without any specific training examples for it

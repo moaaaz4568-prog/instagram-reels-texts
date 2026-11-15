@@ -1,0 +1,38 @@
+04 THEN IT TELLS YOU
+WHAT TO FIX.
+Claude gives you:
+→ Root problem
+→ Evidence
+→ Money being lost
+→ Highest-impact fix
+→ 30-day action plan
+
+Claude
+Business Audit Complete
+Here’s what I found and what to fix.
+ROOT PROBLEM
+Your lead follow-up is slow and inconsistent.
+EVIDENCE
+• 38% of leads aren’t followed up within 24 hours
+• 27% drop-off between first contact and reply
+• No automated follow-up system in place
+MONEY BEING LOST
+Estimated $12,450/month in lost revenue
+from missed and delayed follow-ups.
+HIGHEST-IMPACT FIX
+Implement an automated follow-up system
+that replies instantly and nurtures leads.
+30-DAY ACTION PLAN
+• Week 1: Set up follow-up automation
+• Week 2: Build lead nurture sequences
+• Week 3: Test and optimize responses
+• Week 4: Analyze results and scale
+
+FIND
+THE LEAK.
+FIX
+THE SYSTEM.
+GROW.
+
+Audit. Fix. Grow.
+That’s how winning businesses scale.

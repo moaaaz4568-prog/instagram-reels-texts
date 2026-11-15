@@ -1,0 +1,7 @@
+Claude Code Prompts to Copy
+
+Ship a feature:
+"Build [feature]. Read how the repo already does this, match that pattern, then run typecheck and tests before you tell me it's done."
+
+Write the tests first:
+"Write failing tests for [feature] first. Show me them. Then write the code until every one of them passes."

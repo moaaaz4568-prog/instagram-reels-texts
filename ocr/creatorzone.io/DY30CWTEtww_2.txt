@@ -1,0 +1,17 @@
+The "Never Run Out Again" Prompt
+
+"From this single idea, generate 10 content angles:
+
+Idea: [YOUR TOPIC/IDEA]
+
+• beginner
+• advanced
+• myth-busting
+• mistake-focused
+• story-based
+• contrarian
+• visual-hook driven
+• carousel
+• Reel
+
+For each: give the hook + format."

@@ -1,0 +1,37 @@
+NotebookLM
+11 tools.
+12 / 18
+Fine-tuning & Training
+* Axolotl
+Open source LLM fine-tuning toolkit, any model
+Fine-tuning & Training open source
+* LLaMA Factory
+Open source unified fine-tuning for 100+ models
+Fine-tuning & Training open source
+* Unsloth
+Open source 5x faster LLM fine-tuning, low VRAM
+Fine-tuning & Training open source
+* TRL
+HuggingFace open source transformer RL training
+Fine-tuning & Training open source
+* PEFT
+HuggingFace open source parameter-efficient fine-tuning
+Fine-tuning & Training open source
+* Torchtune
+Meta's open source PyTorch fine-tuning library
+Fine-tuning & Training open source
+* LitGPT
+Lightning AI open source hackable GPT training
+Fine-tuning & Training open source
+* DeepSpeed
+Microsoft open source deep learning optimization
+Fine-tuning & Training open source
+* Megatron-LM
+NVIDIA open source large-scale model training
+Fine-tuning & Training open source
+* OpenRLHF
+Open source scalable RLHF training framework
+Fine-tuning & Training open source
+* Ludwig
+Open source declarative AutoML from Uber
+Fine-tuning & Training open source

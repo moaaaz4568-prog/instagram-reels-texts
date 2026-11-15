@@ -1,0 +1,14 @@
+8
+/batch
+Parallel
+migrations.
+Massive refactor staring you down?
+/batch spawns one worktree and one PR per unit.
+Sequential becomes parallel.
+/batch migrate
+PR #1
+PR #2
+PR #3
+PR #4
+PR #5
+5 worktrees // 5 parallel PRs

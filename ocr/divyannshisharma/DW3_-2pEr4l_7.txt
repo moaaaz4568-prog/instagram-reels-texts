@@ -1,0 +1,22 @@
+BENCHMARK NUMBERS
+THE REAL BENCHMARK NUMBERS
+MMLU/MMLU-Pro
+GPQA Diamond
+Coding (SWE-bench)
+LiveCodeBench
+AIME 2026 Math
+Arena ELO
+COST
+THE DECISION FRAMEWORK
+SMART LEVEL: USE BETH BOTH
+EVERYDAY TASKS: USE GEMMA
+COMPLEX WORK: USE CLAUDE
+Gemma 4 punches way above its weight at $0 and on some benchmarks it actually beats models.
+MMLU: 85.2% vs Claude Opus 90.5% – close enough for tasks
+AIME 2026 Math: 89.2% – Gemma actually shines here
+Cost: 0 forever vs $ $ – everyday tasks go to Gemma
+Benchmarks
+Cost
+Use Both
+7. The Real Benchmark Numbers
+@divyanshisharma

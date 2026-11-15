@@ -1,0 +1,10 @@
+/Loop 5m
+Poll without
+babysitting.
+Long deploy or test run grinding away?
+/loop 5m runs your check on a schedule. Stop hitting
+enter. Do other work.
+every 5 min
+check ✔ 12:05
+check ✔ 12:10
+check ✔ 12:15

@@ -1,0 +1,23 @@
+SLIDE 3
+Skill 1:
+Frontend Design
+
+The problem: Claude's default websites look like AI slop.
+Purple gradients. The same boring fonts. Generic layouts.
+
+What this skill does: Before writing any code, Claude first picks an aesthetic.
+Brutalism. Minimalism. Retro-futurism. Whatever fits.
+Then it builds everything according to that design direction.
+
+The difference between default Claude websites and this
+is night and day.
+github.com/anthropics/skills/tree/main/skills/frontend-design
+
+Default AI Design
+
+Intentional Design
+
+Generic Memorable
+
+AI can generate layouts.
+Taste creates products people remember.

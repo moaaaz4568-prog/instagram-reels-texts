@@ -1,0 +1,5 @@
+Step #10
+Claude Code for VS Code
+Claude Code Extension for VS Code
+Features
+Example: type "build a landing page for my web app", and Claude will generate a full Frontend plan.

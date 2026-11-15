@@ -1,0 +1,14 @@
+Divyanshi | AgentX AI Expert
+@divyanshiohri
+
+Does Claude hate OpenClaw?
+
+Claude Code Docs
+
+Resources > Legal and compliance
+
+• OAuth authentication (used with Free, Pro, and Max plans) is intended exclusively for Claude Code and claude.ai. Using OAuth tokens obtained through Claude Free, Pro, or Max accounts in any other product, tool, or service — including the Agent SDK — is not permitted and constitutes a violation of the Consumer Terms of Service.
+
+• Developers building products or services that interact with Claude's capabilities, including those using the Agent SDK, should use API key authentication through Claude Console or a supported cloud provider. Anthropic does not permit third-party developers to offer Claude.ai login or to route requests through Free, Pro, or Max plan credentials on behalf of their users.
+
+Anthropic reserves the right to take measures to enforce these restrictions and may do so without prior notice.

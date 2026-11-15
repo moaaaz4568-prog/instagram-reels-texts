@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+1. Verify the offer before you take the calls
+
+Most reps never check the offer before they take the calls. In remote closing the company books the calls on your calendar, so your job is picking an offer worth taking them for. Paste this to Claude before you say yes to any offer:
+
+I'm a sales rep with [YEARS] years of experience evaluating a remote closing role for a [INSERT OFFER, e.g. a business coaching program] priced at [INSERT PRICE] commission per close against ticket size, how the leads are generated and whether the calendar is booked for me, realistic close rates for this offer type, refund and clawback risk, sales cycle length, and the biggest reasons reps fail on offers like this. Find whether you'd take this role today and the five questions I should ask the offer owner before I do.

@@ -1,0 +1,28 @@
+06 step 3:
+opt in
+to both options.
+two switches.
+both on.
+Data controls
+Enabled for selected projects
+Share evaluation and fine-tuning data with OpenAI
+You're eligible for up to 750 free tokens.
+Usage beyond these limits, as well as usage for other models, will be billed at standard rates. Some limitations apply. Learn more.
+Disabled
+Enabled for all projects
+Enabled for selected projects
+Share inputs and outputs with OpenAI
+You're eligible for free daily usage on traffic shared with OpenAI.
+Up to 250 thousand tokens per day across gpt-3.5-turbo, gpt-4, gpt-4-0613, gpt-4-32k, gpt-4-32k-0613, gpt-4-vision-preview
+Up to 2.5 million tokens per day across gpt-3.5-turbo, gpt-4, gpt-4-0613, gpt-4-32k, gpt-4-32k-0613, gpt-4-vision-preview
+Usage beyond these limits, as well as usage for other models, will be billed at standard rates. Some limitations apply. Learn more.
+Disabled
+Enabled for all projects
+Enabled for selected projects
+Save
+* For each section, select “Enabled for all projects.”
+* Once you turn on sharing, a green box will appear that says you are now eligible for free daily tokens.
+* Click “Save” at the bottom of the page.
+That’s it. Your free daily credits activate immediately.
+green box
+= you did it

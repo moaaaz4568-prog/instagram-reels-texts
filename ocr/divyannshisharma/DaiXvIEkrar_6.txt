@@ -1,0 +1,18 @@
+SLIDE 7 | THE LIVE DEMO
+MO
+The live demo
+Back ▲ Just in Thyme
+Agent Workflow
+Visualizations Configuration Reset
+API Requests
+Tool Uses: 16 Messages: 8
+All Setup Tools Agent
+The Products The Shop... Predictions
+The Products
+What millions of shoppers actually buy — and what they keep coming back for. A deep dive into basket composition, re-order loyalty, and the departments that drive repeat business.
+800K ORDER LINES ANALYZED
+6 TABLES JOINED
+33,810 UNIQUE PRODUCTS
+59% OVERALL REORDER RATE
+Integration Docs Developer Console
+An agent called "pascal-analyst" got a real grocery dataset and one task. It analyzed 800K order lines across 6 tables, found 33,810 unique products, 59% reorder rate — built and calculated a report, completely on its into a full visual own.

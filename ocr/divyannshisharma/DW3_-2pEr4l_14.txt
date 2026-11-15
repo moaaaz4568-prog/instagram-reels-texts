@@ -1,0 +1,10 @@
+14. Now Give It A Task
+It writes code, creates files, opens localhost and runs your whole dev workflow - completely offline.
+
+➔ Asked it to create HTML file with dark background, heading
+➔ Wrote 25 lines of clean code, saved the file, opened it
+➔ Coding workflow running on your machine with no internet
+
+Code Files Localhost
+
+@divyanshisharma

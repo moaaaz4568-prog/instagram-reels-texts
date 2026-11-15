@@ -1,0 +1,12 @@
+Skill 1
+data-visualization
+anthropics/data-visualization
+Data & Analytics
+6,647
+Create data visualizations with Claude Code.
+Used when building charts, choosing the right
+chart type for a dataset, creating publication-
+quality figures, or applying design principles
+like accessibility and color theory.
+@itstylergermain
+save for later

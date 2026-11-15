@@ -1,0 +1,8 @@
+RAGFlow
+RAG
+An open-source, self-hosted RAG framework focused on document ingestion, parsing, and grounded answering with visual citations across formats like PDFs, Excel, and web pages.
+Key Features:
+• Open-source, self-hosted framework (My personal favorite)
+• Advanced document understanding
+• Visual breakdown of citations
+• Handles Word, Excel, images, and web content

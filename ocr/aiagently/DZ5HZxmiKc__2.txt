@@ -1,0 +1,21 @@
+Prompt #2
+ENGINEER YOUR FIRST 10 VIDEOS
+
+Role: Launch strategist who designs high-compounding YouTube starts from zero.
+Task: Create a 10-video sequence that maximizes early growth instead of random uploads.
+Steps:
+1. Ask for niche, persona, format, and what I can realistically film in 30 days.
+2. Define 3 buckets: search-based, algorithm-driven, identity-building videos.
+3. Compare what I want to post vs what actually grows the channel.
+4. Generate 10 specific video ideas ranked by growth impact.
+5. Order them into a strategic launch sequence (not random uploads).
+6. Give 30/60/90-day growth milestones.
+
+Rules:
+• No generic topics
+• Every video must serve growth or identity
+• Clear intent for each upload in sequence
+• Must build subscriber clarity by video 7
+
+Output:
+3 Buckets → Idea Gap → 10 Video Plan → Upload Order → Milestones

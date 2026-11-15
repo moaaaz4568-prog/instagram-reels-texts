@@ -1,0 +1,19 @@
+Finds me leads from Reddit
+Artifacts
+Search
+Skills
+reddit-researcher
+You
+Deep research engine covering the last ...
+Share
+License MIT
+Reddit Researcher
+Research ANY topic across Reddit, x/Twitter, YouTube, LinkedIn, Hacker News, the web, face what people are actually discussing, recommend, TechCrunch, Surge, the last 30 days.
+Step 0 - Parse User Intent
+Before doing anything, parse the user's Input for
+1. TOPIC - What they want to research.
+2. QUERY_TYPE - Classify using these patterns (check in priority order):
+QUERY_TYPE
+comparison
+Trigger patterns
+"vs" "versus" "compared to" "better than" "difference between" "switch"

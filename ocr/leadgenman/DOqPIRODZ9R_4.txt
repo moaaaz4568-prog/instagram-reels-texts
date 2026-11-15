@@ -1,0 +1,18 @@
+Top-P
+Instead of picking from all tokens or top k tokens, the model samples from a probability mass up to p.
+Value Range : 0 to 1.
+Use Case
+• Enhance creativity and diversity in story generation, balancing coherence and novelty for richer outputs.
+• Generate contextually appropriate text by dynamically adjusting token selection based on model confidence.
+TOP P = 0.8
+0.35
+0.25
+0.20
+0.10
+0.10
+kingdom
+land
+garden
+world
+Next Words
+Probability

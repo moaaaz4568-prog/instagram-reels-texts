@@ -1,0 +1,29 @@
+Step 1: Research
+Just using web search in Claude Code
+leaves massive power on the table.
+Welcome back Chase!
+Opus 4.6
+Claude Max
+~MWT
+use the yt-search skill to find the latest trending videos
+on Claude Code Skills. Once we have those videos, send
+them over to NotebookLM using the notebooklm skill. Give me
+its analysis on the top Claude Code skills, then have
+NotebookLM create an infographic in a handwritten /
+blueprint style depicting that analysis on the top skills.
+MWT | Opus 4.6 | ctx: --
+bypass permissions on (shift+tab to cycle)
+Click ctrl+enter to generate command.
+Post Chat...
+GPT-5-02 Codex
+Local
+New Chat
+Plan @ for context
+File Edit Selection View Go Run Terminal Help
+MWT
+MWT
+OUTLINE
+TIMELINE
+MWT
+Cursor Tab
+Screen

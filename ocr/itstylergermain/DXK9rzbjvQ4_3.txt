@@ -1,0 +1,8 @@
+The Basics.
+08
+When you install the Claude Code extension in VS Code, you'll see the Claude logo. Click that.
+it looks like this
+Now I can ask Claude to do anything I want.
+But it doesn't have any type of personality, or any special abilities...
+save for later
+@its Tylergermain

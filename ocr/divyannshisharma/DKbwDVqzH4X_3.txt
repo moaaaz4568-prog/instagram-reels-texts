@@ -1,0 +1,25 @@
+2
+Copy & Paste the Code
+Paste the following Apps Script code (summarized version)
+
+/**
+ * Get the top competitors for a specific company.
+ * @param {string} companyName - Name of the company
+ * @return {string} Result
+ */
+function findCompetitors(companyName) {
+  if (companyName === "") {return "Error - Input is empty";}
+  const API_KEY = "YOUR_API_KEY";
+  const SEARCH_ENGINE_ID = "YOUR_SEARCH_ENGINE_ID";
+  const searchQuery = "Top 10 + " + companyName + " Alternatives & Competitors site:gsa.com/products";
+  const searchUrl = "https://www.googleapis.com/customsearch/v1?key=" + API_KEY + "&cx=" + SEARCH_ENGINE_ID + "&q=" + encodeURIComponent(searchQuery);
+  const response = UrlFetchApp.fetch(searchUrl, { method: 'get' });
+  const data = JSON.parse(response.getContentText());
+  if (data?.items?.length > 0) {
+    const competitorsList = data.items[0]?.link ? [data.items[0]] : [];
+    const competitors = competitorsList.length > 0 ? competitorsList.map(item => item.title + ": " + item.link) : [];
+    return competitors.length > 0 ? competitors.join(', ') : "Not found";
+  } else {
+    return "Not found";
+  }
+}

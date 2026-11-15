@@ -1,0 +1,8 @@
+Make sure to create variations with spintax
+02. USE AI WITH CARE
+AI-assisted first line
+give it: your offer, who you email, prospect context, the tone. ask for one concise opening line.
+Hi {{first_name}},
+{{ai-assisted first line}}
+We help tech founders build a personal brand that drives inbound demand.
+Would you be open to a quick chat?

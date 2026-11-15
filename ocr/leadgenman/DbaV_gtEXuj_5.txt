@@ -1,0 +1,19 @@
+05
+Full UI & UX Design Brief
+
+Create a full UI/UX design brief for: [SCREEN OR FLOW]
+
+Audience: [USERS]
+Brand: [COLORS / FONTS / VIBE]
+
+Deliver:
+
+* User journey through the flow, step by step
+* Layout per screen: hierarchy, spacing, breakpoints
+* Component inventory with every state – hover, empty, error, loading
+* Typography + color tokens
+* Motion: what animates, duration, easing
+* Accessibility notes
+
+Study patterns from [2-3 PRODUCTS YOU ADMIRE]
+for direction. Never copy them.

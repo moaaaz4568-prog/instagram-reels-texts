@@ -1,0 +1,17 @@
+The HTTP Module:
+HTTP
+Body type
+Raw
+Content type
+JSON (application/json)
+Request content
+{
+  "key": "YOUR API KEY",
+  "model_id": "YOUR MODEL ID OF CHOICE",
+  "prompt": "Create a 100. Type Rotator image of a 96. Subject Rotator that is 97. Action Rotator in a 98. Setting Rotator in the art style 99. Style Rotator",
+}
+le Diffusion API C
+Make a request
+This makes an API call.
+API calls get data and functionality from OTHER websites.
+The API key is important as that gives the module access to the API, so you'll want to obtain your API key from the API service.

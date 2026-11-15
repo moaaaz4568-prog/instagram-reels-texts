@@ -1,0 +1,23 @@
+DEPARTMENT 06 / 07
+Operations
+Run the business like a machine.
+
+sop-builder
+Writes clean SOPs
+
+incident-postmortem
+Blameless post-mortems
+
+business-case
+ROI + business cases
+
+launch-runbook
+Go-Live + DNS cutover
+
+internal-comms
+Status reports + FAQs
+
+xlsx
+Excel with live formulas
+
+Your ops backbone

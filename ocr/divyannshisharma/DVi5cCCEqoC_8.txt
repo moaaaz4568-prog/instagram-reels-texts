@@ -1,0 +1,84 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Five Use Cases to Start With:
+
+1. Automatic Inbox Triage
+
+Capture: Drop files, notes, and highlights into the inbox
+Process: Ask Claude to automatically process the inbox
+Auto organize: Claude sorts items into correct folders
+Easy maintenance: Update the system with a request
+
+Inbox
+Today's Action Items
+Other Tasks
+Upcoming Tasks
+
+No_Due
+Priority
+Due_Date
+Due_Length
+Notes
+2027-10-14
+P2 - Quick
+2027-10-14
+2027-10-14
+#P3_Low_Priority
+2027-10-13
+2027-10-13
+#P3_Low_Priority
+2027-10-13
+2027-10-13
+#P3_Low_Priority
+2027-10-12
+2027-10-12
+#P3_Low_Priority
+2027-10-12
+2027-10-12
+#P3_Low_Priority
+2027-10-11
+1 week
+2027-10-10
+2027-10-10
+meeting-peter-maxx-meeting...
+2027-10-10
+2027-10-10
+#P2_Medium_Priority
+2027-10-10
+2027-10-10
+#P3_Low_Priority
+
+No_Due
+Priority
+Due_Date
+Due_Length
+Notes
+2027-10-14
+P2 - Quick
+2027-10-14
+2027-10-14
+#P3_Low_Priority
+2027-10-13
+2027-10-13
+#P3_Low_Priority
+2027-10-13
+2027-10-13
+#P3_Low_Priority
+2027-10-12
+2027-10-12
+#P3_Low_Priority
+2027-10-12
+2027-10-12
+#P3_Low_Priority
+2027-10-11
+1 week
+2027-10-10
+2027-10-10
+meeting-peter-maxx-meeting...
+2027-10-10
+2027-10-10
+#P2_Medium_Priority
+2027-10-10
+2027-10-10
+#P3_Low_Priority

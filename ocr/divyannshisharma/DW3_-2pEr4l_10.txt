@@ -1,0 +1,10 @@
+10. Step 2: Ask Claude Which Model
+Let Claude read your system info and tell you exactly which Gemma size your machine can handle.
+
+➔ Screenshot your system info from the top left menu
+➔ Paste it into Claude Code with your Gemma install request
+➔ Claude tells you exactly which size fits your machine
+
+Screenshot Claude Right Model
+
+@divyanshisharma

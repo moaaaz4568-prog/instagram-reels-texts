@@ -1,0 +1,11 @@
+AI
+8: VS Code Ext.
+Search "Claude Code" in Extensions and
+install Anthropic's official version.
+Claude Code for VS Code
+Claude Code for VS Code
+New to Claude Code?
+Prefer the terminal-based extension?
+Requirements
+Docs
+New to Claude Code?

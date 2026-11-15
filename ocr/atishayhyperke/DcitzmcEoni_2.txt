@@ -1,0 +1,9 @@
+2. Data system.
+We build company-first lists, enrich contacts, segment them and avoid relying on one database.
+MULTIPLE DATA SOURCES
+COMPANY LIST
+CONTACT ENRICHMENT
+SEGMENTATION
+PUBLIC SOURCES
+THIRD-PARTY DATABASES
+PROPRIETARY DATA

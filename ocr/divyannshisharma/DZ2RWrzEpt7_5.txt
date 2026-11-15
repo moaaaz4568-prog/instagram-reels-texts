@@ -1,0 +1,24 @@
+05
+FINE-TUNING
+make the model yours.
+
+35 unsloth 24K fine-tune llms 2x faster, 80% less memory. supports llama, mistral, qwen, gemma. runs on a single gpu.
+github.com/unslothai/unsloth
+
+36 axolotl 8K streamlined fine-tuning. yaml config, every dataset format, every training technique. the ops layer on top of hugging face.
+github.com/axolotl-ai/axolotl
+
+37 llama-factory 40K fine-tune 100+ llms with zero code. web ui, supports lora, qlora, full fine-tuning. most user-friendly tool available.
+github.com/hiyouga/LLaMA-Factory
+
+38 trl 12K transformer reinforcement learning. rlhf, dpo, ppo — techniques used to align gpt-4 and claude. by hugging face.
+github.com/huggingface/trl
+
+39 torchtune 5K pytorch-native fine-tuning from meta. simple, hackable, well-documented. reference implementation in pure pytorch.
+github.com/pytorch/torchtune
+
+40 mergekit 4K merge multiple fine-tuned models into one. slerp, ties, dare, linear merge. no gpu needed. create frankenstein models that outperform
+github.com/arcee-ai/mergekit
+
+Divyanshi sharma
+05/10

@@ -1,0 +1,11 @@
+Cold Email Sequence
+Template
+
+LinkedIn Connection Request:
+"Hey [Name], saw you're hiring for [Job Title]. I know how to grow your sales by 20% this quarter. Let's connect."
+
+Follow-Up Email:
+Subject: Quick Question
+
+"Hi [Name], I can help you [offer]. To prove it, here are 3 leads I've identified for you:
+[list leads].”

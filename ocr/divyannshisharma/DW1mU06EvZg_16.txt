@@ -1,0 +1,8 @@
+16
+Summarized product page
+> Got model sizes, tiers, capabilities, benchmarks right
+> Pulled from live web – not from training data
+> 26B model doing frontier-level research tasks locally
+Made by
+Divyanshsharma
+17 →

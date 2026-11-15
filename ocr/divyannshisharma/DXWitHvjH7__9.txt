@@ -1,0 +1,26 @@
+PART 9
+Collections & Learning 📚
+
+53. Awesome Claude Skills: The best curated skill list. 22,000+ stars. Start here when looking for new skills to install.
+🔗 https://github.com/travisvpn/awesome-claude-skills
+
+54. Anthropic Skills Repo: Official reference implementations from Anthropic. The gold standard for how skills should be built.
+🔗 https://github.com/anthropic/skills
+
+55. Awesome Agents: 100+ open-source agent tools in one curated list.
+🔗 https://github.com/kyrolabs/awesome-agents
+
+56. PromptingGuide: Comprehensive prompt engineering reference covering every technique from basics to advanced agent prompting.
+🔗 https://www.promptingguide.ai
+
+57. Anthropic Prompt Engineering Tutorial: 9 chapters of hands-on exercises with Jupyter notebooks. The best structured way to learn prompting.
+🔗 https://github.com/anthropic/prompt-eng-interactive-tutorial
+
+58. SkillsMP: Marketplace with 80,000+ community skills. The largest catalog for discovering Claude skills.
+🔗 https://skillsmp.com
+
+59. MAGil/ARCHIVE: Daily feed of fresh AI repos. Stay on top of what is shipping.
+🔗 https://tom-doerr.github.io/repo_posts/
+
+60. Anthropic Official Docs: Covers the API, prompting best practices, tool use, agents, and everything else. Read this cover to cover before building anything serious.
+🔗 https://docs.anthropic.com

@@ -1,0 +1,12 @@
+4
+Prompt Engineering for LLMs
+Stop guessing what the model wants.
+You get the same output every time.
+O'REILLY
+Prompt
+Engineering
+for LLMs
+The Art and Science of Building Large Language
+Model-Based Applications
+John Berryman
+& Albert Ziegler

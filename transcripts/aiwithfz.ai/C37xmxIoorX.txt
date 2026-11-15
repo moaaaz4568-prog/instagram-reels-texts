@@ -1,0 +1,1 @@
+Metric used to measure classification model: 1. Accuracy. 2. Precision. 3. Recall. 4. F1 score. 5. ROC AUC curve. 6. Specificity. Read caption for more details.

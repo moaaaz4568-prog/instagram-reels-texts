@@ -1,0 +1,27 @@
+Step #4
+Navigate to WhatsApp API Setup
+and select test number
+Meta
+App Dashboard
+Access Token
+Send and receive messages
+From
+To
+Send messages with the API
+WhatsApp
+API Setup
+Configuration
+Activity log
+FHD 360Hz
+Lock
+A
+S
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl

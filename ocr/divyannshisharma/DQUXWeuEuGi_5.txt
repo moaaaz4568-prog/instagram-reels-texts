@@ -1,0 +1,11 @@
+3.
+Upload your
+csv file
+Upload your csv file of leads (with website URLs)
+Example Campaign for Helpscout
+Don't have leads yet?
+Upload a CSV
+file to import
+Drag it from your
+file explorer or click
+anywhere to choose a file.

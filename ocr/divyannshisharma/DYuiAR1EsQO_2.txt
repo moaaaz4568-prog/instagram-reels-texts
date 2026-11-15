@@ -1,0 +1,24 @@
+The Vibe Stack
+10
+Video Traffic & Social Media Automation
+AI-powered tools
+07 GVCLab/
+Personalive
+Benefit: Portrait image animation for live streams in real-time.
+08 HisMax/
+Redink
+Benefit: Fast text & image generation optimized for the Xiaohongshu.
+09 rachelos/
+we-mp-rss
+Benefit: Parses articles from WeChat, converts them to Markdown.
+10 xiamuceer-j/
+MuMuAINovel
+Benefit: An AI assistant for mass-writing books, plots, and novels.
+11 imbue-bit/
+AlphaGPT
+Benefit: Factor analysis of the stock and crypto markets.
+imbue-bit/
+AlphaGPT
+12 TauricResearch/
+TradingAgents
+Benefit: A platform for automated trading on financial markets.

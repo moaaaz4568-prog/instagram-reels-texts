@@ -1,0 +1,11 @@
+MULTIMODAL AI
+What is it
+AI models that understand text, imagescode, audio, and more as oneconnected stream of information.
+When to use it
+When your thinking process includes visuals, documents, screenshots, and conversations together.
+Chatgpt
+Gemini
+Claude
+Grok
+PUNIT GUPTA
+swipe

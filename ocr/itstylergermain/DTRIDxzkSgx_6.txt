@@ -1,0 +1,3 @@
+AI Clones
+Langchain for Agent Orchestration, Slack for interaction, Supabase for vector storage.
+@itstylergermain

@@ -1,0 +1,6 @@
+Grow OS
+The places you'll track, monetize & reach users. Every channel, one command away.
+PostHog: Product analytics, feature flags, and replays from your shell.
+Stripe: Test payments, fire events, manage products from the CLI.
+Resend: Send transactional emails programmatically. No dashboard needed.
+Linear: Create issues, move tasks, plan sprints from one prompt.

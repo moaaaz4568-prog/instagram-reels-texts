@@ -1,0 +1,17 @@
+STEP 7
+Punit Kumar
+07 / 09
+Connect your
+booking system
+Now make the agent capable of taking action.
+In the example, connect Cal.com.
+Add the required API credentials and event
+configuration.
+The agent can then:
+Check availability
+Show slots
+Collect details
+Book appointment
+You can replace Cal.com with another booking
+system or connect the agent to your CRM or internal
+tools.

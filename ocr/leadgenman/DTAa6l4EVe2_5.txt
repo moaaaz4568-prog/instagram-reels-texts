@@ -1,0 +1,13 @@
+5. AI App Builders
+
+What It Is:
+Tools that turn prompts into working websites, apps, or MVPs without writing code from scratch.
+
+When To Use It:
+Launching landing pages, prototyping ideas fast, or building internal tools without a dev team.
+
+Tools:
+Lovable
+Antigravity
+Replit
+Emergent

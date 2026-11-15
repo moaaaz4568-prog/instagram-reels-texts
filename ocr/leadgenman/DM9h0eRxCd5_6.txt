@@ -1,0 +1,29 @@
+Headshot Generator App
+Professional headshots app
+powered by Blink.new
+within minutes
+AI Headshot Studio Pro
+Professional headshots powered by advanced AI
+Transform Your Photo Into Professional Headshots
+Upload your photo and our AI will transform it into 1-8 professional
+headshots while preserving your unique features and identity.
+1. Upload Your Photo
+Upload Your Photo
+Drag and drop or click to select
+iPhone HEIC
+Choose
+supported
+Mobile Upload Tips
+• iPhone users: HEIC photos are automatically converted
+• Use well-lit photos for best AI results
+• Face the camera directly, avoid sunglasses
+• Professional or business attire works best
+• Minimum 512x512 pixels recommended
+2. Transform Into Professional Headshots
+Number of Images: 4
+Transform Into 4 Professional Headshots
+Your Professional Headshots
+Inverted
+Your headshots will appear here
+Upload a photo and click generate to see your
+professional headshots

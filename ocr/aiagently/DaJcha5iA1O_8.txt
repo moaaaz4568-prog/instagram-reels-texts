@@ -1,0 +1,12 @@
+Step 7
+Confirm the plan & build
+IN REPLIT
+Replit lays out the full plan before writing any code DB schema, pipeline, scoring, Apollo integration, dashboard. Click Start building and it builds the whole system in 20-40 minutes.
+Task plan created
+AI SDR System (ZDTS)
+Build an automated inbound AI SDR pipeline plus a password-protected admin dashboard, integrated into this existing Replit project. It replaces Zack Deris' fully manual lead follow-up: warm inbound leads (people who downloaded resources on zackderis.com) are pulled from the project database, scored, filtered against ICP/disqualified or already contacted, enriched via Apollo, then either auto-enrolled into an Apollo email sequence (strong matches) or held in an approval queue (borderline). Everything is logged and surfaced in the dashboard. Runs weekly (Mon 9:00 AM CET) and on manual trigger.
+Web app Automation
+Start building
+Revise Cancel
+Power
+View

@@ -1,0 +1,8 @@
+Email isn't dead.
+It just needs to be
+done right.
+
+Email deliverability is a technical discipline,
+requiring setup, monitoring, & maintenance.
+Warmy handles the setup, monitoring,
+and maintenance for you.

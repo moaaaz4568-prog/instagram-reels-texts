@@ -1,0 +1,15 @@
+Step 1: Setup
+Pro subscription.
+No API. No Claude Code in the terminal
+and no custom integrations.
+1 Research 2h - 15m
+2 Content Research 1h - 5m
+3 GitHub Scanning 50h - 2 afternoons
+4 Data Analysis 2h - 20m
+5 Competitor Analysis 1h - 15m
+6 Code Review 1h - 15m
+7 Content Repurposing 2h - 20m
+8 Email Drafting 30m - 5m
+9 Morning Briefing 45m - 5m
+10 Weekly Review 1h - 30m
+Swipe ->

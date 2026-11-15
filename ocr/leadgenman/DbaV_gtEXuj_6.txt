@@ -1,0 +1,18 @@
+06
+Implementation Plan
+
+Create an implementation plan for: [APPROVED
+SPEC / PRD]
+
+Rules:
+
+* Sequence steps so the app compiles and runs
+after EVERY single step
+* Each step: files touched, what changes,
+how I verify it works
+* Flag steps needing a migration or new dependency
+* Put the riskiest/unknowns first
+* Size each step: [S / M / L]
+
+Output a numbered build sequence I can run one
+step at a time. Wait for my "go" between steps.

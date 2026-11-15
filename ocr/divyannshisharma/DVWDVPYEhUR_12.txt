@@ -1,0 +1,13 @@
+Step #12
+Deploy Sell Side DeFi Research
+Analyst
+Pro Plan Feature
+16 GB RAM requires an Orgo Pro plan.
+Creating VM and registering agent...
+This may take a few minutes.
+Anthropic API Key
+Get your key from Anthropic Console
+Cancel
+Deploying...
+Hit 'Deploy Agent' - setup takes 2-3
+minutes to provision VM

@@ -1,0 +1,24 @@
+The Vibe Stack
+10
+3.8x
+Development Acceleration & AI Agents
+AI-powered tools
+37 KhazP/
+vibe-coding-prompt-template
+Benefit: Prompt templates for generating PRDs, technical designs.
+38 OpenHands/
+OpenHands
+Benefit: An autonomous AI software developer.
+39 BidingCC/
+BuildingAI
+Benefit: A no-code platform for creating AI applications tailored to business tasks.
+40 ixartz/
+SaaS-Boilerplate
+Benefit: A commercial boilerplates for launching a micro-SaaS.
+41 mrexodia/
+ida-pro-mcp
+Benefit: Connects the legendary IDA Pro decompiler with LLMs.
+42 zama-ai/
+bounty-program
+Benefit: A repository offering cash for improving the open-source code.
+ZAMA

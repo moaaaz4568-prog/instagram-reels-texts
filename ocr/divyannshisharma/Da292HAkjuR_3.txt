@@ -1,0 +1,4 @@
+4 GSAP in action
+One prompt. Real animation code.
+
+One prompt — turn a landing page into a 20-second animated video where each section reveals like a slide — and Claude writes the actual animation code, timing each card to enter a few frames after the last.

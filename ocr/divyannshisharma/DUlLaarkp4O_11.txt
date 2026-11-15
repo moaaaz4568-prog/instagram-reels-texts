@@ -1,0 +1,23 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Add your own workflows:
+
+• Bundled workflows are starters: define agents, steps, retries, and checks in YAML and Markdown.
+• Full guide: docs/creating-workflows.md
+
+yaml
+id: my-workflow
+name: My Custom Workflow
+agents:
+  - id: researcher
+    name: Researcher
+    workspace:
+      files:
+        AGENTS.md: agents/researcher/AGENTS.md
+  - id: research
+    agent: researcher
+    input: |
+      Research {{task}} and report findings.
+      Reply with STATUS: done and FINDINGS: ...
+    expects: "STATUS: done"

@@ -1,0 +1,20 @@
+IMPROVE WHAT
+YOU ALREADY HAVE
+
+• Already have a campaign?
+• Paste it into Claude
+• It will tell you which messages are weak.
+• Then it rewrites them for you.
+
+Which steps of my US SaaS Leaders campaign are
+underperforming?
+
+Here are the 3 stages of the campaign with the
+lowest engagement rate
+
+lemlist
+
+RANK	SEQUENCE	REPLY RATE
+1	Email 5	4.3%
+2	Email 3	5.9%
+3	LinkedIn Message 2	8.1%

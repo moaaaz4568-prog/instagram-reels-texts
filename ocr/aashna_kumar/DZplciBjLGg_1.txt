@@ -1,0 +1,13 @@
+STOP GUESSING. TEST YOUR IDEA.
+Smart business owners look for problems
+PROMPT:
+Act like an investor who sees hundreds of businesses every year.
+Here's my business:
+[Describe it in 2-3 sentences]
+Tell me:
+• What is most likely to fail first?
+• What problem am I missing?
+• Why would customers say no?
+• What would the best businesses do differently?
+Give me the truth, not compliments.
+THE FASTEST WAY TO GROW IS FINDING YOUR WEAK SPOTS BEFORE YOUR CUSTOMERS DO.

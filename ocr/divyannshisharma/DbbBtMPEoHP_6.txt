@@ -1,0 +1,32 @@
+Automation 2
+Generate docs
+template
+
+Smart docs.
+Built instantly.
+
+APPROVAL REQUIRED
+AI suggestions
+Never auto-sends email, merges PRs, or posts Slack replies.
+
+Prepare work for api platform
+Generate README, roadmap, checklist, and Context.md for "Finish Add OpenAPI docs for partner endpoints"
+Approve Reject
+Confidence 91%
+
+Prepare upcoming meeting brief
+Compile emails, Slack, GitHub, and Notion into a meeting brief
+Approve Reject
+Confidence 91%
+
+Review open pull requests
+Surface assigned PRs and review requests needing attention
+Approve Reject
+Confidence 85%
+
+MEETING BRIEFS
+API documentation review — Brief for "API documentation review" with 3 attendees. Grounded in 5 cited sources.
+
+When a new project ticket is initialized in my apps, Cursor automatically scaffolds the README.md, codebase architecture layouts, and task checklists inside a new folder.
+
+Zero manual setup required.

@@ -1,0 +1,37 @@
+15. Slash Command
+
+57 production-ready slash commands
+• 1.7k+ stars
+• 15 workflows + 42 tools
+• multi-agent orchestration
+Repo: https://github.com/wsbson/commands
+
+Automated TDD enforcement for Claude Code
+• tests
+• 1.7k+ stars
+• blocks skipping
+• blocked
+• explains why it failed
+Repo: https://github.com/nizos/tdd-guard
+
+Granular undo for Claude Code
+• 1.3k+ stars
+• seamless integration
+• action-level rollback
+Repo: https://github.com/Ronitsachdev/ccundo
+
+TUI toolkit giving Claude Code its own display
+• 1.1k+ stars
+• interactive terminal UI
+• rich visualization
+Repo: https://github.com/claude-canvas/claude-canvas
+
+Wide selection of hooks, commands, subagents
+• better than average template sites
+• specialized task coverage
+• curated by ghost
+Repo: https://github.com/CladuoPro/claudopro-directory
+
+Divyanshi sharma
+
+Category 8/10

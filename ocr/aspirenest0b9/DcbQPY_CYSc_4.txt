@@ -1,0 +1,20 @@
+BEFORE ANY TRADE, AI
+RUNS A RISK CHECK
+POSITION SIZE. PORTFOLIO EXPOSURE. POTENTIAL LOSS.
+5/5
+CHECKS OK
+RISK CHECK COMPLETE
+SWIPE →
+05/08
+Position size check
+PER TRADE
+Exposure limit check
+ALL POSITIONS
+Drawdown check
+WITHIN LIMIT
+Volatility filter
+ACCEPTABLE
+Max loss check
+NOT BREACHED
+Pass → continue
+Fail → block

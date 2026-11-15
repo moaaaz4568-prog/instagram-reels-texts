@@ -1,0 +1,9 @@
+Step #14
+Hi
+VM Screen
+Progress
+Provisioning VM
+Installing Clawdbot
+Setup Complete
+Logs
+Click 'Open VM' to see your agent's screen and monitor activity

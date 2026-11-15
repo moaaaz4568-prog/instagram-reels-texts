@@ -1,0 +1,16 @@
+CONTEXT
+ENGINEERING
+
+What is it
+* Context engineering is the process of structuring and supplying the right instructions, data, and constraints to an AI model so it produces accurate and useful outputs.
+
+Why it matters
+* It matters because better context gives better, more accurate results from AI.
+
+Chatgpt
+Gemini
+Claude
+Perplexity
+
+PUNIT GUPTA
+swipe >>

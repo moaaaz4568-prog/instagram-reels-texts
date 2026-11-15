@@ -1,0 +1,9 @@
+Blue
+1997
+IBM's Deep Blue beat world champion Garry Kasparov at chess. It was the first time a machine outplayed a human at something we thought required pure intelligence.
+
+Big Tech went all in. Google, Facebook and Microsoft started hiring every AI researcher they could find. The modern AI race officially started here.
+
+2012
+AlexNet
+AlexNet crushed the ImageNet competition using GPUs and deep neural networks. This kicked off the deep learning era and changed AI forever.

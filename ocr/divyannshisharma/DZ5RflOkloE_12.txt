@@ -1,0 +1,19 @@
+divyanshisharma
+3/4 Category (Prompt 146 - 150)
+Category 3:
+Research and Analysis
+
+146. Operations Analysis
+Analyze the operations of [DESCRIBE BUSINESS]. Where are the bottlenecks, what processes are most critical, where is waste occurring, and what would have the highest impact to improve?
+
+147. Talent Analysis
+Analyze the talent landscape for [DESCRIBE ROLE OR SKILL]. Where is the talent, what do they want, how competitive is hiring, and what would make [COMPANY] attractive to them?
+
+148. Platform vs Product Analysis
+Analyze whether [DESCRIBE OFFERING] should be a product or a platform. What are the economics of each, what would make a platform successful, and what are the risks of each path?
+
+149. Seasonality Analysis
+Analyze the seasonality patterns in [DESCRIBE BUSINESS OR MARKET]. How pronounced are they, what drives them, and how should strategy and operations adapt?
+
+150. Exit Strategy Analysis
+Analyze potential exit strategies for [DESCRIBE COMPANY OR INVESTMENT]. What acquirers would be interested and why, what would drive valuation, and what is the realistic timeline?

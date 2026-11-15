@@ -1,0 +1,13 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+3. Claude in Excel
+
+What it is
+AI inside Excel that reads, writes formulas
+
+Why it matters
+Keeps formulas and structure intact
+
+Advantage
+Understands real cell data (like D14)

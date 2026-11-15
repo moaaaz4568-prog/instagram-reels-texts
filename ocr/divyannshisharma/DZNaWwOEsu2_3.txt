@@ -1,0 +1,78 @@
+SLIDE 4 — THE 10 BEST PLUGINS Install these first:
+
+Smart Connections — chat with ALL your notes at once
+
+Copilot — clean AI chat inside Obsidian
+
+Templater — auto-fills new notes with structure
+
+Dataview — turns your vault into a searchable database
+
+Second Brain
+
+Build a Second Brain
+
+# Goal
+Build a robust system to capture, organize, and connect ideas so I can think more clearly and create valuable work.
+
+# Why
+Deeper thinking
+System to capture, organize, and connect ideas so I can think more clearly and create valuable work.
+
+# Key Components
+1. Capture — all my thinking
+2. Organize — into atomic ideas
+3. Distill — turn notes into insights
+4. Express — create and share
+5. Review — daily and weekly reflection
+
+# Notes
+[Building a Second Brain - Book Notes]
+[CODE Method]
+[Content Pipeline]
+[Template]
+
+Smart Connections
+What are my key principles for staying focused and avoiding distraction?
+
+Based on your notes, here are your key principles for staying focused and avoiding distraction:
+
+Work Blocks
+Schedule distraction-free blocks of time (usually 90-120 minutes) to focus on high-value work.
+躲避 Work (Hide)
+
+New Temptations
+You can minimize distractions by removing or blocking distracting apps and notifications during deep work.
+
+Digital Environment Setup
+Dark mode
+Found notes that turn into content
+
+Principles
+One thing at a time and avoid context switching, which drains mental energy.
+
+Next Action
+Always define the next clear action before starting, so you know exactly what to do.
+
+CODE Method
+Creative
+Organize
+Distill
+Express
+
+Energy Management
+Protect your energy with sleep, exercise, and breaks, because focus depends on your energy.
+Weekly Review Template
+
+These are mentioned across 5 notes in your vault.
+
+Matching notes
+
+Ask a question about your notes...
+Smart Connections can make mistakes. Verify important info.
+
+126 notes open
+15 files
+0 backlinks
+1,234 words
+7,890 characters

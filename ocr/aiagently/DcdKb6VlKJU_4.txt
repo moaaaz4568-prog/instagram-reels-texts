@@ -1,0 +1,70 @@
+STEP 4
+Build skills
+One command fires a whole workflow across every tool you have wired, so you stop retyping. Build skills before you being a 200-word prompt.
+1
+⚡ /skill...
+2
+N M G +
+RETURNS
+Output ready
+Notion, Gmail, Drive and more
+The finished thing
+3
+One command
+fires.
+Returns
+the
+finished
+thing.
+Create a skill
+Define once. Use everywhere.
+Turn this workflow into a
+/{name} skill: [trigger,
+inputs, outputs]. Create a
+~/.claude/skills/{name}/
+SKILL.md and wire the
+connectors I need.
+Skill lives here
+~/.claude/skills/
+content-publish
+weekly-report
+lead-research
+Active
+Active
+Active
+Draft
+Reusable
+Use skills across
+any project
+Connected
+Works with all your
+wired tools
+Reliable
+Built-in retries
+and logging
+Scalable
+From one task to
+entire workflows
+Skills dashboard
+All skills. One place.
+Skills 12
+7
+124
+4
+Success rate
+98%
++ New skill
+Recent runs
+Content publish
+2m ago
+Success ✓
+Weekly report
+1h ago
+Success ✓
+Lead research
+3h ago
+Success ✓
+Meeting notes
+5h ago
+Failed !
+View all skills →

@@ -1,0 +1,25 @@
+Lv 3
+CLAUDE.md
+Persistent memory across sessions
+
+CLAUDE.md - Notepad
+File Edit Format View Help
+# CLAUDE.md
+## Project
+Content tooling: overlays, carousels, change
+Repurpose Studio, dev on port 8000
+## Rules
+- Commit NM-XXX after every change
+- Canvas 2D, no Three.js
+
+Terminal -- claude
+$ claude "what are we doing in this project?"
+Reading CLAUDE.md...
+✓ Knows the whole codebase instantly
+✓ No re-explaining every session
+✓ Works in Codex too: AGENTS.md
+Context loads itself.
+
+Set it once. Every session starts smart.
+
+04 / 09

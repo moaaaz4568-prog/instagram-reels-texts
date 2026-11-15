@@ -1,0 +1,23 @@
+Suprava Sabat
+Step 5: Install the browser agent
+Run in terminal:
+npm install @vercel/agent-browser
+Reads pages using accessibility tree not CSS selectors.
+Less tokens. Less bugs. More stable than Playwright.
+Then Claude builds all browser actions on top of it.
+Read 1 file (ctrl+o to expand)
+Update (CLAUDE.md)
++ 2 lines, -2 lines, removed 2
+- httpx, requests (HTTP clients)
+- python-dotenv (env loading)
+64 - python -m bun install per-video as needed:
+65 + @anthropic-ai/agent-browser (browser automation)
+66 + node -m bun install per-video as needed:
+67 + agent-browser (browser automation)
+68 # Google Sheets Integration
+Updated CLAUDE.md - changed @anthropic-ai/agent-browser to agent-browser and run to npm.
+[Pasted text #1 446 lines]
+Opus 4.0
+40%
+780k/200k | main | youtube-demos
+accept edits on (shift+tab to cycle)

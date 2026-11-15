@@ -1,0 +1,11 @@
+icp-problem-desire-finder
+Added by
+User
+Last updated
+Mar 20, 2026
+Invoked by
+User or Claude
+Finds your leads pain points based on
+each industry and tells you how build the
+outreach based on the pain points.
+MacBook Air

@@ -1,0 +1,34 @@
+divyanshisharma
+4/4 Category (Prompt 166 - 180)
+Category 4:
+Automation
+166. Build an Inventory Reorder System
+Design an automation that monitors inventory levels for [DESCRIBE PRODUCTS], triggers reorder when stock falls below [THRESHOLD], generates purchase orders, and tracks delivery.
+167. Automate Employee Onboarding
+Design an automated employee onboarding workflow that handles account creation, equipment provisioning, training assignments, introduction emails, day check-ins.
+168. Build a Feedback Collection System
+Design an automated feedback collection system for [DESCRIBE TOUCHPOINTS]. When does it trigger, what questions does it ask, how is data aggregated?
+169. Automate Financial Reconciliation
+Design an automation that reconciles [DESCRIBE ACCOUNTS] by matching transactions, flagging discrepancies, generating exception reports, and updating records after review.
+170. Knowledge Base Update System
+Design an automation that monitors [DESCRIBE SOURCES] for new information, suggests updates to [KNOWLEDGE BASE], routes them for approval, and publishes approved updates.
+171. Automate Meeting Follow-Ups
+Design an automation that processes meeting transcripts, extracts action items, assigns them to owners, creates tasks in [PROJECT MANAGEMENT TOOL], and sends follow-up emails.
+172. Build a Price Monitoring System
+Design an automation that monitors competitor prices for [DESCRIBE PRODUCTS] across [CHANNELS], alerts when significant changes occur, and provides recommendations.
+173. Automate Job Posting, Screening
+Design an automation for the recruitment process that posts jobs, screens applications against [CRITERIA], schedules interviews for qualified candidates, and sends rejections.
+174. Compliance Monitoring System
+Design an automation that monitors [DESCRIBE ACTIVITIES] for compliance with [REGULATIONS], flags potential violations, and generates audit-ready reports.
+175. Automate Customer Win-Back
+Design an automated win-back campaign for churned customers. What triggers it, what is the sequence of messages, what offers are made, and when does it give up?
+176. Partner Integration Automation
+Design an automation that handles data exchange with [DESCRIBE PARTNER SYSTEM]. How does data flow, how are conflicts resolved, and how are errors handled?
+177. Automate Performance Reviews
+Design an automated performance review process that collects peer feedback, self assessments, and manager input, aggregates it, and generates review documents.
+178. Document Approval Workflow
+Design an automated document approval workflow for [DESCRIBE DOCUMENT TYPE]. Who reviews at each stage, what triggers advancement, and how are rejections handled?
+179. Automate Customer Health Scoring
+Design an automation that monitors [DESCRIBE CUSTOMER SIGNALS], calculates health scores, segments customers by risk, and triggers appropriate outreach for at-risk accounts.
+180. Webhook Event Processing System
+Design a system that receives webhook events from [DESCRIBE SERVICES], routes them to the right handlers, processes them reliably, and handles retries and failures.

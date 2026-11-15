@@ -1,0 +1,24 @@
+openclaw-onboard
+Microsoft Windows [Version 10.0.26200.7840]
+(c) Microsoft Corporation. All rights reserved.
+C:\Users\Partha Dolui>openclaw
+OpenClaw 2026.2.9 (33c75cb)
+Windows detected - OpenClaw runs great on WSL2!
+Native Windows might be trickier.
+Quick setup: wsl --install (one command, one reboot)
+Guide: https://docs.openclaw.ai/windows
+OPENCLAW
+OpenClaw onboarding
+Security
+Security warning - please read.
+OpenClaw is a hobby project and still in beta. Expect sharp edges.
+This bot can read files and still in beta. Expect sharp run actions if tools are enabled.
+A bad prompt can trick it into doing unsafe things.
+If you're not comfortable with basic security and access control, don't run OpenClaw.
+Ask someone experienced to help before enabling tools or exposing it to the internet.
+@witecha
+@divyanshisharma
+10 THINGS I WISH
+I KNEW BEFORE USING
+OPENCLAW
+SWIPE FOR MORE

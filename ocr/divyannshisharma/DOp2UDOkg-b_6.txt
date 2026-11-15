@@ -1,0 +1,27 @@
+Flow C:
+Newsletter Sync
+
+Create
+campaign in
+Omnisend
+
+n8n pulls
+clicks/opens
+→ write back
+notes
+
+Send
+WhatsApp
+lite summary
+to engaged
+segment
+
+Track with
+UTM:
+utm_source=
+whatsapp|sms
+
+$136,042.65
+
+$81,625.59
+Total campaign revenue

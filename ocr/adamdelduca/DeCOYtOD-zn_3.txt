@@ -1,0 +1,3 @@
+Then ask it:
+"Write me a 10-minute faceless YouTube script about [topic]. Hook in the first 5 seconds, a promise to stay till the end, text cues for every section. Nothing that requires me on camera."
+We want to maximize first 30 second retention on each video

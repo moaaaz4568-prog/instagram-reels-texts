@@ -1,0 +1,3 @@
+#6
+Providing examples is powerful
+Let's build a great prompt from scratch in the console

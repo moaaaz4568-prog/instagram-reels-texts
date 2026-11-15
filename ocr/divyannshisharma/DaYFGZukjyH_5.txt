@@ -1,0 +1,11 @@
+STEP 01
+Download.
+Claude Code went online and grabbed
+171 pages of real documentation.
+It hit a small coding error, noticed it,
+and fixed itself. No help needed.
+
+Fetch the docs
+Save everything local
+Auto-fix any errors
+Ready for the next step

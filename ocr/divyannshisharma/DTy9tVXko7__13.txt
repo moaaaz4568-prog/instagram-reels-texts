@@ -1,0 +1,28 @@
+Step #13
+Mini Video Studio
+Library
+Import
+Details
+AirplaneOverForest1 v2
+AirplaneOverForest1 v2
+Duration: 15s
+Status: Success
+Resolution: 1920x1080
+MP4(H.264)
+AI Prompt: remove the text "above the cloud"
+text below it
+Delete Version
+AI Edit
+Describe the changes you want to make...
+Project
+Select Timeline... + New
+Drag rendered videos here
+FHD
+360fps
+Download MP4
+Add to Timeline
+1920x1080 - 15s
+2D cartoons, intros, logos -
+unlimited possibilities!
+Alt Gr
+Ctrl

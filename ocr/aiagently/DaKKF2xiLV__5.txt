@@ -1,0 +1,4 @@
+Tip 5 – Pin Data
+Google Drive
+create: folder
+Stop triggering live APIs every time you tweak a node. Right-click any node and "Pin Data" to freeze its real output. Now you can edit and test everything downstream without wasting API credits, sending test emails, or waiting for slow triggers to fire again.

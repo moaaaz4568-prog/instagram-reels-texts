@@ -1,0 +1,5 @@
+The old playbook was:
+01. buy a list,
+02. write a template,
+03. blast it.
+That playbook gets worse every year.

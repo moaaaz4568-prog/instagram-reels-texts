@@ -1,0 +1,55 @@
+CLAUDE FORGETS
+BETWEEN SESSIONS
+
+*
+starts from zero
+
+4. Every new session starts from ZERO
+
+New session = re-explaining:
+→ What you built
+→ What you tried
+→ What failed
+→ What’s next
+
+Fix: Use persistent project memory
+so relevant context carries forward
+
+CODE / RULE
+# Example: index previous project conversations
+memory-tool index ~/claude/projects/
+--mode conversations
+
+PERSISTENT
+MEMORY ON
+Feeds useful previous
+context into Claude.
+
+YESTERDAY (HAS CONTEXT)
+Project knowledge exists.
+Claude remembers.
+Knows:
+✓ What you built
+✓ What you tried
+✓ What failed
+✓ What’s next
+
+NEW SESSION (EMPTY)
+Without memory, Claude
+starts from scratch.
+Knows:
+– Nothing
+– Nothing
+– Nothing
+– Nothing
+
+Context carried forward
+
+QUICK COMMAND
+memory-tool index ~/claude/projects/ --mode conversations
+
+Bottom line:
+Enable persistent memory. Stop re-explaining. Keep momentum.
+
+Retention line:
+Enable persistent memory. Stop re-explaining. Keep momentum.

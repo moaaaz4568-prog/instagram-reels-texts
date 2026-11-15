@@ -1,0 +1,11 @@
+03 / 05
+03
+One Prompt to Start
+Just type this into Claude. It loads your full system context and previous session.
+/continue
+And confirm your Voice DNA is active.
+System ready in under 60 seconds
+CLAUDE CODE
+SKILLS
+AI
+@divyanshisharma

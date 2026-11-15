@@ -1,0 +1,37 @@
+Google's Agent Whitepaper
+https://lnkd.in/gFvCfbSN
+
+kaggle
+Create
+Home
+Competitions
+Datasets
+Models
+Benchmarks
+Game Arena
+Code
+Learn
+Discussions
+More
+View Active Events
+
+Search
+Sign
+
+Agents
+Julia Wiesinger, Patrick Marlow and Vladimir Vuskovic
+
+Authors:
+
+Introduction
+Humans are fantastic at messy pattern recognition tasks. However, they often rely on tools - like books, Google Search, or a calculator - to help them make sense of the world. Just like humans, General Purpose AI models can be trained to use tools to access real-world information. For example, a model can leverage a database retrieval tool to access specific information, like a customer's order history. Or, a model can use a web browsing tool to find the latest news. These tools allow the model to go beyond its training data and access up-to-date information. But to truly be useful, a model must be able to decide when to use a tool, and how to use it. This is the core idea behind AI agents. An AI agent is a model that can perceive its environment, make decisions, and take actions to achieve a goal. This might involve using tools, planning steps, or even collaborating with other agents. The key is that the agent has a degree of autonomy and can act in a self-directed fashion. This combination of reasoning, logic, and access to external tools allows AI agents to solve complex problems that were previously out of reach for standalone models.
+
+Read the whitepaper below
+
+mir Vuskovic
+
+Google's Agents
+Ability to plan and execute any task
+Start with Whitepaper →
+
+@divyanshisharma

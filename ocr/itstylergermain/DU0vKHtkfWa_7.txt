@@ -1,0 +1,13 @@
+Some Clawdbot users got screwed...
+TOP SKILLS OUT TO BE MALWARE
+
+Confirmed: Infostealing malware
+I downloaded the final binary safely and submitted it to VirusTotal.
+The verdict was not ambiguous. It was flagged as macOS Infostealing malware.
+This is the type of malware that does
+everything valuable on that device.
+
+@itstylergermain
+save for later
+
+400+ malicious skills were uploaded to ClawHub disguised as crypto and productivity tools. Users who installed them got hit with info-stealing malware that grabbed passwords and API keys. There was zero vetting on the registry.

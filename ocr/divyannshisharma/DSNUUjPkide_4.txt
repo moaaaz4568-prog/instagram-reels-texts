@@ -1,0 +1,7 @@
+Step #4
+Models
+Google: Gemini 3 Pro Preview
+ThenPerf: GTE-Base
+ThenPerf: GTE-Large
+Infiact: LS-E-Large-v2
+Use OpenRouter: One account, 500+ models including Gemini 3 Pro.

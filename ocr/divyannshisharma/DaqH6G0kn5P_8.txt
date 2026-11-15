@@ -1,0 +1,30 @@
+Slide 9 —
+The shift
+in mindset
+
+Most people try to control
+AI by writing better prompts.
+
+That works up to a point.
+
+But with Fable 5, the bigger
+lever is designing the
+environment the model
+runs in:
+
+Give it a rubric
+to grade against
+
+Let a separate
+grader do the
+checking
+
+Give it memory that
+persists across
+sessions
+
+Let it self-correct until
+the rubric is satisfied
+
+Stop steering. Start designing
+the loop. The model does the rest.

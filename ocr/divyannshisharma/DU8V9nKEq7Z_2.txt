@@ -1,0 +1,7 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Content Pipeline:
+Content Pipeline
+New Tab
+Prompt
+Please build me a content pipeline tool. I want it to have every stage of content creation in it. I should be able to edit ideas and put full scripts in it and attach images if need be. I want you to manage this pipeline with me and add wherever you can.

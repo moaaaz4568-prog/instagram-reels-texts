@@ -1,0 +1,14 @@
+USE CASE 02
+Generate your
+entire ad campaign.
+AI creates image and video ads in parallel,
+reviews every creative, rejects weak ones, and keeps only the best.
+Ad Campaign Just Upload 1 Prompt They
+Generate the whole campaign in minutes
+Generate the campaign in minutes
+Complete ad campaign for [product]. Read my website and offer
+first, then generate multiple image and video ads in parallel. Review
+every creative for spelling, branding, messaging, and quality. Reject weak
+ads, keep the strongest ones, organize them into Approved and Rejected
+folders, and recommend the top 3 to launch first with a short reason.
+STARTER PROMPT

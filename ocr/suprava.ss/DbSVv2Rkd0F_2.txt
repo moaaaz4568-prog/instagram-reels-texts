@@ -1,0 +1,20 @@
+scrapes reddit → shows you who your customers are
+03 / 20
+GitHub
+public repository
+praw-dev / praw
+Public
+Fork
+Star 4.2k
+praw
+Used by your lead list
++ thousands
+Python
+4.2k
+WHAT IT DOES
+python wrapper for pulling data out of reddit's api.
+WHO TO MINT FOR
+every project that scrapes reddit at scale. sell them the done-for-you version.
+THE EXACT LINK
+github.com/praw-dev/praw/network/dependents
+the github method

@@ -1,0 +1,35 @@
+#6
+Virtual machine provisioning happens in the
+background
+SimpleClaw.com
+Deploy OpenClaw under 1 minute
+Avoid all technical complexity and one-click deploy your own 24/7 active
+OpenClaw instance under 1 minute.
+Purchasing local virtual machine
+Do not switch to other tabs. This only takes a few seconds.
+Comparison
+Traditional Method vs SimpleClaw
+2:11
+Bat+AI
+Good. Now let's choose a name for
+your bot. I suggest end_in. Like this
+example: "General bot" or "Sales
+Bot".
+Jan29 2:15 PM
+Done! Congratulations on your new bot.
+You can find it in the "My Bots" section
+and profile picture for your bot,
+write a short description of what your
+bot can do, and connect it to your
+tool, when you're finished creating your
+bot, we'll go over the next steps and
+get it fully operational before you go.
+Use this token to access the HTTP API:
+sk-61f47d02-8cc8-11ef-8a03-0242ac
+12000003
+You can also use "access_token" and
+expiry to authenticate with the API.
+Note: Keep this token secure. Do not
+share it with anyone.
+Jan29 2:17 PM
+Message

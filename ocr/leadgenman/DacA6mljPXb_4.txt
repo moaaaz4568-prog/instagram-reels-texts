@@ -1,0 +1,13 @@
+Do you test each feature
+before you add the next one?
+VIBE CODING
+Human AI robot Code stack Test Deployment
+That's how you skip the
+debugging nightmare.
+Level up!
+YES
+NO
+Building fast feels good, but stacking
+on a broken feature hides the bug. Click
+through first, then add more. Click
+more.

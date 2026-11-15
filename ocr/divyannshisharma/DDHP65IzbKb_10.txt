@@ -1,0 +1,22 @@
+prompt 9 →
+Draft a Linkedin
+Connection Request
+
+Prompt:
+You are an experienced career coach.
+Based on the following linkedin profile, could you please
+generate a summary of this person’s career
+accomplishments, and highlight their top three achievements.
+Please provide as much detail as possible, including relevant
+skills, experiences, and positions held that showcase their
+expertise in the field.
+Here’s their profile
+
+I’m seeking a job and would like to connect with this person over LinkedIn.
+Based on their top three accomplishments, give me three actionable
+ideas on how I can get them to accept a connection request from me.
+Explain using detailed examples. Let’s think step-by-step.
+
+Certainly! Connecting with influential professionals on LinkedIn requires a strategic approach. Here’s
+a step-by-step guide based on Adam Broda’s top three accomplishments:
+1. Engage with Broda Coaching Content:

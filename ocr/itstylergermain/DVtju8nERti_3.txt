@@ -1,0 +1,7 @@
+Clean up your inbox
+This is a game changer
+Build an hourly cron job that scans my Gmail inbox, triages new emails into URGENT / NEEDS REPLY / FYI / JUNK, auto-labels using my existing labels (infer meaning from history), and saves drafted replies for URGENT and NEEDS REPLY emails – to one-matched to my last 20 sent emails. Never auto-send.
+You already have access to the Google Workspace CLI, and my (Tyler Germain’s) Workspace CLI Skill from AI Innovators.
+Store state in emails_processed.json. Log to inbox_manager.log.
+@itstylergermain
+save for later

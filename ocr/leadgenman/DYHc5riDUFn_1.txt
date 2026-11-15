@@ -1,0 +1,23 @@
+CLAUDE.md
+Your AI's instruction manual.
+
+You define:
+• Project rules & conventions
+• Code style preferences
+• Architecture decisions
+
+Without CLAUDE.md, Claude is just guessing.
+
+Manthan's Project Instructions
+# NotifyMotion --
+## Code Standards & Conventions
+- TypeScript strict, no 'any' types
+- @phosphor-icons/react for all icons
+- Dark mode default, light works day 1
+## Architecture
+- Canvas 2D + Zustand for global state
+- WebCodecs + MediaRecorder for MP4 export
+## Commit Format (after every change)
+- NM-XXX: clear description
+- Co-Authored-By: Manthan Patel
+## Never push unless Manthan says so.

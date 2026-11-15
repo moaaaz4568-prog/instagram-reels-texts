@@ -1,0 +1,13 @@
+Tool 7
+Supabase
+In a nutshell:
+Open-source backend platform. Postgres database,
+authentication, storage, and real-time updates all in one.
+I use it for:
+When I need a real backend for apps or automations. More
+powerful than Airtable for anything technical.
+Works with:
+n8n
+Lovable
+Resend
+Stripe

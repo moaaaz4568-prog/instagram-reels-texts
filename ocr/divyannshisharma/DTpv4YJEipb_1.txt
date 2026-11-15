@@ -1,0 +1,26 @@
+Step #1
+Overview
+All the workflows, credentials and data tables you have access to
+Prod. executions Last 7 days
+Failed prod. executions Last 7 days
+Executions Last 7 days
+Failure rate Last 7 days
+Time saved Last 7 days
+0 -100%
+0 -100%
+0%
+0s
+Workflows Credentials Executions Data tables Beta
+Search Sort by last updated
+Fitness App Google AI Studio n8n workflow
+Last updated 1 hour ago | Created 11 November
+Stop Using MCPs! This N8N AI Builder Does IT. Ins
+Last updated 16 hours ago | Created 5 November
+Skool COPY | Anime Video Shorts Automator
+Last updated 1 week ago | Created 6 November
+Total 41 1 50/page
+Personal Inactive
+Personal Inactive
+Personal Inactive
+Open your N8N dashboard and
+start building AI workflows.

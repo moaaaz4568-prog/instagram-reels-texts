@@ -1,0 +1,26 @@
+Claude-Code.exe -- Installing skills/
+File Edit View Help
+Component 2/3: skills/
+Skills are markdown files.
+Claude reads when a task matches.
+C:\> type skills
+// .claude/skills/commit/SKILL.md
+---
+name: commit
+description: stage, commit, and push
+only when the user says "commit".
+---
+# Commit skill
+1. git status 2. git diff
+3. git commit -m "NM-XXX: ..."
+Skills = superpowers. Teach once, use forever.
+Installing skills...
+66%
+< Back
+Next >
+Cancel
+Start
+Claude -- skills/
+4:25 PM
+Skills vs Ag
+Skills teach, age

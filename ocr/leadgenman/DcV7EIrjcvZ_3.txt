@@ -1,0 +1,9 @@
+Before AI :
+Have you
+read the
+docs?
+
+After AI :
+Has the AI
+agent read
+the docs?

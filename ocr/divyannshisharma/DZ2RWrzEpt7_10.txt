@@ -1,0 +1,27 @@
+10
+VISION & MULTIMODAL
+beyond text.
+
+64 moondream
+10K tiny vision language model. 1.6B parameters. describe images, answer visual questions, detect objects. runs on a raspberry pi.
+github.com/vikhyat/moondream
+
+65 internvl
+7K state of the art open-source vision model. matches gpt-4v on most benchmarks. understands images, charts, documents, screenshots.
+github.com/OpenGVLab/InternVL
+
+66 whisper
+74K open-source speech recognition by openai. transcribes audio in 99 languages. handles accents, background noise, jargon.
+github.com/openai/whisper
+
+67 fast-whisper
+8K whisper but 10-20x faster. one command, automatic gpu optimization. transcribe a 2-hour podcast in 2 minutes.
+github.com/Vaibhavs10/insanely-fast-whisper
+
+68 diffusion-webui
+143K browser interface for stable diffusion. generate, edit, upscale images from text. hundreds of extensions. controlnet, inpainting.
+github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Divyanshi sharma
+10/10
+10/10

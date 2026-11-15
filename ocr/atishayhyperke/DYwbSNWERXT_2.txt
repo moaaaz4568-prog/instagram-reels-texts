@@ -1,0 +1,5 @@
+Step 2: Filter with AI
+Before any email goes out, Claude Code filters the raw list down.
+Sonnet sub-agents verify ICP fit on each row.
+Output: 40,000 qualified leads.
+This happens before Clay sees a single row, so we only pay to enrich leads that actually match.

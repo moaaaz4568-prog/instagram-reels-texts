@@ -1,0 +1,3 @@
+Step 2:
+I built a simple content system and kept the whole operation focused on ONE thing
+Getting the right viewer to watch, trust, and come back

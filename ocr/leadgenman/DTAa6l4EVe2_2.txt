@@ -1,0 +1,14 @@
+2. AI Agents
+
+What It Is:
+Agents are AI workers that don't just reply but actually complete tasks end-to-end without your input.
+
+When To Use It:
+Automating jobs you'd normally hand to an intern or burn your time: lead gen, research, scheduling, etc.
+
+Tools:
+
+AgentKit
+LangGraph
+CrewAI
+LangChain

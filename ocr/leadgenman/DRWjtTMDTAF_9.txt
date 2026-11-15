@@ -1,0 +1,11 @@
+Webhook
+Get row(s) in sheet
+read: sheet
+Your n8n is now officially a
+Google Sheets pro!
+You can now build powerful workflows like:
+✅ Generate daily sales reports automatically.
+✅ Send WhatsApp notifications whenever a new row
+is added.
+✅ Update product inventories in real-time.
+The sky’s the limit!

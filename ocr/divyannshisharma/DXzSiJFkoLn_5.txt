@@ -1,0 +1,41 @@
+5. Skill Collections
+
+The most popular skills library for Claude Code
+* 148k+ stars
+* brainstorm → spec → plan → TDD → review
+* subagent orchestration
+
+Repo: https://github.com/obra/sub
+
+Official marketplace for the Superpowers ecosystem
+* 20+ battle-tested skills
+* /brainstorm, /write-plan, /execute-plan
+* context injection
+* SessionStart superpowers
+
+Repo: https://github.com/obra/superpowers-marketplace
+
+Community-editable skills for Superpowers
+* auto-cloned to ~/.config/superpowers
+* fork and submit PRs
+* the collaborative side
+
+Repo: https://github.com/obra/superpowers-skills
+
+Experimental skills under active development
+* face-function detection
+* bleeding-edge techniques
+* evolves with repowers-skills
+
+Repo: https://github.com/obra/superpowers-lab
+
+Hackathon-winning harness built from 10+ months
+* 30 agents, 136 skills, 60 slash commands
+* 1282 tests, 98% coverage
+* Cerebral Valley x Anthropic winner
+
+Repo: https://github.com/afflan-m/everything-claude-code
+
+Divyanshi sharma
+
+Category 3/10

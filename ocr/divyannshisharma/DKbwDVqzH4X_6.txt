@@ -1,0 +1,30 @@
+5
+Use the
+Gsheet Formula
+Use the function like any standard Google
+Sheets formula:
+=findCompetitors("Company Name")
+C2
+fx
+=findcompetitors(A1)
+A
+B
+C
+D
+1
+companyname
+domainname
+Competitors
+2
+Lav
+lav.com
+=findcompetitors(A1)
+3
+Barry
+barry.co
+4
+Notion
+notion.com
+5
+Datamail
+datam.com

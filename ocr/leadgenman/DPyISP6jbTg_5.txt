@@ -1,0 +1,8 @@
+Test, Monitor & Refine
+After deployment, continually test, monitor, and refine the AI to ensure it's performing as expected.
+• Is the Agent working correctly?
+• What improvements can be made based on real-time data?
+LangSmith
+Langfuse
+arize
+weave

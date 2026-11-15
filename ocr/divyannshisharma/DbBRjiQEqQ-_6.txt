@@ -1,0 +1,11 @@
+Research Automation
+
+#21 Competitor Monitor Weekly Claude searches for news, product updates, pricing changes, and statements from top 5 competitors. Competitive intelligence brief delivered automatically.
+
+#22 Industry News Digest Daily at 6am Claude searches your industry for the latest news, filters for relevance, and produces a 5-bullet summary. Your personal morning brief.
+
+#23 Research Paper Summarizer Drop any research paper or technical document into Claude. Get key findings, methodology, limitations, and practical implications back in plain English.
+
+#24 Market Size Calculator Give Claude a product idea and target market. It estimates market size using real data, shows its assumptions, and gives you a range instead of a made-up number.
+
+#25 Survey Result Analyzer Paste raw survey data. Claude finds top themes, calculates distributions, highlights surprising findings, and produces a presentation-ready summary.

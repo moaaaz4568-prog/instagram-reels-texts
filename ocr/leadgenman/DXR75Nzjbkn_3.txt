@@ -1,0 +1,6 @@
+FIX 3 OF 5
+The Title
+Strawberry Sunrise Smoothie $14
+BEFORE
+Title loses weight. Price moves to serif, 50px.
+AFTER

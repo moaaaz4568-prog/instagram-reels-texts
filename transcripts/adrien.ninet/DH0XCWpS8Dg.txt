@@ -1,0 +1,5 @@
+Got it. Here’s the raw transcription as requested:
+
+"How do new ChatGPT can help you design websites 10x faster? First open ChatGPT and select the 4o model. Upload a reference website and your product image. Then ask the AI to integrate your products into the reference layouts and use the result as design inspirations. Now let's generate consistent brand assets and illustrations. Crop them, remove the background, and drop them into your design. Comment GPT.
+
+I'll send you all the prompts I used in the video."

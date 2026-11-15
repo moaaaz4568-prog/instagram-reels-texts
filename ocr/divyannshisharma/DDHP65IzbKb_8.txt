@@ -1,0 +1,14 @@
+prompt 7 →
+Write icebreaker from LinkedIn post
+
+Prompt:
+Use the input to complete my sentence in under 8 words.
+Keep the output short and use specific keywords from the post.
+These are social media posts by other people, and I would just like to know the main idea of each post.
+The input is this: {{LinkedIn Post}}. Complete the output with my prefix.
+This is my prefix: "I just wanted to reach out because I saw your post about"
+
+What will be your score? Complete the output with my prefix.
+This is my prefix: "I just wanted to reach out because I saw your post about"
+
+I just wanted to reach out because I saw your post about avoiding the spam folder through deliverability audits.

@@ -1,0 +1,13 @@
+Developer Tools:
+
+10. GitHub MCP (Official Anthropic): Full GitHub integration. Read repos, create issues, manage pull requests, search code, review commits. Essential for any AI-assisted development workflow.
+https://github.com/modelcontextprotocol/servers/tree/main/src/github
+
+11. Git MCP: Direct Git operations without going through GitHub's API. Clone, commit, branch, merge, diff. Works with any Git repository, not just GitHub.
+https://github.com/modelcontextprotocol/servers/tree/main/src/git
+
+12. Context7: Injects up-to-date library documentation into Claude's context. No more hallucinated APIs or deprecated methods. Add "use context7" to your prompt and it pulls current docs for Next.js, React, Supabase, MongoDB, and thousands more.
+https://github.com/upstash/context7
+
+13. MCP Playwright: Browser automation for AI agents. Control a real browser through natural language. Navigate pages, click buttons, fill forms, take screenshots, extract data. Essential for testing and web scraping.
+https://github.com/executeautomation/mcp-playwright

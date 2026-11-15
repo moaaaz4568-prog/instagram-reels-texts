@@ -1,0 +1,17 @@
+Tip #2
+ALWAYS ENABLE
+Row Level Security
+Table Editor
+Security (RLS)
+Row Level Security (RLS)
+You can enable and control who can read, write and
+update data in this table using Row Level Security.
+With RLS enabled, anonymous users will not be able to
+read/write data in the table.
+Enable RLS for this table
+If your Supabase tables don't have
+RLS enabled, ANYONE with your
+project URL can read, edit, or
+delete your entire database.
+@itstylergermain
+save for later

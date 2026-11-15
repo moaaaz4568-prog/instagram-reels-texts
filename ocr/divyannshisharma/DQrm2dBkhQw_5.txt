@@ -1,0 +1,14 @@
+2 Manually Verify Accounts
+
+• Before scraping, Verify each account:
+  - Check the username on X.
+  - Confirm: [Image: flowchart]
+  - Follower count (within range)
+  - Post engagement (avg. 10K views/post)
+  - Relevance to your audience
+
+• Example:
+  - @stevejobsfan – Co-founder of Apple, ~600K followers, solid engagement [green checkmark]
+  - @drewhouston – Dropbox founder, ~208K followers [green checkmark]
+
+Repeat this for 5–10 quality accounts. You’ll now have your seed list.

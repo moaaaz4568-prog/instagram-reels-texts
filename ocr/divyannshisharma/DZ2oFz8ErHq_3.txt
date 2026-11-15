@@ -1,0 +1,28 @@
+TEMPLATE 2
+Specialized Agents
+
+DESCRIPTION
+Specialized Agents are designed to perform specific professional roles within a project. For example, some agents focus on front-end development, while others handle backend engineering, quality testing, or marketing tasks. Each agent works within its area of expertise to produce better results. Together they function like a complete digital team.
+
+com/skills
+CLAUDE CODE
+Ready-to-use config
+Blog
+
+CREATIVE DESIGN
+Skill
+Abilities with disclosure
+
+Frontend Design
+Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks ...
+
+DEVELOPMENT
+Architect
++ 4.4K
+Software architecture that are scalable.
+
+Senior Backend
+Comprehensive backend development for building scalable backends
+
+MORE INFO
+https://x.com/juliangoldiee/status/2030509062836912402?s=46

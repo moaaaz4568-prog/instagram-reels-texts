@@ -1,0 +1,2 @@
+skills / docx /
+Creates and edits Word documents with proper formatting, tracked changes, and comments.

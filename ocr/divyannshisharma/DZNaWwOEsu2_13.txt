@@ -1,0 +1,56 @@
+SLIDE 14 —
+THE STARTER STACK
+✅ Smart Connections ✅ Template ✅ Dataview ✅ connected to Claude
+✅ Periodic Notes ✅ Tasks ✅ mcpvault connected to Claude
+
+5 plugins + 1 connection.
+One afternoon.
+Hours saved every week.
+
+Settings
+General
+Editor
+Files and links
+Appearance
+Hotkeys
+Core plugins
+Community plugins
+About
+
+Community plugins
+Browse and install community plugins made by our amazing community.
+Safe mode is off. Turn on safe mode to disable community plugins.
+
+Installed plugins (5)
+Smart Connections
+By Brian Petro
+1.1.11
+Reveals hidden connections in your notes.
+Toggle
+
+Periodic Notes
+By Liam Cain
+0.3.17
+Create and navigate periodic notes.
+Toggle
+
+Natural Language Dates
+By Liam Cain
+0.6.1
+Parse natural language dates in your notes.
+Toggle
+
+Advanced Tables
+By Tony Grossinger
+0.20.1
+Advanced table navigation and manipulation.
+Toggle
+
+Style Settings
+By mgmeyers
+1.0.8
+Adjust theme, plugin, and setting CSS variables.
+Toggle
+
+My Second Brain
+Show 8 disabled plugins

@@ -1,0 +1,34 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Security self-check:
+https://clawdhub.com/peterokase42/dont-hack-me
+Gallery
+Skills Categories Blog Advertise English
+← Back to list
+clawdhub.com archived
+web-search-plus
+by clawdbot
+All versions of all skills that are on clawdhub
+7 1 6 Jan 24, 2026
+archive backup clawdbot clawdhub
+View on GitHub Run in Manus Copy SKILL.md
+Overview SKILL.md Related Score Reviews
+SKILL.md
+name: web-search-plus description: Unified search skill with Smart
+description: Unified search skill with Smart
+Quality Score
+65 / 100
+Basic Info
+License MIT
+Language Python
+Last Updated Jan 24, 2026
+Synced Jan 24, 2026
+Install
+.claude/skills/install
+mkdir -p .claude/skills/web-search-plu
+s
+curl -o .claude/skills/web-search-plu
+s/SKILL.md https://raw.githubusercontent.com/cl
+wdbot/skills/main/skills/robbygpt-we
+Comment “SEND” to get the link.
+.....

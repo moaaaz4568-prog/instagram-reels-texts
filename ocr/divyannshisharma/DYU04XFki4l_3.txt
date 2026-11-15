@@ -1,0 +1,64 @@
+@os.operator
+operatoros.ai
+DAY 1 → LEARN CLAUDE PROPERLY
+project/
+ANTHROPIC
+4.
+In Action
+PRACTICAL TIME
+Build. Test. Iterate.
+Get better every prompt.
+YOU'LL DO:
+build a real mini project with Claude
+test different prompting patterns
+iterate and improve outputs
+ship your first AI-built thing
+Practice is the fastest way to fluency.
+SAVE THIS POST
+Resource at the end →
+Anthropic Academy / Courses
+Claude Code in Action
+Practical walkthrough of using Claude Code to accelerate your development workflow
+Enroll in Course
+FREE
+Already registered? Sign In
+Share on X
+Share on LinkedIn
+About this course
+This course covers Claude Code, a command-line AI assistant that uses language models to perform development tasks. You'll learn how Claude Code reads files, executes commands, and modifies code through its tool system, along with techniques for managing context, creating custom workflows, extending Claude Code with hooks, and integrating with external services.
+Learning objectives
+By the end of this course, you'll be able to:
+• Use Claude Code's core tools for file manipulation, command execution, and code analysis
+• Manage context effectively using /init, Claude me, files, and @mentions
+• Control conversation flow with a variety of hooks and commands
+• Enable Plan Mode and Thinking Mode for complex tasks requiring deeper analysis
+• Create custom commands for automating repetitive development workflows
+• Extend Claude Code with MCP servers to add browser automation and other capabilities
+• Set up GitHub integration for automated PR reviews and issue handling
+• Write hooks to add additional behavior into Claude Code
+Prerequisites
+• Basic familiarity with command line interfaces
+• Access to Claude Code and an API key
+Who this course is for
+Engineers who want to speed up their development workflow with AI assistance
+/build a mini project with Claude
+macOS | opus 4.6 | operatoros-agency
+⚠️ bypass permissions on (shift+tab to cycle)
+$ write ~/claude/projects/app.py
+from flask import Flask, jsonify
+app = Flask(__name__)
+@app.route("/")
+def home():
+    return jsonify({
+        "message": "Hello from Claude!"
+    })
+if __name__ == "__main__":
+    app.run(debug=True)
+Terminal
+Python app.py
+Serving Flask app
+Debug mode: on
+INFO: Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+PROMPT PATTERN I USED:
+Build a simple Flask API with one route that returns a JSON saying "Hello from Claude". Keep it clean and beginner-friendly.

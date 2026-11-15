@@ -1,0 +1,8 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Next, copy the transcript of a popular video
+
+Enter it into Claude and have it analyze the transcript
+
+Then generate a new script based on your selected topic

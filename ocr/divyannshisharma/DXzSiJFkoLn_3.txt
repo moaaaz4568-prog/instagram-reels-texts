@@ -1,0 +1,52 @@
+3. Anthropic Repos
+
+The official Claude Code terminal tool
+* 55k+ stars
+* natural language commands for your codebase
+* maintained by Anthropic
+Repo: https://github.com/anthropics/claude-code
+
+Reply...
++ 📋
+
+Official public repository of Agent Skills
+* 37.5k+ stars
+* PDF, DOCX, XLSX, PPTX + art generation
+* skills reference
+* the canonical skills/claude-code
+Repo: https://github.com/anthropics/skills
+
+Reply...
++ 📋
+
+Anthropic-managed directory of quality plugins
+* 2.8k+ stars
+* vetted official plugin collection
+* good baseline for teams
+Repo: https://github.com/anthropics/claude-plugins
+
+Reply...
++ 📋
+
+Official Python SDK for Claude Code
+* 6.1k+ stars
+* programmatic access to capabilities
+* SDK patterns
+* supports Agent
+Repo: https://github.com/anthropics/claude-code-sdk-python
+
+Reply...
++ 📋
+
+Official TypeScript SDK for Claude Agent
+* type-safe tool orchestration
+* streaming + MCP support
+* V2 preview with send()/stream()
+Repo: https://github.com/anthropics/claude-agent-sdk-typescript
+
+Reply...
++ 📋
+
+Divyanshi sharma
+
+Category 2/10

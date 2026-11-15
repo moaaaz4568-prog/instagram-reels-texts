@@ -1,0 +1,4 @@
+Step #17
+Use {{personalization}} variable in sequence
+{{personalization}}
+able in sequence

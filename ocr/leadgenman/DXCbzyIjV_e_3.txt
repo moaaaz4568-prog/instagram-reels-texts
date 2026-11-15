@@ -1,0 +1,14 @@
+STEP 2 OF 5
+Season with Auth
+Auth is the salt. Everything tastes wrong without it.
+$ supabase init
+Generated supabase/config.toml
+$ supabase start
+API URL: http://localhost:54321
+Studio URL: http://localhost:54323
+Anon key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+• Google OAuth in 5 min
+• RLS policies on all tables
+• Session middleware
+Chef's tip:
+Enable RLS on every table from day one. Retrofitting is 10x harder.

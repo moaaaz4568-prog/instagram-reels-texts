@@ -1,0 +1,9 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Uploads images to our separate repository
+Commits to GitHub, opens a PR
+Waits for Vercel preview to build
+Sends me only the preview link
+I review on my phone, reply with feedback
+We iterate until approved
+Index it in GSC when it pushed

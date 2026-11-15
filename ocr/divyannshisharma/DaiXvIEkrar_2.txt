@@ -1,0 +1,30 @@
+SLIDE 3 | THE PART NOBODY ADMITS
+BODY ADMITS
+Building an agent
+that maximizes the
+model’s potential is
+genuinely difficult.
+Building an agent that maximizes the
+model’s potential is genuinely difficult
+1 in 3
+Developers struggle
+with memory and
+context management
+50%
+Companies cite infra
+concerns as their #1
+production blocker
+54%
+Agents are running
+with no formal
+observability
+1 in 3 developers get stuck on
+memory and context.
+50% of companies call infra
+their #1 blocker.
+54% of agents
+run with zero
+visibility into what
+they’re doing.
+The model isn’t the hard part —
+the system around it is.

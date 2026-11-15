@@ -1,0 +1,19 @@
+divyanshisharma
+4/4 Category (Prompt 196 - 200)
+Category 4:
+Automation
+
+196. Learning Management Automation
+Design automations for [LMS PLATFORM] that assign courses based on [CRITERIA], send reminders, track completion, report to managers, and issue certificates.
+
+197. Social Listening and Response
+Design an automation that monitors social media for mentions of [BRAND/TOPIC] and classifies them by sentiment and urgency, and routes to the right person for response.
+
+198. Build a Release Management
+Design an automated release management process for [DESCRIBE APPLICATION]. How are releases staged, tested, approved, deployed, and monitored?
+
+199. Grant and Proposal Management
+Design an automation that tracks grant deadlines, compiles required documents, routes for review and approval, submits applications, and tracks outcomes.
+
+200. Build a Crisis Communication
+Design an automated crisis communication system that detects [DESCRIBE TRIGGER EVENTS], activates the response team, drafts communications, manages the approval and distribution.

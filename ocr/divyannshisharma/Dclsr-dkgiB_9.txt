@@ -1,0 +1,84 @@
+FINAL TAKEAWAY
+
+CONTENT
+Claude Code doesn't need more context.
+It needs better context.
+Give it the right files.
+Route work to the right model.
+Filter noise.
+Preserve memory.
+Compress external content.
+Reuse context.
+Keep answers concise.
+
+Better context.
+Less noise.
+Lower cost.
+Same quality.
+
+CONTEXT FILTER PIPELINE
+(OPTIMIZED FLOW)
+
+01 STRUCTURED CODE SEARCH
+02 SMART MODEL ROUTING
+03 CLI OUTPUT FILTERING
+04 PERSISTENT MEMORY
+05 URL COMPRESSION
+06 REUSE FILE CONTEXT
+07 CONCISE OUTPUT
+
+MESSY INPUTS
+(HIGH TOKEN WASTE)
+
+CODE FILES
+Unstructured,
+duplicate,
+irrelevant parts
+
+LOGS
+Verbose, repetitive,
+low signal
+
+HTML / WEB PAGES
+Headers, footers,
+nav, ads, junk
+
+REPEATED FILES
+Read again
+and again
+
+VERBOSE OUTPUT
+Long preambles,
+extra explanations
+
+CLEAN CONTEXT
+(LEAN & USEFUL)
+
+RELEVANT CODE
+Only what matters
+
+RIGHT MODEL
+Best fit for the task
+
+NO NOISE
+Only useful output
+
+MEMORY PRESERVED
+Context carries forward
+
+COMPRESSED CONTENT
+Small, focused
+information
+
+CONTEXT REUSED
+No wasted reads
+
+SHORT ANSWERS
+Concise & direct
+
+MORE CONTEXT ✕ → BETTER CONTEXT √
+
+Better context.
+Less noise.
+Lower cost.
+Same quality.

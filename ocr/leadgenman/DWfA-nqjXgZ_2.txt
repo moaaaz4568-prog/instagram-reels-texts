@@ -1,0 +1,23 @@
+5x
+Skill
+Reusable agentic workflow
+SKILL.md - Notepad
+File Edit Format View Help
+# /find-webinar-leads
+---
+description: Screen webinar leads
+---
+## Instructions
+1. Screen each participant
+2. Score by company fit
+3. Rank and return top leads
+Terminal -- claude
+$ claude /find-webinar-leads
+No questions asked. Running skill...
+Calls /find-webinar-leads
+Screens list automatically
+Same output every time
+Ranked list returned.
+Repeatable output. No questions asked.
+@leadgenman
+03 / 07

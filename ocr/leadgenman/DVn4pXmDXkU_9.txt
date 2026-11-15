@@ -1,0 +1,11 @@
+Segment Anything Models
+You point at an object → SAM outlines it perfectly, instantly.
+How it processes information:
+• Vision Transformer encodes the entire image
+• Prompt encoder encodes your point/box
+• Mask decoder merges both
+• Output = pixel-accurate segmentation
+Why it works:
+SAM generalizes across images – no retraining needed.
+Think of it as:
+A universal "select object" tool for the real world.

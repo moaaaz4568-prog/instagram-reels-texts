@@ -1,0 +1,18 @@
+3. BUILD SKILLS
+
+Code Summit
+ANTHROPIC
+Claude
+Agent
+MCP server 2
+MCP server 3
+Filesystem
+Skill
+Skill
+Skill
+DON'T BUILD AGENTS !
+Build Skills Instead
+16:22
+Don't Build Agents, Build Skills Instead
+@aiDotEngineer 30K likes 1.5M views 9mo ago
+Two Anthropic engineers argue that most people over build. Instead of wiring a custom agent for every task, you give one capable model a folder of skills it loads when needed. The clearest explanation of agent architecture right now, and one of only two talks on the AI Engineer channel past 1.5 million views.

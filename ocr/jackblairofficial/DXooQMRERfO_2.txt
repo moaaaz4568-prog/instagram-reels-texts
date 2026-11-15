@@ -1,0 +1,18 @@
+Jack Blair
+@jackblairofficial
+
+02. Voice Tester
+
+"Here is my personal outreach voice profile: [paste the output from the previous prompt].
+Here is a cold outreach: [paste your message].
+
+Score this message out of 10 for how well it matches my voice profile.
+Tell me exactly where it drifts from my natural voice, which lines sound the most generic, and rewrite the 2 weakest lines in a way that sounds authentically mine.
+
+Tone of feedback: direct, specific, no softening.
+No fluff."
+
+You stop sending messages that feel like someone else wrote them.
+Every line you send now sounds like it came from you on your best day.
+
+CloserCoach.ai

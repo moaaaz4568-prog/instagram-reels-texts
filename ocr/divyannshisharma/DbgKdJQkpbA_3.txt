@@ -1,0 +1,32 @@
+Use Case 1:
+build it AND
+test it
+
+File Edit Selection ...
+EXPLORER
+BROWSER AUTOMATION DEMO
+> .claude
+> node_modules
+> screenshots
+> playwright-homepage.png
+CLAUDE.md
+js demo.js
+package-lock.json
+package.json
+
+need you to build me a ... Browser Automation Demo - Visual Studio Code
+08:00:00
+
+I need you to build me a form submission ...
+I want you to build me a form submission website now. I want this to basically be one page per question. As soon as I open up the page, it should ask me for my first name, and then there should be a button that prompts me to next page, and then I have my last name, my phone number, my business, and maybe, let's say eight questions about me, kind of getting me onboarded into this what of you're able to build me here. I just want to do this to see and test the functionality of what you're able to build me here. I still want it to look nice, so use the frontend design skill, but help me build out this plan so that you know exactly how you can actually execute on this.
+
+Baking...
+
+queue another message...
+
+Plan mode settings.local.json
+
+Screen Reader Optimized 278.8KB
+
+Asked for a 12-question onboarding form, one question per page.
+Caveat: Claude doesn't get to just build it — it has to test what it built too.

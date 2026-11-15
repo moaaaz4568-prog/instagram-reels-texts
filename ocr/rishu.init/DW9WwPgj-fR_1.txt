@@ -1,0 +1,12 @@
+THE BASICS
+02 / 06
+AI
+Your AI
+coding
+agent
+$ claude
+✓ Ready — awaiting your instructions
+> Fix the auth bug in login.ts
+Claude Code reads
+your entire codebase, writes code, runs
+commands, and iterates until done.

@@ -1,0 +1,16 @@
+Step #11
+VAPI
+Tools
+calendar_slots
+calendar_slots
+calendar_slots
+calendar_slots
+Use this tool to get available one hour slots for a specific date in the Europe/Berlin timezone. It returns the appointments with start time and duration.
+Options
+Async
+Tool executes asynchronously
+Strict
+Enforces strict parameter validation
+Parameters
+Define the parameters your tool accepts.
+Build 'calendar_slots' tool to find available appointment times

@@ -1,0 +1,56 @@
+AI AGENTLY
+Step 6:
+Build Whatsapp AI AGent
+
+Give Claude This Prompt
+Now paste this into Claude:
+
+I want you to build a WhatsApp AI auto-reply workflow in my n8n environment.
+GOAL:
+When a customer sends a WhatsApp message, the workflow should:
+1. Receive the incoming WhatsApp message.
+2. Extract the customer's phone number.
+3. Extract the customer's message.
+4. Send the customer's message to Claude.
+5. Give Claude my business information.
+6. Generate a short, natural WhatsApp reply.
+7. Send Claude's reply back to the same WhatsApp customer through the Meta WhatsApp Cloud API.
+
+TECH STACK:
+- n8n
+- WhatsApp Business Platform / Meta Cloud API
+- Claude
+- n8n MCP
+
+BUSINESS:
+• Business name: [YOUR BUSINESS NAME]
+• What we do: [DESCRIBE YOUR BUSINESS]
+• Products/services: [ADD PRODUCTS OR SERVICES]
+• Pricing: [ADD PRICING]
+• Business hours: [ADD HOURS]
+• Website: [ADD WEBSITE]
+• Important policies: [ADD POLICIES]
+
+CLAUDE RULES:
+• Answer using only the business information provided.
+• Never invent prices, products, policies, availability, or facts.
+• Keep WhatsApp replies short and natural.
+• Use simple American English.
+• Don't sound robotic.
+• Don't mention that you are an AI unless the customer asks.
+• If the answer isn't available, say you don't know.
+• Never claim an action happened unless the workflow actually completed it.
+• If the customer asks for a human, tell them a team member can help.
+
+IMPORTANT:
+• Before making changes, inspect my available n8n tools and existing workflows.
+• Build the workflow using the tools available through my n8n MCP connection.
+• Use credentials securely.
+• Do not expose API keys or access tokens in workflow text.
+
+After building it, explain:
+1. What you created.
+2. Which credentials I need to paste my WhatsApp credentials.
+3. Where I need to paste the workflow.
+4. How I need to connect.
+5. If I test the workflow, any missing configuration.

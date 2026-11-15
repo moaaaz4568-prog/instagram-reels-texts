@@ -1,0 +1,11 @@
+Alt T
+Toggle Deep Thinking
+Turn extended thinking on/off mid-conversation. Makes Claude reason harder on complex problems.
+$ claude
+[Alt+T] Extended thinking: ON
+Claude: <thinking>
+Analyzing 847 files...
+Mapping dependencies...
+Found 3 potential issues...
+</thinking>
+Claude

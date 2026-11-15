@@ -1,0 +1,14 @@
+Adam | YouTube
+@Adam_DelDuca
+
+5. The analytics
+
+The big levers are:
+- First 30 second retention
+- CTR
+
+Optimize the former through script
+prompting
+
+Optimize the latter through topic
+selection and packaging

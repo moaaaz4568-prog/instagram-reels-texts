@@ -1,0 +1,16 @@
+DEPARTMENT 07 / 07
+Legal
+Read the fine print for you.
+contract-review
+Clause-by-clause review
+nda-triage
+Auto-triage NDAs
+legal-risk
+Flags legal exposure
+compliance
+Regulatory checks
+docx
+Word docs, tracked changes
+sql-queries
+Pull records with SQL
+Your legal desk

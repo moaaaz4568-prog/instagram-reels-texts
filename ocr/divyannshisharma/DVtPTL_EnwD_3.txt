@@ -1,0 +1,10 @@
+Set Your Analytics Loop
+Every post feeds performance data back into the agent. This is how it learns.
+MY ANALYTICS REVIEW DAY:
+CHECKLIST:
+☐ Review analytics to see what performed well
+☐ Check which hooks got the most views
+☐ Check which CTAs drove the most downloads
+☐ Feed findings back into the agent prompt
+Example: Every Monday, agent reviews last week's posts
+3

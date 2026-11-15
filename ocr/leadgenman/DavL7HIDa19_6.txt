@@ -1,0 +1,19 @@
+Lv 6
+Workflows
+One orchestrator agent runs hundreds
+workflow.txt - Notepad
+File Edit Format View Help
+You launch ONE dynamic workflow:
+"/dynamic-workflow -- find niche competitor reels"
+Terminal -- orchestrator agent
+$ workflow started -- 4 phases
+✓ Phase 1 Scan -- 12 agents done
+✓ Phase 2 Patterns -- 8 agents done
+▶ Phase 3 Deep Dive -- 24 agents running
+○ Phase 4 Synthesize -- queued
+✓ Worktree isolation -- no overlap
+~1M tokens/run -- about $10
+The orchestrator reviews its own agents.
+You stepped out of the game.
+The agent orchestrates. Not you.
+07 / 09

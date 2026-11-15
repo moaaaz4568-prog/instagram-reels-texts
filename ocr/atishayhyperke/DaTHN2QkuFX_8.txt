@@ -1,0 +1,1 @@
+At the scale where you have just 4 clients, you don't need to worry about processes. You're too early. (على المقياس حيث لديك فقط 4 عملاء، لا Need to worry about processes. (لا تحتاج إلى القلق بشأن العمليات. أنت مبكر جداً.)

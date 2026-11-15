@@ -1,0 +1,17 @@
+06 / 09
+// BENNETTOS
+// 04 • THE WORKER POOL
+HERMES
+Nous Research's agent engine, Live on the board as a
+hermes_gateway employee - 9 tools, 70 skills, its
+own chat, cron, and MCP. The gateway binds loopback
+on the mini behind Tailscale, so the whole worker
+pool runs its own model lanes without a port open to
+the world.
+$ hermes gateway # 127.0.0.1:8642 · tailscale serve
+@bennetos
+SWIPE →
+$ hermes gateway # 127.0.0.1:8642 · tailscale serve
+REAL AGENTS
+@bennetos
+SWIPE →

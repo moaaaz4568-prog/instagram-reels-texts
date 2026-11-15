@@ -1,0 +1,34 @@
+4. Connect Your CRM.
+Unlock Smarter Campaigns.
+
+1
+In Twenty CRM,
+go to Settings →
+APIs & Webhooks and
+generate an API key.
+
+2
+In Claude Desktop,
+open Settings →
+Connectors, then
+click Add Custom
+Connector.
+
+3
+Paste your Twenty
+MCP Server URL and
+authorize it using
+your API key.
+
+RESULT
+Claude can
+now:
+
+Read every customer and tag in your CRM.
+Understand who you’re selling to.
+Create an Alex Hormozi-style offer tailored to that audience.
+Build the entire campaign around that offer.
+
+Instagram
+Follow us on Instagram
+@aiagentgenty

@@ -1,0 +1,36 @@
+Slide 12 —
+Tool 10: Bitwarden Send
+12 / 12
+bitwarden / server Public
+Code Issues Pull requests
+main 540 Branches 235 Tags
+mcnard-bw [DOPSS-177] Update MSSQL Docker image to SQL Server 2025 CUS (...)
+.aspire Aspire 1 month ago
+.checkmarx Have AppSec own Checkmarx config (#6912) 5 months ago
+.claude Document migration workflow in Claude/.CLAUDE.md (#7689) yesterday
+.config [deps] Billing: Update swashbuckle-aspnetcore monorepo to (...) 2 months ago
+.devcontainer [deps] BPE: Update mcr.microsoft.com/mssql/server Docker t... 16 hours ago
+.git-hooks Migrate to SLNX Style Solution (#7645) last month
+.github 8692 - Improve code review workflow with added trigg... 2 weeks ago
+.run Rider launch configurations (#8666) 3 years ago
+.vscode chore(launchTasks): Upgrade for .net10 (#7584) 16 hours ago
+AppHost Fix: Self-Host Development Configuration (#7803) 13 hours ago
+About
+Bitwarden infrastructure/backend (API, database, Docker, etc).
+bitwarden.com
+Readme
+Unknown, Apache-2.0 licenses found
+Contributing
+Security policy
+Activity
+Custom properties
+19.2k stars
+218 watching
+1.7k forks
+Report repository
+What it does:
+Sends files to anyone with full encryption and an automatic expiration timer so the link disappears after a set time.
+What it replaces:
+WeTransfer Pro + Dropbox – $20 a month
+Send anything to anyone securely. The link expires automatically. No one else can access it.
+github.com/bitwarden/server

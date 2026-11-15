@@ -1,0 +1,8 @@
+Before AI:
+You wrote code.
+Senior reviewed it.
+
+After AI:
+AI writes code.
+You review it.
+You have no clue.

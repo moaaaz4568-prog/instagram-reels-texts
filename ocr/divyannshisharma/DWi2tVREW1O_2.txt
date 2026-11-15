@@ -1,0 +1,24 @@
+Lead Gen & Outbound
+
+21 | ICP Builder | Claude Code creates a detailed Ideal Customer Profile.
+22 | Cold Email Sequences | Use Smartlead MCP → Claude Code writes & schedules 4-step personalized cold emails.
+23 | LinkedIn DM Scripts | Feed your offer + role → get 5 connection messages + 3 follow-up DMs.
+24 | Lead Scoring Model | Define criteria → Claude Code builds a lead scoring sheet with formulas.
+25 | Clay Enrichment Flows | Connect Clay MCP → Claude Code enriches leads and formats them for CRM import.
+26 | Objection Handler Bank | List 10 objections → Claude Code creates 3 responses each: empathize, reframe, close.
+27 | Apollo List Builder | Describe your market → Claude Code builds Apollo filters and exports prospects.
+28 | Follow-Up Cadence | Paste old leads → Claude Code writes re-engagement follow-ups.
+29 | Outbound Playbook | Ask Claude Code for a GTM playbook with channels, sequences, KPIs, and tests.
+30 | Prospect Research | Feed a company name → Claude Code pulls news, funding, tech stack, and contacts.
+31 | Warm Intro Templates | Describe the connection → get a respectful warm intro email.
+32 | Meeting Booker Copy | Write Calendly copy and confirmations that reduce no-shows.
+33 | LinkedIn Funnel System | Claude Code maps your LinkedIn funnel: profile → content → DMs → calls → close.
+34 | Pain Point Extractor | Paste competitor reviews → Claude Code extracts recurring complaints for outreach.
+35 | ROI Calculator Builder | Describe your metrics → Claude Code creates an interactive ROI calculator in HTML.
+36 | SalesRobot Sequences | Feed your audience → Claude Code drafts LinkedIn + email sequences for SalesRobot.
+37 | Proposal Template | Input brief → Claude Code creates a branded proposal with scope, timeline, and pricing.
+38 | Drip Campaign Logic | Describe your funnel → Claude Code creates a visual email decision tree.
+39 | Referral Program Copy | Describe your offer → get referral emails, landing copy, and social messages.
+40 | Win-Back Campaign | Upload churned data → Claude Code makes re-engagement sequences.
+
+By Divyanshi Sharma

@@ -1,0 +1,22 @@
+Validates offer in the market
+Artifacts
+Search artifacts...
+Skills
+product-market-fit
+by You
+Run PMF analysis for a product and market.
+SKILL.md
+4 files
+Share
+Product-Market Fit Skill
+Run a product-market-fit analysis from a product, target audience.
+Core flow:
+1. Collect only the missing intake details.
+2. Build the ICP internally.
+3. Score PMF across four dimensions.
+4. Show the PMF score and ask whether the user wants an offer
+Do not write files unless the user asks for files.
+Critical Output Rule
+The ICP and dimension scoring are internal work.
+Never print:
+"Nice, I have everything I need."

@@ -1,0 +1,7 @@
+REASON 2
+You're still using the terminal...
+I know the terminal feels cool.
+But it's not practical for heavy usage.
+Use the Claude desktop app, or an IDE like VS Code if you want flexibility to use other AI models.
+@itsst_ylergermain
+save for later

@@ -1,0 +1,9 @@
+05 / 05
+06
+Project 1
+Podcast clip extraction pipeline
+"I gave Claude one podcast and got 21 posts, automatically edited, captioned, reframed, and scheduled across YouTube, Instagram, and TikTok."
+PROJECT
+RESULTS
+AI
+@divyanshisharma

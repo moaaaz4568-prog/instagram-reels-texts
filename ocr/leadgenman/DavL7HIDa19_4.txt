@@ -1,0 +1,19 @@
+Lv 4
+Subagents
+Delegate work, keep main context clean
+subagents.txt - Notepad
+File Edit Format View Help
+You tell Claude:
+"Deep research trending IG formats -- deploy subagents."
+Terminal -- claude
+$ claude "research trending reel formats"
+▶ agent-1: scanning 40 reel formats...
+▶ agent-2: pulling top hook creator pages...
+▶ agent-3: format outline analysis...
+✓ agent-1 done -- 60k tokens (own window)
+✓ agent-2 done -- 58k tokens (own window)
+✓ agent-3 done -- 61k tokens (own window)
+Main agent reads ONE summary.
+~180k tokens kept out of your main session.
+3 workers in parallel. One clean summary.
+05 / 09

@@ -1,0 +1,57 @@
+SLIDE 14
+One command
+does it all.
+The magic command:
+$ graphify --obsidian
+This takes all 591 ideas
+and turns each one into its own
+note — automatically linked
+to every other related note.
+README
+MIT License
+Security
+graphify install @ owner writes the skill file
+Full command reference
+/graphify
+/graphify ./raw
+/graphify ./raw --mode deep
+/graphify ./raw --update
+/graphify ./raw --directed
+/graphify ./raw --cluster-only
+/graphify ./raw --no-viz
+/graphify ./raw --obsidian
+/graphify ./raw --svg
+/graphify ./raw --graphml
+/graphify ./raw --mp3
+/graphify add https://arxiv.org/abs/1706.03762
+/graphify add video-url
+/graphify query --cont
+/graphify query --c15 --thought 1568
+/graphify path 'Digest:ChatGPT "Response
+transformer"'
+/graphify explain 'SwrInfo'
+/graphify uninstall
+/graphify uninstall --purge
+/graphify uninstall --promise only
+/graphify hook install
+/graphify hook uninstall
+# run on current directory
+# run on a specific folder
+# more aggressive relationship extraction
+# re-extract only changed files
+# preserve edge direction
+# sklearn clustering on existing graph
+# skip MHM clustering step
+# generate Obsidian vault
+# build agent-crawlable markdown wiki
+# export graph.svg
+# export graph.yml / Edg
+# export for Gephi / Itxt for Medy
+# generate cypher. csv file
+# auto-sync as files change
+# start MDP stmo server
+# attempts to optimize the optimizer?
+# attention
+# remove from all platforms in one go
+# --platform codex -- remove project-scoped install files only
+This changes everything. Let's set it up.

@@ -1,0 +1,30 @@
+18
+Stress-test any business idea before you commit
+
+WORTH BUILDING?
+IDEA
+TEST FIRST, BUILD LATER.
+MARKET?
+PROFIT?
+
+Most business ideas die because people fall in love with them before testing them. They spend months building something nobody wants because they never honestly asked whether the idea was actually good.
+
+I have a business idea I want to stress-test before I invest serious time in it.
+
+Here’s the idea: [describe it in detail — what it is, who it’s for, how it makes money, why you think it works]
+
+Your job is to find everything wrong with it. Specifically:
+1. What assumptions am I making that could be wrong
+2. Who already does this and why I might lose to them
+3. Why the target customer might not actually pay for this
+4. What would have to be true for this to work, and how likely is that
+5. The single biggest problem with this idea
+
+Be specific. Generic risks like “the market might not be ready” are not useful. Give me the real version of each problem.
+
+After that, tell me what the idea would need to look like to actually work.
+
+Claude can act as a ruthless first filter to find the real problems before they cost you time and money.
+
+Divyanshi sharma
+18/18

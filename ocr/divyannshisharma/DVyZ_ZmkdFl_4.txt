@@ -1,0 +1,17 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Specify the rules
+Format, tone, length, style – tell Claude exactly how you want the output delivered
+Example: "Keep it under 500 words."
+Advanced Prompting
+Prompt structure
+1. Task context
+2. Tone context
+3. Background info, documents, and images
+4. Detailed task description & rules
+5. Examples
+6. Conversation history
+7. Intermediate task description or request
+8. Thinking step by step / take a deep breath
+9. Output formatting
+10. Prefilled response (if any)

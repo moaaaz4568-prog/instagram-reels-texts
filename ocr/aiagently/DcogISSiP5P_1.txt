@@ -1,0 +1,14 @@
+1. AI Receptionist
+Answers calls 24/7, books appointments,
+captures missed calls, and never lets a
+lead slip away.
+AI Receptionist
+MCP Server
+Trigger
+Client Lookup
+Availability
+Book Event
+Lookup
+Delete
+Update
+n8n + VAPI

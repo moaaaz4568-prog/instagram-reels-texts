@@ -1,0 +1,47 @@
+14 tools.
+02 / 18
+Image Generation
+* SDXL
+Stable Diffusion XL, high resolution open weights
+Image Generation open weights
+* Flux.1 Dev
+Black Forest Labs top-tier open weights image model
+Image Generation open weights
+* Stable Diffusion 3.5
+Stability AI's flagship open source image model
+Image Generation open weights
+* Flux.1 Schnell
+Fast Apache-licensed open source image generation
+Image Generation open weights
+* HiDream I1
+High quality open source diffusion model, 2025
+Image Generation open weights
+* Kolors
+Kwai's open weights Chinese diffusion model
+Image Generation open weights
+* PixArt-Σ
+Fast open source transformer-based image gen
+Image Generation open source
+* Kandinsky 3
+Sber's open source image generation model
+Image Generation open weights
+* ComfyUI
+Node-based open source Stable Diffusion GUI
+Image Generation open source
+* AUTOMATIC1111
+Most popular open source SD web UI, 600+ extensions
+Image Generation open source
+* InvokeAI
+Professional open source AI image studio
+Image Generation open source
+* Foocus
+Simplified open source SD UI, Midjourney-style
+Image Generation open source
+* Forge
+Optimized AUTOMATIC1111 fork, faster and lighter
+Image Generation open source
+* DiffusionBee
+Open source Stable Diffusion app for Mac
+Image Generation open source
+* Fooocus
+Image Generation open source

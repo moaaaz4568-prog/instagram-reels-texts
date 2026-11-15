@@ -1,0 +1,15 @@
+APIs Unlock Special Powers in Your Automations
+HTTP
+Body type
+Raw
+Content type
+JSON (application/json)
+Sets the Content-Type request header.
+Request content
+{
+  "key": "YOUR API KEY",
+  "modelId": "YOUR MODEL ID OF CHOICE",
+  "prompt": "Create a 100. Type Rotator image of 96. Subject Rotator that is 97. Action Rotator in a 98. Setting Rotator in the 99. Style Rotator art style"
+}
+le Diffusion API C
+Make a request

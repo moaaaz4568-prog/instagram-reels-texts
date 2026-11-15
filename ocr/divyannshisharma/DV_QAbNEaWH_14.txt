@@ -1,0 +1,36 @@
+14: SKILL.md
+Each command runs its own playbook
+SWOT, competitor intel, and more.
+Phase 3: SWOT Analysis
+3.1 SWOT for Each Competitor
+For each identified competitor, produce a SWOT:
+COMPETITOR: [Name]
+STRENGTHS:
+- [Specific strength with evidence]
+- [Specific strength with evidence]
+WEAKNESSES:
+- [Specific weakness with evidence]
+- [Specific weakness with evidence]
+OPPORTUNITIES:
+- [Opportunity based on market gap]
+- [Opportunity based on competitor vulnerability]
+THREATS:
+- [Threat with potential impact]
+- [Threat with potential impact]
+3.2 Aggregate SWOT for the Target
+Combine all competitor intelligence into a single SWOT for the target brand:
+- Strengths: Where the target outperforms all or most competitors
+- Weaknesses: Where the target lags behind all or most competitors
+- Opportunities: Gaps in the market no competitor is addressing well
+- Threats: Competitor advantages to watch
+SKILL.md
+Code
+Blame
+Upload file
+Search
+Navigate
+Limited integrations
+Price increase
+Comp A | 4.5/5 | 50+ | Easy to use | Limited integrations | Price increase
+Comp B | 4.2/5 | 200+ | Power-fnl features | Steep learning curve | Poor support
+Comp C | 3.8/5 | 100+ | Good value | Buggy | Better alternatives

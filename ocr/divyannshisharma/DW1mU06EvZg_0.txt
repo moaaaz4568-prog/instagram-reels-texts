@@ -1,0 +1,15 @@
+Gemma 4 + OpenClaw
+Hermes
+Hello! How can I help you today?
+What is the date today?
+Hermes
+Today is Saturday, April 4, 2026.
+Summarize this: https://deepmind.google/models/gemma/gemma-4/
+paring browser.navigat...
+https://deepmind.google/models/gemma/gemma-4/
+gemma4-12b 10.8K/262.144K [4% 49s
+Type a message + Enter to interrupt, Ctrl+C to cancel
+Fully Local AI Agent →
+Made by
+Divyanshsharma
+01 →

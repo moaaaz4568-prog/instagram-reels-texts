@@ -1,0 +1,15 @@
+prompt 8 →
+Check and fix your
+grammar
+Prompt:
+Only fix grammar: "[email_content]"
+Only fix grammar:
+"Hey,
+I'd like to show you a sales prospecting workflow that might
+increase your outreach results by 20%.
+Are you interested to know more about it?"
+"Hey,
+I'd like to show you a sales prospecting workflow that might increase your outreach results by 20%.
+Are you interested in knowing more about it?"
+"Hey,
+Are you interested to know more about it?"

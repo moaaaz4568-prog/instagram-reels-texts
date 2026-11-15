@@ -1,0 +1,3 @@
+AI Business Reporting
+Fivetran to extract data, BigQuery to store & transform it, and ChatGPT to generate reports
+@itsTylerGermain

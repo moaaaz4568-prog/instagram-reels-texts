@@ -1,0 +1,19 @@
+scrapes instagram → finds agencies who need data
+06 / 20
+GitHub
+public repository
+instaloader / instaloader
+Public
+13k
+instaloader
+13k
+Fork
+Star 13k
+Python
+WHAT IT DOES
+downloads instagram posts, videos and metadata.
+WHO TO MINE IT FOR
+mostly agencies and brands scraping ig. they want clean data, not a maintenance headache.
+THE EXACT LINK
+github.com/instaloader/instaloader/stargazers
+• the github method

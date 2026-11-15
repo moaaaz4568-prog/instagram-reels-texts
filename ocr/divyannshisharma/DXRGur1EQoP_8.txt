@@ -1,0 +1,16 @@
+AI & Models:
+
+28. ElevenLabs MCP: Generate speech from text using ElevenLabs voices.
+Build voice workflows, create audio content, add speech output to your AI
+pipelines.
+https://github.com/elevenlabs/elevenlabs-mcp
+
+29. Hugging Face MCP: Access Hugging Face models and datasets. Search the
+model hub, download models, run inference. Bridge between Claude and the
+open-source AI ecosystem.
+https://github.com/huggingface/mcp-course
+
+30. Replicate MCP: Run open-source AI models through Replicate's API. Image
+generation, video processing, audio transcription. Access hundreds of models
+through one MCP server.
+https://github.com/deepfates/mcp-replicate

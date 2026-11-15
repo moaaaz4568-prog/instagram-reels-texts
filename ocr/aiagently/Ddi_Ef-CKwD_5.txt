@@ -1,0 +1,20 @@
+STEP 5
+Collect Customer Details
+Once the slot is available:
+“Great. What’s your name?”
+Customer:
+“Johnny.”
+“Johnny?”
+“J-H-O-N-N-Y.”
+Save the exact spelling.
+Then:
+“And your email?”
+“johnny@gmail.com.”
+“That’s johnny@gmail.com, right?”
+No guessing.
+Save It To Google Sheets
+After collecting the details, n8n adds a row:
+Name Email Service Date Time
+Johnny johnny@gmail.com Haircut Saturday 2 PM
+Now you have a simple customer database.
+Every call → organized data.

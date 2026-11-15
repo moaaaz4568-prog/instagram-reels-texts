@@ -1,0 +1,18 @@
+How AI Agents Work
+User
+Query
+Response
+AI Agent
+LLM
+Task
+Role
+Prompt
+Reasoning
+Planning
+Reflection
+Memory
+Long-term
+Short-term
+Tools
+Web search
+Gmail

@@ -1,0 +1,11 @@
+smartphone/camera
+for iPhones:
+• 4K 24fps (cinematic mode if you have it)
+Settings → Camera → Record video → 4K @ 24fps
+for Androids:
+Get an iPhone → Settings → Camera → Record video → 4K @ 24fps
+for Cameras:
+• 4K 24fps
+ISO:100-300
+Shutter Speed: 1/50
+Aperture: f1.4 - f1.8 (ideally)

@@ -1,0 +1,23 @@
+3.
+Hallmark
+AI can build your UI. Hallmark makes sure it doesn't look AI-made.
+An anti-AI-slop design skill for Claude Code & Codex built for cleaner, more original interfaces.
+Make your agent a designer
+/hallmark
+OFF-REGISTER
+& the rest.
+Thirty-four studios. Eight presses. Soy ink everywhere.
+Get paid on time, without the chasing.
+Honey that tastes like one hillside.
+The software you need at a price you can live with.
+Live demo
+press T → to cycle.
+twenty-one themes
+four verbs
+Made by Together AI.
+version v0.7
+styles 3
+work unchanged
+license MIT
+Stars 872
+changed

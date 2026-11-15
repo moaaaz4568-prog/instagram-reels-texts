@@ -1,0 +1,43 @@
+Turn ANY Github Repo into a Prompt
+to remake on Claude
+Home
+Swipe for (the tutorial)
+Dashboard
+Create your first project
+Ready to start building? Create a repository
+for a new idea or bring over an existing
+repository to keep contributing to it.
+Create repository
+Import repository
+Task
+Create issue
+Write code
+Pull requests
+Filter
+Trending repositories - See more
+moltob/moltob
+Your own personal AI assistant. Any OS. Any Platform. The lobster way.
+TypeScript 94.5k
+lucaspfred/zerobrow
+A drop-in, 5-20x faster, experimental Homebrew alternative
+Rust 3.7k
+Star
+Star
+FHD
+360Hz
+W
+A
+S
+D
+F
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl
+Enter
+Shift

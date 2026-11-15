@@ -1,0 +1,16 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+The autonomous dev team:
+
+Sub-agents pre-tuned for top coding tools
+
+Boilerplates for apps, SaaS, APIs, e-commerce
+
+Plain English input → claw picks workflow
+
+Builds, tests, fixes & deploys automatically
+
+Diagnoses & fixes errors via logs
+
+Ideal for founders, indie hackers & agencies

@@ -1,0 +1,67 @@
+divyanshisharma
+( 97 to 120 )
+Thinking & Reasoning
+/think-loud
+step by step out loud
+Thinking & Reasoning
+/pros-first
+list pros before cons
+Thinking & Reasoning
+/cons-first
+list cons before pros
+Thinking & Reasoning
+/first-principles
+strongest version of argument
+Thinking & Reasoning
+/steelman
+identify the weakest argument
+Thinking & Reasoning
+/assumptions
+list all assumptions first
+Thinking & Reasoning
+/gaps
+identify what's missing
+Thinking & Reasoning
+/second-order
+second-order effects only
+Thinking & Reasoning
+/butterfly
+butterfly effect analysis
+Thinking & Reasoning
+/bayesian
+think in probabilities
+Thinking & Reasoning
+/cost-benefit
+pure cost-benefit analysis
+Thinking & Reasoning
+/upside-first
+identify upside before risks
+Thinking & Reasoning
+/risk-first
+identify risks before upside
+Thinking & Reasoning
+/5-whys
+apply the 5 Whys method
+Thinking & Reasoning
+/systems
+systems thinking lens
+Thinking & Reasoning
+/examples-first
+start with examples
+Thinking & Reasoning
+/inversion
+think backwards from the end
+Thinking & Reasoning
+/examples-only
+only examples, no theory
+Thinking & Reasoning
+/root-cause
+root cause analysis
+Thinking & Reasoning
+/analogies
+use analogies to explain
+Thinking & Reasoning
+/theory-first
+theory before examples
+Thinking & Reasoning
+Swipe →

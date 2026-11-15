@@ -1,0 +1,8 @@
+Skill 6
+n8n-conventions
+n8n-io/n8n-conventions
+Coding
+173,703
+Complete reference for n8n automation patterns. Used when building, updating, or debugging n8n automations. Works very well with the n8n MCP server, for building workflows directly with Claude Code.
+@itstylergermain
+save for later

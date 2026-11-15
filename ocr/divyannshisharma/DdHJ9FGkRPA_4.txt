@@ -1,0 +1,21 @@
+Step 4
+Then it builds
+out the message.
+The recipe also gives me:
+banding on the frustration
+Supporting text
+→ 2–3 sentences expla
+Visual direction
+→ A simple concept for the designer
+So I’m not starting from a blank page.
+I already have the idea, angle + direction.
+Results in inconsistent colors, styles, and visual language across scenes
+Can you generate one scene at a time. One prompt, then you provide more details
+Pain point: "Most people are generating one scene at a time. One prompt, then you generate the next one. And the next. You generate a scene you like. Then you generate the next one. And the next. But by the end, the colors have shifted, the style has changed, and nothing feels like it belongs in the same video."
+Target audience: Creators using AI to make motion-graphics explainers, especially those trying to achieve a polished, consistent visual style.
+Emotion to evoke: Recognition and relief — "That's exactly why my AI videos don't feel finished."
+Suggested headline: Your AI Video Looks Different Every Scene
+Supporting text:
+You generate a scene you like. Then you generate the next one. And the next. But by the end, the colors have shifted, the style has changed, and nothing feels like it belongs in the same video.
+Ask anything
+Auto

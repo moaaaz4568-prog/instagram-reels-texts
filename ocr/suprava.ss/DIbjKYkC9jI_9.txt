@@ -1,0 +1,24 @@
+Generate Ice Breakers
+with GPT -4
+
+Get replies by making every email
+feel human. Prompt GPT to
+analyze data and create intros!
+
+A. Add prompt to generate icebreakers
+
+Add your
+business USP
+& prompt
+
+Create an icebreaker starting with "I know you
+are tired of automated emails... so to prove you
+this email is not, I can tell you that I love ... (find
+something very specific about the web design
+of the website. Be the more specific you can
+be it needs to be like a detail you found inside
+the landing page that stand out from other
+websites.) One sentence only as it's going to
+be used as an icebreaker in the start of a cold
+email. Delete all superfluous information.
+Return as a single line.

@@ -1,0 +1,18 @@
+claude-deep-research-skill
+What you'll get:
+• Phase research with auto-continuation.
+• Handles complex queries in steps.
+16
+199-biotechnologies / claude-deep-research-skill
+Code Issues Pull requests Actions
+main 1 Branch 0 Tags
+longevityboris fix: Clean up requirements.txt
+reference
+scripts
+templates
+tests/fixtures
+.gitignore
+README.md
+SKILL.md
+requirements.txt
+README

@@ -1,0 +1,41 @@
+Agent Loop
+HOW A MESSAGE BECOMES A RESPONSE
+
+3
+Agent Loop (max 20 iterations)
+LLM decides: use tools or respond directly
+
+Call LLM
+messages + tool definitions
+via LLM provider
+
+tool calls?
+YES
+Execute Tools
+web_search("AI security...")
+security scan results
+web_fetch(reddit.com/...)
+read_file(MEMORY.md)
+write_file(prospects.json)
+
+NO
+Final Response
+
+SOUL.md
+Memory
+Token Budget: 75%
+token object history first
+
+KEY FEATURES
+- Context-aware token trimming (25% reserve)
+- Session persistence across restarts
+- Multi-channel support (Telegram, CLI...)
+- Subagent spawning for background work
+- Cron + heartbeat scheduling
+
+@divyanshisharma
+
+MASTERING OPENCLAW – THE
+COMPLETE GUIDE (FEB. 27')
+
+SWIPE FOR MORE

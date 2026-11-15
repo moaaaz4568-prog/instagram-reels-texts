@@ -1,0 +1,35 @@
+B. Customize system message
+according to needs to qualify data
+
+Use system
+message to tell
+the AI exactly
+what you want.
+
+Expression
+Anything inside {{ }} is JavaScript. Learn more
+
+4 items
+You are an AI Lead Qualification Agent for cold
+outreach.
+Your goal: Identify potential leads, not eliminate
+them based on rigid ICP matching. The ICP is a
+reference, not a strict rublekat.
+Process
+Your Company Information: pitching cold outreach skool
+community which teaches client acquisition,
+copywriting frameworks, modern multi-channel outreach,
+cold email mastery, linkedin playbook, B2B guide,
+reddit funnel, etc to GM and SMB BDR and sales
+
+C. Add Open AI (GPT 4) model
+
+OpenAI ---->
+
+To qualify leads
+according to the
+instructions
+
+the score data
+
+*Add CODE module to format

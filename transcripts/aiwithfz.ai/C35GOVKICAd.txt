@@ -1,0 +1,1 @@
+Revised confusion matrix: actual value, predicted value, true positive, true negative, false negative, false positive. Read caption for more details.

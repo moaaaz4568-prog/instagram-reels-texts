@@ -1,0 +1,12 @@
+Slide 4 —
+Tool 2: Karakeep
+04 / 10
+What it does:
+Saves every link, screenshot, article, and PDF
+you’ll ever want again. AI automatically tags
+everything for you.
+What it replaces:
+Raindrop Pro + Pocket – $15 a month
+Mozilla just shut down Pocket.
+This is the best replacement right now.
+github.com/karakeep-app/karakeep

@@ -1,0 +1,7 @@
+Step #7
+Send Content
+Trigger
+Generate Video
+Write to Drive
+Execute workflow
+Video generation workflow creates ads with music sync & VFX

@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+4. The buyer who needs proof.
+
+"Before I show you anything, can I tell you why we built it?" The majority never buys on belief. They buy on proof and on other people. The last prompt makes Claude that buyer, the one who keeps asking what's in it and what it costs. Here's what it does:
+
+It plays a skeptic who wants features and price. When you're done it grades the call out of 10, quotes the moment you slid from why into what, and writes the why-first line that would have held the room.

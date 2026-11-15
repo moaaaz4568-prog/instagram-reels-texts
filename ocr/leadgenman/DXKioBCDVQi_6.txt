@@ -1,0 +1,21 @@
+Claude-Code.exe -- Installing agents/
+File Edit View Help
+Component 3/3: agents/
+Agents are subagents Claude spawns to run focused tasks in parallel.
+C:\> type agents
+// .claude/agents/planner.md
+---
+name: planner
+description: break a feature into
+a step-by-step plan.
+tools: [Read, Grep, Glob]
+---
+You are a senior architect.
+Return a numbered plan only.
+Agents = subagents Claude spawns for parallel work.
+Installing agents...
+100%
+< Back Next > Cancel
+Start
+Claude -- agents/
+4:26 PM

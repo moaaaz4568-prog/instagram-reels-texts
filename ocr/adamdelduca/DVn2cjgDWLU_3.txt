@@ -1,0 +1,3 @@
+VidRush
+Creates entire videos in one
+single click

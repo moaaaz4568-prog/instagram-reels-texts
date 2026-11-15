@@ -1,0 +1,25 @@
+Flow B:
+Keyword Opt-in
+
+Trigger words: NEWSLETTER, CHEATSHEET, VIDEO
+
+Ask for email (consent)
+
+Fire resource_requested event
+
+Validate -> Update contact
+
+Omnisend delivers asset + 2-step tutorial
+
+Contact
+
+Edit
+
+com
+kflow
+
+John Doe
+john.doe@example.com
++1234567890
+intent:leadgen_word
+Subscribed 30 Apr 2023, 12:15

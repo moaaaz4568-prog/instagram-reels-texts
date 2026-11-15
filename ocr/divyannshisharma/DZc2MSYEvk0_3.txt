@@ -1,0 +1,24 @@
+SLIDE 4
+How the
+handoff
+works.
+Each agent writes its output to a
+shared folder. The next agent reads
+that file and picks up
+exactly where
+the last one stopped.
+Planner writes →
+.pipeline/spec.md
+Coder reads spec, writes →
+.pipeline/changes.md
+Tester reads changes, writes →
+.pipeline/test-results.md
+Reviewer reads everything, writes →
+.pipeline/review.md
+One folder. Four files. Zero
+confusion.
+.pipeline/
+spec.md
+changes.md
+test-results.md
+review.md

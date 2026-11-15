@@ -1,0 +1,14 @@
+PUNIT GUPTA
+Skill 2.
+Uncover the gap competitors are completely missing.
+/competitive-ads-extractor
+github.com/ComposioHQ/awesome-claude-skills
+1
+Competitor Extraction: Provide 3-5 competitor names to instantly pull their active ad sets.
+2
+Deep Analysis: The system analyzes hook frequency and decodes offer/CTA patterns.
+3
+Gap Reporting: Generates a report revealing unique emotional angles the market is ignoring.
+4
+Strategic Advantage: Gives you a clear path to differentiation and creative winning.
+swipe

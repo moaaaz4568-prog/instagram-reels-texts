@@ -1,0 +1,17 @@
+7 free resources — Edited
+B I U S [color] [highlight] Helvetica Regular 12
+Videos:
+1. LLM Introduction: https://www.youtube.com/watch?v=zjKBMFhNj_g
+https://www.youtube.com/watch?v=9vM4p9NN0Ts
+2. LLMs from Scratch: https://www.youtube.com/watch?v=kLjIOGle3Lw
+3. Agentic AI Overview (Stanford): https://www.youtube.com/watch?
+v=kLjIOGle3Lw
+4. Building and Evaluating Agents: https://www.youtube.com/watch?
+v=d5EItXhbcfA
+5. Building Effective Agents: https://www.youtube.com/watch?v=D7_ipDqhtwK
+6. Building Agents with MCP: https://www.youtube.com/watch?
+v=kQmXtqmQ5Zg
+7. Building an Agent from Scratch: https://www.youtube.com/watch?
+v=xzXdLRUyjUg
+8. Philo Agents: https://www.youtube.com/playlist?list=PLacQJwuct_sV-
+tfZmpT1Ov6jdHl30NR

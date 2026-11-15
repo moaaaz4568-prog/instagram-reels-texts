@@ -1,0 +1,31 @@
+PUNIT KUMAR
+How the AI Operating System Works
+01
+FIRM OS
+Firm-wide rules, standards and operating structure.
+02
+MATTER CONTEXT
+The relevant client, matter, parties, history and facts.
+03
+PERMISSIONS
+Role-based access determines what the AI can see.
+04
+DOCUMENTS
+Contracts, emails, filings, precedents and matter files.
+05
+KNOWLEDGE
+Firm playbooks, templates, house style and institutional knowledge.
+06
+AI MODEL
+Claude / ChatGPT / Codex becomes the intelligence engine.
+07
+WORKFLOW
+The system executes repeatable legal processes.
+08
+HUMAN REVIEW
+The lawyer remains in the loop for judgment and approval.
+09
+AUDIT LOG
+Actions and outputs are recorded for governance and accountability.
+SWIPE →
+04 / 10

@@ -1,0 +1,23 @@
+Path 9:
+Simulations & Synthetic Data
+What you do
+Use agents to generate data, test edge cases,
+and stress workflows.
+Stack to learn
+Claude Code
+DeepSeek
+Gemini
+Future AGI
+Data:
+Supabase
+Weaviate
+Pinecone
+Qdrant
+30-day plan
+Week 1: Model one real process.
+Week 2: Simulate 1000 scenarios.
+Week 3: Capture failures.
+Week 4: Feed fixes back into the agent.
+Metric that matters
+Failure reproduction rate
+Bug-to-fix time

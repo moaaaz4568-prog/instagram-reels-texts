@@ -1,0 +1,1 @@
+How I made this floating effect. Add your image. Make it a compound clip. Add to the compounded clip an effect called Play Pendulum. Copy my settings. And you're done. Save this for later.

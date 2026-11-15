@@ -1,0 +1,19 @@
+L
+LLM
+Large Language Model -- trained on massive
+text to understand language
+
+M
+Multimodal
+AI that can process multiple types of input like
+text, images, and audio
+
+N
+Neural Net
+A computing system inspired by the human
+brain's neuron connections
+
+O
+Open Source
+AI models with publicly available weights and
+code anyone can use

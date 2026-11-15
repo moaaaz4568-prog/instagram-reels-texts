@@ -1,0 +1,10 @@
+Step #8
+Execute workflow
+Set workflow parameters
+Get Scripts in
+Folder
+List generated videos
+Loop
+Transform
+Post
+Connect nodes: Get scripts → List videos → Loop → Transform → Post

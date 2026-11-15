@@ -1,0 +1,13 @@
+Automate Your Daily Work Journal with
+n8n + AI that:
+-Stop wasting time manually writing work
+journals or timesheets
+-Automatically collects your emails,
+calendar events, and GitHub activity in
+the background
+-AI then turns all that raw data into clear,
+bite-sized daily summaries
+-The workflow updates your Google Sheet
+with organized entries by date, type, and
+description
+Result = A ready-made timesheet every evening

@@ -1,0 +1,83 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+The Trap:
+Assuming it's permanent.
+Agent will forget critical decisions by tomorrow if not saved.
+Living on borrowed time.
+
+Trigger Phrase
+
+The Tiger Phase
+Exploitability save important "Remembers this floor next..." to are strictly using Type3/Prif for all new all new API routes.
+Found Context
+
+The Audit
+1. Review "Update "Update PLAN.md", Fix, package entries, with new core tech stack facts"
+
+The Habit:
+Be the curator of your agent's agent's brain. Your input manually add a hard facts, a MEMORY.md a source of
+
+Fix: Ruthless Scoping
+One specific domain per agent
+Codebase Engineer
+Ops & Research
+
+Workers
+< />
+Agents
+
+The Sub-Agent Hack
+Temporary, parallel tasks. Narrow scope, isolated roles, low token burn.
+
+Guessing why tasks fail
+No real-time monitoring
+Budget shock at month-end
+
+The Mistake: Flying Blind
+
+The Fix: OpenClaw Dashboard
+Pinned
+Active sessions
+
+Fix: Visibility: What You See
+The Habit
+Daily check for gateway health
+
+The Mistake: The God-Agent
+Overloaded agent, muddy context, hallucinations, high API bill
+
+The Setup: Focused Work
+Agent 1: Code
+Ops/Research
+
+openclaw Dashboard
+openclaw Dashboard
+Keep it
+Monitor active sessions
+Real-time token burn
+
+Simplified to 2 hyper-focused areas
+Catch Stuck Jobs
+API Usage/Costs
+
+status
+openclaw
+models status
+status
+openclaw
+models status
+
+The Mistake: The God-Agent
+X
+Overloaded agent, muddy context, hallucinations, high API bill
+
+The Setup: Focused Work
+Agent 1: Code
+Ops/Research
+
+openclaw Dashboard
+
+Fix: Visibility: What You See
+The Habit
+Daily check for gateway health

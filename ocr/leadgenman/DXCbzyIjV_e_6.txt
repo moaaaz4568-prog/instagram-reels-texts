@@ -1,0 +1,25 @@
+5 STEP 5 OF 5
+▲ Plate and Serve
+Deploy to Vercel. Add analytics. Your SaaS is cooked.
+
+Terminal - VS Code
+$ vercel deploy --prod
+Vercel CLI 30.44.0
+? Are you sure you want to create a production deployment? Yes
+Building...
+Build completed in 42s
+Production: https://myapp.vercel.app
+Assigned to notifymotion.com
+
+• PostHog analytics wired
+• Custom domain live
+• Ship it to the world
+
+Insights Last 7 days
+PostHog - Insights
+2,847
+12,403
+891
+
+Chef's tip:
+Set up PostHog on day one. You can't improve what you don't measure.

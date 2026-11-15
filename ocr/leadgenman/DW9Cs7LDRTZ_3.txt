@@ -1,0 +1,11 @@
+Make OS
+You don't need a creative team to produce.
+These tools will get you 90% of the way.
+Nano Banana: UGC-style image
+generation from reference photos.
+HeyGen: Turn scripts into talking-
+head videos with AI avatars.
+Higgsfield: Realistic AI image and
+video generation.
+ElevenLabs: AI voiceovers, dubbing,
+and character voices.

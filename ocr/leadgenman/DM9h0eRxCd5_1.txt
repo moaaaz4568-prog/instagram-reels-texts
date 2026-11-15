@@ -1,0 +1,11 @@
+What is Blink.new?
+Blink is a complete development platform with:
+• Database + Backend + Frontend
+• AI + Auth + Payments
+• Hosting + Domain + SSL
+Everything works together.
+No setup. No config. Just build.
+You prompt. Blink builds.
+Build an AI SEO Article Writer. Onboard new users with just their website URL. Suggests keywords to rank for based on SERP API data. Add Stripe for billing.
+Attach Import Code Auto
+Websites Web Apps Mobile Apps Games

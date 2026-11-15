@@ -1,0 +1,9 @@
+Every 2 weeks,
+Re-evaluate Performance Data.
+If a bucket is underperforming, cut it and
+promote a new one from your random tests.
+RANDOM
+VIDEO
+1
+2
+3

@@ -1,0 +1,8 @@
+5. AI Prompt Libraries & Custom GPTs
+
+Why: Every team is using ChatGPT but most are getting mediocre output because they don't know how to prompt. A custom GPT or prompt library 10x's their results overnight.
+
+What you do: Build custom GPTs and prompt libraries for sales teams, content teams, and ops teams inside agencies and SaaS companies.
+
+Rate: ▶ $1K to $3K per build
+▶ 2 to 3 clients/month = $5K+

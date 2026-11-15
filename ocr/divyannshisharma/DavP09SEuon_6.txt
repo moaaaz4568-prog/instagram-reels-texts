@@ -1,0 +1,36 @@
+7
+Tier 3: Cloud routines
+Your laptop off. Work still on.
+Automate this →
+Today
+TO DO
+Create docs for new features
+Investigate alerts
+Clean up flaky tests
+Comb the backlog
+attempt a fix, and open a draft PR.
+claude.ai/code/routines/new
+New routine
+Name
+Comb the backin
+Select a trigger
+Pull the top issue from Linear, a
+Schedule
+Weekly, Mon 9:00 AM
+GitHub event
+Runs when a GitHub webhook event fires
+API
+via the /fire endpoint
+Trigger from your own code
+The most powerful tier — your laptop can be completely off.
+Set up at claude.ai/code/routines or type /schedule in Claude Code.
+Each routine = a self-contained prompt (be specific, no follow-up questions)
++ repos + connectors (Slack, GitHub, Linear, Drive) + permissions + a trigger.
+3 that pay for themselves:
+☀️ Morning briefing — pulls overnight issues, classifies severity,
+posts to Slack before you wake up
+🔍 PR review pass — flags security/style issues before a human even opens the PR
+📄 Doc drift detection — catches docs that didn’t get updated
+with the code, opens a fix PR
+By default routines can only push to branches starting with claude/ —
+a bad routine can’t touch main.

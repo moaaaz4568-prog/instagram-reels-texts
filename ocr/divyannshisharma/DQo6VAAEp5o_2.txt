@@ -1,0 +1,29 @@
+mini-MBA
+AI for GTM
+Master AI for GTM
+101 Level: Take ChatGPT beyond the basics
+• Tool(s): ChatGPT
+• Have a conversation with ChatGPT to research your buyer personas
+• Draft a blog post from primary source material
+• Prepare for an upcoming prospect or customer meeting
+201 Level: Learn videoblocking for rapid prototyping
+• Tool(s): Lovable bolt.new
+• Build an interactive ROI calculator
+• Prototype a new lead magnet for your ICP
+• Spin up a clean landing page for a prospect or upcoming event
+301 Level: Apply Deep Research to your research-heavy projects
+• Tool(s): ChatGPT Gemini perplexity Claude
+• Research competitors’ ad strategies and key messaging
+• Conduct an audit of your homepage or key marketing assets
+401 Level: Build your own personal AI agent
+• Tool(s): zapier n8n ChatGPT
+• Build a LinkedIn content research agent to analyze thought leaders in your space
+• Employ AI agents for custom lead qualification
+Elective A: Try an AI avatar
+• Tool(s): D-ID HeyGen
+• Train the avatar on existing assets
+• Test in a low-stakes environment
+Elective B: Build a team of agents
+• Tool(s): zapier n8n
+• Combine your lead qualification AI agent
+with an AI agent for outreach/scheduling

@@ -1,0 +1,42 @@
+Use Case 2:
+real lead gen.
+
+File Edit Selection ...
+Claude's Plan - Browser Automation Demo - Visual Studio Code
+You need to help me bu...
+Claude's Plan
+X Code
+08 19
+Ready for review
+Select text to add comments on the plan
+
+EXPLORER
+...
+BROWSER AUTOMATION DEMO
+> .claude
+> node_modules
+> onboarding
+> screenshots
+CLAUDE.md
+demo.js
+package-lock.json
+package.json
+qa-test.js
+serve.js
+test-onboarding.js
+
+Plan: Dentist Contact Info Scraper
+
+Context
+A playwright script that automates Google Search to find dentist offices in California, visits 5 result websites, extracts contact information (names, phone numbers, emails), and reports a summary.
+
+Implementation: find-dentists.js
+A single new file following the existing project patterns (CommonJS, async IIFE, non-headless Chromium, screenshots).
+
+Script Flow
+Launch browser — non-headless with realistic user agent, slowMo: 200
+California, visit 5 sites, pull names/numbers/emails.
+bot-task — it switched to DuckDuckGo on its own and kept going.
+
+New ask: find dentists in California, visit 5 sites, pull names/numbers/emails.
+Google blocked the bot mid-task — it switched to DuckDuckGo on its own and kept going.

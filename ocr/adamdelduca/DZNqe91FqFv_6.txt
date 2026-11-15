@@ -1,0 +1,7 @@
+The Automation Stack.
+Stop collecting random tactics.
+Build a lean system around 5 essentials:
+Niche, Packaging, Scripting,
+Voiceover, and Editing.
+Each piece has a purpose.
+Swipe →

@@ -1,0 +1,16 @@
+Shift
+Tab
+Cycle Permission Modes
+Switch between Normal, Auto-Accept, and Plan mode.
+Controls how much autonomy Claude gets.
+$ claude
+[Shift+Tab] Switched to: Plan Mode
+Claude now asks before every action
+Mode: Normal → Auto-Accept → Plan
+[Shift+Tab] Switched to: Plan Mode
+Claude now asks before every action
+Manthan Patel
+claude code
+REC
+Manthan Patel – Claude code
+REC

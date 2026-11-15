@@ -1,0 +1,3 @@
+Prompt 5
+"Score each title 1 to 10 on curiosity and clarity. Rewrite anything under eight.
+Runs in 20 minutes and saves you three months...

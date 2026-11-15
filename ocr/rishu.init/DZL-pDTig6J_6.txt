@@ -1,0 +1,10 @@
+#NEW_FRAMEWORK
+Six agents in one
+Claude Code team.
+PM, engineer, tester, reviewer,
+on-call, self-improve.
+One slash command runs the full PR cycle.
+6 agents
+1 COMMAND · OPEN-SOURCE
+07 / 08 →
+@rishu.init

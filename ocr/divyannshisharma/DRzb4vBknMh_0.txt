@@ -1,0 +1,13 @@
+N8N's AI Workflow Builder creates
+full automations from
+one prompt in 60 seconds...
+What would you like to automate?
+Ask n8n to build...
+Invoice processing pipeline
+Daily AI news digest
+HR knowledge assistant
+Summarize emails with AI
+YouTube video chapters
+Pizza delivery chatbot
+Lead qualification and call scheduling
+Create workflow

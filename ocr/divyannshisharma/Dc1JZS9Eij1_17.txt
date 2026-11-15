@@ -1,0 +1,25 @@
+SLIDE 18
+One problem:
+bare notes
+agents Command
+properties
+source_file
+claude-code-docs/sub-agents.md
+type
+concept
+community
+Sessions & Skills
+tags
+#graphify/concept #graphify/EXTRACTED #community/Sessions_Skills
+agents Command
+Connections
+Subagent - references [EXTRACTED]
+#graphify/concept #graphify/EXTRACTED #community/Sessions_Skills
+cc-docs
+3 backlinks
+4 properties 15 words 143 characters
+At first, each note is pretty empty —
+just a title and some links.
+Example: "Auto Mode" note just says
+it connects to "Claude Code on
+Amazon Bedrock." That's it.

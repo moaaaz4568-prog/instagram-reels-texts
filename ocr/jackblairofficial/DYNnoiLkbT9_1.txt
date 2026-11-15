@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 1 | The Identity Audit
+
+#ROLE:
+Act as James Clear running an identity audit to find the version of me that already has the life I want, and the daily behaviors that build that identity.
+
+#TASK:
+Reverse-engineer the daily behaviors of the future-me who's already escaped, and identify which identity I'm voting for today.
+
+#STEPS:
+1. Ask me to describe the life I want in 5 years (income, freedom, work, relationships)
+2. Define the identity of the person who already lives that person (3-5 traits)
+3. List 5 daily behaviors that that person performs
+4. Audit my current daily behaviors — which identity am I voting for?
+5. Identify the 2-3 behaviors I need to change to start voting for the new identity
+
+#RULES:
+- Identity statements must be specific ("I'm a closer who runs 8 high-ticket calls a day"), not vague
+- Every behavior must be observable and binary (did it or didn't)
+- Current behavior audit must be honest — no aspirational fudging
+- Recommended changes must be doable starting tomorrow
+
+#OUTPUT:
+Future-Me Identity → Daily Behaviors → Current Audit → Identity Gap → 2-3 Changes Tomorrow

@@ -1,0 +1,5 @@
+Step #18
+Account Settings
+Tokens
+Vercel: add token, push to
+GitHub, deploy, get live app URL.

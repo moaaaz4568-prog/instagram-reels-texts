@@ -1,0 +1,17 @@
+13
+Write Clean Git Commits
+Commit my staged changes properly.
+Convention: [CONVENTIONAL COMMITS / YOUR FORMAT]
+* Split unrelated changes into separate commits
+* Format: type(scope): what changed and why
+  feat / fix / refactor / chore / docs / test
+* Subject under 50 chars, imperative mood
+* Body explains the WHY, wrapped at 72
+* Reference the ticket: [TICKET-ID]
+* Never mix a refactor with a behavior change
+  in one commit
+* Never commit [SECRETS / .ENV / GENERATED
+  FILES]
+Show me the plan -- files per commit + messages --
+before you commit anything. Then commit one at
+a time so I can stop you between them.

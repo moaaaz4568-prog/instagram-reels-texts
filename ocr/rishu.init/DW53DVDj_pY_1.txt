@@ -1,0 +1,27 @@
+SUPER
+POWERS
+Claude Code Plugin
+
+137,000
+GitHub Stars
+
+What it does
+• Plans before code
+Brainstorms, specs, questions first
+• Enforces TDD
+RED GREEN REFACTOR every time
+• Subagent driven
+Works autonomously for hours
+• Reviews everything
+Two-stage review per task
+
+Install
+/plugin install
+superpowers@claude-code-plugins-official
+
+Works on:
+Claude Code  Cursor  Codex  Gemini
+
+Skills trigger automatically. You do not need to do anything special.
+
+Swipe ↗

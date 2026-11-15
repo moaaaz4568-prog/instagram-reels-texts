@@ -1,0 +1,10 @@
+STEP 2:
+ARM YOUR FOLDER.
+CLAUDE.MD
+AGENTS
+HOOKS
+SKILLS
+MCP
+SETTINGS
+You’re building your own AI teammate,
+tuned to YOUR repo.

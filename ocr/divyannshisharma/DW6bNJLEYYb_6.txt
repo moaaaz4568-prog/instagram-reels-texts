@@ -1,0 +1,13 @@
+Step 6
+Install it right now
+aistudio.google.com → just sign in with
+Google → select Gemma 4
+Explain how a mortgage works to someone who has never bought a house. Keep it simple and practical.
+Send prompt (Ctrl + Enter)
+Append to prompt (Alt + Enter)
+Tools
+G Grounding with Google Search
+Search
+Run
+Divyanshisharma
+07/18

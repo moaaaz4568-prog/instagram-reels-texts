@@ -1,0 +1,33 @@
+What Is
+CLAUDE CODE?
+(It's not just for coding)
+
+* Welcome to Claude Code!
+/help for help, /status for your current setup
+cwd: /Users/nikola/dev/longchain
+
+What's new:
+* Fixed issue causing "OAuth authentication is currently not supported"
+* Fixed line input now includes "exceeds_200K_tokens"
+* Introduced "ANTHROPIC_USE_MODEL SONNET_MODEL" for controlling model aliases opus, sonnet.
+* ANTHROPIC_DEFAULT_ORUS_MODEL for controlling model aliases opus, sonnet
+* Bedrock: Updated default Sonnet model to Sonnet 4
+
+Try "write a test for fileopath"
+
+In Untitled-1
+
+Claude Code
+
+You've come to the absolutely right place!
+
+unfocus Claude
+
+@itsstylergarmain
+
+An AI agent that lives on your computer and builds
+whatever you ask it to. You type what you want in
+plain English. It figures out the rest: reading
+files, writing code, running commands, etc
+
+save for later

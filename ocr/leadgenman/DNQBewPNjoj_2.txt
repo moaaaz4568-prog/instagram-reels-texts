@@ -1,0 +1,7 @@
+LangChain
+A modular orchestration framework for building LLM applications using chains, agents, tools, memory, and retrieval to compose complex multi-step workflows.
+Key Features:
+• Modular chains for building complex workflows
+• LangChain Expression Language (LCEL)
+• LangSmith for tracing and LangServe for deployment
+• Extremely flexible for multi-systems operations

@@ -1,0 +1,24 @@
+09
+DATA PREP
+garbage in, garbage out. fix the input.
+
+59 unstructured 10K extract and transform unstructured data for lms. pdfs, html, word, images, emails — clean chunks for rag.
+github.com/Unstructured-IO/unstructured
+
+3K large-scale data processing for lms. deduplication, quality filtering, content classification.
+github.com/huggingface/datatrove
+
+60 datatrove ★ 3K web content extraction for ai. strips boilerplate, keeps content, outputs clean text or markdown.
+github.com/adbar/trafilatura
+
+61 trafilatura ★ 1K semantic text chunking for rag. of arbitrary token counts. better chunks → better answers.
+github.com/unumruntler/semchunk
+
+62 semchunk ★ 2K ai-native dataset management. version, query, transform multimodal datasets. images, video, text, embeddings.
+github.com/iterative/datachain
+
+63 datachain ★
+
+Divyanshi sharma
+09/10
+09/10

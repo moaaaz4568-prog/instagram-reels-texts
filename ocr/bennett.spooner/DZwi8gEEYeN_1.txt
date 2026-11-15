@@ -1,0 +1,22 @@
+2/7
+supabase
+superset.sh
+zeroentropy (gbrain)
+1. the tech stack
+supabase .................................................. $10/mo
+a real instance. data + backend that scales.
+superset.sh ................................................ free
+admin + internal tooling, open source.
+next.js + ts + tailwind ................................. free
+the frontend. fast, typed, looks good out of the box.
+zeroentropy (gbrain) ................................... free
+memory + retrieval that asks your agents start.
+your foundation.
+~$10/mo to start.
+tools:
+TS
+N
+typescript
+next.js
+tailwind
+@bennettx.ai

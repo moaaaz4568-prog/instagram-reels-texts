@@ -1,0 +1,27 @@
+09 Setting it up takes seconds
+
+Setting it up
+takes seconds.
+
+PROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS
+Claude Code v2.1.119
+Opus 4.7 (1M context) with high effort · Claude Max
+~/Documents/GitHub/self-improving-kapathy-wiki
+> /plugin marketplace add bradautomates/claude-video
+Add Marketplace
+Enter marketplace source:
+Examples:
+- owner/repo (GitHub)
+- git@github.com:owner/repo.git (SSH)
+- https://example.com/marketplace.json
+- /path/to/marketplace
+bradautomates/claude-video
+configuration...
+Enter to add · Esc to cancel
+
+GEL
+2
+SEC
+
+You just add the marketplace, then install the skill.
+Claude installs any missing tools automatically the first time you use it.

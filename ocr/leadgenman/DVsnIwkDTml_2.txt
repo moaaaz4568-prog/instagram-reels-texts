@@ -1,0 +1,17 @@
+The Solution:
+3 Connectors, 1 Chat
+
+1. Gamma Connector
+builds the presentation
+
+2. CLAUDE
+thinks & researches
+
+3. GMAIL CONNECTOR
+reads
+your emails
+
+Connector	What it does	Real-World Equivalent	Setup
+Gmail	Reads and drafts emails inside Claude	Having an assistant read your inbox for you	Easy
+Claude	Understands context and plans the deck	The brain that connects everything	Already there
+Gamma	Generates a designed project presentation	A designer who builds your slides instantly	Easy

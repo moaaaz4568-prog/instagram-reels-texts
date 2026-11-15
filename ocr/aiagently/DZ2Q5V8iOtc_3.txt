@@ -1,0 +1,14 @@
+Prompt #2
+Customer Churn Betrayal
+Simulation
+“You are a real customer who used my product or
+service for 6 months, initially loved it, but has now
+decided to cancel.
+Write me the raw, honest breakup message explaining
+exactly why you’re leaving. Include what gradually
+frustrated you, and what finally pushed you over the edge,
+and where you’re going instead.
+Be emotionally raw and direct — write it like you would
+text a close friend, not a polite support ticket.
+Here is what my product does and who it serves:
+[DESCRIBE YOUR PRODUCT AND TARGET CUSTOMER]”

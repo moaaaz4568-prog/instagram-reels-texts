@@ -1,0 +1,5 @@
+Step #2
+AI Prompt
+Video Renderer
+MAGIC HAPPENS
+Combine AI prompt + external renderer = Magic happens!

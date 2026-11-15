@@ -1,0 +1,21 @@
+Step #10
+Personal
+My workflow 26
+Editor
+Executions
+Code
+Share
+Save
+Evaluations
+calendar_slot
+Get missing...
+Aggregate
+calendar_availability
+Get availability in a calendar
+calendar_set_availability
+Create an event
+Execute workflow from calendar_availability
+n8n workflow to check calendar availability automatically
+F10 360Hz
+Alt Gr
+Ctrl

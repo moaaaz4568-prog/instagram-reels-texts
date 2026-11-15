@@ -1,0 +1,58 @@
+04
+STEP 04
+PREMIERE PRO 2026
+HIGH-SPEED EDITING
+Premiere's AI does 80% of the work. Edit by deleting text. One click to generate Shorts from your long video.
+Import
+Edit
+Export
+Project: Adobe_Movie_Demo
+01_SEQUENCES
+02_ASSETS
+03_VIDEO
+CAM
+B_Roll
+C_DRONES
+04_AUDIO
+05_GRAPHICS
+06_OTHERS
+Essential Graphics
+Effect Controls
+Edit
+Browse
+Transform
+Position 960.0 540.0
+Scale 100.0
+Scale Width 100.0
+Uniform Scale
+Rotation 0.0
+Anchor Point 960.0 540.0
+Opacity 100.0 %
+Text
+Montserrat
+Medium 72
+Main Sequence
+00:00:01:07
+00:00:31:18
+Fit
+Q
+Full
+00:00:42
+00:00:10:00 00:00:20:00 00:00:30:00 00:00:40:00 00:01:00:00
+C001_A001_01.mov
+C001_A001_02.mov
+A1
+V1
+V2
+IMPORT
+Bring everything in effortlessly.
+TEXT-BASED EDITING
+Edit by deleting text.
+That's it.
+AI ENHANCE SPEECH
+Clearer voice,
+better engagement.
+AUTO REFRA ME
+Perfect framing for
+every platform.
+DIVYANSHI SHARMA

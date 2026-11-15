@@ -1,0 +1,23 @@
+Plugin 2 — Notion Plugin
+Connects documentation.
+Accelerates engineering.
++ Add to Cursor
+Back
+Notion
+Notion Skills + Notion MCP server packaged as a Cursor plugin.
+/workspace
+/add-plugin notion-workspace
+Skills 14
+create-database-row
+Insert a new row into a specified Notion database using natural-language property values...
+create-page
+Create a new Notion page, optionally under a specific parent. Automatically structures...
+create-task
+Create a new task in the user's Notion tasks database with sensible defaults for due date,...
+database-query
+Query a Notion database by name or ID and return structured, readable results with...
+find
+Quickly find pages or databases in Notion by title keywords. Returns precise matches...
+View 9 more
+Connects my documentation straight to my codebase.
+Cursor tracks recently edited pages, technical specs, and project roadmaps to immediately understand what requirements have changed.

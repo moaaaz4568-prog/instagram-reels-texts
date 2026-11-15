@@ -1,0 +1,22 @@
+5. signals + distribution
+
+resend .................................................. free
+transactional + marketing email.
+
+sentry .................................................. free
+know what breaks before users do.
+
+beehiiv .................................................. free
+a newsletter that actually grows.
+
+zernio .................................................. $12/mo
+one api, posts to every platform.
+
+tools:
+
+resend
+sentry
+beehiiv
+zernio
+
+@bennettX.ai

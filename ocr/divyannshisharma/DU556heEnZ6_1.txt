@@ -1,0 +1,41 @@
+1
+Intent sniping on X/Reddit
+AGENT
+Need alternative to (competitor) | best tool for X
+HOW INTENT
+REAL INTENT
+THE PERFECT REPLY
+1. Acknowledge Pain (e.g. "I struggled with Y too...")
+2. Compare: (Competitor A) vs. [Your int B] vs. [Your Tool Tour]
+3. The Hook: Why your tool wins
+WEBSITE VISITS
+~50 /1,000 VIEWS (5% CTR)
+GOOGLE INDEXING
+G (1-2 YEARS SEO TRAFFIC)
+PLATFORM SAFETY LIMITS
+ZONE
+<table>
+<thead>
+<tr>
+<th>PLATFORM</th>
+<th>DAILY LIMIT (SAFE)</th>
+<th>RISK</th>
+<th>EXTREME (BAN)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>X</td>
+<td>50 - 100 posts</td>
+<td>20 - 30 posts</td>
+<td>200+ (INSTANT BAN)</td>
+</tr>
+<tr>
+<td>Quora</td>
+<td>20 - 30 posts</td>
+<td>Shadowban / Karma</td>
+<td>Account Suspension</td>
+</tr>
+</tbody>
+</table>
+@divyanshisharma

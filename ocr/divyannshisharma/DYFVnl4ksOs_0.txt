@@ -1,0 +1,36 @@
+Claude Code v1.0.37
+All systems operational.
+
+Claude Code
+AI that works in your terminal
+
+Available features:
+> /slash Commands
+> /config
+> /memory
+> /review
+> /bug
+> /pr
+> Hooks
+> Subagents
+> Multi-file edits
+> Git integration
+> Terminal UI
+> MCP support
+> Permissions
+> Project memory
+> Context packing
+> Resume sessions
+> And more...
+
+SHARMA
+DIVYANSHI SHARMA
+
+ANTHROPIC
+
+TWO ANTHROPIC ENGINEERS
+SPENT 24 MINUTES EXPOSING
+EVERY CLAUDE CODE FEATURE
+YOU DIDN'T KNOW EXISTED.
+
+DON'T MISS THIS

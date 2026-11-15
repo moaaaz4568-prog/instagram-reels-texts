@@ -1,0 +1,6 @@
+The Build
+So, I built an AI system that:
+Analyzes your audience & past purchases
+Writes emails that sound like you
+Segments lists automatically
+Sends via Omnisend Email + SMS

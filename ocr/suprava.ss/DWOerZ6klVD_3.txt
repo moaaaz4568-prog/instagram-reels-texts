@@ -1,0 +1,13 @@
+consultative-cold-outreach
+SKILL.md
+references
+message-examples
+required-inputs.md
+response-framework.md
+video-breakdown.md
+consultative-cold-outreach
+Added by User
+Last updated Jan 30, 2026
+Invoked by User or Claude
+Writes you cold emails that has a 90% open rate
+MacBook Air

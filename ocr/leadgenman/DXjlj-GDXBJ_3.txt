@@ -1,0 +1,11 @@
+Make OS
+
+The places you'll generate, transcribe, and transcode from. No GUIs, no waiting.
+
+FFmpeg: The Swiss-army knife of video. Trim, encode, overlay in one line.
+
+ImageMagick: Resize, convert, batch-process images at scale.
+
+Whisper: OpenAI Whisper transcription. Audio to text in seconds.
+
+ElevenLabs: AI voice generation. TTS, dubbing, voice cloning from one command.

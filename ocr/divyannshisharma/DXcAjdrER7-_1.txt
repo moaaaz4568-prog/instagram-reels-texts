@@ -1,0 +1,10 @@
+PART TWO
+Automatic Memory Loop
+Your AI remembers every meeting.
+How it works:
+Fathom → Zapier → Google Drive → Claude
+Process
+* Every call gets recorded + transcribed.
+* AI extracts decisions, summaries, tasks.
+* Updates your system automatically.
+@divyanshisharma

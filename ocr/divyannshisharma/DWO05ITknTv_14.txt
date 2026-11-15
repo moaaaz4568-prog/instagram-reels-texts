@@ -1,0 +1,6 @@
+Step 14: Command
+(claude mcp add stitch --transport http)
+(https://stitch.googleapis.com/mcp)
+Stitch
+Claude Code
+OAuth Setup

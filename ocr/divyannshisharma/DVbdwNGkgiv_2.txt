@@ -1,0 +1,23 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+And you can click into a task to see all the details, including the user stories (with acceptance criteria) that your agent team is cranking through ...
+
+antfarm dashboard
+feature-dev
+Add user authentication with OAuth.
+PLAN
+Add user authentication with OAuth.
+SETUP
+Add user authentication with OAuth.
+RUNNING
+setup
+implementation
+verify
+test
+dr
+review
+Stages
+1 - 1 Create OAuth provider configuration module
+1 - 2 Implement Google OAuth callback handler
+1 - 3 Implement GitHub OAuth callback handler

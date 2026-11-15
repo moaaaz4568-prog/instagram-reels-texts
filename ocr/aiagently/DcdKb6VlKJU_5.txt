@@ -1,0 +1,71 @@
+STEP 5
+Build specialists
+Each specialist gets one file and one job, Opus on the
+analysis, Sonnet on the executing,
+then a gate on what comes out.
+One job per file is why you can debug it.
+1
+Plan
+Strategist
+Analyses & plans
+2
+Build
+Builder
+Executes & builds
+3
+95/100
+QA gate
+Tests & validates
+Build me a set of
+sub-agents for [process].
+One .md file per specialist at
+~/.claude/agents/.
+Opus for analyses, Sonnet for executors.
+Add a 95/100 QA gate.
+~/.claude/agents/
+strategist.md
+qa.md
+Powered by Opus
+Powered by Sonnet
+Gate 95/100
+Specialists
+dashboard
+12
+Specialist Role Model Last Run Status
+strategist.md Analyses & plans Opus 2m ago Success
+builder.md Executes & builds Sonnet 5m ago Success
+qa.md Tests & validates Sonnet 1m ago Success
+Single purpose
+One file,
+one job.
+Easy to debug
+Isolate, test,
+improve.
+Works together
+Specialists hand
+off seamlessly.
+Scale with confidence
+Add more specialists
+as you grow.
+Active 9
+Runs 247
+Success rate
+96%
+SCORE
+98/100
+97/100
+95/100
+Success rate
+96%
+STRATEGIST
+Research
+Analyse
+Plan
+BUILDER
+Execute
+Implement
+Deliver
+QA GATE
+Test
+Validate
+Score

@@ -1,0 +1,9 @@
+s and content storytelling frameworks I’ve loaded in the /examples/
+folder. Analyze the patterns, what makes these posts perform well, the hooks, the structures,
+the storytelling patterns. Then create a new Claude skill named “social-media-content” that
+generates on-branded social media content using these best practices for any given topic or direction
+from the user.
+The skill should also use the Perplexity MCP to find relevant trending conversations and hot
+Add your writing framework how you structure
+hooks, stories, CTAs. Claude reads all of it and
+now writes posts the way you write them.

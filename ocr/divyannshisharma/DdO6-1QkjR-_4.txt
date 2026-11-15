@@ -1,0 +1,37 @@
+SLIDE 5
+Skill 3:
+Systematic Debugging
+
+Normal debugging: try this, try that, guess, get frustrated, waste 3 hours.
+
+With this skill: a 4-phase structured bug-hunting process.
+
+Claude breaks the problem down systematically:
+Phase 1: identify the component boundary → Phase 2: add targeted logging → Phase 3: isolate the root cause → Phase 4: fix with confidence.
+
+Average time to fix a bug: drops from 2-3 hours to 15-30 minutes.
+
+It’s not guessing.
+It’s Root Cause Analysis.
+
+SYSTEMATIC DEBUGGING
+FIND THE CAUSE. FIX IT. MOVE ON.
+1 IDENTIFY the component boundary
+2 ADD targeted logging
+3 ISOLATE the root cause
+4 FIX with confidence
+ROOT CAUSE FOUND
+
+NORMAL DEBUGGING
+Maybe this?
+GUESS. TRY. HOPE.
+Try again
+Still broken
+Add log here?
+What if it's this?
+3 hours later...
+
+github.com/obra/superpowers
+
+Less guessing.
+More root causes.

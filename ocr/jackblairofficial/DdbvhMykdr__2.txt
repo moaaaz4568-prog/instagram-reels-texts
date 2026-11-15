@@ -1,0 +1,17 @@
+Jack Blair
+@jackblairofficial
+
+Finding 1: the ask sets the rate.
+
+Across the same accounts, where the keyword sits changes the count:
+
+Rate by where the keyword sits (median comments per like):
+First line of the caption: 0.65
+Buried after the story: 0.19
+
+Caption that starts with "Comment": 0.68
+Caption that starts with the claim: 0.18
+
+Inside one account, the posts that give something away pull 10 to 50x the comments of everything else it posts.
+
+Pool: 4,818 lead posts with 100+ likes.

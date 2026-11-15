@@ -1,0 +1,15 @@
+AI Agents are disrupting industries.
+Here are the 11 skills you need to
+stay ahead
+
+1. Context Engineering (highest ROI skill)
+💥 Prompting is dead. Your CLAUDE.md is the
+new backbone.
+
+2. Claude Skills (SKILL.md)
+🔨 Package any workflow once, reuse it forever.
+Works on every agent, not just Claude
+
+3. MCP (Model Context Protocol)
+🌐 The one plug that connects your agent to
+anything. 10,000+ servers and counting

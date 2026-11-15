@@ -1,0 +1,3 @@
+Step 10: Login
+Copy commands, paste into terminal, run
+notebooklm login connected in minutes.

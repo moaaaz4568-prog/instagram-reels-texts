@@ -1,0 +1,17 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+AUTOMATION THAT RUNS WHILE
+YOU SLEEP:
+Token Usage:
+31.9%
+Time to Reset:
+2h 14m
+n8n is the easiest option:
+Open-source,
+self-hostable
+Unlimited free
+executions
+Claude Code
+generates n8n
+configs
+MCP: Universal adapter connecting AI to any tool

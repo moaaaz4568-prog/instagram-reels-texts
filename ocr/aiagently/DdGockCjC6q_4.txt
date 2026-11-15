@@ -1,0 +1,11 @@
+4. Appointment Agent
+Turn a WhatsApp conversation into a booked appointment.
+Every service business.
+Behind the scenes:
+1. Checks calendar
+2. Finds availability
+3. Books the slot
+4. Sends confirmation
+5. Sends reminder
+More bookings.
+Less manual work.

@@ -1,0 +1,12 @@
+Step 8: Preview
+Scrub the timeline in your browser and
+iterate by just messaging Claude.
+00:00:12
+1. core - writer - system
+- /core - writer - system
+- CLAUDE.md
+- claude/
+- agents/
+- content - repurposer.md
+- newsletter - writer.md
+- social - media - writ

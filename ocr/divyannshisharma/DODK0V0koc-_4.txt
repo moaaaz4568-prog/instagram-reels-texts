@@ -1,0 +1,13 @@
+3.
+Find Active Buyers via
+LinkedIn Events
+Search ICP-
+specific LinkedIn
+Events
+Scrape + enrich
+attendees with
+Phantombuster/
+Apify
+Use prompts to
+uncover buyer-
+hosted events

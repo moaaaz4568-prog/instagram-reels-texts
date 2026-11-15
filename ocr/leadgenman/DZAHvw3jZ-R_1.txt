@@ -1,0 +1,16 @@
+> read CLAUDE.md
+Loading...
+> ls .claude repo context...
+.claude/agents
+tester docs
+ready |
+> claude:
+LEADGENMAN
+NANTHAN PATEL
+
+Context = leverage.
+When Claude knows your repo, you:
+- Ship features faster
+- Stop re-explaining everything
+- Spin up agents that run 24/7
+- Let them do the heavy lifting

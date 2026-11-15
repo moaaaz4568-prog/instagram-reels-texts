@@ -1,0 +1,28 @@
+NotebookLM
+8 tools.
+10 / 18
+Automations & Workflows
+* Activepieces
+Open source Zapier alternative, fully self-hostable
+Automation & Workflows open source
+* Automatisch
+Open source self-hosted workflow automation
+Automation & Workflows open source
+* Windmill
+Open source dev platform for workflows and scripts
+Automation & Workflows open source
+* PromptFlow
+Microsoft open source LLM workflow toolchain
+Automation & Workflows open source
+* Prefect
+Open source Python-native dataflow orchestration
+Automation & Workflows open source
+* Apache Airflow
+Open source workflow scheduler, widely used
+Automation & Workflows open source
+* Temporal
+Open source durable workflow execution engine
+Automation & Workflows open source
+* Conductor
+Netflix open source microservice orchestration
+Automation & Workflows open source

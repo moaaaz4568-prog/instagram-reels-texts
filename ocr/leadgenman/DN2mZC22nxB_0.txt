@@ -1,0 +1,10 @@
+in
+Build a LinkedIn job scraper with n8n:
+- scrapes job listings automatically
+- finds hiring manager emails
+- enriches company data
+- writes personalized messages
+- attaches your CV to emails
+- send emails to HRs 24/7
+- lands 100+ interviews monthly
+Comment "Job" for this n8n Workflow!

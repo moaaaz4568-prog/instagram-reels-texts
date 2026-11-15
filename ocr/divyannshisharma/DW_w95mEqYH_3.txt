@@ -1,0 +1,34 @@
+Repo Stack 02
+NOTEBOOKLM
+DESCRIPTION
+Unofficial Python API
+and agentic skill for
+Google NotebookLM.
+Full programmatic
+access to
+NotebookLM's
+features—including
+capabilities the web
+UI doesn't expose—via
+Python, CLI, and AI
+agents like Claude
+Code, Codex, and
+OpenClaw.
+teng-lin / notebooklm-py Public
+Code Issues 13 Pull requests 35
+main 13 Branches 10
+teng-lin Merge pull request #237 fr
+.github
+docs
+scripts
+src/notebooklm
+tests
+.env.example
+.gitignore
+.pre-commit-config.yaml
+AGENTS.md
+github.com/teng
+api python
+podcast-generator
+MORE INFO
+https://t.co/LTIGoU3oPp

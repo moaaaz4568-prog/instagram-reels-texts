@@ -1,0 +1,15 @@
+Productivity:
+
+17. Google Drive MCP: Read and write files in Google Drive. Search documents, create new files, organize folders. Bridges the gap between Claude and your cloud documents.
+https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive
+
+18. Slack MCP: Read messages, search channels, send messages, post to channels, send DMs. Integrate Claude into your team communication workflows. Essential for building Slack-based automations.
+https://github.com/modelcontextprotocol/servers/tree/main/src/slack
+
+19. Google Calendar MCP: Read, create, update, and delete calendar events. Build scheduling automations, generate daily briefings from your calendar, and manage your time through natural language.
+https://github.com/hopding/google-calendar-mcp
+
+20. Gmail MCP: Read, send, search, and organize emails. Build email triage systems, auto-drafters, and inbox management automations. Handle your email through AI.
+https://github.com/nicobailon/gmail-mcp
+
+C→

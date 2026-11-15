@@ -1,0 +1,27 @@
+Competitor Tracker
+Competitors
+Sync Now
+Add Competitor
+Read all read
+Home
+News
+Topics
+Formats
+YouTube
+Instagram
+LinkedIn
+Analytics
+Calendar
+Competitors
+Tyler
+Alex Hermosi
+4.0M
+4.3M
+Branding
+Dwayne Johnson
+Actor
+7.1M
+390.6M
+Create a competitor tracker dashboard. It should let me add competitor handles/channels and display their recent posts, engagement, posting frequency, and growth trends. It should track them across multiple social accounts. Pull publicly available data and present it in a sortable table with a dark theme.
+@its Tylergermain
+save for later

@@ -1,0 +1,14 @@
+Subset
+AI Automation: Part of AI Agent
+AI Automation is a key subset within the broader AI Agent framework, where multiple automatable intelligent autonomous tasks combine to enable intelligent autonomous actions.
+AI Agent & AI Automation
+User Input
+LLM
+Decision
+Tools Called
+Tool 1
+Tool 2
+Tool 3
+If/Condition
+Tool 4
+Output

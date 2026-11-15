@@ -1,0 +1,6 @@
+Ask Apollo: Summarize Calls with AI Meetings
+Show me AI insights for my upcoming call with Janet from Shopify. Summarize our past interactions, highlight key pain points discussed, and suggest talking points based on their recent company initiatives.
+• Meeting scheduler & recorder in one
+• Pre-meeting AI insights
+• Instant AI transcription & next steps
+• Automatic follow-up emails in CRM

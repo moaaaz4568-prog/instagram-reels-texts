@@ -1,0 +1,11 @@
+Context7
+Claude. No
+Pulls live, version-specific docs into Claude. No
+more hallucinated APIs or year-old code.
+Context7
+Context7 Platform - Up-to-date Code Docs For Any
+Prompt
+github.com/upstash/context7
+Manthan Patel | @leadgenman
+4 / 15
+GitHub

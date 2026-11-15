@@ -1,0 +1,56 @@
+@os.operator
+operatoros.ai
+5. Master the art of talking to Claude.
+5. Claude Prompt Engineering Guide
+(Official Docs)
+skill.md
+cs
+Claude API Docs
+Best practices Overview
+Prompt engineering overview
+1
+<role>
+2
+<context>
+3
+<examples>
+Prompt engineering
+Before prompt engineering
+This guide assumes that you have:
+1. A clear definition of the success criteria for your use case
+2. Some ways to empirically test against those criteria
+3. A first draft prompt you want to improve
+If not, we highly suggest you spend time establishing that first. Check out Define success criteria and build evaluations for tips and guidance.
+Prompt generator
+Don't have a first draft prompt? Try the prompt generator in the Claude Console!
+Prompting best practices
+For model-specific tuning guidance for Claude's latest models, start here.
+This guide focuses on successful prompt engineering. The most important factor for success criteria or failing evals is best solved by prompt engineering. For example, latency and cost can be sometimes more easily improved by selecting a different model.
+How to prompt engineering
+All prompting techniques — for example, chain-of-thought, role prompting, thinking, and prompt chaining — are covered in Prompting best practices. That's the living reference, start there.
+The Claude Console also offers some useful prompting tools—prompt generator, templates and variables, and the prompt improver—to help you build and refine prompts.
+4
+<task>
+5
+<constraints>
+6
+<output>
+XML Prompting
+Structure prompts with clarity.
+Role Prompting
+Define the role with clarity. Get better outputs.
+Context
+Structure Step-by-Step
+Guide with Examples
+Constrain Output
+</>
+This is Claude's real cheat code.
+1
+2
+3
+4
+5
+Examples
+Examples.
+Output Constraints
+Control format, length, tone.

@@ -1,0 +1,18 @@
+scrapes google maps → local business leads on tap
+08 / 20
+GitHub
+gosom / google-maps-scraper
+Public
+5.3k
+Fork
+Star 5.3k
+Go
+5.3k
+public repository
+WHAT IT DOES
+pulls name, phone, site and reviews from google maps listings.
+WHO TO MINE IT FOR
+everyone is building local lead lists. sell done-for-you leads or local outreach.
+THE EXACT LINK
+github.com/gosom/google-maps-scraper/stargazers
+● the github method

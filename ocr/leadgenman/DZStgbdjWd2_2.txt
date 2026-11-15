@@ -1,0 +1,13 @@
+2. Deepseek R1
+The Open-Source Chinese AI
+
+Best for: Coding, technical reasoning, and math-heavy tasks.
+
+Strengths:
+• Delivers strong reasoning for STEM and programming problems.
+• Runs efficiently, it's powerful but much cheaper than most U.S. models.
+• Works in both Chinese and English.
+
+Keep in mind: Limited English documentation and community support. Not designed for storytelling or brand writing.
+
+Use it when you need brains on a budget for numbers, logic, or code.

@@ -1,0 +1,10 @@
+Jack Blair
+@jackblairofficial
+
+2. AI takes the predictable work first.
+
+Anything repeatable, rules-based, and done at a desk is the easiest thing to hand to a machine. Data entry. Reporting. Support tickets. Admin. Basic code.
+
+If the task can be written down as steps, software can learn to run it.
+
+That describes most of the desk economy.

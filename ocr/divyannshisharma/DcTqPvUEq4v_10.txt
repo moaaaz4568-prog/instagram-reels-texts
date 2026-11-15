@@ -1,0 +1,18 @@
+11 THE TOOLS DOING THE WORK
+The tools
+doing the work.
+YTDLP
+Universal Video
+Downloader
+YTDLP
+Loop
+Copy video URL
+Copy video URL at current time
+Save video
+Inspect
+Two old, free, rock-solid tools do everything:
+YT-DLP downloads the video, and FFmpeg:
+turns it into screenshots and audio.
+These aren't new or fancy — they've
+been used by developers for over
+a decade.

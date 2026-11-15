@@ -1,0 +1,36 @@
+hooks
+Automate before & after.
+
+You define:
+• Pre/post tool triggers
+• Auto-format on save
+• Shell scripts on events
+
+Set it once, runs every time.
+
+settings.json
+1 {
+2   "hooks": {
+3     "PreToolUse": [
+4       {
+5         "matcher": "Edit|Write",
+6         "command": "npm run lint -- --fix --quiet"
+7       }
+8     ],
+9     "PostToolUse": [
+10      {
+11        "matcher": "Write",
+12        "command": "npx prettier --write $FILE_PATH"
+13      },
+14      {
+15        "matcher": "Bash",
+16        "command": "echo Manthan: done $(date +%H:%M)"
+17      }
+18    ],
+19    "Notification": [
+20      {
+21        "command": "terminal-notifier -title Manthan"
+22      }
+23    ]
+24  }
+25 }

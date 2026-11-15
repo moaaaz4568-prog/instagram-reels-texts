@@ -1,0 +1,18 @@
+Monitor your
+domain health
+
+Warmy checks your SPF,
+DKIM, and DMARC records,
+scans for blacklists, and
+tracks your sender
+reputation automatically.
+
+Deliverability 99%
+Inbox 38,700
+Spam 400
+
+2000
+1500
+1000
+500
+0

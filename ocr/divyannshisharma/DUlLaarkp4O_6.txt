@@ -1,0 +1,33 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+3. bug-fix (6 agents)
+
+plaintext
+setup → fix → verify → PR
+triage → investigate → setup → fix → verify → PR
+
+Paste a bug. Get a fix with a regression test – reproduced, patched, and verified.
+
+4. Quick example:
+
+bash
+$ antfarm workflow install feature-dev
+✓ Installed workflow: feature-dev
+
+$ antfarm workflow run feature-dev "Add user authentication with OAuth"
+Run: a1fd5f3
+Workflow: feature-dev
+Status: running
+
+$ antfarm workflow status "OAuth"
+Run: a1fd5f3
+Workflow: feature-dev
+Steps:
+  [done]  plan (planner)
+  [done]  setup (setup)
+  [running] implement (developer)  Stories: 3/7 done
+  [pending] verify (verifier)
+  [pending] test (tester)
+  [pending] pr (developer)
+  [pending] review (reviewer)

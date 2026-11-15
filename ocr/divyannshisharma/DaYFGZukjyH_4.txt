@@ -1,0 +1,21 @@
+STEP 05
+The
+experiment.
+I gave Claude Code one sentence:
+"Download the official Claude Code docs, map them with
+Graphify, then turn that into an Obsidian vault."
+Claude Code v2.1.168
+Opus 4.8 (1M context) · Claude Max
+of the week: /loop - run a prompt or slash
+command on a recurring interval
+> Downloaded the official claude code documentation, point
+graphify at it, then use the graphify obsidian command
+to turn it into a vault
+the vault
+>> bypass permissions on (Shift+tab to cycle)
+One sentence.
+Let's see what happened.
+Collect everything
+Map it with Graphify
+Turn it into an Obsidian vault
+All from one simple command

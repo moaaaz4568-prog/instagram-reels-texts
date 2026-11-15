@@ -1,0 +1,7 @@
+7. Find Companies Using AI → AI-Specific Outreach
+Claude
+WORKFLOW:
+1 Prospeo Find Companies Using AI
+2 AI Flag = True Filter for AI-Use Companies
+3 Export List Export
+4 Claude Companies "Write AI-focused outreach."

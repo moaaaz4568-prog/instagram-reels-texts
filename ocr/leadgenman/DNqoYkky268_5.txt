@@ -1,0 +1,10 @@
+init Sheet Columns
+append sheet
+Create Sheet If It Doesn't Exist
+If it didn't exist
+Init Sheet Headers
+manual
+Step 5: Insert entries into Google
+Sheets
+-Columns: Date | Type | Description
+-Organized month-by-month

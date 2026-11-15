@@ -1,0 +1,20 @@
+Step 3
+Give Claude your
+business information:
+Claude
++ New chat
+Projects
+Artifacts
+Customize
+Claude about your business.
+Tell Claude about your business.
+Here is my business information:
+• What you sell
+• Your prices
+• FAQs
+• Business hours
+• Services
+• Common customer questions
+Claude 3.5 Sonnet
+Now Claude knows what your
+business actually does.

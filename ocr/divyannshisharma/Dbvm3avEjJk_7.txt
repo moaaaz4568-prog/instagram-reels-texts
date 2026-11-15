@@ -1,0 +1,19 @@
+08 TIP 4: TELL IT WHEN TO STOP AND CHECK IN
+Tip 4:
+Tell it when to
+stop and check in.
+CHECKPOINT 1
+CHECKPOINT 2
+CHECKPOINT 3
+CHECKPOINT 4
+Checking in..
+Fable 5 is built to run on its own. If you don’t tell it when to pause, it will
+make those decisions itself.
+For simple tasks that’s fine.
+For anything important, you want to be in control.
+Copy and paste this into your prompt:
+“Pause for me only when the work genuinely requires my input —
+a destructive or irreversible action, a real scope change, or something
+only I can provide. Otherwise keep going and report to work fast while making sure matter.”
+This gives Fable the freedom it stops at
+the moments that actually matter.

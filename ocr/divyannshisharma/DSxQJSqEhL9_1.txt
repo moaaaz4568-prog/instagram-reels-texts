@@ -1,0 +1,2 @@
+Step #1
+Upload any image via Telegram and the agent processes it automatically

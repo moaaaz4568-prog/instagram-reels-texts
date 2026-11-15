@@ -1,0 +1,18 @@
+Step 3
+Activate with /aisdr
+Open a fresh Claude conversation, type the command
+and hit Enter. The skill activates automatically
+Claude greets you and begins the interview, working
+through each section in order, one question at a time.
+* Good evening, Usama
+aisdr
+/aisdr
++
+Interview the user and produce a finished brief builder they paste into
+Replit Agent to build a complete AI SDR system (lead pipeline, ICP
+qualification, Apollo enrichment, outreach sequence enrollment, admin
+dashboard). Use this skill whenever the user types /aisdr, or asks to
+build an AI SDR, an automated outbound system, a lead-to-outreach
+pipeline, or a "Replit prompt" for sales automation — even if they don't
+say the word "skill."
+Opus 4.8 High

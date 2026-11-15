@@ -1,0 +1,30 @@
+Full website
+Marketing audit
+Punit Kumar
+> /market_audit https://company.com
+Claude automatically launches 5 specialized AI agents. Each one analyzes a different marketing category, then Claude combines everything into one complete report.
+Content & Messaging
+SEO Analysis
+Growth Strategy
+Optimization
+Competitor Positioning
+Conversion Audit
+Launching 5 AI marketing agents...
+Content Analysis
+SEO Analysis
+Growth Strategy
+Creating report...
+MARKETING-AUDIT.md
+Conversion Audit
+Competitor Research
+MARKETING-REPORT.pdf
+74/100
+Marketing Score
+18
+Quick Wins
+12
+Critical Issues
+24
+Priority Tasks
+swipe
+swipe

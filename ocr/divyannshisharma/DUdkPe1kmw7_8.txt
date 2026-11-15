@@ -1,0 +1,8 @@
+HOW IT ALL WORKS TOGETHER:
+Bhanu has an idea
+He Telegrams it to Jarvis, his Squad Lead
+Jarvis adds the task Mission Control & assigns it
+A specialist agent gets to work on it
+All other agents see the new task
+Any agent can add insights to the card
+The responsible agent finishes the work

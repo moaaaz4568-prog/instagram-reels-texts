@@ -1,0 +1,12 @@
+03 How this one is different
+How this one is different.
+1. Frames
+2. Transcript
+00:00 Welcome to the video.
+00:05 Today we'll talk about...
+00:10 First, let's understand...
+A video is really just two things:
+pictures and words.
+This one sees
+the full picture.
+This skill grabs both — screenshots every few seconds, plus a timestamped transcript — and gives Claude the full picture, not just half of it.

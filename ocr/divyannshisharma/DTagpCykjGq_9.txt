@@ -1,0 +1,22 @@
+Step #9
+Gemini
+Community Responder
+Skool Community Responder
+Professional engagement options for your members.
+PASTE MEMBER QUESTION
+Cloud vs Self-hosted N8N
+Hello Fellow AI Enthusiast,
+I am curious: for those of you who have created workflows/agents with n8n, did you choose cloud or self-hosted, and what pros/cons have you noticed based on your choice to build with n8n?
+Create Options
+Reset
+Your Context / Niche (Optional)
+ai automation
+Uses Gemini 2.0 Flash for instant reasoning.
+Quick Reply
+Community Responder
+Paste Member Question
+I am curious: for those of you who have created workflows/agents with n8n, did you
+choice to build with n8n?
+Auto-respond to community questions with 3 response styles
+360de
+Alt Gr

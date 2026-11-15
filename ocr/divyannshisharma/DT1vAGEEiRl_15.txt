@@ -1,0 +1,9 @@
+Content Pipeline
+DRAFT
+REVIEW
+APPROVED
+PUBLISHED
+ARCHIVED
+Comment "Send"
+below to get the workflow.
+360Hz

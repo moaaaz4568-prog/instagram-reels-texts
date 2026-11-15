@@ -1,0 +1,6 @@
+Tip 8 – Auth
+Authentication
+Predefined Credential Type
+Credential Type
+OpenRouter
+Most APIs require authentication to work. In your HTTP Request node, go to "Authentication" and select "Header Auth" then add your API key as a header, usually named Authorization or x-api-key. Store it as a credential so you never expose your key inside the workflow itself.

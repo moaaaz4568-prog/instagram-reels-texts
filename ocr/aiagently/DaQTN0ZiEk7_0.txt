@@ -1,0 +1,13 @@
+AI System for Dentist
+Payment Received
+$5000
+Received Successfully
+10:30 AM
+Client
+Today, 10:30 AM
+Transaction ID
+#TXN56789024
+VIEW DETAILS
+ai agently
+Create 1 Prompt n8n AI
+Agent with ✳️ Claude

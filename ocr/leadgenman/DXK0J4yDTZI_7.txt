@@ -1,0 +1,11 @@
+the full flow
+what happens when you hit enter
+1 you type a prompt
+2 agent plans steps
+3 tools are called
+4 runtime batches req.
+5 weights compute
+6 GPUs burn electrons
+your answer
+and it all comes back in 800ms
+5 layers of infra hidden behind one blinking cursor

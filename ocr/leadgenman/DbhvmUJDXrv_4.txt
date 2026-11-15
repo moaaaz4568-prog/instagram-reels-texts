@@ -1,0 +1,5 @@
+Everything Hits
+This First
+Cloudflare
+• CDN, DNS, bot & DDoS protection.
+• Blocks bad traffic before it reaches the app.

@@ -1,0 +1,2 @@
+Step 16: Phases
+Claude writes a 6-phase plan. CSS token table. Old tokens vs new. 40 files.

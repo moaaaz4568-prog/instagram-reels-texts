@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+3. Build your objection bank
+
+Here's the follow up prompt. Run it in the same chat:
+
+Based on that breakdown, list the 20 objections a prospect is most likely to raise on a call for [INSERT OFFER]. For each one, write the response Ali Reda would give, adapted to my offer, in plain words a real person would say out loud. Then rank the 5 objections that kill the most deals and write a full word for word response for each, ending with the one question I ask next to keep the call moving.

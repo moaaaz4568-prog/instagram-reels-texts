@@ -1,0 +1,37 @@
+AG agent knowledgebase + Add tag
+Editor Executions Evaluations
+Active
+To files
+RAG Agent
+Chat message
+received
+Chat Model
+Memory
+Tool
+OpenAI Chat
+Model
+Postgres Chat
+Memory
+Vector Store Tool
+Vector Store/Memor
+y
+Subabase Vector
+Store
+Embedding
+Embeddings
+OpenAI Chat
+Model
+Embeddings OpenAI
+Uploading doc to vectorstore
+Google Drive Trigger
+FileID
+manual
+Execute workflow
+Open changin
+Session: 946ae... Logs
+Part 2: The RAG Agent
+- Chat interface for questions
+- Searches your documents
+- Maintains conversation memory
+- Returns answers with sources
+- Powered by OpenAI

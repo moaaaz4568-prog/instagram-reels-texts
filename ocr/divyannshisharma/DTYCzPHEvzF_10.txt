@@ -1,0 +1,14 @@
+Step #10
+Workspace Flows
+Add step
+Daily recap of unread emails in Chat
+Step 1: On a schedule
+Ask Gemini
+Recap unread emails
+Decide
+Check if
+Send a webhook
+Send an email
+Test run
+Turn on
+Workspace Flows & AI Agent Automation

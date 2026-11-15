@@ -1,0 +1,13 @@
+4. Reply routing.
+Send every positive reply to the right owner instantly.
+New reply
+"Yes, let's do this."
+Routing engine
+Analyze intent.
+Match owner.
+AM
+Account Manager
+SDR
+Sales Development Rep
+AE
+Account Executive

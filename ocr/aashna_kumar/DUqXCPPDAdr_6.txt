@@ -1,0 +1,19 @@
+@aashna_kumar
+EFFECTS → SHADOW & LIFT
+Effects
+Style
+Ag
+Ag
+Ag
+None
+Shadow
+Lift
+Intensity
+- 50 +
+Select text → Effects
+Try:
+• Shadow
+• Lift
+• Glow
+Subtle shadows = depth
+Depth = more premium feel

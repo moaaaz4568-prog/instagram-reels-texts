@@ -1,0 +1,3 @@
+13: Handles Errors
+Claude recovers from failed fetches and
+keeps the audit running smoothly.

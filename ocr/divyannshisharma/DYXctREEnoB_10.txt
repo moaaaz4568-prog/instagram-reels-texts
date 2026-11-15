@@ -1,0 +1,58 @@
+NotebookLM
+18 tools.
+RAG & Vector DBs
+08 / 18
+Qdrant
+Open source Rust-based vector similarity engine
+RAG & Vector DBs open source
+Weaviate
+Open source vector search engine with modules
+RAG & Vector DBs open source
+Chroma
+Open source AI-native embedding and vector DB
+RAG & Vector DBs open source
+Milvus
+Open source cloud-native vector database
+RAG & Vector DBs open source
+pgvector
+Open source PostgreSQL extension for vectors
+RAG & Vector DBs open source
+FAISS
+Meta open source billion-scale similarity search
+RAG & Vector DBs open source
+Vespa
+Open source big data + ML search engine
+RAG & Vector DBs open source
+LanceDB
+Open source serverless vector DB for AI apps
+RAG & Vector DBs open source
+Marqo
+Open source end-to-end tensor search engine
+RAG & Vector DBs open source
+txtai
+Open source all-in-one embeddings database
+RAG & Vector DBs open source
+Supabase Vector
+Open source Postgres-based vector database
+RAG & Vector DBs open source
+SingleStore
+Open source distributed SQL + vector database
+RAG & Vector DBs open source
+Elasticsearch
+Open source distributed vector + text search
+RAG & Vector DBs open source
+Redis Stack
+Open source in-memory vector search
+RAG & Vector DBs open source
+DuckDB
+Open source analytical DB with vector extensions
+RAG & Vector DBs open source
+Pinecone
+Managed vector database for building AI apps
+RAG & Vector DBs open source
+ClickHouse
+Open source columnar DB with vector search
+RAG & Vector DBs open source
+Vald
+Open source high-performance vector search engine
+RAG & Vector DBs open source

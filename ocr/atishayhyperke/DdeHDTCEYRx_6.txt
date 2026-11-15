@@ -1,0 +1,19 @@
+6. Kill/keep
+decisions.
+
+Use explicit thresholds so humans
+do not keep bad campaigns alive emotionally.
+
+Metric	Keep	Kill
+Reply Rate
+(unique replies / sent)	≥ 5%	< 2%
+Positive Rate
+(positive / total replies)	≥ 35%	< 20%
+PCPL
+(cost per positive lead)	≤ $25	> $50
+Bounce Rate
+(hard + soft bounces)	≤ 5%	> 8%
+Domain Health
+(deliverability status)	Healthy
+(green)	At Risk / Poor
+(yellow / red)

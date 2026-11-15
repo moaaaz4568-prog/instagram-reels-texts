@@ -1,0 +1,11 @@
+B. Add API & set parameters
+Go to Custom google search engine
+Paste API key
+Set all search parameters
+C. Loop & wait function
+LOOP ---> Repeat the search (for all pages)
+WAIT ---> To avoid API limit issues
+(1 sec delay)
+D. Filter results
+Use FILTER function
+To sort and organize data into columns

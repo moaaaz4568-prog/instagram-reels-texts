@@ -1,0 +1,10 @@
+1. The Framework vs The Engine
+Claude Code is just the car, the model is the engine, and you can put any engine you want under the hood.
+
+→ Claude Code is just a framework – it works with any model
+→ Swap out the cloud model for a free local one
+→ All your plugins and tools still work exactly the same
+
+Framework Swap Free
+
+@divyanisharma

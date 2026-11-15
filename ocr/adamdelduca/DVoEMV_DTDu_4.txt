@@ -1,0 +1,8 @@
+Adam | YouTube
+@Adam_DelDuca
+Step 4: Build your production system (2 Days)
+Once you’ve identified your role model channels
+And set up your channel, select a format
+Based on this format, identify which AI production will work best
+For image-based, Tubegen works well
+For video-footage content, use Vidrush

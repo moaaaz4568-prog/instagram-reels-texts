@@ -1,0 +1,11 @@
+PUNIT GUPTA
+Skill 1.
+See every single ad your competitors are running.
+/spy
+Competitor Ad Intelligence
+Pulls every active ad from any Meta page using the Ad Library API. Compares with last week to show only new creatives. Gives a clean report with hooks, CTAs, offers, angles, and ad run time.
+What you will find:
+1 Which hooks they are actively testing right now
+2 All new creatives they launched this week
+3 Every ad that has ran for 30+ days
+swipe

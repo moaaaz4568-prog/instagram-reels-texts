@@ -1,0 +1,36 @@
+STEP 3
+SOP: Kimi K2.6 Playbook
+ALWAYS START
+WITH “@” (SEE BEFORE YOU TOUCH)
+* Never code blind.
+@src/auth/middleware.ts
+Explain token flow + find
+@src/utils/token.ts
+hidden risks
+IMPORTANT
+@
+USE THIS
+FIRST!
+ENGINEER
+your system
+What happens:
+✅ Kimi reads real files
+✅ traces dependencies
+✅ builds mental map of your system
+→ No hallucinations. No guessing.
+$ kimi @src/auth/middleware.ts @src/utils/token.ts
+Explain token flow + find hidden risks
+> Reading files...
+> Tracing dependencies...
+> Building system map...
+✓ Analysis complete.
+Found 3 hidden risks.
+See first. Understand fully.
+Then – and only then – modify.
+middleware.ts
+token.ts
+jwt.ts
+config.ts
+user.service.ts
+db/index.ts
+3 / 12

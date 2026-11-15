@@ -1,0 +1,12 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Context Rot is Real (The "Deep Search" Fix)
+• Long chats fill context — early goals get dropped.
+The Trap
+It forgets details, hallucinates summaries
+The Fix
+Use Session Search to find exact keywords
+Manual Mode
+Check logs, paste old snippets to restore
+The Habit
+Keep MEMORY.md factual and clean

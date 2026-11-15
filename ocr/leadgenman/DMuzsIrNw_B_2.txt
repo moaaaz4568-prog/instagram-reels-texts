@@ -1,0 +1,17 @@
+MCP
+Model Context Protocol
+Defines a standardised interface for supplying structured, real-time context to large language models.
+
+CORE FUNCTIONALITY
+MCP lets you pull in external resources like files, database rows, or API responses - right into the prompt or working memory.
+Rather than assembling your prompt, MCP helps assemble just the context that matters.
+MCP also lets models call tools dynamically.
+
+A2A
+Agent2Agent Protocol
+Enable structured communication & coordination between AI agents operating in the environment.
+
+CORE FUNCTIONALITY
+Facilitates message passing and task delegation between agents to enable coordinated actions.
+Enables agents to share observations, goals, or outcomes to gather data of context.
+Supports synchronization of agent states across collaboration groups.

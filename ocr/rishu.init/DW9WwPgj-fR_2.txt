@@ -1,0 +1,28 @@
+KEY FEATURES
+03 / 06
+What it
+can do
+
+B
+Codebase
+Awareness
+Reads every file. No context lim-
+its, no cherry-
+picking.
+
+⚡
+Executes
+Commands
+Runs shell commands, tests, and builds
+natively.
+
+C
+Agentic
+Loops
+Plans, acts, checks results, iterates
+automatically.
+
+🛡️
+You Stay
+In Control
+Confirms before any destructive operation.

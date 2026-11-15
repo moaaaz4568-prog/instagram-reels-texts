@@ -1,0 +1,3 @@
+Clicking Accept All
+is not a Production
+code strategy

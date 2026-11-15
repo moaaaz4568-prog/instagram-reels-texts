@@ -1,0 +1,36 @@
+1
+Set Up
+Google Sheets
+Navigate to Extensions > Apps Script to
+create a new script project
+Google
+Sheets
+Extensions
+Apps Script
+Find competitors using Google Sheets
+File Edit View Insert Format Data Tools Extensions Help
+Add-ons
+Apps Script
+AppSheet
+Cargo
+GPT for Sheets™ and Docs™
+SerperAI - Search Engine Results and Ranks
+Notion
+Airtable
+Slack
+HubSpot
+Salesforce
+COMPANY NAME
+Competitors
+ClickUp, Coda, Sli.do, Asana
+Gladson, Mouseflow, Cont
+ClickUp, Wrike, monday.com
+Zendeek Support Suite, Fre
+Salesforce Marketing Cloud
+GLENCE, noblet, Coastal Gurus
+4
+5
+6
+7
+Company Name
+Competitors

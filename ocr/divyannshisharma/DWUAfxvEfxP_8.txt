@@ -1,0 +1,25 @@
+Unsloth
+
+What you'll get:
+• Fine-tune 2x faster, 70% less memory.
+• Optimized training pipelines for efficient LLM performance
+
+unslothai / unsloth Public
+Code
+Issues 937
+Pull requests 91
+Discussions
+131 Branches 27 Tags
+main
+fix: prevent UnicodeEncodeError on ...
+3 people
+images
+scripts
+studio
+tests
+unsloth
+unsloth_cli
+.gitattributes
+.gitignore
+
+8

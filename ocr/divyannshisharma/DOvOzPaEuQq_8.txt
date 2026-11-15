@@ -1,0 +1,10 @@
+1
+Click on the plus (+)
+sign to add a new step
+Choose where the agent fits in your flow.
+1. Every Day
+Schedule
+2. Picks topic
+Code
+3. SEO Keyword Sea...
+HTTP

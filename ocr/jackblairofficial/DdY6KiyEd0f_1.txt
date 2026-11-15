@@ -1,0 +1,21 @@
+THE LIST, AS THE VENDOR SENT IT
+
+# NAME CITY BILL TIMELINE NOTES
+1 Maria Alvarez Mesa $240 This month Asked about the credit
+2 Derek Whitfield Gilbert $310 1 to 3 mo Bill went up twice this year
+3 Tom Kessler Tempe $95 Just curious Apartment
+4 Alyssa Brandt Henderson NV $260 This month Wife handles the finances
+5 Jorge Ochoa Chandler $190 1 to 3 mo Renting
+6 Kim Nakamura Phoenix $70 6 to 12 mo Retired, gone all summer
+7 Brandon Pruitt Peoria $220 This month Neighbor just got panels
+8 Nicole Sandoval Phoenix $140 1 to 3 mo Pool, EV on order
+9 Ray Delgado Scottsdale $410 1 to mo 3 calls, no pickup
+10 Priya Raman Glendale $130 None Wants a new roof first
+11 Cody Hastings Surprise $180 6 to 12 mo
+12 Janet Moreau Riverside CA $300 This month
+
++ 38 more rows. Pasted straight from the sheet, plus one line: solar, $28,400, Phoenix homeowners.
+
+Grader running
+
+One message later 👉

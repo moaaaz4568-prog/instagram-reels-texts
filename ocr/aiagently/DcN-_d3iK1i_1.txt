@@ -1,0 +1,24 @@
+AI Agently
+Build AI Systems. Scale Smarter.
+01 Set Up Your
+AI Workspace
+Start with
+Claude Code
+You need a tool that can
+actually read and write
+files on your computer.
+A normal chat window
+isn't enough for this
+workflow.
+Claude
+Good morning,
+How can I help you today?
+How can Claude help you today?
++ $
+Summarize text
+Write code
+Solve problems
+Analyze data
+1. Open Claude App
+in your Desktop
+@ai.agently

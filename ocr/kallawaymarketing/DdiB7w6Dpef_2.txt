@@ -1,0 +1,16 @@
+EXAMPLE
+(Oral Surgeon):
+BROAD
+BUCKET
+Celebrity Veneer Breakdowns
+Oral Surgeon
+NARROW
+BUCKET
+Dental Question
+Breakdowns
+for 45+ Year Old Men
+NARROW
+BUCKET
+Dental Question
+Breakdowns
+for 45+ Year Old Men

@@ -1,0 +1,7 @@
+Prompt #1
+Competitor Game
+“You are my most intelligent and aggressive competitor. I will describe my business model, pricing structure, and target customers in detail.
+Your job: Create the complete strategy you would use to take my customers away, weaken my market position, or make my entire offer obsolete within the next 12 months.
+Be extremely specific. List out the exact moves you would make and provide a realistic timeline for execution.
+Here is my business:
+[DESCRIBE YOUR BUSINESS MODEL, PRICING, TARGET CUSTOMER, AND KEY DIFFERENTIATOR]”

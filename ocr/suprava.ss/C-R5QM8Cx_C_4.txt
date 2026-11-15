@@ -1,0 +1,15 @@
+3. Email outreach:
+We do two types of campaigns:
+Warm email
+Cold email
+That gives us results like this:
+Sent
+peuedo
+Openrate
+Replied
+Replyrate
+120
+98
+81%
+20
+20%

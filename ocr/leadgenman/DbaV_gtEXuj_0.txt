@@ -1,0 +1,34 @@
+CLAUDE CODE
+15 Vibe Coding
+Prompts
+the exact prompt for every stage of the build
+01
+Write a Full PRD
+02
+Create Your CLAUDE.md
+03
+Ultra Plan Mode
+04
+Spec-Driven Development
+05
+Full UI & UX Design Brief
+06
+Implementation Plan
+07
+Wire Up an MCP Server
+08
+Connect Your Database
+09
+Find Security Gaps
+10
+Debug an Error Fast
+11
+E2E Test Your Application
+12
+Clean Up Dead Code
+13
+Write Clean Git Commits
+14
+Hooks as Guardrails
+15
+Turn a Task Into a Skill

@@ -1,0 +1,58 @@
+SEO Analysis
+Based on my website leadgenman.com, generate
+an sEo report analysis, find top-ranking pages by
+keyword clusters, and identify topics I'm missing.
+SEOReportRequest
+?
+Suna's Computer
+CreateFile
+<>Source
+Preview
+Basedonmywebsitesunaso,generateanEOreportanalysisfindtop-rankingpages
+by keyword clusters,and identify topics I'mmissing.
+SEOAnalysisReportforsuna.so
+Suna
+ExecutiveSummary
+Ihelpyou analyzeyourwebsitesuna.soforSEOperformance,identifytop-rankingpagesby
+keyword clusters,and find content gaps.Letmebreak this down into a systematic approach.
+Suna.soisawebsiteforSuna,anopen-sourcelassistantcreatedbyKortixthat
+PlanningMyApproach
+helps usersaccomplishreal-world tasksthrough natural conversation.ThisSEO
+analysisexaminesthewebsite'scurrentperformance,identifieskeywordclusters,
+First,ll create a todo list to organize thisSEO analysistask:
+analyzescontentgaps,andprovidesrecommendationsforimprovement.
+Creating File todo.md
+WebsiteOverview
+Now thatvecreatedmytodo list,ll startbygathering basicinformation about the suna.so
+Suna.soisa primarily single-page websitewith aclean,modern design.The site
+website to understand what we're working with.
+focuses on introducing Suna as anAl agent and offers different pricing tiersforits
+StartingInitialResearch
+services.Thewebsitehasafewkeysections:
+Let mefirst check the website to understand its structure and content:
+1.Herosection-IntroducingSuna asanAlemployee
+2.OpenSource section-Highlighting Suna'sopen-source nature
+Navigating to Page
+3.Pricing section-Offering differentservice tiers（Free,Pro,Enterprise）
+Ican seethat I'vesuccessfully accessed the suna.sowebsite.Letme scrolldown togathermore
+4.CTA section-Encouraging users to start using Suna
+information about the site's content and structure.
+Additional pages include:
+Scrolling Down
+·/auth-Authenticationpage
+Letmecontinue scrollingto seemore contentonthe website:
+·/legal-Legal information(privacy policy,termsof service)
+Scrolling Down
+TechnicalSEOAnalysis
+l continue exploring thewebsite togathermoreinformation.Letme scrolldownfurther toseeall
+MD
+4/24/2025,8:34:26PM
+the content:
+>
+68/68
+Skip to end
+ScrollingDown
+24/27
+Jump toLatest
+Professional SEO audit that typically takes days
+completed in minutes with Kortix Suna

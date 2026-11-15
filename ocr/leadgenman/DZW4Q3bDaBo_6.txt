@@ -1,0 +1,23 @@
+settings.json
+05
+block five -- set the guardrails
+decide what it can do without asking, once.
+.claude/settings.json
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Read", "Edit",
+      "Bash(git status)"
+    ],
+    "ask": ["Bash(git push:*)"],
+    "deny": ["Read(.env*)"]
+  }
+}
+allow
+runs silently
+ask
+stops to confirm
+deny
+never, full stop
+secrets stay locked. deny your .env so it can never read your keys.

@@ -1,0 +1,19 @@
+09
+Find Security Gaps
+Audit this codebase for security gaps.
+Attack it like you want in.
+Focus areas: [AUTH / PAYMENTS / USER DATA]
+[EXPENSIVE ENDPOINTS]
+Check:
+* Secrets in code, config, or git history
+* Injection: SQL, XSS, command, path traversal
+* Auth: routes missing checks, weak sessions,
+broken redirects
+* IDOR: can user A read user B's data?
+* File uploads + input validation on every form
+* Dependency CVEs -- run the audit, read it
+* Rate limiting on high error messages and logs
+* What leaks through logs
+Rank findings by severity with exact file:line,
+fix the critical ones now, and list the rest
+as tickets with effort estimates.

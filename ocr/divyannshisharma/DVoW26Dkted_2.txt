@@ -1,0 +1,24 @@
+#1
+Ultimate Guides
+Helpful guides, articles & content pieces
+
+Claude Code Learning Path
+Core CLI - Configuration - Extension - Programmatic usage - Enterprise Deployment
+
+Mastering Claude Skills in <15 minutes
+If you're not using claude skills you're missing out.
+They are simple to set up.
+
+Claude Skills Optimization
+Creation - Deployment - Optimization
+workflows - Mega Prompt to Test - Skill Tools
+
+Claude Code 2.0 Guide
+Start here: https://sankalp.bearblog.dev/my-experience-with-claude-code-20
+
+Claude Quickstart
+For people who have never touched Claude before.
+https://code.claude.com/docs/en/quickstart
+
+A Step-by-Step Beginner's Guide
+https://www.balmer.edu/data/files/claude-a-step-by-step-beginners-guide.pdf

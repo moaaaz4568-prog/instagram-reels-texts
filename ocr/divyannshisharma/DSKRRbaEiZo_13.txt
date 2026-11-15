@@ -1,0 +1,38 @@
+Step #13
+Opal turns a topic into briefs, creatives, and full content bundles.
+Email Sequence
+User Input
+Generate
+Output
+Add Assets
+Business Type
+Describe your business type
+Brand Tone
+Specify your desired brand tone
+Generate Welcome Email
+You are an expert email marketer...
+Generate a single-page HTML w...
+Used in this step
+Business Type
+Brand Tone
+Render Email Sequence
+Used in this step
+Business Type
+Brand Tone
+Generate Value Email
+You are a skilled email copywrit...
+Used in this step
+Business Type
+Brand Tone
+Generate Action Email
+...
+Used in this step
+Business Type
+Brand Tone
+Suggest me an edit...
+FHI 360Hz
+Alt Gr
+Ctrl
+Specify your desired brand tone
+Type or upload your response.
+Opal can make mistakes, so double-check it.

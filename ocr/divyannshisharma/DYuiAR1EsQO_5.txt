@@ -1,0 +1,71 @@
+The Vibe Stack
+10
+
+Cloud Providers & Paid SaaS Alternatives
+
+AI-powered tools
+
+42% Cost Savings
+
+Cloud Providers & Paid SaaS Alternatives
+$21,245
+$12,842
+42%
+$8,715
+100%
+
+Popular Paid SaaS
+AWS
+Compute, Storage, DB
+Azure
+Compute, Storage
+Dropbox
+File Storage
+SendGrid
+Email Delivery (Paid)
+
+Best Alternatives
+Miro
+Object Storage
+Supabase
+Database
+Nextcloud
+File Sync
+
+Optimize. Save.
+Compare.
+More Control. Better Privacy
+Smarter Infrastructure Decisions
+
+25
+ubicloud/
+ubicloud
+How it saves: An open-source cloud (compute, storage, networking).
+ubicloud/ubicloud
+Open-source alternative to AWS, GCP & Azure.
+Builds a serverless cloud stack with full control, lower costs, and no vendor lock-in.
+
+26
+Openpanel-dev/
+openpanel
+How it saves: Full-featured web and product analytics.
+
+27
+trailbaseio/
+trailbase
+How it saves: A lightweight and free alternative to Firebase for real-time.
+
+28
+DigitalPlatDev/
+FreeDomain
+How it saves: Allows registering domain names for free.
+
+29
+certimate-go/
+certimate
+How it saves: Automates SSL certificate issuance and renewal.
+
+30
+cmliu/
+CF-Workers-docker.io
+How it saves: Proxies requests to Docker Hub using free Cloudflare Workers.

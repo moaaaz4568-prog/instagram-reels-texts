@@ -1,0 +1,29 @@
+GENERATE
+OPTIMIZED SCRIPTS
+
+COLD OPEN (0:00-0:15)
+HOOK: So over the past few months I've been building something kind of insane... I realized that while AI can generate amazing content, it's still pretty manual and time-consuming. So I built a system that automates 90% of the process.
+TEXT ON SCREEN: "Automated Content System"
+
+INTRO (0:15-1:00)
+HI, I'M [YOUR NAME], AND I HELP CREATORS SCALE THEIR CONTENT USING AI. TODAY I'M GOING TO SHOW YOU HOW I BUILD VIRAL SHORTS AUTOMATICALLY.
+
+THE VISION (1:00-3:00)
+I wanted to create a system that takes one idea and turns it into multiple pieces of content - shorts, posts, emails - all automatically.
+- The Problem: Content creation is slow and repetitive.
+- The Solution: An AI-powered pipeline that handles scripting, editing, and publishing.
+- The Result: Save 20+ hours per week and post consistently.
+
+SYSTEM ARCHITECTURE (3:00-5:30)
+Here's how it works:
+1. Idea Generation: AI suggests viral topics based on trends.
+2. Script Writing: Custom prompts generate engaging scripts in my style.
+3. Video Creation: AI edits footage, adds captions, and effects.
+4. Publishing: Auto-schedule to all platforms.
+
+This skill was specifically trained on my previous content, so it still uses my unique style + voice.
+
+I don't use these scripts directly, but it gets me 90% of the way there.
+
+@itsstylegermain
+save for later

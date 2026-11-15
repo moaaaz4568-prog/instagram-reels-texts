@@ -1,0 +1,27 @@
+03
+AI AGENTS
+let the model act, not just answer.
+
+15 autogen ★ 40K multi-agent conversation framework by microsoft. agents delegate tasks, write and execute code.
+github.com/microsoft/autogen
+
+16 crewai ★ 28K orchestrate role-playing ai agents. define a crew, assign roles, set goals — agents collaborate like a team.
+github.com/crewAIinc/crewAI
+
+17 langgraph ★ 10K stateful multi-agent workflows as graphs. handles complex logic, loops, human-in-the-loop.
+github.com/langchain-ai/langgraph
+
+18 agno ★ 22K fast multi-modal ai agents. any llm, any tool, memory, knowledge, storage. 10x faster than langchain for simple agents.
+github.com/agno-agi/agno
+
+19 smolagents ★ 14K minimal agent framework by hugging face. code agents that write and execute python. 1000 lines total. the anti-langchain.
+github.com/huggingface/smolagents
+
+20 openhands ★ 48K open-source devin. ai engineer that writes code, runs tests, fixes bugs, deploys. works with claude, gpt-4, local models.
+github.com/All-Hands-AI/OpenHands
+
+21 superagi ★ 16K self-hosted autonomous agent infrastructure. agent marketplace, performance telemetry, concurrent agents, graphical ui.
+github.com/TransformerOptimus/SuperAGI
+
+Divyanshi sharma
+03/10

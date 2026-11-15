@@ -1,0 +1,91 @@
+05
+Benchmark Results
+Gemma 4 26B
+A8B
+Gemma 4
+54B
+Gemma 4
+12B
+Gemma 3 27B
+(NO think)
+AMD
+44B
+GEMMA 4
+44B
+MMMU Pro
+85.2%
+82.6%
+69.4%
+60.0%
+67.6%
+AIME 2026 no tools
+89.2%
+88.3%
+42.5%
+37.5%
+20.8%
+LiveCodeBench v6
+80.0%
+77.1%
+52.0%
+44.0%
+29.1%
+Codeforces ELO
+2150
+1718
+940
+633
+110
+GPOA Diamond
+84.3%
+82.3%
+58.6%
+43.4%
+42.4%
+Tao 2 (average over 3)
+76.9%
+68.2%
+42.2%
+24.5%
+16.2%
+HLE no tools
+19.5%
+8.7%
+-
+-
+-
+HLE with search
+26.5%
+17.2%
+-
+-
+-
+BigBench Extra Hard
+74.4%
+64.8%
+33.1%
+21.9%
+19.3%
+MMMU
+88.4%
+86.3%
+76.6%
+67.4%
+70.7%
+Vision
+73.8%
+52.6%
+44.2%
+49.7%
+MMMU Pro
+76.9%
+OmniDocBench 1.5 (average edit
+distance, lower is better)
+0.131
+0.149
+0.181
+0.290
+0.365
+Made by
+Divyanshsharma
+06 →

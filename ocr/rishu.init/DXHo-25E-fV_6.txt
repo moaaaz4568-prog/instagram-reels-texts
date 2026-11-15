@@ -1,0 +1,10 @@
+07 / 11
+07
+n8n
+MCP Bridge
+Connect any app to Claude Code with zero glue code needed.
+MCP server for n8n that lets Claude Code trigger workflows, read data and automate pipelines across 400+ integrations.
+400+ Apps
+Trigger Flows
+Read & Write
+github.com/leonardsellem/n8n-mcp

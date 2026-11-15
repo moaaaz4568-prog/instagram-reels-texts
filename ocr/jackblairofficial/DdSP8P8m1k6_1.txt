@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+1. Do Hunter's research first
+
+Most reps open cold and hope. Salesforce says Hunter works the pipeline "from research to outreach", so that's where its day starts. Paste this to Claude before your next call block:
+
+You are my outbound sales researcher. Prospect: [NAME, TITLE] at [COMPANY]. I sell [WHAT I SELL] to [WHO BUYS IT]. Write a 150 word brief: what the company sells, who it sells to, what changed in the last 90 days (funding, hires, layoffs, launches, new leadership), and the three most likely reasons they need what I sell this quarter. Cite where each fact came from and flag anything you're guessing. End with the one question I should open the call with.

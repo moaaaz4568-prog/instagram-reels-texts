@@ -1,0 +1,18 @@
+Working of AI Automation
+Automate with Intelligence
+
+AI Automation is the process of automating tasks with smart technology.
+Think of it like email filters that automatically sort your inbox without manual effort, saving time and boosting productivity.
+
+Tool
+
+LLM
+
+Tool
+
+AI Automation
+Tool 1
+LLM
+If/Condition
+Tool 1
+Tool 1

@@ -1,0 +1,28 @@
+The Complete Tool Stack
+Google
+for prospect
+discovery
+Proxycurl
+for company
+info via URL
+Dropcontact
+for company
+info via URL
+OpenAI
+for lead scoring &
+ice breakers
+G Sheet
+to store &
+organize leads
+Smartlead
+for email
+campaigns
+HeyReach
+for linkedin
+campaigns
+n8n
+for
+automation
+Let’s break it down module
+by module, to understand
+better.

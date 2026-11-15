@@ -1,0 +1,27 @@
+PUNIT KUMAR
+Every Matter Gets Its Own
+Context
+Documents, parties, history and knowledge are scoped to the relevant matter. Access
+is controlled by role.
+FIRM AI OS
+MATTER A
+Client
+Documents
+History
+Knowledge
+Workflows
+MATTER B
+Client
+Documents
+History
+Knowledge
+Workflows
+MATTER C
+Client
+Documents
+History
+Knowledge
+Workflows
+Privileged context stays structurally separated.
+SWIPE →
+05 / 10

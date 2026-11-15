@@ -1,0 +1,40 @@
+IN PRODUCTION
+04 / 07
+The AI Systems We Actually Built
+Property Mgmt
+Read maintenance emails
+Categorize urgency
+Create work orders
+Dispatch vendors
+20-30 min -> < 3 min
+Marketing
+Google Analytics reports
+Ad reporting
+Client summaries
+Content repurposing
+45 min -> 3 min
+Healthcare
+Medical image analysis
+AI-assisted diagnosis
+Results into workspace
+CLINICAL WORKFLOW
+Law Firms
+Intake & conflict checks
+Draft standard filings
+Summarize case files
+Deadline tracking
+60 min -> 5 min
+Home Services
+Triage job requests
+Schedule & dispatch techs
+Auto-generate quotes
+Follow-up reminders
+25 min -> 2 min
+Operations
+Client onboarding
+CRM updates
+Weekly reporting
+Internal notifications
+ALWAYS-ON
+CLAUDE CODE · IMPLEMENTATION
+SWIPE →

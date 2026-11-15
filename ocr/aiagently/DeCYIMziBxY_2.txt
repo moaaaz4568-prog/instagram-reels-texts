@@ -1,0 +1,15 @@
+Step 2
+My RAOS Example
+R
+Repetitive Task
+Finding new AI opportunities every day.
+A
+Actions
+Discover new AI tools, GitHub repos, launches, research, and useful resources.
+O
+Output
+A daily list of the most valuable AI opportunities.
+S
+System
+One central place where everything is organized automatically.
+Now I know exactly what I want to automate.

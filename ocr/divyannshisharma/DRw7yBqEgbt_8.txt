@@ -1,0 +1,8 @@
+Zapier Setup - Part 3
+Connect the fields
+First Name
+Last Name
+Company
+Website
+Email
+Phone No.

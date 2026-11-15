@@ -1,0 +1,49 @@
+Slide 10 — Tool 8: Audiobookshelf
+10 / 10
+Platform Solutions Resources Open Source Enterprise Pricing
+audvplyr / audiobookshelf Public
+Code Issues 930 Pull requests 124 Discussions Actions Projects Security and Tags
+master 84 Branches 164 Commits
+.devcontainer
+.github
+.vscode
+build
+client
+docs
+images
+server
+test/server
+.dockerignore
+Updated devcontainer dev.js default to not skip binaries check... 2 months ago
+Upgrade codegen-actions to v3 8 months ago
+Update developer config formatting options 2 months ago
+Fix #1617 (useradd: user 'audiobookshelf' already exists) 8 months ago
+Bump version v2.25.1 2 weeks ago
+Add: Backup notification (#3225) 2 months ago
+Update readme screenshot 3 months ago
+Fix typo on listen notification body 2 weeks ago
+Add ApiCacheManager test for should remove recent-episode... 2 months ago
+Update deploy-linux script 4 months ago
+Self-hosted audiobook and podcast server
+audiobookshelf.org
+self-hosted podcasts
+audiobook-manager audiobooks
+audiobookshelf
+Readme
+GPL-3.0 license
+Activity
+13.2k stars
+68 watching
+1k forks
+Report repository
+Releases 157
+v2.25.1 Latest
+What it does:
+Stores all your audiobooks and podcasts on your own server with beautiful apps on every device.
+What it replaces:
+Audible + premium podcast apps - $30 a month
+Buy a book once and keep it forever.
+No subscription. No DRM.
+Yours for life.
+github.com/audvplyr/audiobookshelf
+audiobookshelf

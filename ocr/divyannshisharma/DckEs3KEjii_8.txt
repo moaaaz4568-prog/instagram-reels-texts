@@ -1,0 +1,53 @@
+But content is useless
+if nobody sees it.
+
+So I built Jim in Grok Bot.
+
+Jim owns
+distribution + outreach.
+
+Jim finds the people I actually want
+to reach and starts conversations
+with them.
+
+He works across the tools I
+already
+use to:
+
+→ find prospects
+→ qualify them
+→ prepare outreach
+→ start conversations
+
+While Olivia creates.
+Jim distributes.
+
+Jim
+I'll start with recently funded B2B SaaS, unless
+that's the wrong pond. Pulling a first cut of
+companies that just raised.
+
+What are you selling, and who actually buys
+it? That's what I'll qualify against.
+
+NEW
+
+First cut: 18 B2B SaaS companies that raised
+Seed-Series A since mid-June. Sourced from
+TechCrunch, company PRs, and investor
+posts. Full list is in the CSV.
+
+Strongest "we're hiring sales / scaling GTM"
+signals right now: Hush Security ($30M, hiring
+US sales), BrandRank.AI ($3M, accelerating
+enterprise sales), Netris ($15M, hiring sales),
+JustAI ($17M, expanding GTM), Convey
+($38M, enterprise GTM), Kily (₹30 Cr, scaling
+GTM into Indian brands).
+
+I still need what you sell before I can qualify
+these or write outreach. Once I have that, I'll
+pick the fit and draft first lines.
+
+prospects-funded-saas-202...csv
+6.4 KB

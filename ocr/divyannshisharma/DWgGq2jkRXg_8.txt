@@ -1,0 +1,22 @@
+Real Use Cases You Can Run Today
+
+Claude reads every file
+
+Organise dumped files
+Reads every file, categorises, renames with dates, builds folders, logs all changes. Flags anything ambiguous.
+2 hrs - 10 min
+
+Client report from raw materials
+Meeting notes + transcript + links — polished report matching your template. Asks questions before starting.
+90 min - 1.5 hrs
+
+Weekly research brief on autopilot
+Every Monday at 7am — researches competitors, checks publications, saves a formatted brief. Connects to Slack, Gmail, Drive.
+scheduled
+
+Financial modelling
+Built a Wall Street-style Excel model autonomously — found and fixed its own errors. Four valuation methods, blended range included.
+129 formulas
+
+@divyanshisharma
+save for later

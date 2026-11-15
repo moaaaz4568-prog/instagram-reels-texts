@@ -1,0 +1,10 @@
+Example:
+"I was broke last year. Tried everything. Nothing worked. Then I found this one strategy. Now I'm making $10K/month."
+
+Setup → I was broke.
+
+Conflict → Nothing worked.
+
+Resolution → Found this strategy.
+
+That's storytelling.

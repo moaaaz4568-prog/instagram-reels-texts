@@ -1,0 +1,14 @@
+But you can get the hang of them quickly
+HTTP
+URL
+https://api.stlouisfed.org/fred/source/releases
+Method
+GET
+Headers
+Item 1
+Name
+Authorization
+Value
+Bearer YOURAPIKEYHERE
+RULE:
+The API key (your “password” to use the API) typically goes in the “HEADER”

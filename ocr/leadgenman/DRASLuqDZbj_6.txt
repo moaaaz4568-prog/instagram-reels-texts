@@ -1,0 +1,6 @@
+LangGraph
+Graph-centric extension built on LangChain for structured, relationship-aware retrieval over knowledge graphs. This framework is useful for apps that require complex data relationships.
+Key Features:
+• Efficiently retrieves data from graph structures.
+• An extension of LangChain for graph databases
+• Works with interconnected data structures and retrieves context from intricate relationships

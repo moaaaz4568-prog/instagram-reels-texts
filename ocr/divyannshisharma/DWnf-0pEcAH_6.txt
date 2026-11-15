@@ -1,0 +1,39 @@
+Step 6: Approve
+Paste your prompt, allow the Remotion skill, and Claude starts building.
+EXPLORER
+remotion-animated
+package.json
+remotion
+index.ts
+loader.ts
+palette.ts
+render.ts
+styles.ts
+Animation
+remotion
+index.ts
+loader.ts
+palette.ts
+render.ts
+styles.ts
++ ... and remotion-best-practices for this project (at you)
+use skill /remotion-best-practices?
+Claude may use instructions, code, or files from this skill.
+Best practices for Remotion.
+1 Yes
+2 No, allow remotion-best-practices
+Tell Claude what to do instead:
+Use skill /remotion-best-practices?
+Claude may use instructions, code, or files from this skill.
+Best practices for Remotion.
+1 Yes
+2 No, allow remotion-best-practices
+Tell Claude what to do instead:
+Use skill /remotion-best-practices?
+Claude may use instructions, code, or files from this skill.
+Best practices for Remotion.
+1 Yes
+2 No, allow remotion-best-practices
+Tell Claude what to do instead:
+The...
+Yes, allow Claude to use this skill to help with this project

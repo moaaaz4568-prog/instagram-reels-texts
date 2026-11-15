@@ -1,0 +1,60 @@
+THE WHOLE SYSTEM
+THE COMPLETE
+YOUTUBE → EXPERT AGENT
+Here's the complete system — step by step.
+
+01 The Gap
+By default, Claude Code cannot watch
+anything. Paste a YouTube link and it has no
+way to see or hear the video.
+YouTube video
+Claude Code
+
+02 YouTube Skill
+Install the YouTube skill from GitHub. It pulls
+transcripts, analyzes the content, and
+extracts the knowledge from any video.
+GitHub
+YouTube skill
+Transcript
+
+03 Get a Free Gemini API Key
+Create a free API key in Gemini at Google AI Studio.
+Gemini already understands YouTube links
+natively, because Google owns both.
+Google AI Studio
+Free API key
+Gemini
+
+04 Add YT Analysis MCP
+Plug Gemini into Claude Code with the
+YT Analysis MCP server. Gemini analyzes
+the real video frames and audio.
+Gemini
+YT Analysis MCP
+Claude Code
+
+05 Words + Visuals
+The raw transcript captures every word said.
+Gemini adds its native understanding of the
+visuals.
+Transcript
+(words + context)
+Visuals + audio
+(frames + sound)
+More complete
+knowledge
+10 best tutorials
+
+06 Build Expert Agents
+Use a multi-skill framework. Feed it the 10
+best editing tutorials and you get an editor
+agent that uses their techniques.
+Editor agent
+Outreach
+Marketing
+Content
+
+Want all the resources?
+COMMENT "YT AGENT"
+and I'll send you the complete guide + resources.

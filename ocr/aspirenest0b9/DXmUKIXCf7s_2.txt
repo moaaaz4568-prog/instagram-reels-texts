@@ -1,0 +1,6 @@
+Punit gupta
+[2] The Proposal Machine
+Prompt Preview: "Act like a senior business consultant and persuasive proposal writer who has closed high-value proposal retainers in [Insert your niche/industry here]. Your task is to write a full client proposal using the context I provide."
+Goal: Produce a complete proposal including executive summary, scope of work, ROI-framed investment section, objection handler, and a closing CTA that makes saying yes feel obvious.
+Style: [Insert desired tone/style here] – professional, confident, written to close.
+swipe

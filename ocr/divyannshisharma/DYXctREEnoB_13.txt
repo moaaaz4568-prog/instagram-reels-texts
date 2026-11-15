@@ -1,0 +1,31 @@
+NotebookLM
+11 tools.
+11 / 18
+Search & Research
+Storm
+Stanford open source AI knowledge article writer
+Search & Research open source
+Perplexica
+Open source Perplexity alternative, self-hostable
+Search & Research open source
+SearXNG
+Open source privacy-respecting metasearch engine
+Search & Research open source
+Morphic
+Open source AI-powered search with sources
+Search & Research open source
+MindSearch
+Open source deep AI web search agent
+Search & Research open source
+Khoj
+Open source personal AI for notes and web search
+Search & Research open source
+Danswer / Onyx
+Open source enterprise AI search over your docs
+Search & Research open source
+OpenScholar
+Open source AI retrieval for scientific papers
+Search & Research open source
+Farfalle
+Open source AI search engine with Perplexity UX
+Search & Research open source

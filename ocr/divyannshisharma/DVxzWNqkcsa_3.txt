@@ -1,0 +1,39 @@
+Step 3: Notebook
+Google's free pre-built RAG system.
+Combined with Claude Code, it replaces a
+stack worth hundreds a month.
+Claude Code Skills Research
+Search
+Chat
+guide for Claude Code, teaching it specialized, repeatable workflows that it doesn't have
+natively. It is.
+The following are the most popular and recommended skills mentioned across the videos,
+ranked by the frequency and importance of their recommendation:
+1. Skill Creator (The Meta-Skill)
+This is the most frequently mentioned skill and is considered a mandatory starting point for
+most users. It.
+- What it does: It provides Claude with the exact instructions, YAML structure, and best
+practices required to build other skills. It.
+- Why it's valuable: It allows users to turn a manual workflow into an automated skill (by
+using Claude's "meta-skill" to create a new one). It handles the "hard part" so the user doesn't have to
+(YAML, front matter, folder structure).
+2. Front-End Design & UI Enhancement
+A simple in-development-focused workflow that.
+- What it does: It assists a developer in creating or refining a UI. It.
+- Why it's valuable: It gives Claude with specific typography standards, layout conventions,
+and component patterns (e.g., "Use the latest Tailwind CSS v4 beta"). It.
+3. Creative Asset Generation (Images, Diagrams, & Infographics)
+giving Claude access to professional design standards that it doesn't inherently apply during
+standard code generation.
+Because Claude cannot natively generate images or editable visuals, creators build skills to
+bridge this gap. It.
+- What it does: These skills use tools like MCP (or the Nano Banana or local Python
+script) to generate images. Examples.
+- Why it's valuable: It adds visual creation to Claude's workflow, making it directly useful when the
+user needs to create content or visualize diagram-marks, or branding graphics within the terminal.
+4. Market Research & Strategic Planning
+Commonly used by marketers or strategists.
+- What it does: It orchestrates the "human strategy" part of their workflows. It.
+- Why it's valuable: It orchestrates the "human strategy" part of their workflows. It.
+- What it does: It orchestrates the competitive analysis and synthesis, reports based on specific company SOPs. It
+20 minutes. Notebook if the research requires deeper, multi-step analysis. Claude's built-in.

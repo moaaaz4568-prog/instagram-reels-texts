@@ -1,0 +1,20 @@
+Punit Kumar
+AI email sequence generator
+/marketing emails SaaS Product Launch
+Claude writes a complete email campaign — welcome flow, launch sequence, and nurture emails, ready to paste into your platform.
+Welcome Emails
+Lead Nurture
+Subject Lines
+Launch Sequence
+Follow-ups
+CTA & Send Timing
+/marketing emails
+Generating sequence...
+✓ Email 1 ✓ Email 2 ✓ Email 3 ✓ Email 4 ✓ Email 5
+✓ Done
+Welcome
+Problem
+Solution
+Case Study
+Final Offer
+swipe >>

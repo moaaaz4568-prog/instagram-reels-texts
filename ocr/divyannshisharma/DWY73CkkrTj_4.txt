@@ -1,0 +1,13 @@
+Step 4: GitHub
+GitHub Repo Analysis: Scanning 1,000 Repos Without Losing Your Mind
+I exported the repo list, fed it to Claude in batches, and ran this:
+Here's a list of Github repos with descriptions:
+[PASTE BATCH]
+For each repo, evaluate:
+1. What it actually does (1 sentence, no marketing speak)
+2. Traction signals: stars, recent commit activity, contributor count
+3. Category: agent framework / dev tool / MCP / infrastructure / other
+4. Worth featuring? Yes/No with one reason
+Skip anything that's just a wrapper, a tutorial repo, or has no commits in 30+ days.
+Sort the "Yes" picks by most interesting first.
+Swipe →

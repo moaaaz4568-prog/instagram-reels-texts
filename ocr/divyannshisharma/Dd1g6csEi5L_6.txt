@@ -1,0 +1,3 @@
+6.
+github.com/LibreTranslate...
+A translation engine that runs entirely on your own machine, offline, with no Google, no API key, no per-character fee. Feed it text or whole documents in dozens of languages. The thing companies pay Google Translate's API for, sitting on your laptop free. 12K+ stars.

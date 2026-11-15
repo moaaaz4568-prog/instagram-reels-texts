@@ -1,0 +1,4 @@
+Step #11
+Error Handling Patterns
+When to Use This Skill
+Encode debugging best practices. Fix errors faster with proven methods.

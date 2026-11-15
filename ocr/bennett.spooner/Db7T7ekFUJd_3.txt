@@ -1,0 +1,10 @@
+// BENNETTOS
+04 / 09
+// 02 • THE BACK OFFICE
+PAPERCLIP
+You never look at this dashboard. Paperclip runs behind the scenes – org hierarchy, tickets, heartbeats, budgets – while agents wake, pull work, and report back. The cockpit you actually watch just reads its board over the API.
+$ npx paperclipai onboard
+@bennettos
+SWIPE →
+@bennettos
+SWIPE →

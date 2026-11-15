@@ -1,0 +1,63 @@
+Technique 2:
+memory
+across
+sessions
+
+✦ The loop above
+works within
+one session.
+
+❋ Memory lets the loop
+work across many sessions
+days, weeks, however long
+the task runs.
+
+✦ The idea:
+
+1 Agent works
+on a task
+Attempts the task
+and produces
+an answer.
+
+2 Gets something
+wrong
+Realizes the task
+isn't correct.
+
+3 Investigates
+why it went wrong
+Finds the root cause
+of the mistake.
+
+4 Verifies the
+correct answer
+Confirms the
+correct answer.
+
+5 Turns that into
+a general rule
+Forms the right
+solution.
+Writes a rule
+that prevents the
+same mistake.
+
+6 Writes it to memory
+Stores the rule for
+future sessions.
+
+7 Next session:
+reads the rule
+Uses the rule instead of
+making the same
+mistake again.
+
+❋ It's like a junior analyst
+and reads them before the
+who actually keeps notes
+the next meeting.
+
+NOTES
+MEMORY
+RULE

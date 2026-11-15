@@ -1,0 +1,35 @@
+3
+Thumbnail
+YouTube Thumbnail
+Thumbnail Design
+Generates optimized thumbnail prompts designed to maximize clicks and viewer curiosity.
+SKILL.md
+Hook Generator.skill
+Copywriting
+Creates powerful scroll-stopping hooks using proven marketing and storytelling frameworks.
+SKILL.md
+Humanizer.skill
+Writing Enhancement
+Removes robotic AI writing patterns and makes content feel naturally human-written.
+SKILL.md
+NotebookLLM.skill
+Knowledge Repurposing
+Converts articles, PDFs, videos, and websites into podcasts, quizzes, and presentations.
+SKILL.md
+Beautiful Prose.skill
+Writing Style
+Produces sharp, timeless prose without fluff, filler, or obvious AI writing patterns.
+SKILL.md
+Tweetclaw.skill
+Twitter Automation
+Advanced Twitter toolkit for posting, monitoring, extracting, scheduling, and managing content workflows.
+SKILL.md
+X Article Publisher
+Publishing Automation
+Publishes long-form articles directly to X/Twitter with proper formatting and threading.
+SKILL.md
+Color Expert.skill
+Design & Visuals
+Massive color science system for palettes, accessibility, contrast, and visual harmony optimization.
+SKILL.md
+swipe >>>

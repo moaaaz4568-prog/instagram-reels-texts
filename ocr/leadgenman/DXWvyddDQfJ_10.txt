@@ -1,0 +1,10 @@
+10
+/branch
+Fork the
+conversation.
+Want to try a risky approach without losing context?
+/branch splits your session in two. Explore, then /resume
+back to main.
+/main
+/branch
+/resume

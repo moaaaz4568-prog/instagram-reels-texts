@@ -1,0 +1,34 @@
+The only skill that matters in a tech job
+
+S+
+Claude Code
+Cursor
+Codex
+
+S
+GitHub
+
+A
+
+B
+
+C
+
+F
+HTML
+Next.js
+TypeScript
+Python
+Node
+Node.js
+GCP
+Cloudflare
+Kubernetes
+AWS
+Java
+Docker
+Tailwind
+Azure
+C++
+Xcode
+Neovim

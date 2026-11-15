@@ -1,0 +1,5 @@
+Anthropic · AI Coding Tool
+What is
+Claude
+Code?
+The AI coding assistant built for your terminal.

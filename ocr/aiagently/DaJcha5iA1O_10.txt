@@ -1,0 +1,35 @@
+Now Your AI Agent is Live
+AI SDR
+Autonomous outreach for engaged library leads — enrich, score, approve, enroll.
+Apollo connected
+Slack connected
+Approved
+Mon 08:00 Europe/Warsaw
+Approval mode
+Dashboard
+Approval Queue
+Review Buckets
+Optimize
+Activity
+Settings
+789
+Leads reviewed
+432
+Leads qualified
+86
+Calendar match
+22
+Needs review
+376
+Push to leads list
+376
+Push to sequences
+0
+Failed enrichment
+335
+Excluded
+56
+Pending approval
+Run now
+Comment “sale” I will send you
+the complete guide or skills

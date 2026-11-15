@@ -1,0 +1,27 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Part 3: Configure Your
+CLAUDE.md File
+
+—○ CLAUDE.md file ○—
+Defines system structure and is read at every session start
+
+—○ Personal context missing ○—
+Add details about who you are and your goals
+
+—○ Claude interview ○—
+Let Claude ask questions and update the file
+
+—○ Auto context ○—
+Once filled, Claude automatically loads it every session
+
+# CLAUDE.md
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+This is a Laravel 12 application using PHP 8.2+ with Pest for testing. The application runs in a Dockerized environment using Mobox (markshust/docker-laravel), which provides nginx, PHP-FPM, MariaDB, Redis, Memcached, Mailpit, and Traefik reverse proxy with SSL support.
+
+## Development Environment
+
+●●●●●●●○○○

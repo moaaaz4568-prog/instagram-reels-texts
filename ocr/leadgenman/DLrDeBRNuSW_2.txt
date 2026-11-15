@@ -1,0 +1,9 @@
+LCM (Large Concept Model)
+Input
+Segmentation
+Embedding
+Diffusion
+Hidden Process
+Advanced Patterning
+Quantization
+Output

@@ -1,0 +1,7 @@
+4. AFTER SCALING
+DWARKESH
+PODCAST
+Ilya Sutskever: We're moving from the age of scaling to the age of research
+Dwarkest Podcast
+Nov 25, 2025 • 1 h 36 min
+Sutskever argues that we're moving from the age of scaling to the age of research. He suggests that the era of winning by adding compute is closing and the next gains come from research taste. It reframes what a builder should bet on, because tool choice matters less than judgment about what is worth building at all. Ninety six minutes, and it holds up at double speed.

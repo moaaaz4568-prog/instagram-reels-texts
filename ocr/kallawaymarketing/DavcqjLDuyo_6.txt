@@ -1,0 +1,20 @@
+EXAMPLE:
+Hero's Journey Story Structure
+
+1 INTRO
+establishes the hero and the problem
+
+2 HIGHLIGHT PAIN
+highlights the pain points from the problem
+
+3 EXPLAIN FAILED SOLUTIONS
+explains the failed solutions / attempts they tried to solve the problem
+
+4 INTRODUCE SOLUTION
+introduce the solution to this problem
+
+5 EXPLAIN SUCCESS
+explain the success you've seen because of the use of the solution
+
+6 CTA
+optional call to action

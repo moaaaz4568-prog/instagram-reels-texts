@@ -1,0 +1,57 @@
+9. @os.operator
+Explore real prompts.
+Learn what works.
+Ship faster.
+operatoros.ai
+Billed with Claude
+API
+(Official)
+billing-with-claude-api.md
+The Claude API includes the following APIs:
+General Availability:
+• Messages API: Send messages to Claude for conversational interactions ( POST /v1/messages )
+• Message Batches API: Process large volumes of Messages requests asynchronously with 50% cost reduction ( POST /v1/messages/batches )
+• Token Counting API: Count tokens in a message before sending to manage costs and rate limits ( POST /v1/messages/count_tokens )
+• Models API: List available Claude models and their details ( GET /v1/models )
+Beta:
+• Files API: Upload and manage files for use across multiple API calls ( POST /v1/files , GET /v1/files )
+• Skills API: Create and manage custom agent skills ( POST /v1/skills , GET /v1/skills )
+• Agents API: Define flexible, versioned agent configurations for Claude Managed Agents ( POST /v1/agents , GET /v1/agents )
+• Sessions API: Run stateful agent sessions in managed cloud containers ( POST /v1/sessions , GET /v1/sessions/{id} , GET /v1/sessions/{id}/stream )
+• Environments API: Configure container templates for agent sessions ( POST /v1/environments , GET /v1/environments )
+For the complete API reference with all endpoints, parameters, and response schemas, see Beta pages listed in the navigation. To access Beta features, see Beta headers.
+Pay for
+what you use.
+Only for actual
+usage.
+Scalable
+pricing.
+Built to grow
+with you.
+Secure
+& reliable.
+Enterprise-grade
+infrastructure.
+Clear
+billing.
+Transparent and
+predictable.
+HOW IT WORKS
+1. Get API Key
+Create your API key
+in the Console.
+2. Integrate
+Add Claude API
+to your application.
+3. Use & Monitor
+Track usage and
+manage costs.
+4. Get Billed
+Pay only for what
+you use.
+Build smarter. Scale faster. Claude API handles the heavy lifting.
+Pay fair.
+FOCUS ON WHAT MATTERS.
+Day 2
+Become
+dangerous.

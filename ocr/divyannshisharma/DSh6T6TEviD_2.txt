@@ -1,0 +1,48 @@
+Step #2
+Assistants
+Docs
++ Create Assistant
+Search Assistants
+YT receptionist
+e6941061-b827-4622-9...
+Test
+Chat
+Talk to Assistant
+Published
+Model
+vapi
+deepgram
+gpt-4o
+eleven turbo v5
+web
+Web
+Latency
+~1200 ms
+Cost
+~$0.13 /min
+T receptionist
+Yxf8XsaIsiAdfZZM84u
+eceptionist - Emily
+3Vid2rk6528UrLKruY8
+FRI 360Hz
+Model
+Configure the behavior of the assistant.
+AI receptionist answers every call in under 20 seconds automatically
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Z
+X
+C
+V
+B
+N
+M
+Alt Gr
+Ctrl

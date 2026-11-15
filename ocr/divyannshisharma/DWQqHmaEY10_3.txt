@@ -1,0 +1,29 @@
+Skill Set 02
+Canvas Design
+DESCRIPTION
+Built for fast and efficient visual content creation, this skill transforms simple text prompts into high-quality social media graphics, posters, thumbnails, and cover designs. It handles layout, typography, and composition automatically, delivering export-ready PNG or PDF files perfect for creators, marketers, and designers working at speed.
+MORE INFO
+https://lnkd.in/ghet3B_K
+anthropics / skills
+Public
+Code
+Issues 163
+Pull requests 404
+Files
+main
+.claude-plugin
+skills
+algorithmic-art
+brand-guidelines
+canvas-design
+canvas-fonts
+LICENSE.txt
+SKILL.md
+claude-api
+doc-coauthoring
+docx
+Go to file
+Name
+..
+LICENSE
+SKIL

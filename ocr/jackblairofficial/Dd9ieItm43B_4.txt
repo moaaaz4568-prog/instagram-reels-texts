@@ -1,0 +1,9 @@
+Jack Blair
+@jackblairofficial
+
+4. The buyer who grades every principle.
+
+The fourth prompt makes Claude the skeptical buyer. It raises the real objections one at a time, gets colder when a principle is used clumsily, and grades the call. Here's what it does:
+
+Ten minutes with a managing partner between client calls.
+Grade: 7/10. The principle I leaned on too hard: scarcity, a "two onboarding slots left" line it didn't believe. The line that would have worked: "The next window is November. Do you want to be in it or not?"

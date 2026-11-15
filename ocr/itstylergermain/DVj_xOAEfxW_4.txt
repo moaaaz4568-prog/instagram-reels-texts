@@ -1,0 +1,28 @@
+Tyler Germain @itstylergermain
+
+So I built a set of skills for every tool in the CLI.
+
+Gmail, Drive, Calendar, Sheets, Docs, Meet
+- all of it.
+
+Drop them into Claude Code and it just works.
+
+Agent receives task
+'Prepare client report'
+2 minutes
+
+Pulls data
+gw sheets export --spreadsheet=sales-q1.csv
+
+Creates report
+gw docs create --template=quarterly-report-template --folder=reports
+
+Organizes files
+gw drive upload --to=client@com --attach=report.pdf
+
+Sends to client
+gw mail send --to=client@com --attach=report.pdf
+
+Zero human intervention. Runs autonomously.
+
+Done. What's next?

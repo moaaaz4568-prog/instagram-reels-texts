@@ -1,0 +1,10 @@
+I'll conduct a comprehensive competitive analysis of Quince as part of a full market research strategy for Simple Home. Let me start by reading the brand context files and the research references.
+Task Read brand context files
+Read /Users/demo/Documents/Projects/Simple Home/.claude/skills/marketing-research-strategy/references...
+Read /Users/demo/Documents/Projects/Simple Home/.claude/skills/marketing-research-strategy/references...
+Read /Users/demo/Documents/Projects/Simple Home/.claude/skills/marketing-research-strategy/references...
+Glob /Users/demo/Documents/Projects/Simple Home/context/**/*
+Skill 4: Data analysis
+Drop your campaign spreadsheet in. claude
+builds a full dashboard your brand colors,
+interactive charts, channel breakdowns.

@@ -1,0 +1,4 @@
+Step #7
+Set up n8n webhook to
+receive appointment data from
+your voice agent

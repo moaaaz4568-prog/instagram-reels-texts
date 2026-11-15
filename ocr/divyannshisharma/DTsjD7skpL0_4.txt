@@ -1,0 +1,16 @@
+Trigger Nodes:
+
+Category | Detail | Key Principle
+--- | --- | ---
+The 4 Pillars | Repetitive<br>Time-consuming<br>Error-prone<br>Scalable<br>Must hit 2+ pillars<br>Worth automating | Same task multiple times daily<br>Takes significant hours weekly<br>Manual mistakes are common<br>Grows with business scale<br>Judge automation worthiness<br>Don't automate everything yet
+High-ROI Triggers | Event-driven<br>New leads<br>Payments received<br>Emails incoming<br>Form submissions | Real-time workflow triggers<br>CRM updates automatically<br>Confirmations processed<br>Support tickets created<br>Order registration handled<br>Before opening n8n canvas that starts the workflow
+Process Thinking | Map on paper<br>Define triggers<br>Data sources<br>Actions needed<br>Expected outcomes | Where data comes from<br>What happens at each step<br>What success looks like<br>Start small and functional<br>Intentionally find failures
+Testing Strategy | Build MVPs<br>Test aggressively<br>Break workflows | Store execution logs always<br>Watch without building<br>Jump to agents first<br>Learn teaming workflows<br>No retry logic added
+Common Mistakes | Tutorial hell<br>Starting with AI<br>Skipping fundamentals<br>No error handling<br>Poor documentation<br>Ignoring patterns<br>Over-complicating<br>Manual triggers<br>No tracking<br>Perfectionism first<br>Copying blindly<br>Forgetting maintenance<br>Missing ROI focus | Only using new nodes<br>Too many steps early<br>Waiting for button clicks<br>No success metrics<br>Months before shipping<br>Not studying examples<br>Set and forget approach<br>Tech specs not ROI<br>Hours back per week<br>Reduced labor costs<br>Fewer errors, faster delivery<br>Predictable systems first<br>Data shows impact<br>Long-term partnerships<br>Workflows use same core nodes
+Business Value | Time saved<br>Money saved<br>Better outcomes | 
+Implementation | Start simple<br>Track results<br>Prove value | 
+Final Principle | Pattern recognition wins | Most wo
+
+Instagram Divyanshi
+1 2 3 4 5
+SWIPE

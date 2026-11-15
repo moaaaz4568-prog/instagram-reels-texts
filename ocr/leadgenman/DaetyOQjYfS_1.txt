@@ -1,0 +1,14 @@
+USE
+Maildosо
+m
+But wait, what is Maildosо?
+Maildosо gives you cold email mailboxes built for
+outbound, so your main domain never gets burnt. It
+auto sets up your SPF, DKIM and DMARC and gives
+you IP rotation out of the box.
+Maildosо
+1 You plug it into tools like n8n, Instantly or
+Smartlead to run and manage your whole
+sending setup automatically.
+2 And at 49 cents a mailbox sending 15 a day,
+your real cost per 1,000 emails drops massively.

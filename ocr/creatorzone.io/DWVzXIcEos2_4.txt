@@ -1,0 +1,3 @@
+Example 4
+✗ Boring : “ Packing orders today! ”
+✓ Viral : "This tiny ring is headed to New York, and the story behind it made me cry!"

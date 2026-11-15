@@ -1,0 +1,36 @@
+Project 4:
+Internal Operating System.
+
+claude
+* Baked for 8s
+C:\Users\quimo\desktop\claude-code\demo-os (3m 44.00s)
+/improve-system
+- Scanning the session for signals.
+- One signal worth saving: you asked for "long and detailed." I delivered verbose prose with meta-framing ("Why I'm asking for all of this..."), you immediately asked for shorter. That's a refinement of the existing "short and direct" preference - even when you ask for long, you want structurally comprehensive but line-tight, not prose-padded.
+
+Read 1 file, recalled 2 memories, wrote 2 memories (ctrl+o to expand)
+- Experiences saved: (none - feedback belonged in auto-memory, not knowledge/me/experiences/)
+
+Auto-memory updated:
+- memory/feedback_long_means_true_entry.md (new)
+- memory/MEMORY.md (added index entry)
+
+Flags for review:
+- memory/project_skill_discovery_location.md: exists on disk but missing from MEMORY.md index - recommend adding (load-bearing project knowledge about .claude/skills/ vs skills/discovery)
+
+One judgment call to flag: the session's signal was a behavioral preference, not a story with a takeaway. I placed it in auto-memory (cross-session preferences) rather than knowledge/me/experiences/ (stored in your voice). If you'd like it as an experience entry too, say the word.
+
+* Churned for 1m 3s
+- add it to the index
+
+? for shortcuts • - for agents
+
+Give Claude its own filing system —
+and teach it to remember.
+
+Run /improve-system → Claude
+scans the session, spots patterns
+("you always want shorter"), saves it
+as a permanent note to itself.
+
+It gets smarter every time you use it.

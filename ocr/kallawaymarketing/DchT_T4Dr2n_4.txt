@@ -1,0 +1,16 @@
+GIVE CLAUDE THIS
+PROMPT AND IT WILL
+BUILD YOU A FULL REPORT
+
+Breaking down all the Topics,
+Formats, and Hooks, ready to go
+
+Deep analyze all of these videos and build me a visual report
+breaking out the top performing topics, formats, and hooks.
+Be as visual as possible. Render in dynamic HTML.
+
+Choose Style
+
+Use a project
+
+Opus 5

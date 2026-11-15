@@ -1,0 +1,9 @@
+Why Playwright,
+Not MCP
+
+MCP servers burn tokens because
+every tool loads its own
+description.
+Playwright CLI does the same job
+for way less. That's the whole
+unlock here.

@@ -1,0 +1,9 @@
+Skill #4
+★★★★★
+market-research-reports
+k-dense-ai/market-research-reports
+Business 8,232
+Generate comprehensive market research reports (50+ pages) in the style of top consulting firms (McKinsey, BCG, Gartner). Features deep integration with research lookup for data gathering, and multi-framework strategic analysis including Porter Five Forces, PESTLE, SWOT, TAM SAM/SOM, and BCG Matrix.
+npx @smithery/cli@latest install skill k-dense-ai/market-research-reports --agent claude-code
+@itstylergermain
+save for later

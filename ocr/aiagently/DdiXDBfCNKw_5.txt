@@ -1,0 +1,29 @@
+Step 5
+Add the skill to Claude
+1 Open Skills
+2 Click + / Create skill
+3 Paste or import the skill content
+Now Claude can use that workflow whenever you need it.
+1 Open Skills
+Go to the Skills section in Claude's settings (or sidebar).
+2 Click + / Create skill
+Click the + icon, then choose Create skill.
+3 Paste or import the skill content
+Paste the skill file content or import it from a repository (e.g. GitHub).
+Customize
+Skills
+Connectors
+AI specialists
+Skills
+Browse skills
+Create skill
+No skills yet
+Add skills to extend what Claude can do.
+Browse skills
+Create skill
+Create skill
+Paste content
+Import from
+Paste your skill content here...
+Cancel
+Save

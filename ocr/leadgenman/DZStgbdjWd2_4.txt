@@ -1,0 +1,10 @@
+4.
+Grok
+The Trend Whisperer
+Best for: Tracking real-time social trends, online sentiments, and pop culture.
+Strengths:
+• Directly connected to X (formerly Twitter), so it reads trends as they happen.
+• Has personality, it adds humor and context from social character.
+• Great for marketers, journalists, and creators who wants to sense what’s hot.
+Keep in mind: Accuracy can be uneven with the bigger models on, and it’s still catching up with complex reasoning.
+Use it when you want a pulse on what the internet is thinking.

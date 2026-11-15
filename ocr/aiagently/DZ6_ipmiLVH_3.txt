@@ -1,0 +1,17 @@
+Prompt 3: The Template Design System
+I need to design [product type] that looks professional without hiring a designer.
+Create a complete design system for me:
+→ Color palette with hex codes and usage rules
+→ Font pairings for headers and body text
+→ Spacing and layout guidelines
+→ Visual hierarchy principles for this format
+→ Three style variations (minimal, bold, elegant)
+Include examples of how to apply this system to maintain consistency. Prompt 5: The Template Design System
+I need to design [product type] that looks professional without hiring a designer.
+Create a complete design system for me:
+→ Color palette with hex codes and usage rules
+→ Font pairings for headers and body text
+→ Spacing and layout guidelines
+→ Visual hierarchy principles for this format
+→ Three style variations (minimal, bold, elegant)
+Include examples of how to apply this system to maintain consistency.

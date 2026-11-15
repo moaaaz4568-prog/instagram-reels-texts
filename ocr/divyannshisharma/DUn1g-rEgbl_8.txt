@@ -1,0 +1,17 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+OPEN SOURCE: STUDY NOW,
+RUN SOON
+1. Task context
+2. Tone context
+3. Background data, documents, and in
+4. Detailed task description & rules
+5. Examples
+6. Conversation history
+Kimi K2.5
+Beats GPT-5, costs 1/10th
+DeepSeek V3.2
+GPT-5 level, 90% lower cost
+MiniMax M2.1
+1M context, lower than Claude
+6–12 months for local AI on consumer devices.

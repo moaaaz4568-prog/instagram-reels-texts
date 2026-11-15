@@ -1,0 +1,29 @@
+PART 4: CORE DEVELOPMENT
+
+Methodologies: 4 skills
+ACTIVE
+
+Code Review & Quality: 4 skills
+ACTIVE
+
+Testing: 6 skills
+ACTIVE
+
+Debugging: 1 skills
+ACTIVE
+
+Git & Automation: 3 skills
+ACTIVE
+
+Architecture & Planning: 3 skills
+ACTIVE
+
+Accessibility: 1 skills
+ACTIVE
+
+AI/ML Engineering: 3 skills
+ACTIVE
+
+https://www.notion.so/growth-exe/Part-4-Core-Development-351a8cdc773980b2b971c2bf5515bad0?source=copy_link
+
+@divyanshisharma

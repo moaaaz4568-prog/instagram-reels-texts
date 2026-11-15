@@ -1,0 +1,31 @@
+Skill Set 10
+Skill Creator
+DESCRIPTION
+Acts as a powerful meta-skill that allows you to design and generate your own AI-driven workflows with ease. By simply describing a process or task, it automatically produces a structured SKILL.md file within minutes. This enables you to standardize workflows, reuse them across projects, and scale your AI capabilities efficiently — turning ideas into repeatable systems without manual setup.
+MORE INFO
+https://lnkd.in/g7fRHR-D
+anthropics / skills Public
+Code Issues 163 Pull requests 404
+Files
+main
+Go to file
+claude-api
+doc-coauthoring
+docx
+frontend-design
+internal-comms
+mcp-builder
+pdf
+pptx
+skill-creator
+agents
+assets
+zach
+age
+asse
+eva
+refe
+scrip
+LICEN
+SKIL
+Name

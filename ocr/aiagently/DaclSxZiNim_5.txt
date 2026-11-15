@@ -1,0 +1,15 @@
+USE CASE 05
+Build a game
+while you sleep.
+One browser game. 21,000 lines of code.
+90 commits. Zero babysitting.
+k, Alex
+Let the AI plan, code, test, debug, and improve
+the game while you focus on the idea not
+every line of code.
+PROMPT
+STARTER
+>/goal Build a 3D browser game with an explorable world.
+Keep coding, testing, fixing bugs, optimizing performance,
+and improving gameplay until it runs smoothly and feels
+like a polished game.

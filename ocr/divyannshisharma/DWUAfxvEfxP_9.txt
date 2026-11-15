@@ -1,0 +1,13 @@
+Awesome Claude Skills
+What you'll get:
+• Best curated skill list. 22k+ stars.
+• Popular GitHub repo trusted by thousands of developers
+travisvn / awesome-claude-skills Public
+Code Issues 7 Pull requests 172 Discussion
+main 1 Branch 0 Tags
+travisvn Add shadcn/ui to skills list
+.gitignore
+CONTRIBUTING.md
+README.md
+Contributing
+README

@@ -1,0 +1,29 @@
+Finished,
+working,
+tested.
+
+File Edit Selection ...
+EXPLORER
+BROWSER AUTOMATION DEMO
+.claude
+.node_modules
+.onboarding
+.screenshots
+CLAUDE.md
+demo.js
+package-lock.json
+package.json
+qs-test.js
+serve.js
+test-onboarding.js
+
+Welcome — Get Started
+localhost:3000
+
+What's your first name?
+Required - question 1 of 12
+John
+
+Continue
+
+Reran the whole flow start to finish. Zero glitches. Built, broken, fixed, and shipped — same session.

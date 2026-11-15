@@ -1,0 +1,13 @@
+2 Automate Your Infra With Maildoso
+With Maildoso, I never touch DNS, MX records, or SPF/DKIM/DMARC ever again.
+maildoso
+✅ Buys & connects 12+ inbox-ready domains
+✅ Checks bounce rate, spam & blacklist risk
+✅ Creates 140+ SMTP mailboxes with inbox-ready domains
+✅ Rotates inboxes daily to maintain sending reputation
+✅ Handles SPF, DKIM, DMARC automatically
+✅ Gets us 93%+ deliverability
+If you’re still doing all of this manually, you’re losing time and deliverability.
+Suprava Sabat
+Co-founder, Acquisition X
+7/15

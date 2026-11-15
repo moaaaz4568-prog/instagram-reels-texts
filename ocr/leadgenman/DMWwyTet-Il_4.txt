@@ -1,0 +1,23 @@
+Editor
+Executions
+Evaluations
+Prepare Content
+Review Email
+Chat Model*
+Model
+gpt-4o-mini
+Memory Tool
+Model
+gpt-4o
+(Deactivated)
+Gmail User for Approval
+sendAndWait: message
+Execute workflow
+Activate Windows
+Go to Settings to activate Win
+21:57
+ENG
+20-07-2
+-HTML preview to you
+-Click Approve or Reject
+-Optional: Add multi-step review

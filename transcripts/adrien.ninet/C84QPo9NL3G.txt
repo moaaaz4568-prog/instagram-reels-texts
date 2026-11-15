@@ -1,0 +1,1 @@
+Transform designs into websites with Wix Studio. First, connect your Figma file to Wix Studio. Then run the Figma plugin and export your style. Finally, export your frames. Plus it's fully responsive.

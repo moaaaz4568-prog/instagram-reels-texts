@@ -1,0 +1,19 @@
+CUSTOM CODE NODE
+
+The Custom Code node lets you write JavaScript directly inside n8n to handle data in ways that built-in nodes can't. Transform, filter, and manipulate data, build advanced conditions, or even call external APIs all without leaving your workflow.
+
+Key Capabilities:
+Data Access: Use $input.all() to work with all incoming items.
+Node-Specific Data: Access any node's output with $node["NodeName"].json.
+Built-in Libraries: Includes Lodash, Moment, and Axios for powerful scripting.
+
+Input Data
+Passes through to Custom Code Node
+
+Custom JavaScript
+Loops, transformations and API calls
+
+Output Data
+Feeds into next automation step
+
+If you can code it in JavaScript, you can make it happen in n8n.

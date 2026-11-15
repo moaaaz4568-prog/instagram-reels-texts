@@ -1,0 +1,5 @@
+Step #6
+Creates a new Claude file: type
+/init to create a file with code-based
+documentation.
+FHD 360Hz

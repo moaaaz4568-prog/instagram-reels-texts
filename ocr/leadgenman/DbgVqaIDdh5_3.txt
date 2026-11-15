@@ -1,0 +1,12 @@
+2
+Hands-On Large Language Models
+RAG and vector databases, built by hand.
+With tools you can pick up today.
+O'REILLY
+Hands-On
+Large Language
+Models
+Language Understanding
+and Generation
+Jay Alammar &
+Maarten Grootendorst

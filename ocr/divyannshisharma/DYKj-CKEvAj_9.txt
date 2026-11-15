@@ -1,0 +1,7 @@
+#9: BEST PRACTICE
+This repository focuses on agentic engineering and
+"vibe coding" to optimize workflows using Claude AI.
+The project is highly popular with 49.6k stars.
+github.com/shanraissan/best-practice
+Divyanshi sharma
+09/10

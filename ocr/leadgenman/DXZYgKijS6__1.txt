@@ -1,0 +1,9 @@
+This is where I actually build SaaS.
+
+• iOS Simulator Skill – Claude builds, tests, and controls your iOS app. Navigates by meaning, so nothing breaks when the UI changes.
+• Software Architecture Skill – Clean Architecture and SOLID principles on demand. Claude writes code that scales.
+• Git Worktrees Skill – Spins up isolated worktrees in seconds. Run two features in parallel without touching main.
+
+Ship faster, break less.
+
+Coding Stack

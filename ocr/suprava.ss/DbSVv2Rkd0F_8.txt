@@ -1,0 +1,19 @@
+scrapes any website → finds people who need a scraper
+09 / 20
+GitHub
+public repository
+scrapy / scrapy
+Public
+Fork
+Star
+63.4k
+63.4k
+Issues ← people stuck right now
+Python
+WHAT IT DOES
+the big python web crawling and scraping framework.
+WHO TO MINE IT FOR
+open the issues tab. every stuck person would rather pay you than keep debugging.
+THE EXACT LINK
+github.com/scrapy/scrapy/issues
+• the github method

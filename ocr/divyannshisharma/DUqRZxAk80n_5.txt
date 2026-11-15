@@ -1,0 +1,54 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Step 3-5: Ink decides on format
+and create content
+
+• Level 1 → Content format (Page or Article)
+• Level 2 → Content type (specific type of page/article)
+• GitHub access provided to the full repo (all articles
+included)
+
+Article Types
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Structure</th>
+<th>Image Rules</th>
+<th>FAQ Required</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>How-To</td>
+<td>Intro → Quick overview → Conclusion</td>
+<td>Comparison table → Steps → Best practices → Screenshot per step</td>
+<td>5-6 questions</td>
+</tr>
+<tr>
+<td>Listicle</td>
+<td>Intro → Tool list → Conclusion</td>
+<td>Screenshot for EVERY tool</td>
+<td>5-10 questions</td>
+</tr>
+<tr>
+<td>Checklist</td>
+<td>Intro → Checklist items → Conclusion</td>
+<td>Relevant examples</td>
+<td>8-12 questions</td>
+</tr>
+<tr>
+<td>Investor List</td>
+<td>Intro → How to get yes → How to choose → Profiles → Conclusion</td>
+<td>Table</td>
+<td>5-8 questions</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Where applicable</td>
+<td></td>
+</tr>
+</tbody>
+</table>

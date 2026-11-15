@@ -1,0 +1,57 @@
+7. Agents
+
+Massive collection of production subagents
+• 25k+ stars
+• strategy, dev, security, design, data, research
+• drop-in for Claude Code work
+
+Repo: https://github.com/wshobson/agents
+
+Reply...
++ 📋
+
+Team of specialized AI agents that work together
+• 3.7k+ stars
+• agents collaborate on full features
+• expert-level knowledge across stacks
+
+Repo: https://github.com/vijaytheCoder/awesome-claude-agents
+
+Reply...
++ 📋
+
+100+ production-ready subagents
+• 2.2k+ stars
+• comprehensive domain expertise
+• drop-in for any workflow
+
+Repo: https://github.com/daveponn/clau
+
+Reply...
++ 📋
+
+59 specialized AI agents for development
+• TypeScript, Python, Java, Kotlin reviewers
+• workflow automation agents
+• great for onboarding teams
+
+Repo: https://github.com/baryhuang/claude-code-agents
+
+Reply...
++ 📋
+
+Production-ready multi-agent orchestration
+• 74+ stars
+• task routing + consensus decisions
+• works across coding agents
+
+Repo: https://github.com/ruvnet/multi-agent-squad
+
+Reply...
++ 📋
+
+Divyanshi sharma
+
+Category 4/10
+
+لا يوجد نص

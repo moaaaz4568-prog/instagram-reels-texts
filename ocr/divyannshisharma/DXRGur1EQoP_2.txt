@@ -1,0 +1,11 @@
+File System & Data:
+05. Filesystem MCP (Official Anthropic): Read, write, create, move, and search files on your local machine. The most fundamental MCP server. If you install only one server, install this one. Scoped to specific directories for security.
+https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+06. SQLite MCP (Official Anthropic): Query and manage SQLite databases through natural language. Claude writes the SQL, the server executes it, results come back structured. Perfect for local data analysis.
+https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite
+07. PostgreSQL MCP: Connect Claude to production PostgreSQL databases. Read-only by default with optional write access. Essential for any workflow that needs to query business data.
+https://github.com/modelcontextprotocol/servers/tree/main/src/postgres
+08. Excel MCP Server: Manipulate Excel files without Microsoft Excel installed. Read, write, format, calculate. Perfect for automated report generation and data processing pipelines.
+https://github.com/haris-musa/excel-mcp-server
+09. markdownify-mcp: Convert PDFs, images, audio files, and other formats into clean Markdown. Feed any document type into your AI workflow regardless of its original format.
+https://github.com/zcaceres/markdownify-mcp

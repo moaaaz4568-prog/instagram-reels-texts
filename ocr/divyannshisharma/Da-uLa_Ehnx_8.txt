@@ -1,0 +1,43 @@
+* THE 6 SKILLS SYSTEM
+Build full apps
+with AI Studio.
+VibeFit
+Dashboard
+Workouts
+Nutrition
+Progress
+Settings
+Today's Overview
+Thursday, Oct 12
+Active Calories
+1,240
++13% from yesterday
+Active Time
+84 min
++4 mins over daily goal
+Workouts
+5
+This week
+View Report
+Activity Overview
+Calories burned over the last 7 days
+Mon Tue Wed Thu Fri Sat Sun
+3000
+2250
+1500
+750
+0
+Nutrition
+1,850
+Calories Consumed
+Today - 45 min
+kcal goal
+Recent Workouts
+See All
+Upper Body
+45 min
+Completed
+320 kcal
+Body Strength
+Inside GHL, go to AI Studio. Type: "Build me a fitness app that tracks calories and workouts."
+A few minutes later — a working app. Dashboard, tracker, charts, nav menu. Zero code.

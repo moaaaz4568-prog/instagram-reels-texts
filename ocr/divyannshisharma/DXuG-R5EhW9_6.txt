@@ -1,0 +1,10 @@
+PART 6: DEVOPS & INFRASTRUCTURE
+Terraform - 4 skills
+Docker - 1 skills
+Kubernetes - 2 skills
+Cloud (Official) - 4 skills
+Databases - 4 skills
+CI/CD & IaC - 3 skills
+Monitoring - 2 skills
+https://www.notion.so/growth-exe/Part-6-DevOps-Infrastructure-351a8cdc773980af887de183fbcdee31?source=copy_link
+@divyanisharma

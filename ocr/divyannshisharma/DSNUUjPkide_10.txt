@@ -1,0 +1,12 @@
+Step #10
+Image Analysis
+On form submission
+Analyze Image
+OpenAI Answer
+Analyze an image
+Google Answer
+Analyze an image
+OpenAI Answer
+Execute workflow
+Open chat
+OpenAI vs Gemini: Same image, different approaches.

@@ -1,0 +1,22 @@
+Planning Pattern
+Legend
+Processing
+Tool use
+Agentic Workflow
+UI
+User Query
+Planning
+Make a Plan
+Plan
+Task 1
+Task 1
+...
+Task 1
+Tools
+Execute Task
+Result
+All tasks completed?
+Yes
+Yes
+Response
+Generate Response

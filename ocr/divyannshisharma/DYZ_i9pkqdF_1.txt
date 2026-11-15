@@ -1,0 +1,36 @@
+01
+/ 04
+The Problem
+Recruiters spend 6 seconds on your resume.
+reality.md
+01
+02
+03
+04
+05
+06
+07
+08
+09
+It was Designed to Filter Out the most People
+10
+11
+An ATS has already scanned it for keywords.
+12
+13
+→ No match = automatic bin.
+14
+15
+→ This isn't about being underqualified.
+16
+17
+→ The system was built to filter people out, not find the best one.
+18
+> system.log
+status: harsh
+truth: real
+outcome: lost_opportunity
+your_move: change_the_game
+truth.md
+It's not about you.
+It's about how the system was built.

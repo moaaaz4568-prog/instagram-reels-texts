@@ -1,0 +1,34 @@
+TOP TOOL #10
+#10: Hyperframes
+HeyGen's tool for turning simple code into videos
+10
+Write basic web code (HTML).
+The tool turns it into an actual MP4 video.
+No complicated frameworks.
+No React.
+Nothing fancy.
+Same code -> same video every single time.
+Write HTML.
+That's It.
+Turns Into MP4 Video
+No Frameworks.
+No React.
+Same Code.
+Same Video.
+Built for Agents.
+Code in.
+Video out.
+Every time.
+About
+Write HTML. Render video.
+Built for agents.
+hyperframes
+Turn simple HTML into MP4 videos.
+No frameworks. No React. Just code.
+No React Needed
+Same Code Same Video
+Built for Agents
+Simple code.
+Real video.
+Every single time.
+github.com/heygen-com/hyperframes

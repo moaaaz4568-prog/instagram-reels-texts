@@ -1,0 +1,28 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+working_style.md - Starter
+Template
+
+# Working Style Preferences
+
+## Before starting any task
+- Always read all files in this folder before responding
+- Ask clarifying questions before executing
+- Don’t guess. Ask.
+
+## Output defaults
+- File format: [.docx / .md / plain text]
+- Length: [concise / detailed / match the task]
+- Tone: [match brand-voice.md]
+
+## Quality standard
+- Every output should be [client-ready / draft]
+- If confidence is low, say so before delivering
+
+## Things to avoid
+- No filler language or unnecessary padding
+- No unsolicited disclaimers
+- No bullet points unless I ask for them
+
+●●●●●●●●●●

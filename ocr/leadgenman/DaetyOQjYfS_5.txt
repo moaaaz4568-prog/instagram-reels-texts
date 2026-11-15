@@ -1,0 +1,7 @@
+STEP - 4
+Build the workflow
+1 I built an inbound cold email sending workflow
+2 Maildoso spins up the mailboxes and domains
+3 n8n pulls your leads and personalises each email
+4 Gemini writes the copy that matches each lead
+5 Sends and tracks replies in Slack or Sheets

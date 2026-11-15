@@ -1,0 +1,12 @@
+ping
+GET /ping Check API server status
+simple
+GET /simple/price Get the current price of tokens (using contract addresses) for a given platform in any other currency that you need.
+GET /simple/token_price/{id} Get current price of tokens (using contract addresses) for a given platform in any other currency that you need.
+GET /simple/supported_vs_currencies Get list of supported vs. currencies
+coins
+GET /coins/list List all supported coin ids, name and symbol (no pagination required)
+GET /coins/markets List all supported coin ids, name and symbol (no pagination required)
+GET /coins/{id} Get current data (name, price, market, ... including exchange tickers) for a coin
+GET /coins/{id}/tickers Get coin tickers (paginated to 100 items)
+300Hz

@@ -1,0 +1,50 @@
+divyanshisharma
+1/4 Category (Prompt 1- 15)
+gory 1:
+Category 1:
+Coding & Debugging
+
+1. Code Review
+Review this code as a senior engineer. Identify bugs, security vulnerabilities, performance issues, and style problems. Explain each issue and suggest a fix. [PASTE CODE]
+
+2. Debug This Error
+I am getting this error: [ERROR MESSAGE]. Here is the relevant code: [PASTE CODE]. Walk me through how you would debug this and fix the error.
+
+3. Refactor for Readability
+Refactor this code to be cleaner and more readable without changing its functionality. Add comments explaining complex logic. [PASTE CODE]
+
+4. Write Unit Tests
+Write comprehensive unit tests for this function. Cover the happy path, edge cases, null inputs, and error conditions. [PASTE FUNCTION]
+
+5. Optimize Performance
+Analyze this code for performance bottlenecks. Identify the slowest parts and rewrite them to be more efficient. [PASTE CODE]
+
+6. Convert to TypeScript
+Convert this JavaScript code to TypeScript. Add proper type definitions for all variables, parameters, and return values. [PASTE CODE]
+
+7. Explain This Code
+Explain this code to me like I have never seen it before. What does it do, how does it work, and why is it written this way? [PASTE CODE]
+
+8. Generate API Endpoint
+Write a REST API endpoint in [LANGUAGE/Framework] that [DESCRIBE WHAT IT SHOULD DO]. Include input validation, error handling, and HTTP codes.
+
+9. Database Query Optimization
+This SQL query is running slowly: [PASTE QUERY]. Analyze it, explain why it is slow, and rewrite it to be faster. Suggest any indexes that would help.
+
+10. Write Documentation
+Write clear developer documentation for this function including purpose, parameters, return values, example usage, and edge cases. [PASTE FUNCTION]
+
+11. Security Audit
+Audit this code for security vulnerabilities. Check for SQL injection, XSS, authentication issues, exposed secrets, and any other risks. [PASTE CODE]
+
+12. Build a CLI Tool
+Write a command line tool in Python that [DESCRIBE FUNCTIONALITY]. Include argument parsing, error handling, help text, and a usage example.
+
+13. Convert Function to Async
+Convert this synchronous function to async/await. Handle all promise rejections properly and maintain the same functionality. [PASTE FUNCTION]
+
+14. Design a Data Schema
+Design a database schema for [DESCRIBE APPLICATION]. Include all tables, columns, data types, relationships, indexes, and primary/foreign keys.
+
+15. Write a Regex
+Write a regex pattern that matches [DESCRIBE WHAT TO MATCH]. Explain each part of the pattern and show example matches and non-matches.

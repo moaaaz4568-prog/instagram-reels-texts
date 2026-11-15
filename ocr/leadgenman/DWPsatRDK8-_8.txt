@@ -1,0 +1,8 @@
+Ctrl + R
+Search History
+Reverse search through all your previous prompts. Same
+as bash history search. Type to filter.
+$ claude
+(reverse-i-search)`auth':
+Refactor the auth middleware
+↑↓ to navigate Enter to select

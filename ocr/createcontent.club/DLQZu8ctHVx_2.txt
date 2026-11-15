@@ -1,0 +1,12 @@
+ZONE 2
+CAPTIONS
+AND ICONS
+- Place all text
+overlays here
+- Add icons and
+animations in this
+area
+- Safe from platform
+UI interference
+CAPTIONS
+HERE

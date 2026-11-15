@@ -1,0 +1,9 @@
+Step #15
+In the most simple and concise way possible, explain to a complete beginner why this currently isn't yet working in n8n and what we have to have change for this to work.
+This isn't working in n8n because the tool calling feature of Gemini 3 requires a special "thought_signature" field in each function call, but n8n's built-in modes do not add or keep this field when talking to Gemini. For it to work, n8n needs to update its Gemini nodes or workflows so they always include and pass the "thought_signature" each time a tool is called.
+Also in the simplest terms possible, explain what a thought_signature is.
+thought_signature is an encrypted code from Gemini that saves what the AI was thinking when it made a function call. You must send it back to the AI in your next request so it remembers its past reasoning and can keep conversations and tool calls working properly.
+Related
+- How do I enable thought signatures in a Gemini API request?
+- Is there a follow-up...
+The fix: Add Simple Memory. Solves Gemini tool calling failures.

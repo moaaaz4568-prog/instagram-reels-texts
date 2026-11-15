@@ -1,0 +1,45 @@
+2. Meta Indexes
+
+1000+ agent skills from real engineering teams
+• not AI-generated slop, battle-test expertise bundles
+• Claude Code, Codex, Gemini CLI, Cursor
+• Notion, WhatsApp, Notebook most coding agents
+Repo: https://github.com/VoltAgent/awesome-agent-skills
+Reply...
++ 📋
+
+Hand-picked subagents for every stack and task
+• domain-specific
+• production-ready components
+• integrates with LLM, memory inc.
+Repo: https://github.com/VoltAgent/awesome-agents
+Reply...
++ 📋
+
+Focus list of Claude Code plugins only
+• slash commands, subagents, MCRs
+• install commands included for each
+• enables hosting your own marketplace
+Repo: https://github.com/ccplugin/claude-code-plugins
+Reply...
++ 📋
+
+Curated tools, IDP servers, hooks
+• star-tier marketplace
+• SDKs, security tools, agent collections
+• great discovery template
+Repo: https://github.com/jquyascript/awesome-claude-code
+Reply...
++ 📋
+
+Indexed catalogue of 75+ quality Claude repos
+• all original, no AI slop
+• maintained by Daniel Rosehill
+• great navigator for the ecosystem
+Repo: https://github.com/danielrosehill/Claude-Code- repos-Index
+Reply...
++ 📋
+
+Divyanshi sharma
+
+Category 1/10

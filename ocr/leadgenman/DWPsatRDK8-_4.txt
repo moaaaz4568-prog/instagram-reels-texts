@@ -1,0 +1,12 @@
+Alt P
+Model
+Switch Model
+Swap between Opus, Sonnet, Haiku without losing your prompt or context. Hot-swap brains.
+Context preserved. Prompt kept.
+$ claude
+[Alt+P] Model picker:
+• claude-opus-4-6
+○ claude-sonnet-4-6
+○ claude-haiku-4-5
+Model picker:
+Claude-haiku-4-5

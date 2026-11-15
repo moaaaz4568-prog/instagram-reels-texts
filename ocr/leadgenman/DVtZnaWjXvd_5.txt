@@ -1,0 +1,10 @@
+resoures.rtf'd — Edited
+5 free resources.rtf'd — Edited
+B I U S [color box] [pen icon] Helvetica Regular 15
+Papers:
+1. ReAct: https://arxiv.org/abs/2210.03629
+2. Generative Agents: https://arxiv.org/abs/2304.03442
+3. Toolformer: https://arxiv.org/abs/2302.04761
+4. Chain-of-Thought Prompting: https://arxiv.org/abs/2201.11903
+5. Tree-of-Thoughts: https://arxiv.org/abs/2305.10601
+6. Reflexion: https://arxiv.org/abs/2303.11366

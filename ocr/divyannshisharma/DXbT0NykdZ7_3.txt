@@ -1,0 +1,4 @@
+Step 3: Notebook
+Google's free pre-built RAG system.
+Combined with Claude Code, it replaces a stack worth hundreds a month.
+Claude Code Skills Research

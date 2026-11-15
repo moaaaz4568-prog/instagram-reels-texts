@@ -1,0 +1,20 @@
+Self-improving skill files
+
+Key Concept
+Create /skills folder.
+one file.md One markdown file.
+
+Anatomy of Skill File
+OpenClaw Agent
+Platform Forms
+Outreach Templates
+Hook Formulas
+SEO Brief structure
+Anchor Text Rules
+
+Continuous Improvement
+When something fails – add rule
+Agent never make a markdown file.
+Agent never makes – add the same mistake twice.
+
+@divyanshisharma

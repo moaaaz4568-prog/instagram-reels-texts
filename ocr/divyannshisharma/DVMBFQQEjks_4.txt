@@ -1,0 +1,12 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+SUCCESS
+• Your first prompt:
+I want to [YOUR TASK] so that [WHAT SUCCESS
+LOOKS LIKE].
+First, read the uploaded files completely before
+responding.
+DO NOT start executing yet. Instead, ask me
+clarifying questions (use AskUserQuestion) so we
+can refine the approach together step by step.
+Only begin work once we've aligned.

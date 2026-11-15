@@ -1,0 +1,18 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+What It Looks Like
+In Claude
+You can wire this up in two ways:
+Claude API (Tool-Use Mode):
+Register your MCP endpoint as
+a callable tool:
+{
+  "name": "notion_summary",
+  "description": "Fetches weekly Notion updates",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "week": { "type": "string" }
+    }
+  }
+}

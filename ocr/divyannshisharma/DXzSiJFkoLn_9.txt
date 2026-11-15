@@ -1,0 +1,35 @@
+9. MCP Servers
+
+Run Claude Code itself as an MCP server for massive codebases
+* enables agent-in-agent pattern without manual breadcrumbing
+* recursive delegation of coding tasks
+* integrates with Claude Desktop
+Repo: https://github.com/steipete/claude-code-mcp
+
+Semantic code search MCP for massive codebases
+* pulls the files we need
+* critical for big repos
+* community MCP server
+Repo: https://github.com/zilliztech/claude-context
+
+MCP server between Claude Code and outputs
+* 2.2k+ stars
+* 315 KB → 5.4 KB (98% reduction)
+* token savings on every call
+Repo: https://github.com/d-e-s-o/claude-context-mode
+
+Context management for Claude Code
+* 2.2k+ stars
+* ledger-based hooks maintain state
+* MCP execution without context pollution
+Repo: https://github.com/continuous-claude/continuous-claude-v2
+
+Up-to-date version-specific docs in prompts
+* real-time doc access
+* libraries + frameworks
+* Cursor, VS Code, Claude Code, Windsurf
+Repo: https://github.com/upstash/context7
+
+Divyanshi sharma
+
+Category 5/10

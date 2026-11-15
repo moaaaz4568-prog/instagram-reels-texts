@@ -1,0 +1,3 @@
+Layer 2 - Reasoning
+Interpret inputs using symbolic logic, neural nets, knowledge graphs, and Bayesian models. Handles uncertainty and supports deductive, inductive, and creative inference.
+AI Agent Architecture

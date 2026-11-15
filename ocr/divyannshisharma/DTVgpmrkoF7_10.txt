@@ -1,0 +1,23 @@
+Step #10
+Retrieve Email Address
+Parameters Settings
+Mode
+Run Once for All Items
+Email Pattern
+JavaScript
+const items = $input.all();
+const emailPattern = /^\S+@\S+\.\S+$/;
+const result = items.map(item => {
+const email = item.json.choices[0].message.content;
+if (emailPattern.test(email)) {
+item.json.choices[0].message.content = email;
+} else {
+item.json.choices[0].message.content = "N/A";
+}
+return item;
+});
+$->360hr
+Automatically validate & extract email addresses
+A S D
+Z X C V B N M
+Alt Gr Ctrl

@@ -1,0 +1,8 @@
+Step 14
+Google Drive
+Connect your Drive and Claude can pull docs directly, just point to a file and ask.
+Step 15
+Tool Integrations
+Claude connects to your tools - set it up once and it can automate workflows and act on real data.
+Divyanshisharma
+12/16

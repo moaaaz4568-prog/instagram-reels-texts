@@ -1,0 +1,27 @@
+4.
+Ponytail
+You senior Developer
+He says nothing.
+He writes one line. It works.
+Ponytail
+He says nothing. He writes one line. It works.
+115k
+release
+v4.9.0
+npm
+v4.9.0
+works with
+20 agents
+license
+MIT
+stars
+115k
+release
+v4.9.0
+npm
+v4.9.0
+works with
+20 agents
+license
+MIT
+English · Español · 中文

@@ -1,0 +1,25 @@
+> /clear
+> /yt-search "claude code obsidian"
+- bash (python -c /claude/scripts/youtube_search.py "claude code obsidian") from the last 6 months
+- Searching YouTube for "claude code obsidian" (top 20 results, last 6 months)
+- Here are the top 20 YouTube results for "claude code obsidian"
+
+| # | Title | Channel | Views | Length | Date |
+|---|---|---|---|---|---|
+| 1 | https://youtube.com/watch?v=BLQ... | Noah Vilchis | 8.3K | 35:11 | Feb 27 |
+| 2 | https://youtube.com/watch?v=8Qp... | Greg Isenberg (500K) | 187K | 58:57 | Feb 23 |
+| 3 | https://youtube.com/watch?v=jMh... | Cole Medin (159K) | 4.2K | 28:43 | Jan 26 |
+| 4 | https://youtube.com/watch?v=ndc2... | TEQ | Brad | AI & Automation | 5.2K | 24:26 | Jan 27 |
+| 5 | https://youtube.com/watch?v=KCF... | HorDM | Tony Huang (8.6K) | 8.7K | 11:43 | Nov 95 |
+| 6 | https://youtube.com/watch?v=DfY... | Construct By Dee | 1K | 55:52 | Feb 15 |
+| 7 | https://youtube.com/watch?v=2wL... | Yoda-Ming | 1K | 7:55 | Jan 28 |
+| 8 | https://youtube.com/watch?v=ak8L... | Paul Dickson | 5K | 24:33 | Feb 12 |
+| 9 | https://youtube.com/watch?v=y6Yr... | Nick Milo (315K) | 112K | 8:15 | Feb 06 |
+| 10 | https://youtube.com/watch?v=3fcq... | ZKAKAI | Cole Medin | 3.9K | 9:53 | Today |
+
+< OUTLINE >
+< TIMELINE >
+< NMT > 0.0.0
+
+Step 5: Scrape
+A custom skill uses yt-dlp to pull video titles, creators, views, and dates.

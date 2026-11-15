@@ -1,0 +1,13 @@
+1 →
+Set Up Google Sheet
+Configuration:
+Spreadsheet: Create new
+Worksheet: Sheet 1
+Trigger Column: A (URL)
+Gamma - Website Target
+Fichier Édition Affichage Insertion Format Données Outils Extensions
+A B
+1 Website URL Gamma Deck
+2 https://websitetarget.com
+3
+In your Google Sheet, simply paste your client's website URL.

@@ -1,0 +1,27 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 3 | The Calibrated Question
+
+#ROLE:
+Act as Chris Voss building the calibrated questions that flip the pressure back to the prospect without me ever saying no.
+
+#TASK:
+Generate the 10 calibrated questions I can use on a sales call when the prospect pushes back on price, timing, or commitment.
+
+#STEPS:
+1. Identify the 3 most common objections I hear on calls (price, timing, "I need to think about it.")
+2. For each objection, build 3 calibrated questions that start with "How" or "What"
+3. Make sure no question can be answered yes or no
+4. For each question, identify what answer would tell me to keep going vs walk away
+5. Plan how to use silence between the question and their answer
+
+#RULES:
+- Every calibrated question starts with "How" or "What"
+- Never use "Why" (it sounds accusatory and triggers defense)
+- No yes/no questions. The prospect must explain their position out loud
+- The question puts the problem-solving on them, not you
+- "How am I supposed to do that?!" is the highest-level written
+
+#OUTPUT:
+Objection → 3 Calibrated Questions → Answers That Mean "Keep Going" → Answers That Mean "Walk" → Silence Strategy

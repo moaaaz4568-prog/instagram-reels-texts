@@ -1,0 +1,6 @@
+Punit gupta
+[5] The Sales Call Analyzer
+Prompt Preview: "Act like a senior sales strategist and deal coach with experience closing high-value B2B consulting and agency retainers."
+Goal: [insert call transcript here] and identify the top objections, buying signals, and deliver a follow-up email that moves the deal toward a close.
+Style: [Insert desired tone/style here] – honest, tactical, no sugarcoating.
+swipe >>

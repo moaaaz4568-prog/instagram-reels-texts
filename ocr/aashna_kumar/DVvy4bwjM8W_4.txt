@@ -1,0 +1,6 @@
+@aashna_kumar
+Carousels Get A Second Chance In Algorithm
+If someone sees your carousel but doesn't swipe, something interesting happens.
+Instagram may show your post again later.
+But this time, it starts from slide 2.
+This gives your post another chance to grab attention.

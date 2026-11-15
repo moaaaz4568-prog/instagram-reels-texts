@@ -1,0 +1,8 @@
+Suprava Sabat
+What Slack looks like
+Every reply notification shows:
+• Lead classification (cold / warm / hot)
+• Full thread summary
+• Suggested reply ready to copy
+• Direct link to Instantly inbox
+Cold replies get a connection request sent immediately. Hot replies get nurtured.

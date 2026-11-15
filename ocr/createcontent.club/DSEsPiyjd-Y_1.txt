@@ -1,0 +1,9 @@
+BAD
+Not using
+a hook
+GOOD
+Using
+a hook
+PERFECT
+Stealing
+a hook

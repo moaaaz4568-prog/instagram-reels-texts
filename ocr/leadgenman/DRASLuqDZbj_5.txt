@@ -1,0 +1,8 @@
+Haystack
+A production-oriented NLP/LLM framework by deepset for building RAG and QA pipelines with components for indexing, retrieval, generation, and serving via REST.
+Key Features:
+• End-to-end pipeline builder from Deepset AI
+• REST API available out-of-the-box
+• Works with Elasticsearch/OpenSearch
+• Technology-agnostic (OpenAI, Hugging Face, Cohere)
+• Offers pre-built pipelines for quick development.

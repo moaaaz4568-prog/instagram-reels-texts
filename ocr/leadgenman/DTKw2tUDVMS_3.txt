@@ -1,0 +1,9 @@
+VLM (Vision-Language Model)
+1 Image Input
+2 Text Input
+3 Vision Encoder
+4 Text Encoder
+5 Projection Interface
+6 Multimodal Processor
+7 Language Model
+8 Output Generation

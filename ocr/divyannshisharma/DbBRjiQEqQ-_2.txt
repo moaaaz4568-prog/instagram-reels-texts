@@ -1,0 +1,14 @@
+Content
+Automation 1-5
+
+#1 Morning Trend Scanner Every morning at 7am Claude searches trending topics in your niche and saves a curated list to your folder. Wake up knowing what the internet is talking about.
+
+#2 Article First Draft Generator Give Claude a topic. Get a complete 2,000-word draft back that matches your writing style, formatting rules, and content standards.
+
+#3 Thread Converter Paste any long article. Claude converts it into a properly formatted Twitter/X thread with a strong hook on tweet 1 and a CTA at the end.
+
+#4 Headline A/B Generator For every piece of content Claude generates 10 headline variations using different proven frameworks. Pick the winner. Post more, scroll less.
+
+#5 Content Calendar Builder Every Sunday Claude builds your full week of content. Checks what you’ve published, spots gaps, suggests topics, drafts hooks for each piece.
+
+NEWS

@@ -1,0 +1,7 @@
+5. Find D2C Brands → Generate Growth Ideas
+Claude
+WORKFLOW:
+1 Prospero Find D2C Brands
+2 D2C Filter Filter for D2C Brands
+3 Export List Export Companies
+4 Claude “Identify growth opportunities.”

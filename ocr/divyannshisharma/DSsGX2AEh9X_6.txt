@@ -1,0 +1,56 @@
+Step #6
+Get App ID and App Secret
+from Basic Setting
+Meta
+App Dashboard
+Dashboard
+Required actions
+App settings
+Basic
+Advanced
+App roles
+Alerts
+App Review
+Products
+Webhooks
+WhatsApp
+Activity log
+App ID
+App secret
+Display name
+Namespace
+App domains
+Contact email
+Privacy Policy URL
+Terms of Service URL
+User data deletion
+Data deletion instructions URL
+Category
+Verifications
+Business verification
+360
+Win
+Esc
+Tab
+Q
+W
+E
+R
+T
+Y
+A
+S
+D
+F
+G
+H
+Z
+X
+C
+V
+B
+N
+M
+Shift
+Ctrl
+Alt

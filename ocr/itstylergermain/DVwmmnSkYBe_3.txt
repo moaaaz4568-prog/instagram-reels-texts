@@ -1,0 +1,31 @@
+The 4 Memory Types for AI Agents
+Internal
+LLM
+Memory
+Databases
+Vector
+SQL
+Graph
+Document
+MCP Servers
+Long-Term
+Memory
+Short-Term
+Memory
+Stored
+Context
+Window
+LLM
+Answer
+User
+Input
+Tools
+User
+Schemas
+Facts
+Internal
+Chatter
+Retrieved
+Facts
+@itstylergermain
+save for later

@@ -1,0 +1,30 @@
+Step 05.
+CONNECT YOUR TOOLS
+Give it access to the tools it needs.
+Lead data
+Where your leads live.
+→ Google Sheet
+Listings
+Your property data.
+→ Google Sheet
+Messages
+Where you follow up.
+→ Gmail
+Connect what the agent needs.
+Claude
+Give Claude access to the tools it needs to do its job.
+Chat
+Cowork
+Projects
+Artifacts
+Customize
+Connect tools
+Google Sheets
+Access your lead data and property listings.
+Connected
+Gmail
+Read and send follow-up messages.
+Connected
+Add more tools
+(Only connect what you need)
+Only connect the agent needs.

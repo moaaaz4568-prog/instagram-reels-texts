@@ -1,0 +1,3 @@
+Layer 6 - Interaction
+Manage communication via text, voice, visuals. Include human-AI collaboration modes, clarification queries, and modality switching based on context.
+AI Agent Architecture

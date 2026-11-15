@@ -1,0 +1,5 @@
+Step #9
+Chat with Assistant
+Good afternoon, you've reached Smith Dental Clinic. My name is Emily, how can I help you?
+Type a message...
+Click 'Talk to Assistant' and test the conversation flow.

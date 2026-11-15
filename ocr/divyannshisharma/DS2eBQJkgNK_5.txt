@@ -1,0 +1,19 @@
+Phase 4:
+Context vs Vector
+How AI Remembers
+Context Memory (Short-term)
+• Window-based storage inside AI’s prompt for maintaining conversation context
+• RAG stores external document embeddings as searchable knowledge base for large repositories
+Without Memory
+• Agent forgets previous interactions and cannot maintain conversation context or recall earlier information
+With Memory
+• Agent remembers past conversations, maintains context, and provides personalized responses based on history
+Instagram
+Divyanshi
+1
+2
+3
+4
+5
+6
+< SWIPE

@@ -1,0 +1,17 @@
+* Welcome to Claude Code!
+Claude Code
+while(curious) {
+    question_everything();
+    dig_deeper();
+    connect_dots(unexpected);
+    if (stuck) {
+        keep_thinking();
+    }
+}
+* Simmering...
+>
+@divyanshisharma
+THE ULTIMATE
+GUIDE TO CLAUDE
+(MARCH 2026)
+SWIPE FOR MORE

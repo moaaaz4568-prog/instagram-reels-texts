@@ -1,0 +1,19 @@
+.claude/
+04
+0:30 -> 0:40
+block four -- hire the team
+four folders turn one assistant into a crew that knows your rules.
+agents/
+the specialists.
+named experts you summon.
+commands/
+the shortcuts.
+/deploy, /review, your repeatable moves.
+hooks/
+the safety rails.
+scripts that fire before and after edits.
+skills/
+the playbooks.
+reusable how-tos it loads on demand.
+.claude/
+mkdir -p .claude/{agents,commands,hooks,skills} -- one line scaffolds all four.

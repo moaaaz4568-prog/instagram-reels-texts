@@ -1,0 +1,52 @@
+8 Trigger routines from anywhere
+No schedule. Just events.
+New routine
+Name
+pr-_triage-bot
+Add trigger
+Runs as jared@spacetowerdev.com
+Filter (optional)
++ Add a filter condition
+Without a filter, the routine fires on every matching event.
+or choose event
+Fires only on Pull request opened
+Add trigger
+Runs as jared@spacetowerdev.com
+Filter (optional)
++ Add a filter condition
+Trigger this routine from external systems by sending a POST request to the URL below with your token.
+URL
+https://hooks.routines.dev/pr-triage-b...
+Token
+rt_live_8f2CEPcHdFa
+Regenerate
+Delete
+Example curl
+> Triggering invalidates the previous token immediately.
+> Delete the token to disable API triggering for this routine.
+Done
+Select a trigger
+Schedule
+Runs on a recurring cron schedule
+GitHub event
+Runs when a GitHub webhook event fires
+API
+Trigger from your own code via the /fire endpoint
+Connectors
+4
+Connectors
+All connected integrations are included.
+Remove any you don't need for this routine.
+Permissions
+GitHub x Linear x
+Routines don't need a schedule.
+Any system can fire one.
+API trigger — one HTTP call from anywhere:
+→ CI fails → routine investigates, opens a fix PR
+→ PagerDuty alert → routine triages, posts context to Slack
+GitHub trigger — connects straight to GitHub events:
+→ PR opened → first-pass review comment
+→ issue created → labels + linked code
+→ release published → routine writes the changelog
+Set it once.
+Every future event handles itself.

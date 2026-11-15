@@ -1,0 +1,97 @@
+SLIDE 9
+THE ONE COMMAND
+THAT RUNS ALL 4
+
+You create one slash command
+called /ship
+
+Type: /ship add rate limiting to the login endpoint
+
+That's it. The orchestrator: → Sends it to the Planner →
+Waits for the spec → Sends spec to the Coder →
+Waits for the code → Sends changes to the Tester →
+Waits for test results → Sends everything to the Reviewer →
+Shows you the final verdict
+
+One line. Four agents. Full feature.
+
+THE ORCHESTRATOR:
+PLANNER
+Sends it to the Planner
+Waits for the spec
+
+CODER
+Sends spec to the Coder
+Waits for the code
+
+TESTER
+Sends changes to the Tester
+Waits for test results
+
+REVIEWER
+Sends everything
+to the Reviewer
+Shows you the
+final verdict
+
+>_/ship |
+
+EXPLORER
+PROJECT
+pipeline
+pipeline.md
+planner.md
+coder.md
+tester.md
+reviewer.md
+src
+ship.md
+tests
+README.md
+package.json
+
+main
+0 0 0
+
+pipeline.md
+# Multi-Agent Software Delivery Pipeline
+## Version: 1.0.0
+## Description: Ship.md
+## Created: 2025-05-26T18:45:08Z
+
+### Pipeline Execution Instructions
+Execute the full 4-agent pipeline in sequence. Each agent runs only if the previous step completed successfully.
+
+1. Run Planner → Reviewer
+2. Run Coder → Tester
+3. Run Tester → Reviewer
+4. Run Reviewer
+
+### Execution Steps
+1. Run Planner
+   - Read pipeline.md and create pipeline/planner.md
+   - If failed, stop pipeline and report error
+2. Run Coder
+   - Read pipeline/planner.md and create pipeline/coder.md
+   - If failed, stop pipeline and report error
+3. Run Tester
+   - Read pipeline/coder.md and create pipeline/tester.md
+   - If failed, stop pipeline and report error
+4. Run Reviewer
+   - Read all previous artifacts
+   - Perform final review and create pipeline/reviewer.md
+   - If failed, stop pipeline and report error
+
+### Success Criteria
+- All steps completed successfully
+- pipeline/planner.md exists
+- pipeline/coder.md exists
+- pipeline/tester.md exists
+- pipeline/reviewer.md exists
+- Final verdict provided
+
+### Failure Handling
+Stop pipeline on any failure and why
+Do not proceed to subsequent steps
+
+Ln 1, Col 1 Spaces: 2 UTF-8 LF Markdown

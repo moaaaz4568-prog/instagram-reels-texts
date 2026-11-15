@@ -1,0 +1,5 @@
+Agentic Infra
+Servers | Scaling | Monitoring
+The plumbing that keeps all those Agents running. Most people never see this layer, but everything else depends on it.
+When your agent starts, it spins up compute, pulls from a database, and logs every step. All of that runs in the background, invisible to the user.
+Without this layer, even the smartest AI system falls apart the moment something goes wrong.

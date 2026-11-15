@@ -1,0 +1,54 @@
+14
+Understand anything
+through analogies
+
+Most explanations Claude gives
+by default are technically
+correct and practically useless. They use the same
+vocabulary as the thing you're
+trying to understand, which
+means you walk away with a definition
+but not actual comprehension.
+
+MAKE IT
+SIMPLE!
+
+The Feynman method
+
+1 PICK A TOPIC
+TO LEARN
+
+STILL HAVE
+GAPS?
+
+2 WRITE ABOUT IT,
+AS IF EXPLAINING
+TO SOMEONE
+
+A→B...Q?
+HUH
+
+3 SEE WHERE
+YOU HAVE GAPS
+
+A→B→C
+NO GAPS
+
+4 SIMPLIFY YOUR
+LANGUAGE AND
+ADD ANALOGIES
+
+Explain [topic] to me using only analogies and everyday
+Assume I have no background in this field.
+
+After each analogy, check whether I've actually understood
+question. Based on my answer, go deeper or adjust the e
+technical terms.
+
+explain it back to you in my own words without using any
+
+The Feynman method forces understanding through simplicity.
+This prompt works for anything from investing to quantum physics
+
+Divyanshi sharma
+14/18

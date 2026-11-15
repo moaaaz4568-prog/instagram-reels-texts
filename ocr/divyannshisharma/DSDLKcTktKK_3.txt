@@ -1,0 +1,13 @@
+Step #3
+Google AI Studio
+API Keys
+API key details
+Name
+Project
+Key
+Created
+Last used
+Delete key
+Copy cURL snippet
+Copy key
+Copy API key from Google AI Studio.

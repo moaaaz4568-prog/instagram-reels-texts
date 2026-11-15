@@ -1,0 +1,10 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+VPS (Cloudflare - Moltworker)
+
+Cloudflare account
+Workers Paid Plan ($5/month required for Sandboxes)
+Anthropic API key (or OpenAI/other provider)
+Optional: R2 storage enabled (free tier available)
+Optional: Cloudflare Access configured (for security)

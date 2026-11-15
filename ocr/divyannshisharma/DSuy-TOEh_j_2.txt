@@ -1,0 +1,22 @@
+Step #2
+Custom Agents
+Use n8n workflow agents or create custom AI agents with specific instructions and behaviors
++ New Agent
+Search
+All
+Sort by last updated
+Yesterday
+feeling overwhelmed and...
+Simple greeting exchange
+Web scraping techniques
+Exploring PromptAdviser...
+Execute task for prompts...
+Sales research on n8n
+Executing workflow for pr...
+Web Scraper Agent
+Give me any URL to scrape, search the web for information, or...
+Meeting Notes Processor
+Paste your messy meeting notes and get an executive summary, action items table with owners ...
+admin admin
+FHD 360Hz
+Meet n8n's Chat Hub: All LLMs in one place.

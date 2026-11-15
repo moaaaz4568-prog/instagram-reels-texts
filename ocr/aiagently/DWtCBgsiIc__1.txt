@@ -1,0 +1,15 @@
+Claude Skills
+@aigently
+01
+Automation
+N8N WORKFLOW
+TRIGGERS
+usamaakram/claude-code-skills-pack
+skills/n8n-automation.md
+Trigger n8n workflows directly from
+Claude. One message distributes
+content across every platform.
+• Webhook-based – fires from any Claude
+conversation
+• Multi-platform distribution in a single step
+• Includes starter workflow JSON to import

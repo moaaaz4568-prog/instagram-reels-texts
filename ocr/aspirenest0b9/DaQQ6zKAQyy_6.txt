@@ -1,0 +1,24 @@
+Punit Kumar
+
+Client proposal generator
+
+> /market proposal ABC Company
+
+Claude writes a full agency-style proposal — scope, deliverables, timeline, pricing, and expected ROI, professionally formatted.
+
+> /market proposal
+Preparing proposal... writing executive summary...
+Adding pricing... building timeline...
+✓ Proposal complete
+
+Proposal — ABC Company
+
+✓ Executive Summary
+✓ Deliverables
+✓ Pricing & ROI
+
+✓ Project Scope
+✓ Timeline
+✓ Terms & Signature
+
+swipe >>

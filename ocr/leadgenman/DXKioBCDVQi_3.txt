@@ -1,0 +1,23 @@
+Claude-Code.exe -- Choose Destination Location
+File Edit View Help
+Choose Destination Location
+Choose Destination Folder
+Setup will install Claude Code in the following folder.
+C:\
+Program Files\
+Users\
+Manthan\
+.claude\ <-- installs here
+hooks\
+skills\
+plugins\
+agents\
+components.
+Destination:
+Browse...
+< Back
+Next >
+Cancel
+Start
+Claude -- Destination
+4:23 PM

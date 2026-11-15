@@ -1,0 +1,10 @@
+Step 5: PDF Report
+Auto-generates a clean pipeline report
+Sales Pipeline Report
+March 10, 2026
+1 Prospects Analyzed
+75
+Pipeline Score
+Grade: A
+Executive Summary
+Swipe →

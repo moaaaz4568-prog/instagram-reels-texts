@@ -1,0 +1,4 @@
+Vibe coders?
+If an LLM wrote every line of your code, but you've reviewed, tested, and understood it all, that's not vibe coding.
+Simon Willison
+CO-CREATOR OF DJANGO, DATASETTE

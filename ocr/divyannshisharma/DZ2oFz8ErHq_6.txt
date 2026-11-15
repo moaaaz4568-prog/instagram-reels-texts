@@ -1,0 +1,70 @@
+TEMPLATE 5
+Automation
+Scheduling
+
+The Teams Dashboard specifica
+scans for sessions containing
+Claude orchestrating subagent
+
+45m
+
+This current session (and mos
+because:
+1. It only shows "teams" sessi
+using TeamCreate/SendMessage
+2. It requires a subagents/&
+single-agent sessions don't h
+
+The --teams dashboard is for
+workflows, not individual Cla
+all sessions, you'd use the -
+/Users/julian/ .bun/bin/bun
+Asked for list ↓ Recognized
+can you do this for me so I c
+let me first check the existi
+realistic mock data for the d
+
+Read 4 files Listed (4) then
+
+Now I have a full picture of
+session team data - the dashb
+lead JSONL with TeamCreate/Se
+with a script.
+
+Bash(python3 -c 'PYEOF'
+import json, os...
+L Done! Created:
+/Users/julian /.claude/d
+a-b2a5-8c1d3f7e7e2e.jsonl
+▶ View result from python3
+
+Now let me kill the old dashb
+up the new data:
+Bash(pkill -f "teams-dashboard
+/Users/julian/ .bun/bin/ra
+
+DESCRIPTION
+
+Automation
+Scheduling enables
+tasks to run
+automatically at
+predefined times.
+Agents can perform
+daily activities such
+as generating reports,
+updating data, or
+executing workflows
+without manual input.
+This ensures that
+routine operations
+happen consistently. It
+saves time and
+improves overall
+productivity.
+
+MORE INFO
+
+https://x.com/juliangoldiese
+o/status/2030509062836
+912402?s=46

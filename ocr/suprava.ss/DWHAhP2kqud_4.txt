@@ -1,0 +1,10 @@
+Suprava Sabat
+Step 1:
+Google credentials → Google Cloud Console →
+create new project
+→ APIs & Services → Library → enable Google
+Sheets + Drive API
+→ Credentials → OAuth Client ID → Desktop App
+→ Download JSON → rename to credentials.json
+→ Drop into your project folder
+Do this before anything else.

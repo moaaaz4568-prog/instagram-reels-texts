@@ -1,0 +1,19 @@
+CrewAI
+What you'll get:
+• Multi-agent with roles, goals, backstories.
+• Enables coordinated teamwork.
+5
+crewAllInc / crewAI Public
+Code Issues 85 Pull requests 370 Discussions
+main
+1004 Branches 155 Tags
+greyslonde chore: remove outdated BUILD
+.github
+docs
+lib
+.editorconfig
+.env.test
+.gitignore
+.pre-commit-config.yaml
+.python-version
+LICENSE

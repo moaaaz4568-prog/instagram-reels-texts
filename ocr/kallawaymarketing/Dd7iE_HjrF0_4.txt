@@ -1,0 +1,6 @@
+DESIGN RULES
+✔ Font must be extremely readable
+✔ Place it a third of the way down from the top
+✔ Don't block eyes or mouth
+✔ Two lines max
+✔ Break the line where the phrasing naturally groups together

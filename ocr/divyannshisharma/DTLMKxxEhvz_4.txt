@@ -1,0 +1,29 @@
+Phase 3:
+Three Core Components
+Building Workflows
+
+LLM (Brain):
+• Google Gemini
+• OpenAI GPT-4, GPT-4o
+• Anthropic Claude models
+• Open-source Llama
+• Powers agent decision
+• Requires API credentials
+
+Memory Systems:
+• Context Memory
+• Vector Database/RAG
+• Window-based storage
+• Maintains history
+• Searchable knowledge
+• doc embedding
+• External
+
+AI agents combine language models, memory, and tools to create intelligent automation workflows that can make decisions and execute tasks autonomously.
+
+Instagram
+Divyanshi
+
+1 2 3 4 5 6
+
+< SWIPE

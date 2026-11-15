@@ -1,0 +1,107 @@
+AI POWERED REAL ESTATE
+
+Meet the Real Estate AI Team
+
+Smarter data. Better decisions. Higher profits.
+
+Comparable Sales
+(25% Weight)
+- Recent comparable sales
+- Price per sq ft
+- Fair market value
+- Over/underpriced analysis
+
+Fair Market Value
+$422,500
+-2.1%
+Undervalued
+
+Recent Comparable Sales
+$425,000
+$415,000
+$435,000
+$410,000
+
+Turn Data into Deals
+
+Rental Income
+(20% Weight)
+- Market rent estimate
+- Cash flow
+- Cap rate
+- DSCR
+- GRM
+
+Rental Analysis
+$2,150
+Market Rent
+$485
+Cash Flow
+7.2%
+Cap Rate
+1.25
+DSCR
+1.24
+GRM
+
+Neighborhood
+(20% Weight)
+- School ratings
+- Crime trends
+- Walk Score
+- Demographics
+- Growth potential
+
+Neighborhood Snapshot
+8/10
+Schools
+Low
+Crime
+78
+Walk Score
+42K
+Population
+High
+Growth
+
+Investment Strategy
+(20% Weight)
+- Buy & Hold
+- BRRRR
+- Fix & Flip
+
+Strategy Outlook
+RRRR
+Fix & Flip
+5-Year ROI
+Value-Add
+*****
+High
+
+Market Conditions
+(15% Weight)
+- Supply & demand
+- Inventory levels
+- Year-over-year trends
+- Economic indicators
+
+Market Overview
+Supply & Demand
+Seller's Market
+Inventory
+Low
+YoY Trend
++6.3%
+Economic
+Stable
+
+Five AI specialists.
+One smart decision.
+
+More Accurate Analysis
+Faster Decisions
+Higher Returns
+Lower Risk
+Long-Term Wealth
+
+Your AI Real Estate Team

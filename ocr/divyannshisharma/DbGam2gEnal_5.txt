@@ -1,0 +1,63 @@
+SLIDE 6
+AGENT 2:
+THE CODER
+Job: build exactly what the
+spec says.
+Nothing more.
+It reads the Planner's spec
+Writes the actual code. Follows the patterns
+already in your codebase Then writes a short
+summary of what
+it changed and why
+It doesn't plan. It
+doesn't review its own work.
+It just builds.
+EXPLORER
+PROJECT
+.gitignore
+src
+tests
+code.md
+planner.md
+README.md
+review.md
+test.md
+package.json
+code.md
+# Agent Configuration
+version: 1.0
+role: coder-agent
+context: planner.md
+status: completed
+created: 2025-05-20T10:35:00Z
+Goal
+Implement the functionality described in planner.md following the project standards.
+Inputs
+planner.md (requirements, design, and acceptance criteria)
+Project structure and dependencies
+Responsibilities
+Translate requirements into clean, efficient, and maintainable code
+Follow existing code style, patterns, and architecture
+Add inline comments for complex logic
+Ensure error handling and input validation
+Update documentation if needed
+Constraints
+Use the existing tech stack and libraries
+Do not change unrelated code
+Keep functions small and focused
+Respect performance and security considerations
+Definition of Done
+All requirements from planner.md are implemented
+Code follows project style and linting rules
+No lint or type errors
+Self-review completed
+Output
+Code changes in the repository
+Updated documentation if needed
+Notes
+If any requirement is unclear, document assumptions in code
+main
+0
+0
+0
+line 1, Col 1 Spaces: 2 UTF-8 LF Markdown

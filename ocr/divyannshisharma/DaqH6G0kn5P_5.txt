@@ -1,0 +1,36 @@
+* One important detail:
+who does the grading matters
+
+► You might think: just let the model grade its own work.
+This doesn’t work well. Models are bad at criticizing themselves — they tend to approve their own outputs even when they’re wrong.
+
+★ The fix: use a separate grader.
+A second model, running in a completely fresh context, grades the output independently.
+This is called a verifier sub-agent and it consistently outperforms self-critique. Fable 5’s tooling handles this automatically.
+
+MAIN AGENT:
+DOES THE WORK
+
+WORK
+Completes the task and produces output.
+
+OUTPUT
+The result of the work.
+
+① OUTPUT
+Main agent sends output to grader.
+
+GRADER AGENT:
+CHECKS THE WORK INDEPENDENTLY
+
+EVALUATE
+Independently reviews the output against the standard.
+
+GRADE & FEEDBACK
+Provides a score and clear feedback.
+
+② FEEDBACK
+Grader sends feedback back to main agent.
+
+IMPROVE & REPEAT
+Main agent uses feedback to improve and try again.

@@ -1,0 +1,30 @@
+The Vibe Stack
+07
+Step 3:
+Build the Websites
+(Top 6–10 Only)
+FEWER SITES.
+BIGGER IMPACT.
+BETTER RESULTS.
+Pick the ones where the before/after difference is most dramatic.
+Don't build all 35.
+Go to Lovable. Use this prompt:
+Build a landing page for [business name], a [type of business] in [city].
+Audience: [Who their customers are] Brand feel: [3 words, e.g. "clean, trustworthy, local"] Hero focus: [The main thing from Claude's brief]
+Sections: hero with a button, 3 services, about section, fake testimonials, final button.
+Design: [their brand colors], lots of white space, works on phone, smooth scroll effects.
+Do NOT use: cheesy gradients, stock photos, "Welcome to" headlines, "Your trusted partner" copy.
+Hit publish. Copy the link.
+Repeat for each business.
+Time: ~15 minutes per site.
+CLEAN DESIGN.
+CLEAR MESSAGE.
+MORE CLIENTS.
+GREAT WEBSITES
+DON'T HAPPEN
+BY ACCIDENT.
+THEY'RE BUILT.
+Lovable
+Build something Lovable
+Create apps and websites by chatting with AI
+MINDSET: SOLVE REAL PROBLEMS. GET PAID WELL. RINSE. REPEAT.

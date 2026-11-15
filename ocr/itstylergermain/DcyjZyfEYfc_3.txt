@@ -1,0 +1,6 @@
+/HANDOFF
+Package this project so a fresh AI session can continue without seeing this chat.
+Include the goal, current status, decisions and why, failed attempts, exact files and links, what was tested, open issues, and the next three actions.
+Remove secrets, then end with one copy-paste resume prompt.
+@its Tylergermain
+save for later

@@ -1,0 +1,5 @@
+STOP 3
+The Reply Window
+64% replies arrive within 1 hour of sending.
+After 24 hours, they almost never come.
+Most senders have no follow-up built after this.

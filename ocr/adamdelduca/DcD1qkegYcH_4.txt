@@ -1,0 +1,15 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Prompt 3 (Claude)
+
+Copy the transcript from a popular video
+in your niche and use this:
+
+"Using this transcript structure, generate
+a Vidrush prompt I can use for future
+topics that emulates its tone, structure
+and level of detail"
+
+This will maximize retention for the next
+step

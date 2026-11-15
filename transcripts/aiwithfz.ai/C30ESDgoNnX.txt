@@ -1,0 +1,1 @@
+Most asked classification algorithm. One, logistic regression. Two, decision tree. Three, random forest. Four, SVM. Five, KNN. Six, naive Bayes. Seven, boosting. Comment name below. Read the caption for more details.

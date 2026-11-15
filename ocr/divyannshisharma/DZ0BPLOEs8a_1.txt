@@ -1,0 +1,18 @@
+1. Find SaaS Companies
+→ Generate Personalized Outreach
+WORKFLOW:
+Prospeo
+Find SaaS
+Companies
+Filter: SaaS
+Filter
+for SaaS
+companies
+Export
+SaaS
+Companies
+Claude
+“Write personalized
+outreach for these
+SaaS companies.”
+Claude

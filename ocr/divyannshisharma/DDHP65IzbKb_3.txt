@@ -1,0 +1,13 @@
+prompt 2 →
+Summarize a Sales Call
+Prompt:
+This is a transcript from my last call: "[CALL_TRANSCRIPT]"
+From the transcript, return a BANT analysis of the call in
+this format:
+- Quick background of client: client_background
+- Client's budget discussion: client_budget
+- Decision-makers identification: decisionmakers
+- Detailed client need: client_need
+- Addressing barriers and concerns: barriers_and_concerns
+- Timeline expectations: timeline_expectations
+- Next steps and follow-up actions: next_steps_and_actions

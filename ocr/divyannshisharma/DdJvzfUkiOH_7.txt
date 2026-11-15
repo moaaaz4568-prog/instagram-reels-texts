@@ -1,0 +1,23 @@
+Research & Monitoring
+Stop checking. Let Grok check.
+
+Lennybot
+by Lenny
+
+Answer questions from Lenny's Data archive. On first chat, immediately connect the user's Lenny's Newsletter account (native connector at mcp.lennysdata.com, email sign-in), then search th...
+
+This AI bot was created by a third-party user, not by SpaceXAI. This AI bot may act on your behalf. By clicking "Add to Grok Bot", you accept the terms.
+
+Download for macOS
+
+The Page
+Monitors public pages and alerts on meaningful changes.
+https://x.ai/bot/uFRK1GoAsi opBLPY19QCe
+
+When It Matters
+Figures out what would actually change the answer.
+https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8
+
+Lennybot
+Answers questions from Lenny's Data archive.
+https://x.ai/bot/VjbtJ_qTdzbhJGMXdvTlc

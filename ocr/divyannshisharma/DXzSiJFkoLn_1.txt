@@ -1,0 +1,44 @@
+1.Awsome Lists
+
+The definitive curated list of the entire ecosystem
+* 28.5k+ stars, the main index
+* only Claude itself is allowed to submit PRs
+* skills, hooks, commands, orchestrad
+Repo: https://github.com/heisleyhim/awesome-claude-code
+Reply...
++ 📋
+
+50+ production-ready Claude skills for automation
+* PostgreSQL, deep research, CSV, tracing
+* Claude Code, Codex, Cursor, Gemini CLI
+* install via /skill
+Repo: https://github.com/ComposioHQ/awesome-claude-skills
+Reply...
++ 📋
+
+Curated plugin collection for Claude Code
+* commands, agents, hooks and MCP servers
+* connect-apps, frontend-design, artifacts-builder
+* install via /plugin marketplace add
+Repo: https://github.com/ComposioHQ/awesome-claude-plugins
+Reply...
++ 📋
+
+4.2k+ star collection of optimized Claude prompts
+* XML-structured prompt techniques
+* business, creative, dev workflows
+* copy-paste ready
+Repo: https://github.com/langgptai/awesome-claude-prompts
+Reply...
++ 📋
+
+All-around list of everything Anthropic related
+* courses, guides, desktop apps, articles
+* covers MCP, BMAD method, Claude Code tips
+* good starting point for newcomers
+Repo: https://github.com/alvinrenreal/awesome-claude
+Reply...
++ 📋
+
+Divyanshi sharma
+Category 1/10

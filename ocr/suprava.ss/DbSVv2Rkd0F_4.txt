@@ -1,0 +1,18 @@
+scrapes linkedin jobs → finds you lead gen clients
+05 / 20
+GitHub
+public repository
+spinlud / py-linkededin-jobs-scraper
+Public
+Fork
+Star
+486
+486
+Python
+WHAT IT DOES
+scrapes public linkedin job posts with a headless browser.
+WHO TO MINE IT FOR
+everyone who starred this wants linkedin data and is fighting the code. that is your customer.
+THE EXACT LINK
+github.com/spinlud/py-linkededin-jobs-scraper/stargazers
+● the github method

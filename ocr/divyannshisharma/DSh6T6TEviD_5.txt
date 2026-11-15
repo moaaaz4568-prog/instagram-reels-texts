@@ -1,0 +1,20 @@
+Step #5
+VAPI
+Assistants
+Create Assistant
+YT receptionist
+Model
+Provider
+OpenAI
+Model
+GPT-4o - Alex
+First Message Mode
+Assistant speaks first
+First Message
+Good afternoon, you've reached Smith Dental Clinic. My name is Emily, how can I help you?
+System Prompt
+This is a blank template with minimal defaults. You can change the model, temperature, and messages.
+Call Transcript
+Customer 4.1
+Call ended
+Use GPT-4o Cluster for best performance (GPT-4.1 also works great)

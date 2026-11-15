@@ -1,0 +1,8 @@
+6
+Claude Mega-Prompt Template
+</key_tasks>
+<role>
+<examples>
+<goal>
+<structure>
+<output>

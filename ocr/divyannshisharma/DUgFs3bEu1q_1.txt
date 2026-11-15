@@ -1,0 +1,36 @@
+#1
+Choose your AI model – Claude Opus 4.5, GPT-5.2,
+or Gemini 3 Flash
+SimpleClaw.com
+Deploy OpenClaw under 1 minute
+Avoid all technical complexity and one click deploy your own 24/7 active
+OpenClaw instance under 1 minute.
+Contact Support
+Which model do you want as default?
+Claude Opus 4.5
+GPT-5.2
+Gemini 3 Flash
+Which channel do you want to use for sending messages?
+Telegram
+Discord
+WhatsApp
+Signal
+Sara Martin
+sara.martin@gmail.com
+Deploy OpenClaw
+Connect telegram to continue. You can also add other channels to same account in the future.
+Start
+2:00
+Buffy ann
+What can this bot do?
+Buffyann is the one bot to rule all. Use
+it to create new bot accounts and manage
+and using chatbots.
+About Telegram bots:
+https://core.telegram.org/bots
+Bot API manual:
+https://core.telegram.org/bots/api
+Contact @Buffyann if you have questions
+about the Bot API.
+Top up now for more
+AI tokens

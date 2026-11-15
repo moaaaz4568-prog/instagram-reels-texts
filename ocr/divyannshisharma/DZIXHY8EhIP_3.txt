@@ -1,0 +1,36 @@
+step 2:
+build a youtube search ✨
+command.
+
+> /plugin
+Discover
+Install
+Marketplace
+Installed
+Updates
+Errors
+<tab> or <tab> to cycle
+Search plugins...
+skill-creator
+claude-plugins-official
+Create custom skills in natural language. Generate, install and manage reusable skills.
+Installed ✓
+128K installs
+4.9
+context7
+claude-plugins-official
+Upstash Context7 MCP server for up-to-date documentation and code examples.
+140K installs
+4.8
+superpowers
+claude-plugins-official
+Unlock powerful capabilities and integrations for Claude Code.
+118K installs
+4.7
+
+1 Tell Claude Code:
+"Create a skill that searches YouTube and returns the top 20 videos with title, views, channel name, upload date, and URL"
+
+It builds it.
+Now you have /yt-search as a command you can run anytime.
+✨ you describe it. Claude builds it. you run it. ♡

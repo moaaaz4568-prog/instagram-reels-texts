@@ -1,0 +1,24 @@
+4
+ANTH
+ropic Academy / Courses
+Introduction
+to agent skills
+configure, and share Skills
+in Claude Code — reusable markdown
+instructions that Claude automatically applies
+to the right tasks at the right time. This course
+takes you from creating your first Skill to
+distributing them across teams and
+troubleshooting common issues.
+Register | FREE
+Already registered? Sign In
+What are skills?
+Claude Code
+Opus 4.6 • Claude M
+/skills
+Watch on
+COURSE 4
+Introduction to
+Agent Skills
+How to build, configure, and share reusable Skills in Claude
+Code.

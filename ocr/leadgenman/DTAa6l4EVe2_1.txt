@@ -1,0 +1,13 @@
+1. Prompt Engineering
+
+What It Is:
+The difference between average output and answers you can act on.
+
+When To Use It:
+Any time you need AI to think like a strategist or operator and not as a chatbot.
+
+Tools:
+ChatGPT
+Gemini
+Claude
+Perplexity

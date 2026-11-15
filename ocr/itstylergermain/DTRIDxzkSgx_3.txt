@@ -1,0 +1,3 @@
+Personalized Outreach
+Apollo to find leads, Octoparse to scrape relevant info, Claude to generate personalized first lines.
+@itsTylerGermain

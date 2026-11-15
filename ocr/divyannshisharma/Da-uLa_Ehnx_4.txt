@@ -1,0 +1,40 @@
+THE 6 SKILLS SYSTEM
+Connect
+Claude to Windsor.
+windsor.ai
+1. Add data
+2. Preview and Destination
+user.email@gmail.com
+Buy now
+Show only selected data
+Updated: yesterday
+Remove end date from query
+Data Source
+Blended Data
+Account ID
+Account Name
+Contact Additional Emails
+Contact Additional Phones
+Data Source
+Fields
+Type to search fields
+User system update at
+User Deleted
+User Email
+User First Name
+User ID
+User Last Name
+User Name
+User Phone
+Week
+Day of week and day number
+Day of week and day number, ISO
+On the free trial, the data preview only shows up to 9 fields. You can use more fields in the available destinations!
+Data Destinations
+Looker Studio
+All data, No code
+ChatGPT
+Claude
+Open Claude desktop → Customize → Connectors → search “Windsor” → click +.
+A popup shows up: “Claude wants to access the MCP server Windsor.ai”. Click Allow Access.
+Refresh. You’re connected.

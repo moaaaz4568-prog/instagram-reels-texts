@@ -1,0 +1,13 @@
+Basic Video Settings
+Match Source
+Custom (2160 x 3840)
+Frame Size
+2160 W
+3840 H
+Frame Rate
+30
+Field Order
+Progressive
+Aspect
+Square Pixels (1.0)
+Aspect Ratio: 2160 x 3840 (4k)

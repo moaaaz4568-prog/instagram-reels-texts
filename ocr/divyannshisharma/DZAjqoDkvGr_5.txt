@@ -1,0 +1,8 @@
+5. Rowbound by
+Elias Strávik
+- Runs enrichment waterfalls inside Google Sheets
+- Works in Clay-style format
+- No need to leave Google Sheets
+- Simplifies data enrichment process
+Automating "lead enrichment"
+workflows

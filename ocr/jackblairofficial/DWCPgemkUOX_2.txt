@@ -1,0 +1,8 @@
+TOP G
+Lv.99
+HP
+Sales Rep Lv.4X
+HP
+D "What specifically would he need to see to give you the green light?"
+E "How long does he typically take on decisions like this?"
+F "Let's get him on the call right now."

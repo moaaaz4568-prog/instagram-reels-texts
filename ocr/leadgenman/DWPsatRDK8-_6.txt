@@ -1,0 +1,6 @@
+Ctrl V
+Paste Image
+Paste a screenshot directly from Clipboard. Claude sees it instantly. Multimodal debugging.
+$ claude
+You: [pasted screenshot.png]
+Claude: I see a React component with a broken flex layout. The issue is on line 42...

@@ -1,0 +1,3 @@
+The Prompt Architecture
+
+"Write a 1,500-word YouTube script on [Topic]. Do not use corporate jargon or generic introductions. Start immediately with a pattern interrupt. Insert a story-driven curiosity loop every 45 seconds to maintain viewer retention."

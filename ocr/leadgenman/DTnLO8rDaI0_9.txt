@@ -1,0 +1,11 @@
+Tool 9
+Replit
+In a nutshell:
+Browser-based coding environment. Build and deploy full apps without any local setup. AI coding built in.
+I use it for:
+When I need to spin up a quick app, API, or prototype without dealing with environments or deployment.
+Works with:
+Airtable
+Stripe
+Slack
+Telegram

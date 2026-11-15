@@ -1,0 +1,10 @@
+4
+Automate Outreach
+Use Zapier (free) to Sends 1 email/hour automatically
+Protects your domain reputation ✨
+Trigger: New
+spreadsheet row
+Delay: 60 min
+between emails
+Action: Send
+Gmail instantly

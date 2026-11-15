@@ -1,0 +1,35 @@
+10. Connect Claude
+
+Safe PostgreSQL MCP server
+• read-only default mode
+• multi-connection support
+• defense-in-depth security
+Repo: https://github.com/crystaldba/postgres-mcp
+
+Browser automation via MCP
+• navigate pages, fill forms
+• dynamic content scraping
+• official Microsoft-backed
+Repo: https://github.com/microsoft/playwright-mcp
+
+Lightweight SQLite MCP for prototyping
+• local development friendly
+• simple install
+• official MCP team
+Repo: https://github.com/modelcontextprotocol/servers
+
+Enhanced claude-code-mcp with instructions
+• emphatic prompts for compliance
+• improved task-following
+• by grahama1970
+Repo: https://github.com/grahama1970/claude-code-mcp-enhanced
+
+Short curated MCP collection
+• MCPs for Linux desktop Claude Code
+• battle-tested selections
+• practical daily use
+Repo: https://github.com/danielrosehill/Claude-Code-MCP-List
+
+Divyanshi sharma
+
+Category 5/10

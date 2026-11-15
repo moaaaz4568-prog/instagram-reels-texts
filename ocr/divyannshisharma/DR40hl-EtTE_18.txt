@@ -1,0 +1,8 @@
+Use cases Docs Community Enterprise Pricing
+Sign in
+Scrape business emails from Google Maps without the use of any third party API
+Use for free
+Comment ‘Send’ to unlock the workflow.
+Who is this template for?
+This workflow is designed for sales, marketing, and business development professionals who want a cost-effective and efficient way to generate leads. By leveraging n8n core workflow nodes, it scrapes emails from Google Maps without relying on third-party APIs or paid services, ensuring there are no additional costs involved.
+Ideal for small business owners, freelancers, and agencies, this template automates the process of

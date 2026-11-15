@@ -1,0 +1,8 @@
+Tyler Germain @its Tylergermain
+Andrej Karpathy (co-founder of OpenAI)
+shared the fix. He called it the "LLM Wiki."
+Instead of searching your files each time,
+the AI builds a living wiki that grows with
+every document you feed it.
+@its Tylergermain
+save for later

@@ -1,0 +1,7 @@
+Why your emails land in spam
+New domain, zero reputation
+Missing SPF, DKIM, DMARC
+Sending too much too fast
+Low engagement signals
+No warmup process
+Most teams think their cold email copy is the problem. It's not.

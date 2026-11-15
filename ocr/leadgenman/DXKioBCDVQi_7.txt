@@ -1,0 +1,27 @@
+Claude-Code.exe -- Installing
+File Edit View Help
+Installing...
+Setup is installing Claude Code on your computer.
+Copying file:
+C:\Users\Manthan\.claude\skills\commit\SKILL.md
+Overall progress:
+100%
+Install log
+> Creating .claude/
+> Writing hooks/settings.json [ OK ]
+> Installing skill: commit [ OK ]
+> Installing skill: seo [ OK ]
+> Registering plugin: lead-gen-man [ OK ]
+> Searching for paid AI tools...
+> Found: Cursor.app [DELETE]
+> Found: Copilot [DELETE]
+> Tools replaced: 4 -> 1
+Cancel
+Start
+Claude -- Installing
+4:27 PM
+Replacing
+Cursor
+Copilot
+Love
+v

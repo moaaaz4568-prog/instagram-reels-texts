@@ -1,0 +1,18 @@
+Step #1
+Upload any image via Telegram and the agent processes it automatically
+NT
+Personal
+Ultimate Media Agent
+Add tag
+AI Personal Assistant
+Two quick questions before I finalize and upload the master project/package:
+1) Is the master project/package do you want included in the package blender (blend or After Effects .aep)? (Or both)
+2) Confirm the sequence cover settings: 1920x1080, 30 fps, full alpha - is that correct?
+Tell me any final tweaks you want (timing, particle density, DOC sound, or confirm or add it) Finally, everything and upload the MNK (final master), project zip, and PNG sequence with 32-bit alpha to google drive with link.
+1:23 PM
+1:00 PM
+Logs
+FRI 360Hz
+Executing workflow
+Alt Gr
+Ctrl

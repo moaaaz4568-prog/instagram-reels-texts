@@ -1,0 +1,17 @@
+They Use Git Worktrees
+
+claude-cli $ claude --worktree my_worktree
+
+Claude Code v2.1.50
+Opus 4.6 (1M context) · Claude Enterprise
+~/code/claude-cli/.claude/worktrees/my_worktree
+
+> Try "fix typecheck errors"
+? for shortcuts
+
+Run multiple Claude Code agents at the
+same time, working on the same things,
+without them breaking each other's work.
+
+@itstylergermain
+save for later

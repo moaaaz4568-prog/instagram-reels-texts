@@ -1,0 +1,26 @@
+5. Beply system.
+Every response is tagged, routed
+and worked quickly.
+Positive replies get
+immediate human attention.
+
+INCOMING REPLIES
+
+TAGGING
+INTERESTED
+QUESTION
+PRICING
+NOT A FIT
+FOLLOW UP
+OTHER
+
+ROUTING
+HIGH PRIORITY
+SALES
+SUPPORT
+NURTURE
+LOW PRIORITY
+ARCHIVE
+
+HUMAN
+PRIORITY QUEUE

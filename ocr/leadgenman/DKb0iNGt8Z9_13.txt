@@ -1,0 +1,5 @@
+SIMULAR
+simular.ai/articles/agent-s2
+Agent S2 by Simular is an Open,
+Modular, and Scalable Framework
+for Computer Use Agents.

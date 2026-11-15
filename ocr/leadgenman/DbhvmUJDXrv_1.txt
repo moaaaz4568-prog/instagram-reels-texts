@@ -1,0 +1,18 @@
+Quick Reference:
+When
+to Use
+
+I NEED TO… USE THIS
+write and ship the code Claude code + codex
+build frontend and backend next.js + typescript
+store code and run checks github + actions
+host it and deploy vercel
+database, auth and storage supabase
+take payments stripe
+block bad traffic cloudflare
+catch errors in production sentry
+know before users complain better stack
+see where users drop off posthog
+cache and rate limit upstash + redis
+ai automation and workflows n8n
+send emails resend + beehiiv

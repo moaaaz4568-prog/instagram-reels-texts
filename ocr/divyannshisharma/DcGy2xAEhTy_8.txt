@@ -1,0 +1,6 @@
+Supabase: scheduled tasks + live dashboard
+
+Video Ideas Tracker
+
+Set a task to run every morning — like scraping YouTube stats. Claude does it automatically, no clicking from you.
+The data flows into a live dashboard that updates itself. Your whole content pipeline, tracked in one place.

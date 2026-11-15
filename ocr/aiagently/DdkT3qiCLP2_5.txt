@@ -1,0 +1,28 @@
+Step 5
+Connect the Wati to Claude
+Add the WATI MCP to Claude.
+Claude
++ New chat
+Projects
+Artifacts
+MCP
+Settings
+MCP
+Connect Claude with external tools and services
+using Model Context Protocol (MCP).
+WATI
+WATI MCP
+Connect Claude with WhatsApp
+via WATI for messaging, customer
+support and automation.
++ Add
+WATI MCP connected
+wati
+WATI MCP
+Connect Claude with WhatsApp
+via WATI for messaging, customer
+support and automation.
++ Add
+WATI MCP connected
+wati
+Claude

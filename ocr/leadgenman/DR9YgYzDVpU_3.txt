@@ -1,0 +1,13 @@
+for building
+agents
+• ADK provides:
+  ◦ Code-first approach (define
+  agents in Python, Java, or Go)
+  ◦ Workflow agents (Sequential,
+  Parallel, Loop)
+  ◦ Agent hierarchies (parent-child
+  relationships)
+  ◦ Tool integration (pre-built +
+  custom functions)
+D
+Development

@@ -1,0 +1,11 @@
+8. Find Companies With APIs → Integration Pitch
+Claude
+WORKFLOW:
+1 Prospeo
+Find Companies With APIs
+2 API Filter
+Filter for API-Enabled Companies
+3 Export List
+Export Companies
+4 Claude
+"Suggest integration partnership ideas."

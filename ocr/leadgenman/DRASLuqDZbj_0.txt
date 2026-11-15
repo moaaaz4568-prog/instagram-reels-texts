@@ -1,0 +1,22 @@
+Basic RAG vs Agentic RAG
+Query
+Retrieval
+Reranking
+Generation
+Answer
+Query
+Query Analysis
+Web Search
+Retrieval
+Grade
+Relevant?
+yes
+no
+Query Rewrite
+Generation
+Ask LLM
+Answer?
+yes
+no
+Answer
+Answer

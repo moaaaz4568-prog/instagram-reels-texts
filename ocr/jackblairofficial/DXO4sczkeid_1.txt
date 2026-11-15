@@ -1,0 +1,23 @@
+Jack Blair
+@jackblairofficial
+
+01. Pipeline Auditor
+
+"I am going to paste my current pipeline below.
+Analyse each deal and score it from 1 to 10 based on
+close probability.
+For each deal identify the single biggest risk factor
+stopping it from closing and one specific closing
+action I should take this week to
+move it forward.
+Format as a table with four columns: deal name, score,
+risk, next action.
+Tone: brutally honest, no optimism bias.
+No fluff. No false hope.
+Here is my pipeline: [paste deals with stage, value, and
+last contact date]"
+
+You stop carrying dead weight. You know exactly
+which deals deserve your energy this week.
+
+CloserCoach.ai

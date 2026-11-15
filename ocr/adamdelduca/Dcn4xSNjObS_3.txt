@@ -1,0 +1,15 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Step 3: The framework does the work,
+not the prompt
+
+"Write me a YouTube script" produces
+garbage every time
+
+I give Claude the same skeleton on
+every video
+
+Hook in 8 seconds, one idea per section
+
+Retention holds

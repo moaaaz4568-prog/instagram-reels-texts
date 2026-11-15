@@ -1,0 +1,16 @@
+SLIDE 11
+Skill 9:
+Context Optimization
+The most overlooked problem in AI coding.
+After 30-40 minutes of work, Claude starts getting slow and confused.
+Most people blame the model.
+The real problem is almost always the context window filling up.
+This skill teaches Claude to manage its own context:
+Information it no longer needs
+Compress old information it no longer needs
+Outputs that are taking up memory caching space
+Hide tool outputs that are taking up memory caching space
+Optimize memory across multiple agents when one window isn't enough
+Split work across multiple agents when one window isn't enough
+Result: Claude stays sharp for hours instead of degrading after 30 minutes.
+github.com/muratkancloyan/agent-skills-for-context-engineering

@@ -1,0 +1,18 @@
+Core Capabilities of MCP
+MCP Server
+Prompts
+LIM Guidance Templates
+Prompts
+Tool Usage Instructions
+Resource Formatting
+Resources
+Documents
+API Interactions
+Database
+Files
+Tools
+Data Processing
+Functioning Execution
+Standard Description
+Input Schema
+Output Schema

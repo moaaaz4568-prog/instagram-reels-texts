@@ -1,0 +1,8 @@
+PART 16: SPECIALIZED DOMAINS
+38 skills
+• Scoring formula: FINAL SCORE = BASE TIER SCORE + SUM(BONUSES) + SUM(PENALTIES), capped at 10, floored at 0.
+• Base tier scores: Tier 1 (Official/Enterprise or 5,000+ stars) = 7.0. Tier 2 (Verified Community, 1,000–5,000 stars) = 5.0. Tier 3 (Emerging, under 1,000 stars) = 3.0. Tier 4 (Experimental) = 1.0.
+• Bonuses (up to +5): Recent commits under 1 month (+2), under 3 months (+1), Python stdlib only (+1), multi-tool compatibility (+1), comprehensive README (+1), test coverage (+1).
+• Penalties: No README (-1), known security flags (-2), secrets (-2), unvalidated network calls (-1), prompt injection patterns (-2).
+• Score interpretation: 9–10 = EXCEPTIONAL. 7–8 = HIGH TRUST. 5–6 = MODERATE. 3–4 = LOW. 0–2 = UNTRUSTED. Under 0 = REJECT.
+@divyanshisharma

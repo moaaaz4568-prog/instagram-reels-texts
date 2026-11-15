@@ -1,0 +1,1 @@
+If you use Cloud Code, your limits literally just doubled and most people don't even know it yet. Anthropic just struck a deal with SpaceX for 300 megawatts of new compute, so they doubled Cloud Code limits for Pro and Max, killed the peak hours and nerf and bumped API limits by 1500%. Comment limits and I'll DM you how exactly I'm using the extra capacity for free.

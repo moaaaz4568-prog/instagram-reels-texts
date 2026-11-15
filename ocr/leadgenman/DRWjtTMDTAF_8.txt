@@ -1,0 +1,20 @@
+Google Sheets Cred
+Google Sheets OAuth2 API
+Connection
+Account connected
+Connect
+Sign in with Google
+Need help? Set up these fields? Open docs
+Redirect URL
+In Google Sheets, use the URL above when prompted to enter an OAuth callback or redirect URL.
+Client ID
+Client Secret
+FINAL STEP
+Time to connect it to n8n!
+In your n8n dashboard, go to Credentials → Add
+Credential.
+Search and choose Google Sheets API.
+A big input box will appear. Copy the entire JSON file
+content you downloaded earlier, then paste everything
+into that box
+Click Save.

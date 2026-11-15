@@ -1,0 +1,14 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+PERSONAL AI AGENTS: THE
+FUTURE
+Clawdbot = what Siri should have been
+Connects to WhatsApp,
+Slack, Discord, iMessage
+Persistent memory
+across conversations
+Reads and writes files,
+controls browsers
+Self-modifying (writes
+code to extend itself!)
+Free on GitHub, needs API key or local models

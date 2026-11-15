@@ -1,0 +1,35 @@
+Your whole team
+can teach it too.
+Give each person their OWN
+private profile — so their
+messages never mix into
+your notes.
+“
+Everything files itself into your vault.
+UNLOCKED BY QUICKSILVER Profile routing - others feed it, their stuff stays separate
+YOU JUST ASK FOR IT
+1
+Just ask it
+Tell Hermes in plain English who
+should get their own profile. No
+config file.
+It sets itself up
+Who ever feeds it their profile
+and writes the routing rule for
+it.
+They just text it
+It turns on @multiplex_profiles
+and writes the routing rule for
+it. Same bot, same number. Their
+messages land in their profile,
+not your main one.
+01 - YOU SAY IT
+02 - IT WRITES IT
+GIVE MY BROTHER HIS OWN PROFILE SO HIS MESSAGES
+DON’T LAND IN MY VAULT.
+IS THIS FOR YOU
+/home/bernie/multiplex_profiles/config.yaml
+brother
+name: brother
+from: +9715****** # his number
+rule:

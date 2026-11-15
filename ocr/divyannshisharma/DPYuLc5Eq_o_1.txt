@@ -1,0 +1,3 @@
+Step #1
+Open your YouTube video and
+Click "Webhook"

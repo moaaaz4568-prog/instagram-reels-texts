@@ -1,0 +1,6 @@
+if you haven't set up Anti-Gravity yet,
+open this,
+then run claude
+you'll see Claude boot up, read your instructions
+simply, hit yes on all permissions.
+@divyanshisharma

@@ -1,0 +1,26 @@
+Step #11
+Configure recipient field
+and link AI output
+INPUT
+Schema
+Table
+JSON
+AI Agent
+WhatsApp Trigger
+WhatsApp Business Cloud
+Test node
+Operation
+Send
+Sender Phone Number (or ID)
+15551632505 - Test Number
+Recipient's
+{{ $id }}
+[{{ $id }}]
+Type: Tip: data transformation options. Learn more
+Text Body
+Additional Fields
+No properties
+OUTPUT
+Execute this node to view data
+or set mock data
+FHD 360fps

@@ -1,0 +1,11 @@
+Diyanshi | Agentic AI Expert
+@diyanshisharma
+Localize Your Heartbeat (Save
+Your Budget)
+• Your agent makes 48 API calls a day by default
+The Fix
+Use a local LLM (or disable heartbeats)
+The Pro Move
+Install Ollama + Llama3.2:1b – 1.3GB, offline
+The Setup
+Route heartbeats locally, premium APIs

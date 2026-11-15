@@ -1,0 +1,9 @@
+EXAMPLE PROMPT:
+Claude
++
+Opus5
+Life stuff
+Write
+Learn
+Code
+Claude's choice

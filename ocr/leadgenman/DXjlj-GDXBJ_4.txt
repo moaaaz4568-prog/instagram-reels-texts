@@ -1,0 +1,11 @@
+Ship OS
+
+The places you'll push to prod from. Deploy, scale, and monitor without leaving the shell.
+
+Vercel: Deploy, preview URLs, and ship to production in one command.
+
+Cloudflare: Workers, D1, R2, KV. The edge from your shell.
+
+Netlify: Sites, functions, forms. Deploy with one terminal command.
+
+Supabase: Postgres, auth, storage, and edge functions, all from one CLI.

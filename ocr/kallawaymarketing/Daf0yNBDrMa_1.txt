@@ -1,0 +1,9 @@
+DON'T SEQUENCE
+STORY POINTS WITH
+“and, then”
+
+This happened
+This is wrong!
+And this happened
+Then this happened
+And then this happened

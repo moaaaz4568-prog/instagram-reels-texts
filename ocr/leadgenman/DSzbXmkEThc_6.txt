@@ -1,0 +1,8 @@
+Use Automation when
+Task is repetitive.
+Rules are clear.
+Speed matters most.
+Use Agents when
+Context matters.
+Decisions vary.
+Judgment is needed.

@@ -1,0 +1,11 @@
+Google AI Studio
+You now have access to our
+experimental Gemini 1.5 Pro model in
+Google AI Studio
+You now have Private Preview access to our next generation Gemini 1.5
+Pro model in Google AI Studio, with Gemini API support coming soon.
+Gemini 1.5 Pro uses a new architecture to improve efficiency for text
+and vision understanding. As early testers, you can experiment with an
+up to 1 million token context window and directly upload massive PDFs,
+whole code repositories, or even long videos into your prompt.
+Try it now in Google AI Studio

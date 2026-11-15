@@ -1,0 +1,7 @@
+The Problem: Gated Directories
+• You can’t scrape private, closed directories easily without getting blocked.
+• The Solution: Focus heavily on indexable, public highly active public communities.
+• We built direct pipelines into the major public indexes for Slack and Discord.
+Find Public Slack groups to join
+Slofile lists public Slack groups. Discover Slack communities and channels to join. List your Slack workspace.
+Find Slack by keyword

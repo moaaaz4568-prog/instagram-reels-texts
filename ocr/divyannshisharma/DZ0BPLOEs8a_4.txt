@@ -1,0 +1,12 @@
+4. Find B2B Companies → Build Outbound Campaigns
+Claude
+WORKFLOW:
+1 Prospeo
+Find B2B Companies
+2 B2B Filter
+Filter for B2B Companies
+3 Export List
+Export B2B Companies
+4 Claude
+"Create a 5-email outbound sequence."
+5

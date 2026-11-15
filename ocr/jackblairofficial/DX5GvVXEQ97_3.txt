@@ -1,0 +1,8 @@
+Jack Blair
+@jackblairofficial
+
+3. THE LOST EARNINGS
+
+What it does: calculates the exact dollar amount the ceiling has cost you since the day you hit it.
+
+"Calculate the cumulative compensation gap between what I've earned since the ceiling month and what I would have earned at a market-rate trajectory for the same skills. Show the number in 3 frames: total dollars lost, monthly average, and what that money could have built if invested at a 7% return."

@@ -1,0 +1,7 @@
+Presence
+It tells the AI to try using new words that haven't been used before in the conversation.
+Value Range : -2 to 2.
+Use Case
+• Prevent word or phrase repetition to keep AI responses fresh and engaging in creative writing.
+• Encourage the model to introduce new concepts during brainstorming for diverse idea generation.
+Is it still necessary to tune an LLM preset? Tracing history of temperature, penalty, and sampling sch

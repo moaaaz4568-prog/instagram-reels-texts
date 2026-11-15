@@ -1,0 +1,10 @@
+AI AGENTLY
+Step 3: Connect Your WhatsApp Number
+Inside your Meta app:
+Open the WhatsApp configuration.
+Connect your: WhatsApp Business Account.
+Then add the phone number you want your automation to use.
+Depending on the setup you're using, Meta may require verification and other eligibility checks.
+Once connected, you'll have the information required to communicate with WhatsApp through the API.
+Your ally in one Partner
+Growth

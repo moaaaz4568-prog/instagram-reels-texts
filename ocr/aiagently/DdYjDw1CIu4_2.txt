@@ -1,0 +1,43 @@
+Step 02
+GIVE IT TO CLAUDE
+Put those files into one folder and open Claude Code.
+Tell Claude:
+"Organize everything here into a business knowledge base."
+Let AI do the boring part.
+
+1 Put Files in One Folder
+Gather all your files and keep them in one place.
+iCloud Drive
+Business Knowledge
+Notes
+SOPs
+Customer Questions
+Sales Calls
+Ideas
+Offers
+Documents
+Presentations
+Spreadsheets
+
+2 Open Claude Code
+Launch Claude Code in VS Code or your preferred setup.
+Claude Code
+Welcome to Claude Code
+VS Code Mac Linux
+
+3 Give the Prompt
+Tell Claude exactly what to do.
+"Organize everything here into a business knowledge base."
+Got it! I'll organize your files into a structured business knowledge base with clear categories, summaries and useful information.
+Analyzing your files
+Organizing by category
+Creating summaries
+Building a searchable KB
+Your business knowledge base is ready!
+
+What Happens Next?
+Claude reads, understands, and organizes your files into a clean, structured knowledge base.
+Categorized
+Summarized
+Easy to search
+Always up to date

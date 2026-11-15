@@ -1,0 +1,45 @@
+STEP 03
+ADD YOUTUBE ANALYSIS MCP
+
+1 Add YT Analysis MCP to Claude Code.
+Open your Claude Code config and add the YT Analysis MCP server.
+
+2 Paste your Gemini API key when the setup asks for it.
+This connects Gemini to Claude through the MCP server.
+
+3 Now Gemini can analyze the actual video:
+
+Claude Code
+Added
+mcpServers: {
+  "yt-analysis": {
+    "command": "npx",
+    "args": ["-y", "analysis-mcp"],
+    "env": {
+      "GEMINI_API_KEY": "AIzaSyB8fX1...7gHk"
+    }
+  }
+}
+GEMINI_API_KEY
+
+Claude Code
+(gets full context)
+AIzaSyB8fX1...7gHk
+
+Gemini
+(analyzes video)
+Gemini API Key
+
+YouTube Analysis MCP
+Video Analysis
+The video contains:
+Audio
+(what's said)
+Visuals
+(what's shown)
+
+Claude now gets much more than just text.
+It understands the real video — not just the transcript.
+
+What happens on screen
+(context & actions)

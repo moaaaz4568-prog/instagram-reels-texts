@@ -1,0 +1,59 @@
+Step 3
+CONNECT YOUR FACEBOOK
+AD ACCOUNT
+
+1 A Facebook login window
+will appear.
+
+2 Click:
+Log in with Facebook
+
+3 Then select the Meta ad
+account you want Claude
+to work with.
+
+For your first setup:
+
+4 Choose one ad account.
+
+5 Don't give Claude access
+to everything if you don't
+need it.
+
+6 Start with the minimum
+permissions required
+for the tasks you want
+Claude to perform.
+
+Meta
+Log in with Facebook
+Continue
+
+Log in with Facebook
+due to connect your account
+to Claude.
+Log in with Facebook
+
+Meta
+Choose an ad account
+Select the ad account you want to give Claude access to.
+Business Ad account
+My Business
+Client Account
+Cancel
+Continue
+
+Meta
+Set permissions for this ad account
+Choose the minimum permissions needed for your tasks.
+Ads Read
+View and manage your ads and campaigns.
+Business Management
+Manage your business settings and assets.
+Catalog Management
+Manage your product catalog (ecommerce only).
+Ads Management
+Full control [add, edit, delete ads].
+We'll add this later (after 2 weeks).
+Cancel
+Save

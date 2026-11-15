@@ -1,0 +1,21 @@
+AIANALYST
+Every property gets a
+weighted investment score.
+COMPOSITE SCORE
+87
+A+
+123 Main St, Austin TX
+STRONG
+BUY
+Comparable Sales 92
+Investment 89
+Rental Income 85
+Market Conditions 84
+Neighborhood 81
+GRADE SCALE
+A+ 85–100
+A 70–84
+B 55–69
+C–F <54
+6 / 10
+swipe

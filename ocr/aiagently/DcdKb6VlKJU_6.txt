@@ -1,0 +1,16 @@
+STEP 6
+Run on autopilot
+Claude Routines turn the whole chain into a scheduled job on Anthropic’s cloud, so you set it once and close the laptop. The routine runs every day.
+Active
+Your routine
+Set it once and it runs in the cloud.
+9am US
+runs in the cloud
+Scheduled
+Every Monday
+drops to Notion
+Create a Claude Routine that runs my [skill or sub-agent] every [schedule]. Run it on Anthropic’s cloud, not my laptop. Drop the output into [folder, Notion page, or tool].
+Set Once
+Runs Daily
+In the Cloud
+You’re Done

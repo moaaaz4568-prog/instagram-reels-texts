@@ -1,0 +1,11 @@
+LLMs
+Parameters | Training | Tokens
+Tokens
+LLMs are the category GPT belongs to.
+They are advanced AI systems trained on
+massive datasets to understand, generate
+& predict human-like language.
+Based on transformer architectures,
+this is the brain behind every AI tool you
+use today. It's what understands your
+question and writes back an answer.

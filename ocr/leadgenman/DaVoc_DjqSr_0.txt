@@ -1,0 +1,9 @@
+8 Specialized AI Models
+LLM
+LCM
+LAM
+MoE
+VLM
+SLM
+MLM
+SAM

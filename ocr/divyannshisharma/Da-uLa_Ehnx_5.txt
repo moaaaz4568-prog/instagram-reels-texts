@@ -1,0 +1,30 @@
+THE 6 SKILLS SYSTEM
+Your first prompt.
+Search
+Customize
+Chats
+Projects
+Artifacts
+Your chats will show up here
+For this example, we have no real data or social media activity, so we use sample data for demonstration purposes.
+Use Windsor. Pull my TikTok and Instagram post performance data from the last 14 days—specifically views, likes, shares, and comments per post. Also pull new contacts created in my GoHighLevel sub-account over the same 14-day period, including their source.
+Then do the following:
+- Rank my top 5 posts by lead generation (not just views — identify which posts are associated with the most new GHL contacts based on source attribution and timing).
+Show more
+W. Working
+Loading tools
+Get connectors
+Claude wants to use Get connectors from Windsor.
+Always allow
+Deny
+Reply...
+Every prompt that needs your real data starts with: "Use Windsor."
+Without it, Claude's guessing.
+"Working... Loading tools... Get connectors..."
+— that's Claude actually pulling your live numbers.
+Click "Always allow" the first time your live numbers come.
+With it, you'll see
+"Working... Loading tools... Get connectors..."
+1
+2
+3

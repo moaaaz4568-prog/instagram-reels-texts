@@ -1,0 +1,12 @@
+Tyler Germain @itstylergermain
+I put together a free playbook on how to set up Karpathy's LLM Wiki system from scratch.
+
+Comment "BRAIN" and I'll send it to you.
+
+GitHub Gist
+karpathy/llm-wiki.md
+LLM Wiki
+The core idea
+
+@itstylergermain
+save for later

@@ -1,0 +1,21 @@
+STEP 1
+Punit Kumar
+01 / 09
+Start with Claude Code
+Open Claude Code inside VS Code and create a fresh project folder.
+Then use Plan Mode before asking it to build.
+Instead of explaining the code you want, describe the business outcome.
+PROMPT (ALTERNATIVE)
+Hi Claude, I'm building an intelligent WhatsApp assistant for my business, a pet grooming and spa service called Pet-sy. The assistant should act as the first point of contact for our customers.
+Here's what I need:
+1. Greet customers warmly and introduce Pet-sy.
+2. Answer FAQs about our services, pricing, and location.
+3. Help customers book appointments (collect name, pet type, service, date, and time preference).
+4. Understand if they are new or existing customers and personalize the response.
+5. Use emojis appropriately to make the conversation friendly and engaging.
+6. If unsure about something, politely ask for more details or offer to connect with our team.
+7. Keep the tone professional, caring, and pet-friendly.
+The goal is to provide a smooth and delightful experience while helping Pet-sy save time and manage appointments efficiently.
+Type /model to pick the right tool for the job.
+Paste
+Claude can then create the architecture and suggest the technology stack.

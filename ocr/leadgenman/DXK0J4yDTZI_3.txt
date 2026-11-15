@@ -1,0 +1,19 @@
+L2 runtime
+the engine between weights and tokens
+pick your engine
+VLLM
+research-grade
+llama.cpp
+runs on your laptop
+Ollama
+the easy button
+TensorRT
+NVIDIA production
+tok/sec
+silicon -> brain -> mouth
+Meta
+GPU
+weights
+runtime
+weights are the brain. runtime is the mouth.
+the mouth

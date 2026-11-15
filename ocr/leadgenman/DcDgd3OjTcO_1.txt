@@ -1,0 +1,11 @@
+Step 1
+
+# curl (recommended, no node global)
+curl -fsSL https://claude.ai/install.sh | bash
+
+# or npm
+npm install -g @anthropic-ai/claude-code
+
+✓ claude-code installed · run claude to start
+
+Open your terminal → run one install command → done in 30 seconds

@@ -1,0 +1,15 @@
+Optional: Export Your List
+• Want to use your leads elsewhere?
+Go to your
+scraped list
+Click Download
+List
+You'll get a CSV
+with:
+Name
+Username
+Bio
+Follow Count
+Link
+Other public
+data

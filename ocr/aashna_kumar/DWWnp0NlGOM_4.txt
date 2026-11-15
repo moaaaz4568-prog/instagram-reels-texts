@@ -1,0 +1,11 @@
+@aashna_kumar
+
+Brand Storytelling Videos
+
+Prompt:
+Write a 45-second storytelling video script where I share a personal experience from [topic or niche]. The story should feel authentic, emotional, and relatable, like a challenge I faced, a lesson I learned, or a turning point that shaped my journey. End with a clear takeaway that connects to my brand message and inspires [target audience] to reflect or act.
+
+Repurposing Content
+
+Prompt:
+Take one of my existing posts about [topic] and show me how to repurpose it for multiple platforms, Instagram, LinkedIn, YouTube Shorts, and Twitter/X. Keep the message consistent but rewrite the tone and format for each audience type. Include how to adapt the same message visually or verbally to fit the attention span and vibe of each platform.

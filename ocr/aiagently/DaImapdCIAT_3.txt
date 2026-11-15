@@ -1,0 +1,10 @@
+Prompt #3
+Personalized Learning Roadmap:
+My goal is [GOAL], not just to learn [SKILL].
+I want to achieve [SPECIFIC RESULT] within [DEADLINE]. Create a 7-day learning plan tailored to my goal.
+I already know [CURRENT SKILLS].
+For each day, include:
+One task that takes 45 minutes or less
+A clear way to measure success
+What I should avoid to save time
+If the plan won't realistically help me reach my goal, improve it until it does.

@@ -1,0 +1,5 @@
+Comment
+"HOOKS"
+for my full database of all hook types within
+these categories plus examples.
+K

@@ -1,0 +1,35 @@
+AI analysis
+at investment scale.
+Multi-Agent Property Intelligence
+Property Input
+Address • Details • Goals
+Workflow Manager
+Coordinates all AI agents
+Sales
+25%
+Market demand
+& pricing
+Rental
+20%
+Rental income
+potential
+Location
+20%
+Area growth
+& amenities
+Strategy
+20%
+Best investment
+approach
+Market
+15%
+Trends & future
+value
+Risk Score
+Low / Medium / High
+Decision Engine
+Analyzes • Scores • Recommends
+ROI
+Return on Investment
+Report
+Detailed Analysis

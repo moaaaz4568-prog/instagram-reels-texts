@@ -1,0 +1,17 @@
+Tool Use Pattern
+Legend
+Processing
+Tool use
+UI
+User Query
+Response
+Tool Use
+Agentic Workflow
+Web Search
+Vector Search
+Gmail
+Slack
+Select Tool(s)
+Use Tool(s)
+Result
+Generate Response

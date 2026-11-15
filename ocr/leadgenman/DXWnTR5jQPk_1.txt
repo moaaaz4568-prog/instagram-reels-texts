@@ -1,0 +1,8 @@
+C
+php
+M
+Metasploit
+BURPSUITE
+MySQL
+neovim
+ThinkPad

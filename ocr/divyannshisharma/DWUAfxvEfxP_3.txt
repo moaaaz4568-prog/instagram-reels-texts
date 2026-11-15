@@ -1,0 +1,26 @@
+AutoGPT
+
+What you'll get:
+• Full agent platform for long-running tasks.
+• AI agent that plans, executes, iterates.
+
+3
+
+Significant-Gravitas / AutoGPT
+Code
+Issues 230
+Pull requests 138
+Actions
+AutoGPT Public
+557 Branches 99 Tags
+master
+ntindle and claude feat(platform): admin previo
+.claude/skills
+.github
+.vscode
+assets
+autogpt_platform
+classic
+docs
+.braanchlet.json
+.deepsources.toml

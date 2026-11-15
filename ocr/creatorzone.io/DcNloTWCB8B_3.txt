@@ -1,0 +1,9 @@
+CAC - Customer acquisition cost
+
+How much it costs you to acquire one new customer.
+
+Spend $5,000 on ads and gain 100 customers.
+
+CAC = $50.
+
+If you're spending $50 to acquire someone who only generates $30, the numbers don't work.

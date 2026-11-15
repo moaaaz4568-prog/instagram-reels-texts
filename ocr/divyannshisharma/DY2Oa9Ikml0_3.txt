@@ -1,0 +1,21 @@
+03
+Drinking coffee while
+Claude + Apollo:
+turns yesterday's shower thoughts into workflows.
+Yesterday: "Recent podcasts + YouTube
+appearances intent signals could be interesting."
+Claude scans recent podcast episodes + YouTube interviews
+Claude extracts the important context
+Apollo enriches the company and speaker
+Today:
+1. Claude scans recent podcast episodes + YouTube interviews
+2. Claude extracts the important context
+3. Apollo enriches the company and speaker
+Apollo plan review
+Claude + Apollo - Intent Signal Pipeline
+[1] Claude scanned 47 podcasts + 28 YouTube
+→ 312 episodes parsed for ICP matches
+[2] Claude extracted context from 6 high-fit
+[3] Apollo enriched all 6 speakers + their
+GICP users - ranked by intent strength
+Divyanshi sharma

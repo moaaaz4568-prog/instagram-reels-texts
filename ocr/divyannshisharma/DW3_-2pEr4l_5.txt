@@ -1,0 +1,21 @@
+THE PROBLEM BEFORE
+Custom Google License
+Previous Gemma models shipped under a proprietary license with usage restrictions and terms Google could update whenever they wanted.
+Vague "Harmful Use" Rules
+Legal teams had to preview edge cases around what counted as "harmful use" — with no clear definition.
+Commercial Ambiguity
+Unclear whether you could redistribute weights or what commercial deployment actually looked like under those custom terms.
+Many enterprise teams chose Qwen or Mistral instead — purely because of licensing friction.
+
+5. Gemma’s Licensing Problem
+Enterprise teams avoided Gemma entirely because the legal friction made it too risky to build on.
+
+Custom Google license with terms that could change
+Vague "harmful use" rules that required lawyer review
+Commercial ambiguity made redistribution legal
+
+Restrictions
+Proprietary
+Ambiguous
+
+@divyanshisharma

@@ -1,0 +1,73 @@
+Deploy it +
+claim a domain.
+
+HOSTINGER
+Home
+Websites
+Domains
+Emails
+More services
+Horizons
+Vibe coding
+Reach
+eCommerce
+AI agents
+Agents
+OpenClaw
+Dev tools
+VPS
+API
+
+Hello!
+Your to-dos
+
+Refer & earn up to $265
+Ask AI
+
+C:\Users\quinton\Desktop\claude-code\demo-os>
+cd demo-os
+Claude is provisioning (async, can take a few minutes). I'll prep the deployment archive in the meantime.
+Listed 1 directory (ctrl+to expand)
+PowerShell($src = "C:\Users\quinton\Desktop\claude-code\demo-os\personal-site"; $dst = "C:\Users\quinton\Desktop\claude-code\demo-os\personal-site.zip"; if (Test-Path $dst) { Remove-Item $dst }; Compress-Archive -Path $src -DestinationPath $dst)
+Listed 1 directory (ctrl+to expand)
+ABOUT_ME.md
+finance.html
+knowledge
+node_modules
+personal-site
+personal-site.zip
+> ABOUT_ME.md
+> finance.html
+> knowledge
+> node_modules
+> personal-site
+> personal-site.zip
+> server.js
+Zipped ready (14MB). Checking if the website finished provisioning.
+Website is hostingner.com 2 times (ctrl+to expand)
+Website is live. Deploying the zip now - this will trigger an automatic npm install + start on Hostingner's side.
+Called hostingner.com 2 times (ctrl+to expand)
+Upload succeeded. Hostingner detected it as Express, Node 20. Build is pending - polling status.
+Called hostingner.com (ctrl+to expand)
+Sleep(15s)
+(no output)
+Called hostingner.com (ctrl+to expand)
+Deployment completed. Verifying live site.
+$ curl -s -o /dev/null -w "%{http_code}" http://hostinger.com
+HTTP 200 status == 200 && curl -s -o /dev/null -w "%{http_code}" size $(du -sb personal-site.zip | cut -f1)
+HTTP 200 size 8614b time 42.288981s
+Content checks
+4 lines (ctrl+to expand)
+Musterling... (3m 14s - 14.3k tokens)
+T tip: Use /tbt to ask a quick side question without interrupting Claude's current work
+
+esc to interrupt
+/notes-control File explorer Rich content Ctrl G
+
+Claude doesn't just build it —
+it deploys it.
+
+Zips the files, uploads them, verifies
+HTTPS is live. All by itself. The
+walks you through claiming a real
+domain name.

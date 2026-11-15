@@ -1,0 +1,21 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+Claude Desktop
+(Local Agent):
+Run MCP client scripts locally. Claude
+calls get_resources() or invoke_tool()
+directly using your n8n webhook.
+Either way:
+→ Claude sends the request
+→ n8n returns Notion content
+→ Claude summarizes it in your prompt
+Claude
+Desktop
+N8N
+Workdation
+Notion
+Notion content
+Request
+Return content
+Request
+Return content

@@ -1,0 +1,10 @@
+Copy
+Download
+Download as PDF
+Publish artifact
+Step 20
+Share Artifacts as Links
+Every artifact Claude builds has a shareable link,
+send the live tool instead of a static screenshot.
+Divyanshisharma
+16/16

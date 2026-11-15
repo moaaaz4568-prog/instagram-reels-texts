@@ -1,0 +1,19 @@
+Diyanshi | Agentic AI Expert
+@diyanshisharma
+
+Step 2: Select 5.3 Codex
+
+plaintext
+openclaw models set openai-codex/gpt-5.3-codex
+openclaw models status --plain
+
+Gpt-5.3-codex
+Sets as the primary agent model
+
+Config Update
+Writes to openclaw.json
+
+Restart Needed
+Run gateway restart to activate it
+
+openclaw models status --plain

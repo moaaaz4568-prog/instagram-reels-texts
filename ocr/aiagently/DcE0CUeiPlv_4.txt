@@ -1,0 +1,93 @@
+3
+Find Who To Contact
+Now run:
+/sales contacts
+Give it the company.
+Example: loom.com
+It maps the people involved in the buying process.
+You can identify:
+• Who buys?
+• Who influences?
+• Who evaluates?
+• Who should you contact first?
+This is much better than randomly emailing the CEO.
+Claude
+/sales contacts loom.com
+Mapping buying committee...
+Kate Zhou
+Head of Marketing
+Influence
+Best To Contact
+Defluencer
+Darrell Silva
+VP of Sales
+Decision Maker
+Maya Chen
+Demand Gen Manager
+Evaluator
+Sam Park
+Sales Operations
+Influencer
+Recommended First Contact:
+Kate Zhou – Head of Marketing
+
+4
+Create Personalized Outreach
+Now run:
+/sales outreach
+Claude uses the research it already collected.
+It can create:
+• Personalized email
+• Follow-ups
+• LinkedIn touchpoints
+• Different messaging angles
+The goal isn’t more emails.
+It’s better-targeted emails.
+Claude
+/sales outreach loom.com
+Generating personalized outreach...
+Hi Kate,
+Email 1 – Value Introduction...
+Best,
+Your Name
+Personalized
+LinkedIn Touchpoint
+Hi Kate,
+Connect + Value Note
+Personalized
+Follow-up Sequence
+Email 1 Day 1
+Email 2 Day 3
+Email 3 Day 7
+LinkedIn Day 10
+
+5
+Prepare Before The Call
+Run:
+/sales prep
+Claude creates a quick briefing book with:
+• Company information
+• Decision-maker information
+• Pain points
+• Competitors
+• Questions to ask
+• Key Pain Points
+• Top Competitors
+• Questions To Ask
+• Possible Objections
+You walk into the call knowing who you’re talking to.
+Claude
+/sales prep loom.com
+Preparing call brief for Kate Zhou...
+Company Overview
+Competitors
+Questions to ask
+Possible objections
+Kate Zhou – Head of Marketing
+Influences demand gen
+Reports to VP of Sales
+Focus: pipeline, efficiency
+Key Pain Points
+Top Competitors
+Questions To Ask
+Possible Objections

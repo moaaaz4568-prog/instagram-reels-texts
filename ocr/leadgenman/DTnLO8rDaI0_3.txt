@@ -1,0 +1,11 @@
+Tool 3
+Retell AI
+In a nutshell:
+Voice agent platform for building AI that handles real phone calls, books appointments, and answers questions.
+I use it for:
+When you need an AI receptionist or outbound caller that sounds human and navigates real conversations.
+Works with:
+n8n
+Airtable
+Twilio
+Google Sheets

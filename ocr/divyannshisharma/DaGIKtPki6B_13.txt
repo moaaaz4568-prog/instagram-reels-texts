@@ -1,0 +1,13 @@
+14 CHECKING THE REAL COST
+Checking the real cost.
+groq
+Default Project April 2026
+Batch Cost Activity
+Total Spend $0.39 USD
+Projected cost calculation as if you were enrolled in billing. You will not be billed until you upgrade.
+whisper-large-v3 - on_demand $0.39
+Apr 1 Apr 26
+$ Over 5 hours of video, fully transcribed: about 39 cents total.
+That's nearly free for almost unlimited use.
+$0.39
+$0.45

@@ -1,0 +1,55 @@
+STEP 6
+SOP: Kimi K2.6 Playbook
+VERIFY EVERYTHING,
+THEN TRUST NOTHING
+AI is powerful.
+Verification makes it reliable.
+TRUST
+BUT VERIFY
+Check facts
+</> Test edge
+cases
+Run it
+Validate
+results
+Cross-check
+sources
+Your checklist:
+① Test the happy path.
+② Break it on purpose.
+③ Cross-check key claims
+and outputs.
+④ Validate data, results,
+and assumptions.
+⑤ Document findings
+and keep receipts.
+K2.6
+K
+Example Verification
+Code
+Lint
+Build
+Run tests
+Data
+Schema
+Sample
+Outliers
+Results
+Compare
+Reproduce
+Sanity check
+Sources
+Authoritative
+Recent
+Relevant
+Verification turns AI
+output into real-world impact.
+Be rigorous. Be skeptical. Be elite.
+If you can't
+explain it,
+don't ship it.
+Speed gets attention.
+Verification earns trust.
+Ship with
+confidence.
+6 / 12

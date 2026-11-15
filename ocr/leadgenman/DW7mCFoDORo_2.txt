@@ -1,0 +1,15 @@
+D
+Diffusion
+A technique that generates images by gradually removing noise
+
+E
+Embedding
+A numerical representation of text that captures its meaning
+
+F
+Fine-tuning
+Training a pre-built model further on specific data
+
+G
+GPT
+Generative Pre-trained Transformer -- the architecture behind ChatGPT

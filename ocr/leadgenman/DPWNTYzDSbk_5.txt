@@ -1,0 +1,21 @@
+Charlie Hills X Manthan Patel
+nthan Patel
+Notion On Autopilot
+An AI assistant using MCP can:
+1. Connect to your Notion workspace
+2. Pull meeting notes and tasks
+3. Summarize them into a weekly report
+All triggered by a simple prompt.
+No manual copy-paste. No API juggling.
+MCP: THE USB FOR AI APPS
+Uses
+AI Agents
+Free
+Tools
+AI Model
+MCP
+Servers
+Search
+Calendar
+Email
+A new standard for plugging AI into everything.

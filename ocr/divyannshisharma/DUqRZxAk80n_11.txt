@@ -1,0 +1,27 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+Step 12. Indexing
+
+• Last step is index what was already pushed and live.
+This is essential as I dont even need to think. If the new
+content indexed or not
+
+Google Search Console
+Inspect any URL in 'papermark.com'
+1 of your other sites is moving to this property.
+papermark.com
+Overview
+Insights
+URL inspection
+Performance
+https://www.papermark.com/solutions/legal-documents-sharing-platform
+https://www.papermark.com/
+https://www.papermark.com/es/blog/password-protect-a-notion-page
+https://www.papermark.com/de/blog/password-protect-a-notion-page
+https://www.papermark.com/pt/blog/best-open-source-document-management-software
+http://www.papermark.com/
+31.2K
+0.25M
+0.31%
+12.0

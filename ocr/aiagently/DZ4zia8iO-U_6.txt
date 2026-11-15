@@ -1,0 +1,25 @@
+Step 3:
+Add message templates
+
+Claude writes 3 connection messages:
+• Warm lead: who replied to your cold email (pulls email context from the row)
+• Generic: "Noticed your company in the space, would love to connect"
+• Fallback: "Connecting with industry professionals to share insights"
+
+Tweak to match your offer before running..
+
+3. Fallback (95 chars):
+Hi Seth, connecting with [industry] professionals to share insights. Would be great to connect.
+
+INMAIL MESSAGES
+
+1. Warm Level (50):
+Subject: Quick question about [VaynerMedia]
+Hi [Name],
+I work with companies like [VaynerMedia] in the [industry] space to help them [key value prop - e.g., close more deals, reduce overhead, increase ROI].
+Most [Job Title] I talk to are focused on [efficiency and growth - curious if that's on your radar too.
+Would a 15-minute call this week make sense? Happy to share what's working for similar companies.
+Best,
+[Your Name]
+
+2. GM/Director level (VP Marketing):

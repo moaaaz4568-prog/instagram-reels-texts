@@ -1,0 +1,37 @@
+steal this -- comment STARTER
+EXPLORER
+your-project/
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+agents/
+code-reviewer.md
+debugger.md
+test-writer.md
+refactorer.md
+doc-writer.md
+security-auditor.md
+hooks/
+pre-commit.sh
+lint-on-save.sh
+session-start.sh
+rules/
+api.md
+database.md
+frontend.md
+skills/
+commit-push-pr/
+SKILL.md
+review-pr/
+SKILL.md
+.mcp.json
+settings.json
+settings.local.json
+CLAUDE
+local
+hooks
+skills
+settings
+your-project > steal this
+COMMENT
+"STARTER"

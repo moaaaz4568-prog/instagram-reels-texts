@@ -1,0 +1,16 @@
+Trigger Nodes:
+Category	Setting	Description
+Mindset Traps Building	Don't Start with AI	Start with workflows. You can't build agents without understanding fundamentals.
+	Avoid Tutorial Hell	Watching isn't enough. Build, break, rebuild.
+	Pattern Recognition	Most workflows use the same core nodes. Master those first.
+Building Strategy	Expect Things to Break	That's normal. Build with failure in mind.
+	MVP First	Don't aim for perfection. Ship, test, improve.
+	Process Engineering	If you can't explain it on paper, you can't automate it.
+Business Positioning	Workflows Alone	You could build an agency on basic automation without AI.
+	Sell ROI Not Tech	Clients care about outcomes, not node configurations.
+MONITOR IT
+Workflows before AI
+Instagram
+Divyanshi
+1 2 3 4 5
+SWIPE

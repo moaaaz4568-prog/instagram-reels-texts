@@ -1,0 +1,23 @@
+Here’s the full stack I use to run 1000+ cold emails/day without burning domains, missing replies, or touching DNS records:
+
+deliverability
+infra + deliverability
+maildoso
+LinkedIn
+SALES NAVIGATOR
+APIFY
+GPT
+copy + reply agent
+slack
+notifications
+Smartlead
+sending engine
+n8n
+reply automation
+
+You can build this today — here’s how
+
+Suprava Sabat
+Co-founder, Acquisition X
+
+3/15

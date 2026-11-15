@@ -1,0 +1,22 @@
+AI Agently
+Build AI Systems. Scale Smarter.
+03 Download
+the Skill
+*Claude harmozi skill
+Once downloaded,
+drop the ZIP directly
+into your Claude
+workspace to install
+the skill.
+Claude
+Good morning
+How can I help you today?
+How can Claude help you today?
+Write code
+Summarize text
+Analyze data
+Solve problems
+Claude 3.5 Sonnet
+@ai.agently
+Drop ZIP here
+to install skill

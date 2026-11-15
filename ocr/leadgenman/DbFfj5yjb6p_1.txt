@@ -1,0 +1,6 @@
+STOP 1
+Performance Gap
+A 16x gap across 850 million emails.
+Top 10% senders get 1 reply per 38 contacts.
+The average sender needs 135.
+The worst are past 625+.

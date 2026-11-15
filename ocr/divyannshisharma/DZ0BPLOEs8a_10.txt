@@ -1,0 +1,11 @@
+10. Find Companies With SSO → Enterprise Positioning
+Claude
+WORKFLOW:
+1 Prospeo
+Find Companies With SSO
+2 SSO Filter
+Filter for SSO-Enabled Companies
+3 Export List
+Export Companies
+4 Claude
+"Write enterprise-focused messaging."

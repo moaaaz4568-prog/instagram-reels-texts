@@ -1,0 +1,41 @@
+TOP TOOL #2
+#2: Vibe Trading
+Like AutoHedge but with 64 different finance skills built in.
+02
+AI agents debate each other before making a move. You watch them argue in real time. It's wild.
+Debate.
+Analyze.
+Decide.
+Execute.
+Covers crypto, stocks & options.
+HKUDS / Vibe-Trading
+About
+"Vibe-Trading: Your Personal Trading Agent"
+vibetrading.git
+python trading mcp meta-agent
+finance quantitative-finance
+algorithmic trading backtesting
+ai-agent llm
+Readme
+MIT License
+Repository composer goal workflow
+Alpha Zero framework -- registry, operators, sal...
+Contributing
+Code of conduct
+80 watching
+Vibe-Trading
+64 finance skills. AI agents that debate, decide and trade.
+Debate with agents
+Analyze the market
+Decide with logic
+Execute the trade
+github.com/HKUDS/Vibe-
+64 debate, decide, execute
+64 finance skills in one open source trading agent.
+Vibe-Trading
+64 finance skills. AI agents that debate, decide and trade.
+Debate
+Analyze
+Decide
+Execute
+64 finance skills in one open source trading agent.

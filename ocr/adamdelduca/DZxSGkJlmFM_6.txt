@@ -1,0 +1,7 @@
+Step 3: Produce using AI
+Let AI handle:
+- Scripts
+- Voice
+- Editing
+- Thumbnails
+Tools like Tubegen and Vidrush can do it all...

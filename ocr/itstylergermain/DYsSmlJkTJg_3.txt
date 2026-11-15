@@ -1,0 +1,24 @@
+REASON 3
+DJI
+plugins
+carousel-machine
+carousel-machine.plugin
+carousel-machine.zip
+raw
+scripts
+skills
+Unorganized Dump
+abort.bat
+abort.ps1
+BRAIN-HANDOFF-PHASE-2.md
+CLAUDE.md
+CLAUDE.md.bak
+desktop.ini
+HANDOFF.md
+This is wrong, your skills won't work!!
+Your skills are installed in the WRONG place
+Your agent can't use the skills you've given it, unless you ask for it.
+When you do, your agent wastes time and tokens searching for the skill file.
+Always install skills in the .claude/skills folder.
+@its Tylergermain
+save for later

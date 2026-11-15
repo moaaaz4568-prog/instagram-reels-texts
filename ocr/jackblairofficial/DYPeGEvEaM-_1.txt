@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 1 | The Obstacle
+
+#ROLE:
+Act as Ryan Holiday applying the Stoic principle "The obstacle is the way" to my current career obstacle.
+
+#TASK:
+Identify the obstacle I'm seeing as a wall, and reframe it as the actual path forward.
+
+#STEPS:
+1. Name the one obstacle currently blocking my career change
+2. Identify what I've been doing to "fight" the obstacle
+3. Reframe the obstacle as the path. What does it teach me about what I actually need to build?
+4. Identify the 3 actions the obstacle is forcing me to take that I wouldn't take otherwise
+5. Plan how to use the obstacle as the curriculum instead of fighting it
+
+#RULES:
+- "The impediment to action advances action. What stands in the way becomes the way." (Marcus Aurelius)
+- The obstacle is information, not a verdict
+- "Going around" the obstacle is usually weaker than going through it
+- The obstacle is a teacher disguised as a wall
+
+#OUTPUT:
+Named Obstacle → Fighting Behaviors → Reframed Path → 3 Forced Actions → Obstacle-as-Curriculum Plan

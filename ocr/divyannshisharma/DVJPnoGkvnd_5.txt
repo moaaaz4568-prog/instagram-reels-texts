@@ -1,0 +1,57 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+The Trap:
+More chat = dumber agent. "Context window" full, early goals dumped. Agent hallucinates recap from old, forgotten details.
+
+The Fix: Session Search
+Don't just ask for a summary.
+Found Agent → Context
+Don't just ask for summary. Use Session Search. Tell agent search history for keywords to see "database schema".
+
+Manual Override:
+grep "keyword"
+~/.openclass/agents/agents/logs
+If blanking, grep logs yourself. Paste snippet into to chat to "reset" agent's brain.
+
+The Habit:
+NEW MEMORY.md.
+Setup = chaos, burned page entries. File should a facts, not a diary.
+
+The Distinction:
+Isolation
+/new = Clear Desk Employee
+New Employee (Isolation)
+
+The Mistake:
+Brainstorming a 2-week sprint in chat in chat window = wandering, burned tokens tokens, re-exploiting architecture.
+
+The Fix: Structured Planning
+Create a PLAN.md* before 'writing' code. Give the LLM a map.
+
+The Workflow:
+1. Start Session: "Read PLAN.md, md, execute Step 3"
+2. Update: "Update PLAN.md with new routing structure"
+
+Be the Manager
+PLAN.md / ROADMAP.md
+Manager Clear
+Agent: Coder
+Executes tasks, don't wander.
+PLAN.md = Employee Instructions
+
+The Trap:
+Massive 10-agent setup, setups = chaos, burned burned tokens, high API API bill.
+
+Manual True True Issue Issue
+Codebase Agent Personal LLM Agent
+If blanking, grep logs yourself. Give the LLM a map. Contexts never bleed.
+
+The Distinction:
+Isolation
+Keep headcount file most tasks.
+
+True Pro Tip:
+Review MEMORY.md. Use for most tasks or Keeps things snappy a saves money.
+
+لا يوجد نص

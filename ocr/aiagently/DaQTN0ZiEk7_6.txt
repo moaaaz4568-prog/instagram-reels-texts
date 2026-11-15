@@ -1,0 +1,5 @@
+Step 6
+Type what you want
+Build me Short Video Automation that generate videos from Veo 3 on my niche House building scratch generate whole house project video 60 Second Reference same like the above and make this upload on Youtube, FB Tiktok or Instagram|
+Claude 4.8
+Claude returns a JSON workflow.

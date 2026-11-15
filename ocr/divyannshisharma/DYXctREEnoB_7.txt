@@ -1,0 +1,46 @@
+NotebookLM
+14 tools. *
+06 / 18
+LLM Runners & UIs
+Ollama
+Run any LLM locally with one command, open source
+LLM Runners & UIs open source
+Jan AI
+Offline AI assistant desktop app, open source
+LLM Runners & UIs open source
+GPT4All
+Desktop LLM runner with chat UI, open source
+LLM Runners & UIs open source
+Llamafile
+Single-file LLM executables, run anywhere
+LLM Runners & UIs open source
+AnythingLLM
+Full-stack local RAG + multi-model UI, open source
+LLM Runners & UIs open source
+LocalAI
+Drop-in OpenAI API for local models, open source
+LLM Runners & UIs open source
+llama.cpp
+C++ LLM inference engine, quantized, runs on CPU
+LLM Runners & UIs open source
+Open WebUI
+Best chat UI for Ollama models, open source
+LLM Runners & UIs open source
+text-generation-webui
+Oobabooga's full-featured local LLM web UI
+LLM Runners & UIs open source
+KoboldCpp
+Local LLM runner with story and roleplay features
+LLM Runners & UIs open source
+Lobe Chat
+Modern open source AI chat desktop and web app
+LLM Runners & UIs open source
+LibreChat
+Open source ChatGPT-like UI for any LLM API
+LLM Runners & UIs open source
+PrivateGPT
+Chat with local docs, no data leaves your machine
+LLM Runners & UIs open source
+SillyTavern
+Advanced open source LLM frontend for power users
+LLM Runners & UIs open source

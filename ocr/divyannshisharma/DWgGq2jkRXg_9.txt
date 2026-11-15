@@ -1,0 +1,13 @@
+Honest Limitations
+Cowork eats your usage fast.
+It burns usage fast
+One complex session = dozens of regular chats. Pro users hit limits in 3-4 days of daily use. Mid-task cutoffs are brutal.
+Monitor Settings > Usage. Heavy users need Max (100-200/mo).
+Context compaction hits long sessions
+Claude auto-summarises earlier parts to save alive. Numbers get rounded, file details go vague. If it says "typical patterns" instead of your actual file keys — compaction already happened.
+Tell Claude to write key findings to a file as it goes.
+Still a research preview
+It can misread files. ~10% of complex multi-step tasks go off a weird direction. Occasional output sections that don't match the rest.
+Always review before sending anything to a client.
+@divyanshisharma
+save for later

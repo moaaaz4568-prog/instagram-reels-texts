@@ -1,0 +1,24 @@
+Step #7
+What triggers this workflow?
+A trigger is a step that starts your workflow
+Search nodes...
+Add first step...
+Trigger manually
+Runs the flow on clicking a button in n8n. Good for getting started quickly.
+On app event
+Runs the flow when something happens in an app like Telegram, Notion or Airtable.
+On a schedule
+Runs the flow every day, hour, or custom interval.
+On webhook call
+Runs the flow on receiving an HTTP request.
+On form submission
+Generate webforms in n8n and pass their responses to the workflow.
+When executed by another workflow
+Execute the flow when called by the Execute Workflow node from a different workflow.
+On chat message
+Runs the flow when a user sends a chat message. For use with AI nodes.
+When running evaluation
+Run a dataset through your workflow to test.
+Logs
+Nothing to display yet. Execute the workflow to see execution logs.
+Add Steps & Trigger Manually

@@ -1,0 +1,26 @@
+Phase 2:
+Workflow Data
+Fixed vs Expression Values
+
+Every node processes data through input and output panels
+Fixed values are static and hardcoded, remaining the same for every execution. Expression values are dynamic, using JavaScript syntax to pull data from previous nodes. Fixed: "Send an email" | Expression: {{ $json.chatInput}}
+
+Strings
+Text data like "hello world" - used for messages, names, and descriptions
+
+Numbers
+Numeric values (42, 3.14, -100) - for calculations, counts, measurements
+
+Booleans
+True/false values - for conditional logic and decision making
+
+Arrays
+Lists of data [1, 2, 3] - for multiple items and iterations
+
+• Understanding data types ensures smooth workflow execution and proper data handling.
+
+Instagram
+Divyanshi
+
+1 2 3 4 5 6
+< SWIPE

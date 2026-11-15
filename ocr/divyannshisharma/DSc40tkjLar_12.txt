@@ -1,0 +1,5 @@
+Step #12
+Full automation: Fetch → Transform
+→ Caption: Fetch → Transform
+→ Caption → Upload → Post
+→ Upload → Post

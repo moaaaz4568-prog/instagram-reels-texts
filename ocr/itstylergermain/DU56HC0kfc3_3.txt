@@ -1,0 +1,9 @@
+Skill #3
+*****
+AI escalation
+anthropics/escalation
+Communication 6,647
+Structure and package support escalations for engineering, product, or leadership with full context, reproduction steps, and business impact. Use when an issue needs to go beyond support, when writing an escalation brief, or when assessing whether an issue warrants escalation.
+npx @smithery/cli@latest install claude-code
+@tstylergermain
+save for later

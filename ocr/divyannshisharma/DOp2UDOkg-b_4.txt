@@ -1,0 +1,32 @@
+Flow A:
+Inbound Router
+
+1.
+Webhook
+Receive incoming data
+
+2.
+Normlaze
+Clean & structure data
+
+3.
+LLM
+Process & generate response
+
+4.
+Omnisend
+Update contact & trigger
+
+5.
+Reply
+Send message back
+
+App Sandbox
+
+Twilio WhatsApp Sandbox
+
+Hi, this is Growth.exe agent.
+
+Today
+
+Type a message

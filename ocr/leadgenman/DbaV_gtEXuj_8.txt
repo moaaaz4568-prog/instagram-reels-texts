@@ -1,0 +1,14 @@
+08
+Connect Your Database
+
+Connect this app to [POSTGRES / SUPABASE / YOUR DB].
+
+* Pick the client that fits this stack, justify it in 1 line
+* Env vars: name them, add to .env.example, never commit real values
+* Schema: tables for [ENTITIES] with types, relations, and indexes for [HOT QUERIES]
+* Create + run the migrations, and show me the rollback for each one
+* One typed query helper per table -- no raw SQL scattered through components
+* Access rules / modeling if we are serverless, row-level security if this is [MULTI-TENANT]
+* Connection pooling
+
+Then prove it: seed one row, read it back, show me the output.

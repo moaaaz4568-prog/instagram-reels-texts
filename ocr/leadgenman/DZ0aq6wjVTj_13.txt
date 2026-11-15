@@ -1,0 +1,5 @@
+Frontend Design
+Bans generic AI looking layouts and pushes Claude into a bold, distinctive design before it codes.
+github.com/anthropics/skills
+Manthan Patel | @leadgenman
+14 / 15

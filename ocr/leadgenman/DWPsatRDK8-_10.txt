@@ -1,0 +1,9 @@
+!
+Bash Mode
+Prefix with ! to run terminal commands inline. !git status, !npm test, !ls -la. No context switch.
+$ claude
+> !git status
+M src/auth/middleware.ts
+M src/api/routes.ts
+> !npm test
+47 tests passed (2.1s)

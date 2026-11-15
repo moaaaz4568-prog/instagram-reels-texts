@@ -1,0 +1,4 @@
+Step 13: Key
+Created an API key in Stitch settings.
+20/400 daily credits. One key. That's all
+Claude Code needs to connect.

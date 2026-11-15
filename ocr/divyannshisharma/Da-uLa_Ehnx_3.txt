@@ -1,0 +1,13 @@
+* THE 6 SKILLS SYSTEM
+
+Point that data at Claude.
+
+windsor.ai
+
+Inside Windsor, scroll to "Data Destinations."
+You'll see 3 options:
+Looker Studio, ChatGPT, Claude.
+
+Click Claude.
+
+That's the line that says "send my GoHighLevel data here."

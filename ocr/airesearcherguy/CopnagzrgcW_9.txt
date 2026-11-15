@@ -1,0 +1,16 @@
+The HTTP Module:
+HTTP
+Body type
+Raw
+Content type
+JSON (application/json)
+Request content
+{
+  "key": "YOUR API KEY",
+  "model_id": "YOUR MODEL ID OF CHOICE",
+  "prompt": "Create a 100. Type Rotator image of [Subject Rotator] that is 97. Action Rotator [Setting Rotator] in the art style [Style Rotator]",
+}
+le Diffusion API C
+Make a request
+Other than the API key, you typically won't modify much in the "Body" where the "JSON" code is that dictates what data/functions you'll retrieve from the API.
+But, sometimes you will. Just don't mess with the format (where the curly brackets are)

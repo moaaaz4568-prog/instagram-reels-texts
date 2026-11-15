@@ -1,0 +1,18 @@
+2. Stop tracking opens.
+
+Open data is unreliable, and the tracking pixel adds technical baggage you do not need.
+
+To: prospect@company.com
+Subject: Quick thought
+
+Hi there,
+
+Just wanted to share a quick idea that could help your team.
+
+Worth a look?
+
+Best,
+A
+
+tracking-pixel.png
+1 x 1

@@ -1,0 +1,12 @@
+Step 6: Market
+Competitor Analysis
+Now I give Claude the context:
+I'm analyzing [COMPETITOR/ACCOUNT].
+Based on what you know + the data I'm providing:
+1. Top 3 things they're doing well (be specific)
+2. Gaps or weaknesses in their approach
+3. What I can learn from them
+4. How my positioning is different
+About me: I write about AI tools, vibe coding, and crypto for builders. TG + X.
+Don't say "they have a strong brand." Tell me WHY and what specifically makes it work.
+Swipe →

@@ -1,0 +1,12 @@
+Scheduling
+
+Airtop handles recurring execution:
+→ Set frequency: every hour, day, week, or month
+→ Advanced timings with cron expressions
+→ Trigger via webhooks when events happen
+
+Example schedules:
+• Monitor LinkedIn for new leads → Every 6 hours
+• Check competitor posts → Daily at 8 AM
+
+Built once. Runs automatically.

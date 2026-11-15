@@ -1,0 +1,23 @@
+Repo Stack 05
+FLOWISE
+DESCRIPTION
+Drag, drop, deploy. Flowise lets you build AI agents and LLM workflows visually – no heavy coding required. 51.5k stars and still shipping fast, it’s the no-code layer that makes multi-agent systems actually accessible.
+flowiseai.com
+rag low-code
+artificial-intelligence
+multiagent-systems
+MORE INFO
+https://t.co/ggYliS2sB7
+FlowiseAI / Flowise Public
+<> Code Issues 648 Pull requests 169
+main 807 Branches
+j-sanaa feat/agentflow
+.github
+.husky
+assets
+docker
+i18n
+images
+metrics
+packages
+.dockerignore

@@ -1,0 +1,6 @@
++$1,500
+Mentorship Program
+Closes his first client
+(+ $1,500)
+September
+Quits after 50 no-replies ($0)

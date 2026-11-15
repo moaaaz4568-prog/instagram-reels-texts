@@ -1,0 +1,8 @@
+Step #5
+Scrape business
+emails from Google
+Maps without the use
+of any third party APIs
+Who is this template for?
+Scrape Google Maps emails
+- no APIs

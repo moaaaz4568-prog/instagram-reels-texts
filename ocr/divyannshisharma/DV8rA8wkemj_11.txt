@@ -1,0 +1,13 @@
+Building Effective Agents by Anthropic
+https://lnkd.in/gRWKANS4
+ANTHROPIC
+Engineering at Anthropic
+Research Economic Futures Community Learn News Try Claude
+Building effective agents
+Published Dec 19, 2024
+We’ve worked with dozens of teams building LLM agents across industries. Consistently, the most successful implementations use simple, composable patterns rather than complex frameworks.
+Over the past year, we’ve worked with dozens of teams building large language model (LLM) agents across industries. Consistently, the most successful...
+Effective agents
+Simple, composable patterns
+Start with Anthropic →
+@divyanshsharma

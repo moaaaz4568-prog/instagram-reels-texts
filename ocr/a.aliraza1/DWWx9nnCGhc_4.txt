@@ -1,0 +1,2 @@
+skills / pdf /
+Extracts text and tables from PDFs, merges files, adds annotations, and manipulates pages.

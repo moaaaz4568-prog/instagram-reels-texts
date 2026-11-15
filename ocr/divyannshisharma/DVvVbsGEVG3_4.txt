@@ -1,0 +1,9 @@
+Books:
+Links.com
+1. Understanding Deep Learning: https://udlbook.github.io/udlbook/
+2. Building an LLM from Scratch: https://lnkd.in/g2YGbnWS
+3. The LLM Engineering Handbook: https://lnkd.in/gWUT2EXe
+4. AI Agents: The Definitive Guide – Nicole Koenigstein: https://lnkd.in/dJ9wFNMD
+5. Building Applications with AI Agents – Michael Albada: https://lnkd.in/dSs8srk5
+6. AI Agents with MCP – Kyle Stratis: https://lnkd.in/dR22bEiZ
+7. AI Engineering: https://www.oreilly.com/library/view/ai-engineering/9781098166298/

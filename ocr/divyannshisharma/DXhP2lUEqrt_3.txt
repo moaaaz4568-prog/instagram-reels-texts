@@ -1,0 +1,8 @@
+MULTIPLEXERS
+• Agent terminal: https://t.co/v2pg1hRaQi
+• Orchestrate agents: https://t.co/0vVbo1
+• Parallel dev: http://github.com/coder
+AGENT FRAMEWORKS
+• Multi-agent coordination: github.com
+• Agent collaboration: https://lnkd.in
+• NousResearch agents: lnkd.in/eMt3sS7N

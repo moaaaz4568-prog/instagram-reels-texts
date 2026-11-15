@@ -1,0 +1,35 @@
+2
+
+Frontend-design.skill
+UI/UX DESIGN
+Forces bold, modern UI decisions before coding and eliminates generic AI-generated interfaces.
+
+Social Media OS
+Social Media
+Complete viral content workflow for posts, reels, thumbnails, analytics, and audience growth.
+
+Daydream.skill
+Creativity
+Finds hidden connections inside your knowledge base through autonomous AI brainstorming sessions.
+
+Remotion.skill
+Video Development
+Creates cinematic videos programmatically with React animations, captions, effects, and rendering workflows.
+
+Autoresearch.skill
+Research Automation
+Self-improving AI workflow that continuously modifies, verifies, and optimizes tasks automatically.
+
+Voice Builder.skill
+Personal Branding
+Learns your writing voice and creates consistent, non-generic AI-generated content styles.
+
+Reels Scripting.skill
+Short-Form Content
+Reverse-engineers viral reels and rewrites them naturally in your own content style.
+
+Post Scorer.skill
+Content Analytics
+Scores social media drafts using your past performance data before publishing content.
+
+swipe >>>

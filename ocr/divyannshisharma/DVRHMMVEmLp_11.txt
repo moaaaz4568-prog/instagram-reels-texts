@@ -1,0 +1,25 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+IV. Practical Workflows
+• X personal assistant
+
+X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.
+
+What it does
+Turns Claude into an X/Twitter research agent. Ask questions like "what are people saying about BNKR" or "search X for Opus 4.6 trading" and get sourced briefings with engagement data, thread context, and linked resources.
+
+v2: CLI Tooling (New)
+v2 adds x-search.ts — a Bash CLI that wraps the X API, so Claude doesn't need to assemble raw curl commands. Same research loop, much faster execution.
+
+What changed:
+• x-search.ts handles search, profiles, threads, single tweet lookups
+• 15-minute result cache (saves API costs on repeated queries)
+• Built-in engagement sorting and filtering (--sort likes, --min-likes 50)
+• Watchlist for monitoring accounts
+• Auto noise filtering (--is_retweet added by default)
+• Clean Telegram + markdown formatters
+
+What didn't change:
+
+●●●●●●●●●●

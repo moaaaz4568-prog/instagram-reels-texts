@@ -1,0 +1,22 @@
+finds customers for ui and design work for ui and design work
+12 / 20
+GitHub
+public repository
+shadcn-ui / ui
+Public
+Fork
+Star
+120k
+Used by
+your lead list
++ thousands
+TypeScript
+120k
+WHAT IT DOES
+the component library design-conscious teams build with.
+WHO TO MINE IT FOR
+teams using this already care how their product looks. easiest design clients you will find.
+THE EXACT LINK
+github.com/shadcn-ui/ui/network/dependents
+● the github method
+shadcn-ui/ui/network/dependents

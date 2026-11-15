@@ -1,0 +1,12 @@
+Edit
+Fields
+Modifies, renames, or deletes fields from the
+incoming data, or adds new static/dynamic fields.
+Use cases:
+• Normalize data: Rename first_name to
+nombre to standardise formats.
+• Add metadata: Insert a timestamp field with
+the current time for each record.
+Edit Fields
+manual
+→

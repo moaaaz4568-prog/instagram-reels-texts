@@ -1,0 +1,21 @@
+WEBHOOK NODE
+
+The Webhook node listens for incoming HTTP requests and immediately starts your workflow the moment an event occurs no polling, no delay. It's the fastest way to connect forms, apps, and external services directly to n8n for real-time automation.
+
+Receive Form
+Submissions
+
+Supports GET &
+POST Requests
+
+Custom Paths
+
+External Event
+
+Webhook Node
+
+Data is sent from a
+app, form, or service
+
+N8N processes the
+request instantly

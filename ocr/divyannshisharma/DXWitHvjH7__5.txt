@@ -1,0 +1,17 @@
+PART 5
+Local AI & Model Running 🖥️
+
+31. Ollama: Run open-source LLMs locally with one terminal command. Supports Llama, Mistral, Gemma, and dozens more. The fastest path from zero to local AI.
+https://github.com/ollama/ollama
+
+32. Open WebUI: Self-hosted ChatGPT-like interface. Clean, fast, full-featured. Pairs perfectly with Ollama for a private AI setup.
+https://github.com/open-webui/open-webui
+
+33. LlamaFile: Package an entire LLM as a single executable file. Zero dependencies. Download and run. Absurdly simple.
+https://github.com/Mozilla-Ocho/llamafile
+
+34. Unsloth: Fine-tune models 2x faster with 70% less memory. If you need a custom model trained on your data, start here.
+https://github.com/unslothai/unsloth
+
+35. VLLM: High-throughput inference engine. 2 to 4x faster than naive serving. The standard for production deployment of open-source models.
+https://github.com/vllm-project/vllm

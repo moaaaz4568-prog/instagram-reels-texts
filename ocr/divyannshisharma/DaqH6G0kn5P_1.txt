@@ -1,0 +1,35 @@
+Slide 2
+Most people
+use AI wrong.
+
+They prompt it once.
+They ask a question.
+
+They get an answer.
+The model responds.
+
+They accept
+whatever comes out.
+No follow-up. No iteration.
+Just move on.
+
+good
+enough.
+
+That works fine for simple tasks.
+
+80%
+
+But for hard tasks —
+the ones that actually matter —
+that approach leaves 80% of the
+model’s capability on the table.
+
+Fable 5 is designed to work in loops,
+not single shots.
+Here’s what that
+why it changes
+everything.
+
+unused
+potential

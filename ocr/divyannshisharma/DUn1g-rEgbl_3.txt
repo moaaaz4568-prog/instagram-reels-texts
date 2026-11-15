@@ -1,0 +1,19 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+PROMPT ENGINEERING 2026:
+
+Clarity beats cleverness now
+
+For Claude: Use XML tags
+
+<context>background</context>
+<task>instruction</task> <format>output
+
+System prompts need
+
+Role + Behavior + Constraints + Output structure
+
+Chain-of-thought
+
+Add "let's think step by step" for complex problems

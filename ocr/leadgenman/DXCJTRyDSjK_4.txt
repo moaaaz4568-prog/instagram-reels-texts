@@ -1,0 +1,35 @@
+File Edit View Go Window Help
+9:41 AM
+Did you know?
+stripe trigger sends test
+local server.
+Search
+FAVORITES
+CLI Stack
+Claude Code
+GitHub CLI
+Supabase CLI
+Stripe CLI
+PostHog CLI
+Vercel CLI
+S Stripe CLI
+Payments and webhooks from the terminal
+# Forward webhooks to local server
+$ stripe listen --forward-to localhost:3000/api/webhook
+- Ready! Webhook signing secret: whsec_...
+# Trigger a test event
+$ stripe trigger checkout.session.completed
+- Event sent successfully
+# Tail Live logs
+$ stripe logs tail
+- 200 OK POST /v1/charges
+Test webhooks
+Trigger events
+Tail logs
+Create products
+View payments
+Debug errors
+$ brew install stripe/stripe-cli/stripe
+Payment Received
+$29.00 from customer
+View

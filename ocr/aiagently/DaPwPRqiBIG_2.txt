@@ -1,0 +1,40 @@
+One property.
+Five AI specialists.
+One clear recommendation.
+
+Sales Comparison
+Agent
+25%
+
+Cash Flow
+Agent
+20%
+
+Area Insights
+Agent
+20%
+
+Deal Strategy
+Agent
+20%
+
+Market Trends
+Agent
+15%
+
+/analyze-property "123 Main St"
+AI property review...
+→ Sales Comparison Agent ........... 25%
+→ Cash Flow Agent ..................... 20%
+→ Area Insights Agent ................. 20%
+→ Deal Strategies Agent ............... 20%
+→ Market Trends Agent ................. 15%
+Combining agent findings...
+
+Rating:
+89/100
+Verdict:
+High Potential
+
+✓ Analysis complete
+✓ Report exported

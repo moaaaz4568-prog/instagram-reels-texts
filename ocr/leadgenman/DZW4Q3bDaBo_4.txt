@@ -1,0 +1,16 @@
+CLAUDE.md
+03
+0:20 -> 0:30
+block three -- give it a brain
+one command writes the file that makes it stop guessing.
+code-setup -- Manthan Patel -- zsh
+~/penanywhere > /init
+generated CLAUDE.md from your repo
+CLAUDE.md
+# Project: PenAnywhere
+Stack: Next.js 15, Supabase, Stripe, Canvas 2D, Zustand
+Rules:
+- be direct, push back on bad ideas
+- never touch /lib/engine without asking
+- production-ready, no placeholders
+/init scans your code. then you edit. this file is read every session.

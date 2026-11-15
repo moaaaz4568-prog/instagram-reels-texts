@@ -1,0 +1,70 @@
+Layer 1- Perception
+Processmultimodal inputslike:
+Text（NLP),images（vision),audio,sensorsand maintain
+situationalcontext.Feedsstructureddata downstream.
+AlAgentArchitecture
+?
+?
+?
+MetaLearning
+Human-AI
+Reinforcement
+Voice
+Unsupervised
+*
+Feedback
+Interface
+Collaborative
+Models
+口
+Supervised
+Edge
+E
+Analytics
+nuuoge
+Display
+Long-term
+Autonomous
+?
+?
+Short-term
+API
+ndino
+?
+Learning
+Interaction
+Monitoring
+?
+小
+AlAgent
+?
+Distributed
+Code
+Tools
+Execution
+Perception
+contex
+Actions
+Track
+Web
+Planning
+Reasoning
+Sensors
+Optimizati
+Strategy
+Knowledge
+Robotis
+Routes
+Goals Heuristics
+Reasoning
+Sensor Fusion
+Adaptive
+Tactics
+®
+Objectives
+Logic
+Hierarchical
+~
+?
+Sequential
+Optimization

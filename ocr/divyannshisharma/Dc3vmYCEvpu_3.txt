@@ -1,0 +1,110 @@
+Taste Skill
+Give Claude better design taste.
+→ Better aesthetic design taste.
+→ Better visual decisions
+→ Less generic output
+
+Link: http://skills.sh/LeonInx/taste-skill
+
+NEO-BRUTALIST DESIGN SYSTEM
+BOLD. LOUD. SYSTEMATIC. USABLE.
+
+0 12 24
+
+USAGE RULES: THICK BLACK STROKES, SQUARED CORNERS. LIMITED RADIUS. SOLID ACCENT BLOCKS. STRICT GRID ALIGNMENT. FOCUS ALWAYS VISIBLE.
+
+COLOR TOKENS
+ACCENT TEAL (#00E5A3)
+ACCENT MAGENTA (#FF0099)
+ACCENT YELLOW (#FFDD00)
+BLACK (#000000)
+WHITE (#FFFFFF)
+PAPER (#F5F5F5)
+
+TYPE SCALE
+H1: GIANT HEADING (36PX)
+H2: LARGE HEADING (24PX)
+H3: MEDIUM HEADING (18PX)
+H4: SMALL HEADING (14PX)
+BODY: BODY TEXT (14PX) - Default reading text.
+CAPTION: Caption Text (10PX) - Smaller descriptions.
+
+ELEVATION TOKENS
+SHADOW-0 (0px)
+SHADOW-1 (2px) - 4px
+SHADOW-2 (8px) - 12px
+
+SPACING SCALE
+4 8 12 16 24 32 48 64 96
+
+ICONS
+[Icon set including: Check, Gear, Arrow Right, X, Trash, Search, Menu]
+
+BUTTONS
+PRIMARY (Filled Teal)
+SECONDARY (Outline Teal)
+DANGER (Filled Magenta)
+TEXT (Text only)
+
+INPUTS
+[Text input field]
+
+CONTROLS
+[Checkbox, Radio, Switch]
+
+TABLE
+[Table header and rows]
+
+ PAGINATION
+< PREV 1 2 3 NEXT >
+
+COMPONENTS
+CARD
+[Image placeholder, Bold Title, Subtitle, Button]
+
+LIST ITEM
+[Avatar, Name, Role, Button]
+
+BADGE
+[Badge label]
+
+AVATAR
+[Avatar circle]
+
+TABLE
+[Table structure]
+
+TOOLTIP
+[Tooltip box]
+
+KEEP HIT AREA 44PX
+
+DATA DISPLAY
+CARD
+[Bold Title, Lorem ipsum..., Button]
+
+LIST ITEM
+[Name, Role, Date]
+
+FEEDBACK
+TOAST STACK
+SUCCESS [Check icon]
+WARNING [Exclamation icon]
+ERROR [X icon]
+
+ALERT BANNER
+[Icon] Title
+Lorem ipsum... [Close X]
+
+MODAL DIALOG
+[Image]
+CANCEL CONFIRM
+
+PROGRESS BAR
+[Progress bar with 25%]
+
+EMPTY STATE
+[Box icon]
+NO ITEMS YET
+Lorem ipsum...
+CREATE YOUR FIRST ITEM

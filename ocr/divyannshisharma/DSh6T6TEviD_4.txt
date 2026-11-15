@@ -1,0 +1,14 @@
+Step #4
+Create Assistant
+Choose a template
+Here's a few templates to get you started, or you can create your own template and use it to create a new assistant.
+Assistant Name (This can be adjusted at any time after creation.)
+YT receptionist
+Blank Template
+This blank slate template with minimal configurations. It's a starting point for creating your custom assistant.
+QUICKSTART
+Customer Support Specialist
+A comprehensive template for
+Lead Qualification Specialist
+A consultative template designed to
+Name it 'YT Receptionist' and start with a blank template

@@ -1,0 +1,31 @@
+Theoretical capability and observed usage by occupational category
+Production
+Installation & repair
+Construction
+Agriculture
+Office & admin
+Sales
+Personal care
+Grounds maintenance
+Food & serving
+Protective service
+Healthcare support
+Healthcare practitioners
+Arts & media
+Education & library
+Legal
+Social services
+Life & social sciences
+Architecture & engineering
+Computer & math
+Business & finance
+Transportation
+Management
+1.0
+0.8
+0.4
+0.2
+Theoretical AI coverage
+Observed AI coverage
+Figure 2: Theoretical capability and observed usage by occupational category
+This figure shows the share of job tasks that LLMs could theoretically perform (blue area) and our own job coverage measure derived from usage data (red area).

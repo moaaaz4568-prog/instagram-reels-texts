@@ -1,0 +1,48 @@
+Data Model
+Contact Fields
+phone
+email
+whatsapp_opt_in
+sms_opt_in
+first_name
+source
+lead_score
+stage
+interests
+Custom Events
+conversation_started
+intent_detected
+resource_requested
+handoff_requested
+booking_link_clicked
+omniqen
+Custom Events
+user behavior and set up automations that
+react to when a custom event occurs.
+Search
+Custom Events
+EVENT
+CREATED
+LAST MODIFIED
+conversation_started
+Apr 26, 2024, 17:43
+Apr 26, 2024, 17:43
+intent_detected
+Apr 26, 2024, 17:43
+Apr 26, 2024, 17:43
+resource_requested
+Apr 26, 2024, 17:44
+Apr 26, 2024, 17:44
+handoff_requested
+Apr 26, 2024, 17:44
+Apr 26, 2024, 17:44
+booking_link_clicked
+Apr 26, 2024, 17:44
+Apr 26, 2024, 17:44
+Custom Events
+EVENT
+GARENTS
+LAST UPDATED
+...
+...
+...

@@ -1,0 +1,14 @@
+FOR ADVANCED USERS
+
+Advanced Capabilities:
+• REST API for programmatic campaigns
+• Custom webhook integrations
+• Dynamic merge tag injection
+• Scale to 300K+ emails/month
+• White-label for agencies (unlimited clients)
+
+Integration Options:
+• HubSpot, Salesforce, Pipedrive, Zoho
+• Zapier, Make, Slack
+• Custom webhooks & API endpoints
+• Real-time analytics streaming

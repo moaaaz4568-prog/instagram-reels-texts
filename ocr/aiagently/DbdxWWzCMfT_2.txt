@@ -1,0 +1,60 @@
+2. one prompt for entire campaign
+
+Prompt
+" Using this above skill. Build a Hormozi-style irresistible offer for my business.
+Then create the complete campaign. leads never ignore this///
+Audience: Customers tagged [ta
+Send: [date, time, timezone]
+"
+
+NEW SECTION
+here is my offer
+Build Offers Like Alex Hormozi. Automatically.
+
+Most businesses don't struggle because they have no offer. They struggle because their offer isn't clear enough.
+Instead of staring at a blank page...
+Claude can generate a Hormozi-style high-value offer, then instantly turn that offer into a complete outreach campaign.
+
+Just describe your business.
+☑ Generate an irresistible offer inspired by Alex Hormozi's value equation.
+☑ Write the headline, promise, bonuses, and CTA.
+☑ Build the entire n8n workflow.
+☑ Pull the right customers from your CRM.
+☑ Personalize every email.
+☑ Test everything before sending.
+
+One prompt. One offer. One complete campaign.
+
+You
+Build this campaign for me. Offer: 20% off Annual Plan. Audience: Customers tagged "VIP" in Twenty CRM. Send: 15 May 2025, 10:00 AM IST. Do all of this to end.
+
+Claude
+I'll build this campaign for you. Let me connect to the required services first.
+
+20
+Twenty CRM
+Connecting...
+n8n
+Connecting...
+
+Great! Connected to Twenty CRM and n8n. Here's what I'll build for your campaign:
+1 Pulling contacts tagged "VIP" from Twenty CRM
+2 Building n8n workflow
+3 Adding email personalization
+4 Scheduling for 15 May 2025, 10:00 AM IST
+Testing with sample contact
+The workflow is ready and tested.
+All systems go, nothing will be sent until you reply GO.
+
+Reply to Claude...
+
+Claude 3.5 Sonnet
+
+1. Hormozi-Style Offer
+2. Complete Campaign
+3. n8n Workflow
+4. Right Audience from CRM
+5. Personalized & Tested
+6. Ready To Send
+
+Follow us on Instagram @aiagentlly

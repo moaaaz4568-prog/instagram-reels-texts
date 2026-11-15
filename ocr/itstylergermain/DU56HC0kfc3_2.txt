@@ -1,0 +1,14 @@
+Skill #2
+xlsx
+davila7/xlsx
+Data & Analytics
+19,892
+Recommended MCP Servers
+Excel
+Google Sheets
+Airtable
+Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization, recalculate formulas, for spreadsheet processing and analysis.
+npx @smithery/cli@latest install xlsx --agent claude-code
+skill add davila7/xlsx --agent claude
+@itsylergermain
+save for later

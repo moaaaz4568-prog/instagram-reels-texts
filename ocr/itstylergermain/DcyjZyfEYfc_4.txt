@@ -1,0 +1,11 @@
+/BREAK-IT
+
+Try to break this before I ship it. Review it as a confused first-time user, a skeptical customer, and a security reviewer.
+
+Find unclear steps, hidden assumptions, failure cases, unsupported claims, and privacy risks.
+
+Rank each issue by impact. Fix safe issues, then ask before changing the strategy.
+
+@itsylergermain
+
+save for later

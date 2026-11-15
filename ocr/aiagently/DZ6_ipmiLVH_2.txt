@@ -1,0 +1,12 @@
+Prompt 2: The Product Blueprint Creator
+
+I am building [product type] for [target audience] that solves [specific problem].
+
+Create a complete product blueprint including:
+→ Every component and feature needed
+→ Logical structure and user flow
+→ Technical specifications or format
+→ Estimated time to build each section
+→ Tools required for creation
+
+Make this detailed enough that I could hand it to a freelancer and they would know exactly what to build.

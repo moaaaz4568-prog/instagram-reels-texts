@@ -1,0 +1,5 @@
+Common Traps
+More = better myth
+Analysis paralysis
+Cascade effects
+Over-engineering

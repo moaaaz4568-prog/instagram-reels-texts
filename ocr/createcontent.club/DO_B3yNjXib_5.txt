@@ -1,0 +1,14 @@
+All we have to do is just tell our content system that the video is ready to post, and in a few seconds we'll have it posted across all platforms.
+
+N8N AUT
+Content URL
+Publish Date
+FORMAT
+Status
+FILMED
+SCRIPTED
+FILMED
+EDITED
+READY TO POST
+POSTED
+FILMED

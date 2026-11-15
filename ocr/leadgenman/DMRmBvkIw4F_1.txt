@@ -1,0 +1,3 @@
+AI Agents
+An AI agent is a software program that utilizes artificial intelligence to perform tasks and achieve goals, autonomously, without needing constant human direction.
+AI Agent Architecture

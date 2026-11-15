@@ -1,0 +1,19 @@
+Alibaba finally releases...
+QWEN 3.5
+OPEN-SOURCE
+Qwen 3.5
+Open-source Release
+Inference
+Efficiency
+Native
+Multimodality
+Hybrid
+Architecture
+Global
+Scale
+Alibaba just open sourced a model that rivals
+GPT-5.2 and Claude Opus, for basically free.
+It's 60% cheaper to run, 8x faster, and handles
+text, images, and video natively.
+@its stylergermain
+save for later

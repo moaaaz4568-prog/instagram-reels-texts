@@ -1,0 +1,9 @@
+claude_setup.workspace
+leadgenman 2026
+Content/
+Code/
+Deploy/
+Research/
+My Claude Code setup replaced a 5 person team
+Design/
+Automate/

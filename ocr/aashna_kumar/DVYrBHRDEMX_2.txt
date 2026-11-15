@@ -1,0 +1,9 @@
+@aashna_kumar
+STEP 1
+Feed Claude your brand DNA
+Before you write anything, give Claude:
+• Your ideal client profile
+• Your tone of voice guidelines
+• Your transformation story
+• Your content pillars
+This is how AI stops sounding like AI.

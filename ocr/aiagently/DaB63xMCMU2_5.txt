@@ -1,0 +1,5 @@
+Prompt #4
+
+Now you need a script for your first video.
+
+"Here is my channel identity: [paste step 2]. Here is my first video idea: [paste step 2]. Write me your chosen title and description from step 3]. Write me a complete YouTube script for this video. It should open with a hook that grabs attention in the first 5 seconds, have a clear middle that delivers real value, and end with a call to action asking people to subscribe. Keep it between 8 and 12 minutes when read aloud at a normal pace."

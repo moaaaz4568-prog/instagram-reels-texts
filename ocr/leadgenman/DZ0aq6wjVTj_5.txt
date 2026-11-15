@@ -1,0 +1,11 @@
+Vercel
+Agent Browser
+Claude clicks through and tests your live site itself,
+instead of guessing if it works.
+agent-browser
+Installation
+Global Installation
+(recommended)
+github.com/vercel-labs/agent-browser
+6 / 15
+Manthan Patel | @leadgenman

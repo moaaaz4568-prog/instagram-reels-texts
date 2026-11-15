@@ -1,0 +1,7 @@
+Microsoft Releases
+Copilot Cowork
+
+Microsoft launched Copilot Cowork, built in close collaboration with Anthropic, bringing long-running, multi-step task execution into Microsoft 365. So it's basically just Claude Cowork, but in Microsoft Office.
+
+@itsylergermain
+save for later

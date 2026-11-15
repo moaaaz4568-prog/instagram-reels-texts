@@ -1,0 +1,3 @@
+Example 2
+✗ Boring : “Product Review”.
+✓ Viral : "This product has 40k 5-star reviews... but does it really work on oily skin?"

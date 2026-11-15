@@ -1,0 +1,21 @@
+AI Workflow
+Like a recipe. Always follow the same steps.
+Trigger
+Email
+AI Summary
+Task Created
+Sends plan
+Plan my day
+Thinks
+Moves meetings
+Finds time
+Sends plan
+AI Agent
+Makes decisions. Adapts to context.
+MCP
+Developer tool that gives AI secure access to apps and data.
+Notion
+Claude
+MCP
+Slack
+Calendar

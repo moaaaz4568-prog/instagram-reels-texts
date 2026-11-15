@@ -1,0 +1,51 @@
+divyanshisharma
+4/4 Category (Prompt 151 - 165)
+Category 4:
+Automation
+
+Design
+
+151. Map a Manual Process
+I do this task manually. [DESCRIBE TASK]. Map every step in detail. Identify which steps could be automated and design an automation that handles the full workflow.
+
+152. Zapier Workflow Design
+Design a Zapier workflow that automates [DESCRIBE PROCESS]. Define the trigger, all the steps in sequence, what data is passed between steps, and how errors are handled.
+
+153. Email Automation Sequence
+Design an automated email sequence for [DESCRIBE PURPOSE]. Write the copy for each email, define the triggers and timing, and explain the goal of each message.
+
+154. Build a Data Pipeline
+Design a data pipeline that takes [DESCRIBE INPUT], transforms it by [DESCRIBE TRANSLATIONS], and loads it into [DESCRIBE DESTINATION]. Include error handling and monitoring.
+
+155. Automate Report Generation
+Design an automation that pulls data from [DESCRIBE SOURCES], calculates [DESCRIBE METRICS], scores it, and sends it to [RECIPIENTS] every [FREQUENCY].
+
+156. Build a Lead Qualification Bot
+Design an automated lead qualification system that [DESCRIBE HOW LEADS COME IN], qualifying criteria and scores them against [DESCRIBE CRITERIA], and routes them to the right person.
+
+157. Automate Social Media Posting
+Design an automation that takes customer content from [DESCRIBE SOURCE], formats it for [PLATFORMS], schedules it for optimal times, and tracks performance. What tools would you use?
+
+158. Customer Onboarding Automation
+Design an automation that welcomes new customers by [DESCRIBE ACTION], what steps it triggers, the next step customers identified.
+
+159. Automate Invoice Processing
+Design an automation that receives invoices by [METHOD], extracts key data, validates it against [DESCRIBE RULES], routes for approval, and updates [ACCOUNTING SYSTEM].
+
+160. Build a Monitoring Alert System
+Design an automated monitoring system for [DESCRIBE WHAT IS BEING MONITORED]. What metrics/changes trigger alerts, how are alerts prioritized, and what information is included in each alert?
+
+161. Automate Customer Support Triage
+Design an automation that receives support requests, categorizes them by type and priority, routes them to the right team, and sends acknowledgment to the customer.
+
+162. Content Publishing Pipeline
+Design an automated content publishing pipeline that takes a draft, runs it through [DESCRIBE CHECKS], formats it for [PLATFORMS], schedules publication, and tracks distribution.
+
+163. Automate Competitive Monitoring
+Design an automation that monitors [DESCRIBE COMPETITORS] for changes to [DESCRIBE WHAT TO MONITOR] and delivers a weekly digest with the most important changes.
+
+164. Build a CRM Automation
+Design automations for [CRM SYSTEM] [DESCRIBE SCENARIOS]. What does it trigger, each automation, what actions does it take, and how does it update records?
+
+165. Automate Contract Generation
+Design an automation that takes [DESCRIBE INPUTS], selects the right contract template, populates it with the correct data, and sends it for signatures via [e-SIGNATURE TOOL].

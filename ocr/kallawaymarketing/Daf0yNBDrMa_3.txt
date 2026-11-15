@@ -1,0 +1,11 @@
+INSTEAD SEQUENCE
+EVENTS USING
+"but, therefore"
+
+This happened
+
+But
+This happened
+
+Therefore
+This happened

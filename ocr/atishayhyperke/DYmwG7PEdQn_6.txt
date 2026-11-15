@@ -1,0 +1,5 @@
+6. CRM & Dashboard Systems
+Why: Most businesses run on chaos because their data lives in 8 different tools. Whoever can stitch it into a clean CRM and dashboard becomes essential overnight.
+What you do: Build custom CRMs, sales pipelines, and reporting dashboards using Notion, Airtable, HubSpot, and ClickUp for founders and agencies.
+Rate: $1.5K to $4K per build
+2 clients/month = $5K+

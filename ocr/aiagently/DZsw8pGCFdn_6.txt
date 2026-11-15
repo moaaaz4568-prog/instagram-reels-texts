@@ -1,0 +1,21 @@
+6. Give Claude
+context
+
+Add these files
+brand_voice.md
+audience.md
+content_pillars.md
+offers_cta.md
+content_examples.md
+graphics_brief.md
+
+Use a simple prompt
+Good evening, Usama
+Using my uploaded skills and files,
+create content on ideas, hooks, captions,
+carousel outlines, and visual direction
+for my niche.
+Opus 4.8 Max
+
+Skills tell Claude what to do.
+Context tells Claude how to do it in your style.

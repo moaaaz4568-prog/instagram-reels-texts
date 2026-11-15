@@ -1,0 +1,70 @@
+divyanshisharma
+(25 to 48)
+Output format
+/pros-cons
+structured pros and cons
+Output Format
+/compare
+side-by-side comparison
+Output Format
+/checklist
+actionable checklist format
+Output Format
+/expand
+numbered step-by-step
+Output Format
+/one-line
+punchy headline style only
+Output Format
+/summary
+summary first, then detail
+Output Format
+/email
+email format
+Output Format
+/thesis
+academic thesis style
+Output Format
+/memo
+internal memo format
+Output Format
+/abstract
+academic abstract only
+Output Format
+/headline
+numbered step-by-step
+Output Format
+/timeline
+chronological format
+Output Format
+/ranked
+rank by importance
+Output Format
+/flowchart
+describe as flowchart steps
+Output Format
+/priority
+sorted by priority
+Output Format
+/one-line
+single sentence max
+Output Format
+/emoji-free
+no emojis whatsoever
+Output Format
+/dual-column
+two columns side by side
+Output Format
+/emoji-heavy
+emojis throughout
+Output Format
+/nested
+nested hierarchy format
+Output Format
+/before-after
+before and after format
+Output Format
+/flat
+flat list, no nesting
+Output Format
+Swipe →

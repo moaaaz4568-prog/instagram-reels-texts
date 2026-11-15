@@ -1,0 +1,17 @@
+@carasouls • free inference
+NO. 07
+THE LINEUP
+Frontier models,
+on the house.
+01
+Kimi K2.7 Code
+Agentic coding workhorse — long-context, tool-fluent.
+02
+GLM 5.2
+Fast, sharp reasoning. A daily-driver generalist.
+03
+Step 3.7 Flash
+Low-latency inference for tight agent loops.
++ and many more, all OpenAI-compatible.
+PAGE 03 / 07
+save this ↓

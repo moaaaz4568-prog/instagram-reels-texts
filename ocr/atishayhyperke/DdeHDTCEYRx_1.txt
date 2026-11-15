@@ -1,0 +1,7 @@
+1. Raw-list filtering.
+
+Use AI to remove obvious non-ICP accounts before expensive enrichment.
+
+AI
+
+ICP-QUALIFIED ACCOUNTS

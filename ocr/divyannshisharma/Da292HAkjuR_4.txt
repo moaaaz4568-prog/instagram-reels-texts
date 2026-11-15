@@ -1,0 +1,16 @@
+5 Tool 2:
+D3 turns data
+into stories
+Two tests, two outputs.
+Two tests, two outputs.
+From a single prompt: clean easing, legible labels, paced reveals.
+TEST 01
+Demographic bar race
+Claude fetches the data, generates the chart, and animates the entries — each bar gets enough screen time before the next.
+TEST 02
+Architecture diagram
+Nodes appear in sequence, lines draw themselves between them — a static diagram becomes an explainer.
+You don’t design anything — Claude handles the rest.
+Claude handles the rest.
+D3 is the tool for animating data. Claude fetches real numbers and turns them into a bar chart that grows on screen, or a diagram where nodes appear one by one.
+You don’t design anything — Claude handles the rest.

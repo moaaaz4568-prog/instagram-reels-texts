@@ -1,0 +1,80 @@
+NotebookLM
+18 tools.
+08 / 18
+Agent
+Frameworks
+LangChain
+Most popular open source LLM
+app framework
+Agent Frameworks open source
+LlamaIndex
+Open source data framework for
+LLM applications
+Agent Frameworks open source
+LangGraph
+Open source graph-based agent
+orchestration
+Agent Frameworks open source
+CrewAI
+Open source multi-agent role-based
+orchestration
+Agent Frameworks open source
+AutoGen
+Microsoft open source multi-agent
+conversation
+Agent Frameworks open source
+Semantic Kernel
+Microsoft open source LLM app
+SDK
+Agent Frameworks open source
+DSPy
+Stanford open source LLM
+programming framework
+Agent Frameworks open source
+Haystack
+deepest open source LLM
+pipeline framework
+Agent Frameworks open source
+Agno
+Open source high-performance
+agent framework
+Agent Frameworks open source
+Pydantic AI
+Open source type-safe AI agent
+framework
+Agent Frameworks open source
+Guidance
+Microsoft open source LLM
+constraint framework
+Agent Frameworks open source
+Instructor
+Open source structured LLM
+outputs with Pydantic
+Agent Frameworks open source
+MemGPT / Letta
+Open source LLM with persistent
+memory OS
+Agent Frameworks open source
+AutoGPT
+Open source autonomous
+AI agent platform
+Agent Frameworks open source
+TaskWeaver
+Microsoft open source code-first
+agent framework
+Agent Frameworks open source
+BabyAGI
+Open source task-driven
+autonomous AI agent
+Agent Frameworks open source
+Flowise
+Open source drag-drop LLM
+flow builder
+Agent Frameworks open source
+Langflow
+Open source visual LangChain
+agent builder
+Agent Frameworks open source
+AgentGPT
+Flowise
+Langflow

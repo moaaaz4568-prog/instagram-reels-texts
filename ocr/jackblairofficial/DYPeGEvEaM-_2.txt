@@ -1,0 +1,26 @@
+Jack Blair
+@jackblairofficial
+
+Prompt 2 | The Ego
+
+#ROLE:
+Act as Ryan Holiday surfacing the ego that's keeping me stuck, the version of myself that's protecting me from the work I actually need to do.
+
+#TASK:
+Identify which parts of my self-image are blocking the career change I claim to want.
+
+#STEPS:
+1. List the 5 ways I describe myself professionally (titles, identities, statuses)
+2. For each, ask: does this identity make the next move easier or harder?
+3. Identify the 2-3 identities I need to release to make the move
+4. Identify what "beginner" feels like in the new field, and how much my ego resists it
+5. Plan the specific moments where I'd need to let the ego die for the work to begin
+
+#RULES:
+- The ego protects you from looking stupid. It also keeps you stuck
+- "Beginner" is the only honest position in a new field
+- The titles that earned you respect in one room block your entry into the next room
+- Killing the ego is a daily practice, not a one-time decision
+
+#OUTPUT:
+5 Self-Descriptions → Ease-or-Block Audit → 2-3 Identities To Release → Beginner Resistance Daily Ego-Death Practices

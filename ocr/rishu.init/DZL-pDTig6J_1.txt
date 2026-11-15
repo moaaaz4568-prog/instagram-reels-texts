@@ -1,0 +1,10 @@
+#CLAUDE_DROP
+Anthropic quietly
+shipped Opus 4.8.
+New top score on coding benchmarks.
+Same pricing as 4.7.
+No public announcement.
+88.6%
+SWE-BENCH VERIFIED
+02 / 08 →
+@rishu.init

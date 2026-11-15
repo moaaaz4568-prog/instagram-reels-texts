@@ -1,0 +1,81 @@
+02
+ASSET
+AUTOMATION
+Skip the manual grind.
+Python + ElevenLabs auto-generates
+studio-grade voiceovers from
+your Claude script. Saves 2-3 hrs/video.
+STEP 02
+PYTHON • ELEVENLABS API
+Claude
+Automation
+voicecover.py
+Terminal
+Recycle Bin
+voicecover.py
+import requests
+API_KEY = "YOUR_API_KEY"
+VOICE_ID = "pNInz6obpgDQGcFmaJgB" # High-quality Voice ID
+def generate_audio(text, filename):
+    url = f"https://api.elevenlabs.io/v1/text-to-speech/{VOICE_ID}"
+    headers = {
+        "xi-api-key": API_KEY,
+        "Content-Type": "application/json"
+    }
+    data = {
+        "text": text,
+        "model_id": "eleven_multilingual_v2",
+        "voice_settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8
+        }
+    }
+    response = requests.post(url, json=data, headers=headers)
+    with open(f"{filename}.mp3", "wb") as f:
+        f.write(response.content)
+    print(f"Done: {filename}.mp3")
+# Insert script segments from Claude here
+generate_audio("Welcome to the future of productivity..", "intro")
+Ln 18, Col 1
+voicecover.py
+MAIN SCRIPT
+claude_script.txt
+01 CLAUDE SCRIPT
+Structured content
+From Claude
+Prompts + context
+voicecover.py
+02 PYTHON SCRIPT
+Processes text
+Builds API request
+Handles logic
+tts_request.json
+03 ELEVENLABS API
+Sends text to API
+Converts to speech
+Ready to use
+intro.mp3
+04 AUDIO OUTPUT
+MP3 file ready
+Studio-grade
+High quality voice
+run.log
+05 LOG FILE
+Logs API status
+Errors & time
+Debug & track
+AUTOMATION FLOW
+✓ Claude generates structured content
+✓ Python sends request to ElevenLabs API
+✓ High-quality voice generated
+✓ MP3 ready in minutes, not hours
+TIME SAVED
+2-3 hrs/video
+Automate today.
+Ship faster.
+Scale smarter.
+start
+voicecover.py
+Automation
+Terminal
+11:27 AM

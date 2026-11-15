@@ -1,0 +1,14 @@
+Step 5: Add AI features (this is your advantage)
+Sonnet 4.6
+What you can build:
+• AI chatbot for your product
+• Document assistant
+• Customer support bot
+Example:
+• Normal SaaS = $2K/month, SaaS + AI = $50K/month
+Flowise
+https://github.com/FlowiseAI/Flowise
+npx repomix
+LangChain
+https://github.com/langchain-ai/langchain
+pip install langchain

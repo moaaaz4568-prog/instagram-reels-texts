@@ -1,0 +1,7 @@
+Zapier Setup - Part 2
+Configure the trigger
+App: Google Sheets
+Trigger: Updated Spreadsheet
+Spreadsheet: Lead List
+Worksheet: Sheet1
+Trigger column: Any column

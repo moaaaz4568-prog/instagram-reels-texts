@@ -1,0 +1,6 @@
+Build OS
+The places you'll write, version & ship code from. Every step a single command away.
+GitHub: Run gh in your shell. PRs, issues, repos in one command.
+pnpm: 2x faster than npm, 70% less disk, the modern package manager.
+Vite: Lightning-fast dev server and build tool for modern frontends.
+Docker: Containers on demand for any local stack.

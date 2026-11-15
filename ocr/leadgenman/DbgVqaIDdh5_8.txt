@@ -1,0 +1,10 @@
+7
+Building LLMs for Production
+Faster replies and smaller bills.
+It holds up when traffic hits.
+Building LLMs
+for Production
+Enhancing LLM Abilities and Reliability with
+Prompting, Fine-Tuning, and RAG
+LOUIS-FRANÇOIS BOUCHARD
+LOUISE PETERS

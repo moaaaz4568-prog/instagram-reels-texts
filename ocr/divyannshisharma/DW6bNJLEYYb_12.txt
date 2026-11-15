@@ -1,0 +1,24 @@
+Command Prompt
+Microsoft Windows [Version 10.0.26200.8117]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\janie>ollama pull gemma4
+pulling 4c27e0f5b5ad 100% | 9.6 GB | 11 MB/s | 00:01:27
+pulling 7339f4418c9a 100% | 11 KB | 11 KB/s | 00:00:01
+pulling 56380ca2ab89 100% | 42 B | 42 B/s | 00:00:01
+pulling f9988bf50a2d 100% | 473 B | 473 B/s | 00:00:01
+verifying sha256 digest
+writing manifest
+success
+
+C:\Users\janie>ollama pull gemma4:31b
+
+Step 12
+
+Gemma 4 Runs Locally
+
+Fully verified, fully offline - no internet
+needed from this point
+
+Divyanshisharma
+13/18

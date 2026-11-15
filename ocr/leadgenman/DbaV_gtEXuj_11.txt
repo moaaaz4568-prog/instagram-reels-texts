@@ -1,0 +1,15 @@
+11
+E2E Test Your Application
+
+Write Playwright E2E tests for: [FLOW]
+Stack: [YOUR STACK] CI: [GITHUB ACTIONS / OTHER]
+
+* Money paths first: [SIGNUP / CHECKOUT / CORE ACTION]
+* Test what the user sees, not implementation details
+* Selectors: roles and labels, never brittle CSS chains
+* One unhappy path per flow: bad input, network failure, expired session
+* Tests stay independent -- any order, zero shared state, each seeds its own data
+* Headless in CI, headed locally for debugging
+* Screenshots + traces on failure only
+
+Run the suite, show me the results, fix what fails, and tell me what the suite still does NOT cover.

@@ -1,0 +1,15 @@
+SLIDE 6 | REAL ACCESS, KEPT SAFE
+Real access, kept safe
+Store environment variables in vaults
+Agent environment
+Your application
+Environment variable
+Opaque placeholder
+Authorized domain
+Placeholder exchanged for secret value on agent start
+Encrypted storage
+Secret value
+Claude Managed Agents
+As agents take on longer tasks, they need real things: passwords, internal systems, private code, your identity. Claude Managed Agents never hands over
+the actual secret — it swaps in a placeholder and only exchanges it for the real credential at the moment it's needed.
+Your secrets stay encrypted the entire time.

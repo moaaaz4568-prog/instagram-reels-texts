@@ -1,0 +1,21 @@
+Step 4: Use "skills" instead of Googling everything
+Sonnet 4.6
+
+* Normally, you would:
+  * read docs
+  * watch tutorials
+  * debug for hours
+
+* Claude already knows how to:
+  * integrate payments (Stripe)
+  * deploy apps (Vercel)
+  * design databases (Supabase)
+
+* Simple idea:
+  Instead of learning everything → you delegate to AI
+
+* Anthropic Skills
+  https://github.com/anthropics/skills
+
+* Awesome Agent Skills
+  https://github.com/VoltAgent/awesome-agent-skills

@@ -1,0 +1,15 @@
+Step #12
+OpenRouter account 2
+Connection
+Sharing
+Details
+Connection tested successfully
+Need help filling out these fields? Open docs
+for setup instructions
+API Key
+Allowed HTTP Request Domains
+All
+Credential successfully created ✕
+inside your personal space
+Configure OpenRouter credentials
+in N8N for AI brain power

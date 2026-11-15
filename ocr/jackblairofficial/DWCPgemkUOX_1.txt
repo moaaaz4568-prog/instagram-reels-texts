@@ -1,0 +1,8 @@
+TOP G
+Lv.99
+HP
+Sales Rep Lv.4X
+HP
+A "Of course, when should I follow up?"
+B "Is your accountant making this decision or are you?"
+C "I can send him the details directly."

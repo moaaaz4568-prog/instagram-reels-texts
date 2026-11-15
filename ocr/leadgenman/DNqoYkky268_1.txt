@@ -1,0 +1,34 @@
+Daily at 7PM
+Set Variables
+manual
+Execute workflow
+Activate
+Go to Settings
+Step 1: Workflow triggers daily at 7PM + Sets GitHub, email & calendar variables
+5
+6
+7
+8
+9
+0
+-
+=
+U
+I
+O
+P
+{
+[
+}
+]
+&
+*
+(
+)
+F6
+F7
+F8
+F9
+F10
+F11
+F12

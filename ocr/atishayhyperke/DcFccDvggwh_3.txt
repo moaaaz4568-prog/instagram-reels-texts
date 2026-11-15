@@ -1,0 +1,23 @@
+STRATEGY
+04 / 08
+We built the list from
+sources others ignore
+We scraped public healthcare directories,
+then enriched every account with practice type,
+locations, services, practice manager,
+and decision-maker.
+State medical boards
+Specialty associations
+Practice listings
+Local physician networks
+ENRICHED
+PROSPECT SYSTEM
+Practice
+Type
+Locations
+Services
+Practice
+Manager
+Decision-
+Maker
+@atishayhyperke

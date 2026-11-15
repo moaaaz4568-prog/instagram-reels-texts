@@ -1,0 +1,57 @@
+The Vibe Stack
+10
+Job Search & Lead Generation Automation
+AI-powered tools
+TOOLS
+01 feder-cr/
+Jobs_Applier_AI_Agent_AIHawk
+Benefit: Automated mass job applications via AI.
+feder-cr/
+Jobs_Applier_AI_Agent_AI...
+aihawk: AI-Powered Job Application
+Automation | Apply to multiple positions
+1,000s of times using AI resume & cover
+letter tailoring.
+Python 25k 2.2k 44
+02 ykdojo/
+claude-code-tips
+Benefit: There are more than 40 useful
+tips for effective use of Claude Code.
+1.4k 16 1.7k 2k
+03 speedyapply/
+2026-AI-College-Jobs
+Benefit: A daily updated database of
+paid internships and entry-level jobs.
+speedyapply/2026-AI-
+College-Jobs
+Curated AI internships & entry-level
+jobs for
+university students.
+2 1 5k 150
+04 zhouxiaoka/
+autoclip_mvp
+Benefit: An AI tool for automated clip
+cutting and highlight extraction.
+zhouxiaoka/
+autoclip_mvp
+AutoClip AI: detect, clip & create viral
+highlights from long videos in one click.
+1 12 735 128
+05 FujiwaraChoki/
+MoneyPrinterV2
+Benefit: Scripts to automate video
+content generation.
+FujiwaraChoki/
+MoneyPrinterV2
+Automate the process of making
+money online.
+14 15 1.7k 2k
+06 remotion-dev/
+remotion
+Benefit: Programmatic video
+generation using React code.
+remotion-dev/
+remotion
+Make videos programmatically
+with React.
+295 3k 2k 21k

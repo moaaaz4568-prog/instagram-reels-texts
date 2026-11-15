@@ -1,0 +1,20 @@
+powers newsletters → finds content and growth clients
+15 / 20
+GitHub
+public repository
+TryGhost / Ghost
+Public
+54.6k
+Fork
+Star
+Used by your lead list
++ thousands
+★ 54.6k
+JavaScript
+WHAT IT DOES
+publishing platform for newsletters, memberships and subscriptions
+WHO IT IS FOR
+everyone here is trying to grow an audience. sell content, growth or newsletter ops.
+THE EXACT LINK
+github.com/TryGhost/Ghost/network/dependents
+● the github method

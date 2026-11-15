@@ -1,0 +1,5 @@
+When the AI breaks something, can you roll back to a version that worked?
+YES
+You've got real save points. That's the whole game. Level up!
+NO
+Totally fine! Commit after every feature that works, so when the next prompt breaks it, you just go back.

@@ -1,0 +1,18 @@
+Gigantic internet
+-scale dataset
+Base LLM
+Pre-training
+Fine-tuned LLM
+Supervised fine-tuning
+Specific
+Knowledge Base
+Max Token
+Sets the maximum length of the answer the AI
+can give. If the number is small, answer is small
+too.
+Value Range : 1 to Infinity.
+Use Case
+• Limit chatbot responses to concise answers,
+ensuring clear and focused conversations.
+• Control length when summarizing long documents,
+avoiding truncated or incomplete outputs.

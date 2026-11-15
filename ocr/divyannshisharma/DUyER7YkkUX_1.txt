@@ -1,0 +1,12 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+All premium AI chatbots in one place
+https://yupp.ai/
+Leaderboard BETA
+Home Text Image Coding Search
+Models Topics Language More Speed
+Last updated about 2 hours ago
+RANK NAME VIBE SCORE CONFIDENCE INTERVAL VOTES DOWNVOTE % ABORT RATE SPEED LATENCY CONTEXT COST (INPUT) COST (OUTPUT)
+1 Claude Opus 4.6 (Thinking) 1446 +4 7.6K 1.2% 2.2% 39 tps 2.3s 200K $5.00 $2.50
+2 Claude Opus 4.6 1414 ±4 13.6K 1.1% 1.6% 38 tps 2.6s 200K $5.00 $2.50
+3 GPT-5.1 (High) 1326 +2 53.5K 2.2% 2.2% 70 tps 5.0s 400K $1.25 $1.50

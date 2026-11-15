@@ -1,0 +1,44 @@
+GenAI Agents
+https://github.com/nirdiamant/GenAI_Agents
+
+microsoft / ai-agents-for-beginners
+Code
+Issues
+Pull requests
+Actions
+Projects
+Models
+Security
+Insights
+main
+33 Branches
+0 Tags
+About
+12 Lessons to Get Started with AI Agents
+ai-agents-for-beginners
+last month
+2 weeks ago
+last month
+last month
+2 weeks ago
+3 weeks ago
+3 weeks ago
+3 weeks ago
+3 weeks ago
+
+leostett Merge pull request #471 from microsoft/update-translations
+updated to Microsoft Foundry
+fix pin devcontainer Python version to 3.12
+chore: Update outdated GitHub Actions versions
+Add SSL certificate troubleshooting documentation for macOS
+Suppress spurious runtime warnings from agent framework
+Add missing @azure/identity-keyvault secret's source file with funct...
+Suppress spurious runtime warnings from agent framework
+
+@divyanshisharma
+
+Microsoft
+AI Agents for Beginners
+Start with Code →
+
+@divyanshisharma

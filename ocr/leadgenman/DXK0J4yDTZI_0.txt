@@ -1,0 +1,13 @@
+the AI stack
+in 6 layers
+everything from silicon to your prompt, drawn on one board
+you -- the driver
+agents -- the loops
+tools -- the reach
+runtime -- the hands
+model weights -- the brain
+hardware -- silicon
+swipe -> see every layer of your AI, explained
+LOLI L
+ined
+:)

@@ -1,0 +1,18 @@
+Awesome
+8. Awesome Claude Code
+https://github.com/hesreallyhim/awesome-claude-code
+hesreallyhim / awesome-claude-code Public
+Code Issues 119 Pull requests Discussions
+main 7 Branches 0 Tags
+Actions Security Insights
+Go to file
+github-actions[bot] chore: update repo ticker data and SVGs [skip ci]
+claude/commands enforce using issue template
+.github Enable issue and pull request events in workflow
+README_ALTERNATIVES update resource name
+assets chore: update repo ticker data and SVGs [skip ci]
+data chore: update repo ticker data and SVGs [skip ci]
+docs policy updates
+resources feat: add Awesome style - ONE SHOT
+scripts Cooldown policy (#311)
+templates policy updates

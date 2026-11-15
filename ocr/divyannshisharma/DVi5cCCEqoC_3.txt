@@ -1,0 +1,22 @@
+Divyanshi | Agentx AI Expert
+Part 1: Set Up Your Second Brain Structure
+Step 1
+Go to obsidian.md, download app
+Step 2
+Noah’s Ark Bank free vault template
+Obsidian Help
+Themes
+Browse themes
+Install a new theme
+Open Settings
+Under Appearance > Themes, select Manage
+Select the theme you want to use, and then select Install and use.
+Obsidian installs the theme and immediately applies it. To revert back to the default theme, select
+a different theme from the list.
+ON THIS PAGE
+Browse Themes
+Install a new theme
+Update Themes
+Uninstall an existing theme
+Learn more
+INTERACTIVE GRAPH

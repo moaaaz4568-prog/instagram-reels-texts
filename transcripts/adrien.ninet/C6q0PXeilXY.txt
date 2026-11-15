@@ -1,0 +1,1 @@
+Web design hack to be more productive. This Figma plugin allows you to streamline the wireframe process. Simply add information about your business and the site's structure, and the AI will generate your wireframe. And of course, it's fully customizable.

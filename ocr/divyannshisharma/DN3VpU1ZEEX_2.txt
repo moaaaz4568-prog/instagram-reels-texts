@@ -1,0 +1,12 @@
+2
+Keep Inbox Volume
+Low
+Limit to 30 emails/day/domain
+Use multiple domains to avoid spam.
+inbox
+Gmail
+yahoo!
+outlook
+yahoo.com
+aol
+aol.com

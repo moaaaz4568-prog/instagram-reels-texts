@@ -1,0 +1,27 @@
+n8n-MCP
+3. n8n-MCP
+https://github.com/czlonkowski/n8n-mcp
+czlonkowski / n8n-mcp Public
+Code Issues 72 Pull requests 25 Discussions Actions Projects Security Insights
+main 65 Branches 167 Tags
+Go to file
+czlonkowski and claude chore: update n8n to 2.13.3 (#666) X
+07b1dd4 · 10 hours ago
+feat: rename n8n_trigger_webhook_workflow to n8n_test_wor...
+chore: update n8n to 2.13.3 (#666)
+chore: update n8n to 2.13.3 (#666)
+feat: add n8n integration with MCP Client Tool support
+chore: update n8n to 2.13.3 (#666)
+fix: resolve Docker entypoint permission test failures in CI
+docs: remove outdated docs/CHANGELOG.md
+feat: Complete overhaul to enhanced documentation-only M...
+fix: deprecate USE_FIXED_HTTP for SSE streaming support (iss...
+.claude/agents
+.github
+data
+deploy
+dist
+docker
+docs
+examples
+scripts

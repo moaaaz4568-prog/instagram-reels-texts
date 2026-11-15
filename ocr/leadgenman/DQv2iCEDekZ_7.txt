@@ -1,0 +1,7 @@
+Is coding required?
+• No programming knowledge necessary
+• Drag-and-drop conversation flows
+• Pre-built voice & LLM providers ready
+• One-click integrations with your tools
+• Test with built-in phone simulator
+• Deploy to phone number in seconds

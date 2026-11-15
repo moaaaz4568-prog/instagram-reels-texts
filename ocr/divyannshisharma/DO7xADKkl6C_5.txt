@@ -1,0 +1,19 @@
+Step #5
+I want to build an AI agent on n8n that helps me get emails of leads from local businesses on google maps. For example: "interior designer bangalore" agent then gets the websites from the google maps listings for the specific search query, then the agent goes through each website and gets the email address from each website.
+Give me a step by step guide to build this ai agent on n8n, tell me all the nodes required and all the inputs or change in settings of those nodes.
+Thought for 2m 25s
+Awesome idea. Here's a clear, battle-tested way to build this in n8n so you can query a like "interior designer bangalore", pull Google Maps listings, grab each website, and extract emails.
+I'll give you:
+• a Recommended (Google Places API) workflow — reliable & ToS-friendly
+• two "no-API" alternatives (SerperAPI node / Apify Maps Scraper)
+• copy-paste ready node settings, expressions, and the exact Code node you need for email extraction
+• optional exports to Google Sheets/CSV
+0) Prereqs (quick)
+• n8n: any recent version (cloud or self-hosted).
+• Google Cloud + Places API enabled, with a Server API key.
+Unlock more with Plus
+ChatGPT Plus gives you higher limits, smarter models, and Sora for video.
+Upgrade your plan
+Ask anything
+ChatGPT Prompt
+I want to build an AI agent on n8n

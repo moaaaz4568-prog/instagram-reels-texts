@@ -1,0 +1,15 @@
+BENNETTOS
+03 / 09
+// 01 • CONDUCTOR + DEPT HEADS
+CLAUDE CODE,
+HEADLESS.
+The Conductor and every department head are Claude
+Code running headless – spanwed by Paperclip,
+working in tmux, committing like a senior engineer.
+It signs in with OAuth on the Max plan: no API key,
+no per-token meter. The subscription is the payroll.
+$ Claude -p # headLess : OAuth, not the API
+@bennettos
+SWIPE →
+@bennettos
+SWIPE →

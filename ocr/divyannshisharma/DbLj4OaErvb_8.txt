@@ -1,0 +1,36 @@
+Supabase: scheduled tasks + live dashboard
+
+Claude Cowork
+Video Ideas Tracker
+LIVE • SUPERBASE
+Your ideas pipeline, pulled live from the youtube-tracker database. Add ideas, move them through the pipeline, done.
+5 TOTAL
+5 IDEAS
+0 SCRIPTED
+0 FILMED
+0 PUBLISHED
+Type a new video idea and hit Enter...
++ Add Idea
+
+All Ideas Scripted Filmed Published
+IDEA X
+Build an n8n porn search with Fable 5
+Added Jun 12, 2025
+IDEA X
+Claude Cowork vs Claude Code (explained for normal people)
+From the idea between Claude Cowork and Claude Code for machine translations. Add ideas, move them through the pipeline, done.
+Added Jun 12, 2025
+IDEA X
+How to use Claude Cowork better than 99% of people
+Added Jun 12, 2025
+IDEA X
+Top 5 Claude Cowork Connectors (steal them)
+Added Jun 12, 2025
+IDEA X
+Full Claude Cowork Course
+Added Jun 12, 2025
+
+Built with ❤️ Claude Cowork • synced live with Supabase (youtube-tracker)
+
+Set a task to run every morning — like scraping YouTube stats. Claude does it automatically, no clicking from you.
+The data flows into a live dashboard that updates itself. Your whole content pipeline, tracked in one place.

@@ -1,0 +1,19 @@
+STEP 4
+Send Booking Data
+When someone says:
+"I need a haircut Saturday around 2."
+Retell sends n8n:
+service: Haircut
+date: Saturday
+time: 2:00 PM
+timezone: America/Los_Angeles
+n8n now handles the actual booking logic.
+Check Google Calendar
+Connect Google Calendar to n8n.
+Check:
+Saturday → 2 PM
+Then:
+AVAILABLE?
+YES → Continue
+NO → Find another time
+Never let the AI invent availability.

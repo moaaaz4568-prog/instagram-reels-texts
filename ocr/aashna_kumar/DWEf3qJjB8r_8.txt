@@ -1,0 +1,3 @@
+@aashna_kumar
+7. DM REPLY PROMPT
+Write a 3-message Instagram DM sequence for someone who commented [keyword] on my post about [topic]. I sell a digital product called [product name] that helps [audience] get [result]. Message 1: send the free resource and make them feel understood Message 2 (after 24 hrs): share a relatable success story Message 3 (after 48 hrs): gently invite them to check the product Tone: friendly, helpful, no pressure. Like talking to a friend.

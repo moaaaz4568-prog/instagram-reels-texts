@@ -1,0 +1,14 @@
+Step #4
+OUTPUT
+query
+downtown+los+angeles+dentist
+hollywood+dentist
+santa+monica+dentist
+westwood+dentist
+west+la+dentist
+the+valley+dentist
+echo+park+dentist
+culver+city+dentist
+pasadena+dentist
+silver+lake+dentist
+Edit JSON node to add search terms

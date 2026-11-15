@@ -1,0 +1,42 @@
+.claude - tilt - leadgenman
+EXPLORER
+.claude
+CLAUDE.md
+agents
+code-reviewer.md
+debugger.md
+hooks
+pre-commit.sh
+post-edit.sh
+mcp
+magician.json
+notion.json
+skills
+remotion-edit.md
+sounddefect.md
+settings.json
+remotion-edit.md
+programmatic videos
+---
+name: remotion-edit
+description: Compose programmatic videos
+with Remotion v4
+user-invocable: true
+---
+# Remotion Video Editing
+Use this skill when Manthan asks to
+"render a video", "build a Remotion comp",
+or generate MP4s programatically.
+## Project setup
+- npx create-video@latest test
+- Composition: 1080x1920 @ 30fps
+- Audio: <Audio src={staticFile("vo.mp3")} />
+## Build a scene
+- One <Sequence> per beat
+- spring() for entry, interpolate() for tween
+- Stagger with delayRender + continueRender
+- Use <Series.Sequence> for stacked beats
+## Typography & motion
+.cLAUDE CODE SETUP
+The .claude folder that makes
+Claude Code 10x sharper

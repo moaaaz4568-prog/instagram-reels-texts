@@ -1,0 +1,14 @@
+Tips for Cleaner Flows
+Keep flows neat and structured to make debugging and collaboration easier.
+Trigger: Webhook
+Menerima data dari form masuk
+Start Point
+Task: Simpan ke Database
+Menyimpan & menyimpan data ke tabel
+Processing
+Logic: IF Branch
+Jika "plan" == "premium", lanjut.
+Logic
+Action: Kirim Notifikasi
+Mengirim pesan konfirmasi
+End Point

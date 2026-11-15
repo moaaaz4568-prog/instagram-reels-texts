@@ -1,0 +1,10 @@
+01 / 05
+01
+The Social Media Agent
+Start in VS Code. Install Claude Code extension, enable bypass permissions.
+Connect your Anthropic account
+Clone the AI agent social media manager repo.
+CLAUDE CODE
+SETUP
+AI
+@divyanshisharma

@@ -1,0 +1,9 @@
+Prompt #5
+The Market Shift Scenario
+"Generate 3 plausible market shifts that could happen in the next 18 months and would seriously damage my current business model.
+For each scenario:
+1. What changes (regulatory, technological, or consumer behavior)
+2. How it specifically impacts my revenue, customers, or competitive position
+3. The early warning signs I should be watching for right now
+4. What I'd need to pivot or adjust if it happens Don't give me doomsday fantasies. Give me the realistic shifts that have a real chance of happening.
+Here's my business and market: [DESCRIBE YOUR BUSINESS, INDUSTRY, AND CURRENT MARKET POSITION]"

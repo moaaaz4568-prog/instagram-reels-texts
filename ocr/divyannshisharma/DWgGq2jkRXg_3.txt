@@ -1,0 +1,16 @@
+Which Claude
+Mode to Use When
+
+Claude has four modes.
+
+Tool	What it is	Use when
+Chat	Browser interface	Quick questions, drafts, brainstorming
+Cowork	Desktop agent	Delegating multi-step tasks to files
+Code	Terminal dev tool	Writing, running, and managing code
+Projects	Saved workspaces	Recurring work with consistent context
+
+Chat for quick questions. Cowork for real work on your files. Code for development. Projects for recurring work with stable context.
+
+@divyanshisharma
+
+save for later

@@ -1,0 +1,13 @@
+Step 6
+Paste into Replit
+Copy the brief Claude produced or save it as a .md and attach it. Tick Plan mode first, then paste. The agent lays out a full build plan before writing a single line of code.
+Replit Agent · Plan mode
+Hi Usama, what do you want to make?
+(Top tip, this is a large prompt, so save it as an MD file. This is what is attached in this prompt box)D
+replit-ai-sdr-build-prompt_(1)_1781708393921.md
+Website
+Mobile
+Design
+Animation
+Slides
+Try an example prompt

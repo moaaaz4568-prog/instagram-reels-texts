@@ -1,0 +1,27 @@
+The Vibe Stack
+10
+Algo-Trading & Financial Markets
+AI POWERED ALGORITHMS
+AI-powered tools
+13 nautechsystems/
+nautilus_trader
+Benefit: A high-performance platform for algorithmic trading.
+14 ArvinLovegood/
+go-stock
+Benefit: A local AI tool for stock analysis & market analysis.
+15 Usagi-org/
+ai-goofish-monitor
+Benefit: Product monitoring on the Chinese marketplace Idle Fish using AI.
+16 rtk-ai/
+rtk
+How it saves: A CLI proxy that reduces LLM token consumption by 60-90%.
+17 BlockRunAI/
+ClawRouter
+How it saves: Slashes up to 78% of your LLM budget.
+18 xtekky/gpt4free
+cheajhs/free-llm-api-resources
+How it saves: Deep collections of free APIs and reverse-engineered bypasses.
+xtekky/gpt4free
+The unofficial guide to exclusively various collections of powerful LLMs (GPT, gemini, Llama) for free. So, I am 23 & desperate 1337.
+251 8k 3k 11k 83k 14k
+Contributors Issues Discussions Stars Forks

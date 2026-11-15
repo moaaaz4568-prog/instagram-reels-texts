@@ -1,0 +1,11 @@
+Building AI automations with Gemini 3 Pro + n8n
+Image Analysis
+On form submission
+Analyze Image
+OpenAI Answer
+Analyze an image
+Analyze G
+Google manual
+Execute workflow from on form submission
+Open chat
+Swipe for (the complete guide)

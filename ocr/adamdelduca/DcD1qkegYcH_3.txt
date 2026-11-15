@@ -1,0 +1,8 @@
+Adam | YouTube
+@Adam_DelDuca
+
+Prompt 2 (Claude)
+
+"Based on those patterns, write 30 video titles for the [NICHE]. Every title under 40 characters, selling a specific outcome. Rank them by evergreen potential and tell me which 5 you'd publish first. "
+
+Making it rank the ideas is the part everyone skips

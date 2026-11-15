@@ -1,0 +1,23 @@
+EXIT
+Warm email:
+- We scrape emails from our competitor's
+leads usingPersana Al
+We send 600-700 warm emails a week
+which are highly personalized
+Like this√
+T
+TFull Name
+TLinkedln
+TCompany Website
+TWorkEmail
+TEmail Status
+NatNatraj
+http://www.linked...
+http://www.accuk...
+nat@accuknox.com
+VALID
+NoahKerner
+http://www.linked...
+http://www.acorn...
+n.kerner@acorns.c...
+INVALID

@@ -1,0 +1,42 @@
+Step #5
+Limit
+Parameters
+Max Items
+25
+Keep
+First Items
+creator
+title
+LinkedIn
+66 S
+English
+Fac
+in U
+State
+LinkedIn
+12,0
+Solu
+Deve
+in U
+Man
+State
+OUTPUT
+25 Items
+Docs
+creator
+title
+LinkedIn
+66 S
+English
+Fac
+in U
+State
+LinkedIn
+12,0
+Solu
+Deve
+in U
+Man
+State
+Process & organize job postings
+automatically

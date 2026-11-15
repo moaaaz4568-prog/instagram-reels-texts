@@ -1,0 +1,8 @@
+GENERATE
+PRESENTATIONS
+How I Built a Thumbnail Skill for Claude
+Full PowerPoint decks, themed, GIFs, images,
+svgs, speaker notes. Generates the entire
+.pptx file from a single prompt.
+@itsylgermain
+save for later

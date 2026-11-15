@@ -1,0 +1,145 @@
+Master Claude Code
+The Complete Guide for Everyone
+
+1: Why Claude Code Changes Everything
+- Chat window
+- Uploads limits
+- Sessions expire
+- You do everything
+
+Claude Code
+- Full system access
+- All files, any size
+- Hours-long tasks
+- AI terminates
+
+From Assistant to Operating System
+Claude Code transforms AI from a chat tool you use in an operating system layer that runs across your entire workflow. It's the difference between asking for help and having a capable teammate who can actually execute.
+
+Links: 
+- /How to Use Claude Code for Work
+- /Guide to Claude Convs
+
+2: What Claude Code Can Do
+Full File System Access
+Read, write, create, organize, and delete any file on your system. Impact: Process 10,000 files in minutes vs. hours of manual uploads.
+Links: 
+- /Full File System Access
+- /Advanced File Operations
+
+MCP Connections (200+ Tools)
+Connect to GitHub, Notion, Slack, Jira, databases, and more. Claude Code will use existing tool access. Impact: One interface for your entire tool ecosystem.
+Links: 
+- /Basic Guide
+- /Advanced MCP Setup
+
+3: The Claude Code Workflow
+For Product Managers
+- Analyze & Research
+- Draft PRDs/Docs
+- Research competitors
+- Summarize meetings
+- Create & Revise
+- Write user stories
+- Create roadmaps
+- Prioritize features
+- Scale & Repeat
+- Automate reports
+- Batch process docs
+- Build knowledge bases
+
+For Developers
+- PRD from Chat
+- Jira tickets auto-created
+- ALPACA framed
+- Code & Debug
+- Full file system access
+- Auto-fix errors
+- Debug complex issues
+- Test & Deploy
+- Run tests
+- Deploy to staging
+- Monitor production
+
+4: Getting Started
+Recommended Setup Path:
+Best Experience: Use with Cursor IDE
+1. Download Cursor (cursor.com)
+2. Open your project folder in Cursor
+3. Open terminal inside Cursor (View > Terminal)
+4. Type claude and press Enter
+5. Authenticate w/ browser popup
+
+Requirements Checklist:
+- macOS 10.15+, Ubuntu 20.04+, or Windows 10+ (WSL2)
+- claude CLI (npm install -g @anthropic/claude)
+- Claude API key (min. $200.200/mo. or API credit balance)
+
+Links: 
+- /How to Use Claude Code Like a Pro
+- /Official Docs
+- /Setup Guide
+- /MCP Configuration
+- /Best Practices
+
+5: Connect Everything (MCP)
+What is MCP?
+Model Context Protocol—an open standard that connects Claude to your tools. Think of it as USB-C for AI: one protocol, hundreds of connections.
+
+Impact:
+- Productivity: 10x faster
+- Quality: Fewer errors
+- Scale: Handle enterprise workflows
+
+File References (type @ to reference)
+Syntax | Example
+---|---
+@filename | @README.md
+@folder | @src/
+Table key | @database
+Auto-complete paths | @/app/components/Button.tsx
+
+Keyboard Shortcuts
+Keys | Keys
+---|---
+Ctrl+C | Escape
+Ctrl+Z | Undo/Redo
+Cmd+Shift+P | Palette command
+
+6: Essential Commands
+Why commands? You precise control. Instead of typing long instructions, one command triggers complex actions.
+
+Command | What it Does (in Claude Code)
+---|---
+@/ | Show all available commands
+/mcp | Show connected MCP servers
+/accept | Compress conversations to save tokens
+/reject | Discard suggested changes
+/improce | Check MCP server connections
+/doctor | Diagnose installation issues
+/comm | Communication
+
+Links: 
+- /Prompt Engineering Guide
+- /Antropic Basic Practices
+
+7: Skills & CLAUDE.md
+Claude Code uses CLAUDE.md files to remember context across sessions. Think of it as persistent memory that persists between chat sessions.
+
+Task-specific instructions (activate when relevant)
+- Auto-applied when working on specific tasks
+- Personalized workflows that improve over time
+
+Folder Structure:
+├── /CLAUDE.md (Project Memory)
+├── /CLAUDE/ (Custom Instructions)
+│   ├── /code-style.md
+│   ├── /workflow.md
+│   └── /best-practices.md
+
+CLAUDE.md (Project Memory)
+A markdown file that gives Claude permanent context about your project. Impact: Consistent, personalized AI assistance.
+
+Example: CLAUDE.md
+# Project: E-commerce Dashboard
+## Tech Stack

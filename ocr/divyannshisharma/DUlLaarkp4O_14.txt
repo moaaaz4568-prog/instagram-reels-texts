@@ -1,0 +1,10 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Commands:
+1. Lifecycle
+bash
+antfarm install
+Install all bundled workflows
+bash
+antfarm uninstall
+Full teardown (agents, crons, DB)

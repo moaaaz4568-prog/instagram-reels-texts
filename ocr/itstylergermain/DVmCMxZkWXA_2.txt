@@ -1,0 +1,30 @@
+Tip #1
+DON'T EXPOSE
+Your API Keys
+> src
+.env
+.env.local
+.gitignore
+CLA
+.gitignore
+# API keys
+.env.local
+# Python
+__pycache__
+*.pyc
+# macOS
+.DS_Store
+# Client data
+# To add a new client to the repo, remove/adjust these rules
+clients/*workspace/
+.env.template
+# Copy this to .env.local and fill in your values
+# We recommend using a .env.local file to store secrets
+TWILIO_API_KEY=
+TWILIO_API_SECRET=
+IMAGE_GENERATION_API_KEY=
+If you publish your API keys to
+Github ONE TIME, they are public
+forever
+@itsylergermain
+save for later

@@ -1,0 +1,1 @@
+7. a 19 year old founder scrapes chrome web store and app store reviews of big tools filtering for phrases like: "i wish it could." every "i wish" is a named person, publicly begging for a feature, with their use case written out. he builds mini saas from the idea and runs massive cold email campaign to the same ICPs he's at $40K MRR right now

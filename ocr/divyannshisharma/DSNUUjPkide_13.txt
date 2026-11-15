@@ -1,0 +1,24 @@
+Step #13
+Firefly workflow: Transcripts → Research → Auto-generated briefs.
+1. Trigger
+2. The Analyst
+3. Research Tool
+4. Delivery
+AI Research Analyst
+Short Term Memory
+Research Tool (Family)
+OpenAI Model
+Firefly Webhook
+Send Brief via Email
+Execute workflow
+Personal
+Firefly Call Analysis & Research B...
++ Add tag
+Editor
+Executions
+Evaluations
+Inactive
+Share
+Save
+Star 157,129
+Logs

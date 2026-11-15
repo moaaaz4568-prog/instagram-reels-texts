@@ -1,0 +1,11 @@
+AI Terminology
+Artificial Intelligence (AI)
+Machine Learning (ML)
+Neural Networks (NM)
+Deep Learning (DL)
+Transformers
+Generative AI (Gen AI)
+Generative Pre-Trained Transformers (GPT)
+Large Language Model (LLM)
+GPT-5
+ChatGPT

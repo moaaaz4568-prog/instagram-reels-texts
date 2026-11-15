@@ -1,0 +1,49 @@
+divyanshisharma
+3/4 Category (Prompt 116 - 130)
+Category 3:
+Research and Analysis
+
+116. Causal Chain Analysis
+Map the causal chain from [ROOT CAUSE] to [OUTCOME]. What are all the links in the chain, where could intervention have the most impact, and what feedback loops exist?
+
+117. Expert Synthesis
+You are synthesizing the views of five leading experts on [TOPIC]. Present the points of consensus, the key disagreements, and what the weight of expert opinion suggests.
+
+118. Trend Analysis
+Analyze the trend of [DESCRIBE TREND]. How long has it been building, what is driving it, how durable is it, and what are its second and third order effects?
+
+119. Decision Framework
+Build a decision framework for [DESCRIBE DECISION TYPE]. What factors matter, how should they be weighted, what information is needed, and what does a good decision process look like?
+
+120. Gap Analysis
+Conduct a gap analysis between [CURRENT STATE] and [DESIRED STATE] for [DESCRIBE CONTEXT]. What are the gaps, what causes them, and what would close them most efficiently?
+
+121. Root Cause Analysis
+Conduct a root cause analysis of [DESCRIBE PROBLEM OR FAILURE]. Use the 5 whys method, identify contributing factors, and recommend actions that address root causes not symptoms.
+
+122. Stakeholder Analysis
+Map the stakeholders for [DESCRIBE PROJECT OR DECISION]. Who has power, who is affected, what does each party want, and how should each be engaged?
+
+123. Hypothesis Generation
+Generate 10 testable hypotheses about [DESCRIBE PHENOMENON OR PROBLEM]. For each, describe what evidence would confirm or refute it and how it could be tested.
+
+124. Analogical Reasoning
+Find 5 historical or cross-industry analogies for [DESCRIBE SITUATION]. What can each analogy teach us and where does the analogy break down?
+
+125. Assumption Mapping
+Map all the assumptions underlying [DESCRIBE PLAN OR BELIEF]. Categorize them by how critical they are and how uncertain they are. Which assumptions most need to be tested?
+
+126. Second Order Effects
+Analyze the second and third order effects of [DESCRIBE DECISION OR TREND]. Go beyond the obvious first order effects and identify what most people are missing.
+
+127. Benchmark Analysis
+Benchmark [DESCRIBE SUBJECT] against industry best practices and top performers. Where does it rank, what specifically do the best performers do differently, what is improvement path?
+
+128. Customer Research Synthesis
+Synthesize these customer interviews and identify the most important patterns: [PASTE INTERVIEW NOTES OR TRANSCRIPTS]. What are the key pain points, desires, and surprising insights?
+
+129. Regulatory Landscape Analysis
+Analyze the regulatory landscape for [DESCRIBE INDUSTRY OR ACTIVITY] in [GEOGRAPHY]. What regulations apply, what is changing, and what are the compliance risks?
+
+130. Technology Roadmap Analysis
+Analyze the technology roadmap for [DESCRIBE TECHNOLOGY AREA]. What are the key milestones, what breakthroughs are needed, and what is the realistic timeline for [DESCRIBE CAPABILITY]?

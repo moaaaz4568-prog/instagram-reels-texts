@@ -1,0 +1,50 @@
+social media content workfl...
+Add tag
+Inactive
+Share
+Editor
+Executions
+Evaluations
+Media
+Content
+Factory
+Social Media
+Content Post Details
+Submit So...
+gpt-4o LLM
+Google Gemini LLM
+(Deactivated)
+SerpAPI
+Social Media
+Content
+Image Choice
+(Deactivated)
+Next Form Page
+Rename Binary File
+Is Content Approved?
+OpenAI
+Generate Image
+Save Image to
+POST /imgbotcloud
+http://imgbot.com/t...
+Merge
+combine
+Set Default True 2
+manual
+Build a Social Media Content
+Machine with n8n that:
+-Generates platform specific content
+(LinkedIn, Instagram, X, Facebook, etc.)
+-Uses GPT-4o and Gemini for post creation
+-Approves content before publishing
+-Auto-publishes 24/7 to all channels
+34°C Haze
+F12
+E
+R
+T
+I
+O
+P
+Y
+U

@@ -1,0 +1,53 @@
+5 Tier 2: Desktop scheduled tasks
+Runs later. Survives restarts.
+
+Claude
+Schedule
+Automate tasks that run later
+New task
+Create a one-time or recurring task
+New task
+Create a brief
+Task name
+Daily research
+Instructions
+Search the web for top AI news and research from the past 24 hours. Summarize the 5 most important items with sources and key takeaways.
+Schedule
+Every day
+Every day at 8:30 AM
+Time zone
+(UTC-7) Pacific Time (US & Canada)
+Claude will use
+Default (Claude 3.7 Sonnet)
+Notifications
+Default (Claude)
+Notify me when this task runs
+Cancel
+Create task
+
+All scheduled tasks run in the cloud. Learn more
+
+New scheduled task
+Task name
+Daily research
+Instructions
+Search the web for top AI news and research from the past 24 hours. Summarize the 5 most important items with sources and key takeaways.
+Schedule
+Every day
+Every day at 8:30 AM
+Time zone
+(UTC-7) Pacific Time (US & Canada)
+Claude will use
+Default (Claude 3.7 Sonnet)
+Notifications
+Default (Claude)
+Notify me when this task runs
+Cancel
+Create task
+
+What /loop can’t survive a restart. This fixes that.
+Schedule → New task → New local task
+Set the prompt, the cadence, the folder.
+What you get: survives reboots, every run starts fresh (no leftover context), permissions locked per task.
+What it still needs: your laptop awake.
+If it sleeps, the run gets skipped — turn on “Keep computer awake” in Desktop Settings.

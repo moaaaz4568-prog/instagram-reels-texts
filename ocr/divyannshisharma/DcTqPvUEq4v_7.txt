@@ -1,0 +1,29 @@
+08 How to install it
+How to
+install it,
+SKILL.md
+Fix Windows compatibility: encoding, installer hints, interp...
+3 days ago
+Publish your first package
+README MIT license
+Contributors
+bradautomates
+claude Claude
+Languages
+Python 92.4%
+/watch
+Give Claude the ability to watch any video.
+Claude Code:
+/plugin marketplace add bradautomates/clause-video
+/plugin install watch@claude-video
+claude.ai (web): download skill, and drop it into Settings → Capabilities → Skills.
+Codex / generic skills:
+git clone https://github.com/bradautomates/clause-video.git ~/.codex/skills/watch
+Zero config to start — yt-dlp and ffmpeg install on first run via brew on macOS (Linux/Windows for free). Whisper API key is only needed when a video has no captions.
+Downloading
+52%
+It's a free skill on GitHub.
+Two lines of code and you're done.
+Works on Claude Code,
+Claude.ai, or other AI
+tools too.

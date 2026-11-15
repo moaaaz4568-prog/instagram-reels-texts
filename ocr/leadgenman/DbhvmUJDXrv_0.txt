@@ -1,0 +1,35 @@
+My Production App Tool Stack
+GITHUB
+• code and ci checks
+NEXT.JS
+• frontend and backend
+VERCEL
+• hosting and deploys
+CLOUDFLARE
+• dns and ddos
+SUPABASE
+• database and auth
+CLAUDE CODE
+• writes every feature
+INTERCOM
+• live chat support
+POSTHOG
+• product analytics
+RESEND
+• receipts and logins
+STRIPE
+• every payment
+BEEHIV
+• newsletter to 25k readers
+SENTRY
+• catches errors
+CODEx
+• second agent on the repo
+AGER.DEV
+• background jobs
+TRIGGER.DEV
+• background jobs
+N8N & ZAPIER
+• ai automation & workflows
+BETTER STACK & UPSTASH
+• uptime alerts & cache

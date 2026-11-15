@@ -1,0 +1,2 @@
+#8
+Thinking step by step and output formatting

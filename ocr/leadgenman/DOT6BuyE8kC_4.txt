@@ -1,0 +1,16 @@
+AI Automation
+Automate with Intelligence
+AI Automation uses artificial intelligence to automate repetitive tasks, streamline processes, and improve efficiency without constant human input.
+Tool
+LLM
+Tool
+Tool
+Tool
+On form submission
+Basic LLM Chain
+LLM
+If
+Candidate Accepted
+send message
+Candidate Rejected
+send message

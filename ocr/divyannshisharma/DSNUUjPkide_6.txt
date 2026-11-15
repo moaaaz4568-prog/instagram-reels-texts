@@ -1,0 +1,30 @@
+Step #6
+Custom HTTP request unlocks low thinking mode. Gives control.
+No input connected
+No output data
+or set mock data
+Name
+Value
+Method
+POST
+URL
+Authentication
+None
+Send Query Parameters
+Send Headers
+Specify Headers
+Using Headers Below
+Header Parameters
+360Hz
+Fn
+Ctrl
+Alt
+Z
+X
+C
+V
+B
+N
+M
+Shift
+Ctrl

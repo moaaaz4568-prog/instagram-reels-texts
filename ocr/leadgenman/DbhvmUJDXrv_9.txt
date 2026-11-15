@@ -1,0 +1,7 @@
+Debug Prompts to Copy
+
+Debug from Sentry:
+"Here's the Sentry trace. Find the root cause, not the symptom. Tell me what broke before you change a single line."
+
+Before I merge:
+"Review this diff like you didn't write it. Flag anything that breaks in production, then tell me what you would delete."

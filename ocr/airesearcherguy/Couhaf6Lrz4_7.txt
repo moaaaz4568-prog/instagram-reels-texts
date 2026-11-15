@@ -1,0 +1,8 @@
+RULE: Things you add to the “query string” are appended to the URL. Many API calls have all parameters in the URL
+Query String
+Map
+Item 1
+Name
+token
+Value
+ANOTHERTOKEN

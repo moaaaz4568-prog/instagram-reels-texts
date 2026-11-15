@@ -1,0 +1,23 @@
+10
+Specify the output length
+The default is usually more than you need, which means more tokens used, more time spent reading, and more noise in the output.
+TOO LONG
+JUST RIGHT
+const requestStartTime = Date.now();
+const systemPrompt = '
+Provide your complete response in one go, without breaking up the text with meading, of length limitations, asking ...trim()
+';
+const aiResponse = await this.client.beta.promptCaching.messages.create({
+model: DEFAULT_CLAUDE_MODEL,
+system: systemPrompt,
+max_tokens: 8192,
+temperature: 0,
+messages: this.conversationHistory
+});
+This one instruction cuts token usage on most tasks by 40 to 60 percent without losing any of the value you actually need.
+Answer in 3 sentences maximum.
+Give me 5 bullet points. No explanations. Just the points.
+Write this in under 150 words.
+Tell it exactly how long you want the answer before it starts.
+Divyanshi sharma
+10/18

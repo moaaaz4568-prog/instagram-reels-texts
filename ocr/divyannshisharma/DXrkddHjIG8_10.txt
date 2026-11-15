@@ -1,0 +1,5 @@
+10. Skill Priority
+
+* Must-Have: Python, Prompt engineering, RAG systems, One cloud platform, Docker • High-Value: LangChain or PydanticAI, FastAPI, TypeScript, CI/CD, Kubernetes, PyTorch basics • Differentiators: Agent frameworks (LangGraph, CrewAI), Fine-tuning models, Evaluation systems, Vector databases
+
+Swipe →

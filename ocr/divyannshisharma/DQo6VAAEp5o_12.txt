@@ -1,0 +1,11 @@
+Step 9 →
+301 Level
+Best Practices & Takeaways
+
+Highlight source disagreements and data freshness.
+Add context if outputs seem generic.
+Cross-validate with multiple models for confidence.
+
+BEFORE: Difficult to parse quickly
+
+AFTER: Easy-to-digest overview

@@ -1,0 +1,17 @@
+STEP 6
+Punit Kumar
+06 / 09
+Add your business knowledge
+Create a separate system prompt file inside your project.
+Put everything the agent needs to know inside it:
+Business details
+Services
+Pricing
+Opening hours
+Location
+Policies
+FAQs
+Brand personality
+Booking rules
+The advantage?
+You can update the agent's behavior without rebuilding the entire application.

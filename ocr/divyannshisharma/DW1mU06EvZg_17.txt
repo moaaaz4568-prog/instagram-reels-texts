@@ -1,0 +1,13 @@
+17
+Free on NVIDIA NIM
+
+NVIDIA NIM hosts google/gemma-4-3b-it for free prototyping
+
+Experience tab with image + video prompt examples built in
+
+Reasoning toggle ON by default. OpenAI-compatible endpoint
+
+Made by
+Divyanshsharma
+
+18 →

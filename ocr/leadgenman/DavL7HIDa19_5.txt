@@ -1,0 +1,29 @@
+Lv 5
+Agent Teams
+Powerful -- but YOU are the orchestrator
+team-task.txt - Notepad
+File Edit Format View Help
+You spin up 3 sessions:
+"Each of you: write SEO blog articles for my SaaS."
+Terminal - session-1
+$ writing article 1/5...
+✓ Outline drafted
+✓ 1,200 words written
+► Waiting for YOUR review...
+Terminal - session-2
+$ writing article 2/5...
+✓ Keyword research done
+✓ Draft complete
+► Waiting for YOUR review...
+Terminal - session-3
+$ writing article 3/5...
+✓ Competitor scan done
+✓ Drafting intro...
+► Waiting for YOUR review...
+Terminal - you (orchestrator)
+$ reviewing session 1...
+✓ Approved article 1
+✓ Checking session 2...
+► Session 3 drifted off-topic
+Most devs live here. You review everything.
+06 / 09

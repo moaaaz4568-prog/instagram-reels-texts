@@ -1,0 +1,15 @@
+12 THINGS TO WATCH OUT FOR
+………
+Things to watch
+out for.
+A few important warnings before you start:
+
+It runs longer than you expect. Hard tasks at high effort settings can run for many minutes. This is normal.
+
+It can go beyond what you asked for. Fable is proactive by design. Use checkpoints to keep it in bounds.
+
+Your old prompts may hurt you. Prompts you built for earlier Claude models can actually produce worse results on Fable 5. Start fresh.
+
+It costs more. This is the most powerful and most expensive model Anthropic has built. Use effort levels wisely.
+
+If it stops early — just say “go ahead and do it end to end. “That’s enough to get it moving again.

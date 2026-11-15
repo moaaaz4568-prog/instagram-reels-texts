@@ -1,0 +1,3 @@
+Layer 5 - Learning
+Feedback loops: short-term (session), long-term (persistent memory), and external. Use supervised, unsupervised, reinforcement learning to evolve agent behavior.
+AI Agent Architecture

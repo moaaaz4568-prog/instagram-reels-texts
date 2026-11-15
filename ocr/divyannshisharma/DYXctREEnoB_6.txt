@@ -1,0 +1,56 @@
+NotebookLM
+14 tools.
+05 / 18
+Code & Dev Agents
+> _
+* Aider
+Open source terminal AI pair programmer
+Code & dev open source
+* Continue.dev
+Open source AI code assistant VS Code plugin
+Code & dev open source
+* OpenHands
+Open source AI software development agent
+Code & dev open source
+* SWE-agent
+Princeton open source AI software engineer
+Code & dev open source
+* MetaGPT
+Open source multi-agent software dev framework
+Code & dev open source
+* Plandex
+Open source AI for large complex coding tasks
+Code & dev open source
+* Devika
+Open source Devin alternative, agentic coding
+Code & dev open source
+* FauxPilot
+Open source local Copilot complex coding tasks
+Code & dev open source
+* Tabby
+Open source self-hosted GitHub Copilot alternative
+Code & dev open source
+* StarCoder2
+HuggingFace open weights code model family
+Code & dev open weights
+* CodeT5-
+Salesforce open weights understanding code
+Code & dev open source
+* Codestral
+Mistral's open weights code model, fast
+Code & dev open weights
+* DeepSeek-Coder-V2
+DeepSeek open weights state-of-art coding model
+Code & dev open weights
+* Mentat
+Open source CLI coding agent, context-aware
+Code & dev open source
+* CodeT5+
+Source code model
+open source
+* Codestral
+* Mentat
+* CodeT5
+* Meta
+Open source CLI coding agent, context-aware
+Open source CGI interface

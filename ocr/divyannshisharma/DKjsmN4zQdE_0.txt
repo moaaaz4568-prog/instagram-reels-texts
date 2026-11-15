@@ -1,0 +1,9 @@
+find your
+client lookalikes
+for free
+Google
+Sheets
+companyname domainname traffic
+Lay lay.com =gettraffic(B2)
+Barry barry.co
+Notion notion.com

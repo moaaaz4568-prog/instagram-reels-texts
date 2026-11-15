@@ -1,0 +1,7 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+Local Setup: Prerequisites
+II. Optimal Setup (+exact steps)
+Mac, Linux, or Windows with WSL2
+8GB+ RAM (16GB recommended)
+Node.js 22+ (installer handles this)

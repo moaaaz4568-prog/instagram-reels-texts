@@ -1,0 +1,23 @@
+Search Leads with
+Custom Google Search
+
+Tell the system who you're
+targeting—niche + geo and
+automate scraping search results.
+
+A. Paginate the entire google search
+
+Add Page
+module
+
+Set to
+"Run once for
+all item"
+
+Auto
+search all
+URLs
+
+Auto
+search all
+URLs

@@ -1,0 +1,15 @@
+Divyanshi | Agentic AI Expert
+@divyanshisharma
+
+WATCH HIM DO IT:
+Just give Claude these skills
+
+SetupClaw
+
+Claude --allow-dangerous-skip-permissions
+
+this is great.
+
+bypass permissions on - 1 bash
+
+......

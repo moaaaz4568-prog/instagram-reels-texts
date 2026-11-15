@@ -1,0 +1,8 @@
+The Models: What You're Working With
+There's three model tiers
+Opus 4.6 — Best quality, highest cost ($5/$25/M tokens). Use for complex, high-stakes, one-off tasks. Don't use for anything you run repeatedly.
+Sonnet 4.6 — The default for most people ($3/$15/M tokens). Fast, capable, 40% cheaper than Opus. Start here and only upgrade if needed.
+Haiku 4.5 — Cheapest and fastest. Good for high-volume API pipelines. Avoid in agentic setups with untrusted input — no prompt protection.
+Default to Sonnet. Escalate to Opus only when quality demands it. Use Haiku only when volume and cost matter most.
+@divyanshisharma
+save for later

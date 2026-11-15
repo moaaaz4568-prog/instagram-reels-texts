@@ -1,0 +1,27 @@
+#2
+Select Telegram as your messaging channel for instant bot access
+SimpleClaw.com
+Deploy OpenClaw under 1 minute
+Avoid all technical complexity and one click deploy your own 24/7 active OpenClaw instance under 1 minute.
+Which model do you want as default?
+Claude Opus 4.5
+GPT-4o
+Gemini 2.0 Flash
+Which channel do you want to use for sending messages?
+Telegram
+Discord
+WhatsApp
+Connect Telegram to continue. You can also add other channels to same account in the future.
+Deploy OpenClaw
+SimpleClaw.com
+Contact Support
+2:00
+@BufferAI
+What can this bot do?
+BufferAI is the one bot to rule them all. Use it to create new post, account insights and manage your entire social media.
+About Telegram bots:
+Telegram bots are programs that run within Telegram.
+Read API manual
+Contact @BufferAI if you have questions about the Bot API.
+Tap here to use this bot
+Start

@@ -1,0 +1,1 @@
+Most people using Claude Code don't know these exist. It's packed with skills, prompts, agents, and memory systems, all free, all open source, all built to make Claude Code actually dangerous. Save this before your next build.

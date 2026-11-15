@@ -1,0 +1,29 @@
+Step #4
+AdSpy AI
+Ad Creative
+Competitor Intelligence
+Creating New Variations...
+AI IMAGE EDITOR
+Analyze competitor ads & generate winning variations
+Back to start
+Preview
+Code
+Full-competitor ads (Facebook, YouTube, etc.) and Gemini analyzes their hooks, value propositions, CTAs, and generates similar variations for you to test.
+Thought for 6 seconds
+metadata.json
+index.html
+index.tsx
+types.ts
+services/apiService.ts
+components/Layout.tsx
+App.tsx
+Checkpoint
+View diff
+Restore
+FHD 360Hz
+Lock
+A S D
+Z X C V
+B N M
+Alt Gr
+Ctrl

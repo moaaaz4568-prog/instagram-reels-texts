@@ -1,0 +1,19 @@
+S
+Supervised Learning
+Training a model on labeled data where
+correct answers are provided
+
+T
+Tokens
+The smallest units of text an AI reads --
+roughly 3/4 of a word
+
+U
+Unsupervised
+Learning patterns from data without
+human-labeled examples
+
+V
+Vector DB
+A database optimized for storing and
+searching embeddings

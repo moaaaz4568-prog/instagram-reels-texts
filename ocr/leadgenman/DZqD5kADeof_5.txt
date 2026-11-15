@@ -1,0 +1,10 @@
+Claude Code v2.1.169
+MUSIC
+SFX
+ORCHESTRATOR
+ANIMATION
+RETAKES
+1 ORCHESTRATOR · 5 AGENTS
+Claude Code
+Don't just chat with AI, run Claude Code right inside your real project...
+...with a CLAUDE.md, hooks & agents, however you would.

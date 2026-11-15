@@ -1,0 +1,18 @@
+STEP 1 OF 5
+Scaffold
+Fresh Next.js app. Connect Supabase. Install deps. Your mise en place.
+
+npx create-next-app@latest my-saas
+Creating a new Next.js app in ./my-saas
+
+Installing react, react-dom, next...
+Added 127 packages in 8s
+cd my-saas && npm i @supabase/supabase-js
++ @supabase/supabase-js@2.49.1
+
+• TypeScript + Tailwind + shadcn/ui
+• Supabase project linked
+• Folder structure ready
+
+Chef's tip:
+Mise en place. Install every tool before writing product code.

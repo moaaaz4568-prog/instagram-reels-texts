@@ -1,0 +1,102 @@
+TOP TOOL #6
+#6: Open LLM VTuber.
+An AI friend that lives on your desktop.
+06
+October
+Cartoon character
+powered by AI
+Hears your voice,
+sees your screen,
+remembers things
+You can watch it
+think before it
+speaks.
+Runs 100% offline.
+Never forgets you.
+Hears Your Voice
+Sees Your Screen
+Remembers Things
+Thinks Before
+It Speaks
+100% Offline
+Never Forgets You
+Always there.
+Always yours.
+Open LLM VTuber
+Your AI companion
+remembers and th
+Open-LLM-VTuber / Open-LLM-VTuber
+About
+Talk to any LLM with hands-free voice
+interaction, voice interruption, and
+Live2D talking face running locally
+across platforms.
+open-llm-vtuber.github.io/
+chatbots live2d local-web
+llm ai-vtuber ai-waifu ollama
+neuro-sama
+companion
+Readme
+Solutions Resources Open Source Enterprise Pricing
+Sign in Sign up
+Search or jump to...
+Star 8.3k
+Fork 1.1k
+Issues 91
+Pull requests 14
+Discussions 9
+Actions 19
+Wiki
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Wiki
+14172 commits
+4 months ago
+feat: camera, copilot, gemini rules for code assist and...
+10 months ago
+feat: camera, copilot, gemini rules for code assist and...
+10 months ago
+fix: de docker image test
+4 months ago
+Rename "さなちゃん" to "さなこ" using Live2D config to balance 2x.png
+7 months ago
+update config, add character menu
+11 months ago
+ui: doc: add more readme in directories
+11 months ago
+ui: doc: add more readme in directories
+5 months ago
+feat: add Firebase support in shimai_orca_ayumi.json
+#233
+5 months ago
+doc: add warning message for doc directory
+11 months ago
+Version 1.2.1 (bug fix) (#266)
+10 months ago
+LLM VTuber
+that sees, hears,
+thinks with you.
+Voice
+Chat
+Screen
+Aware
+Memory
+Build-in
+Thinks
+Before
+100%
+Offline
+Remembers
+You
+Not just a tool.
+A companion.
+github.com/Open-LLM-VTuber/Open-LLM-VTuber
+Open LLM VTuber
+Your AI companion
+remembers and th
+Just not a tool.
+A companion.
+github.com/Open-LLM-VTuber/Open-LLM-VTuber

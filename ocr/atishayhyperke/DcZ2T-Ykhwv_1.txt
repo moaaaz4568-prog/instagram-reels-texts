@@ -1,0 +1,7 @@
+1. PCPL is the efficiency metric.
+Measure how many prospects you contact for every positive reply, not how much inbox activity you create.
+PCPL
+=
+PROSPECTS CONTACTED
+/
+POSITIVE REPLY

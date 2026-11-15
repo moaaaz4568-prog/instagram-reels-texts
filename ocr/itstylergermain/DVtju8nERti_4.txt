@@ -1,0 +1,9 @@
+Hold yourself accountable
+Try this one out
+
+Build a to-do dashboard with a local web UI. I can add, edit, and delete tasks with priority levels. Set up an hourly cron job – if the task list is not empty, work through tasks autonomously starting with the highest priority, log what was done, and mark complete.
+
+Store tasks in tasks.json. Log all activity to tasks.log.
+
+@itsitylergermain
+save for later

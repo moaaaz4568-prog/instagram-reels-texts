@@ -1,0 +1,10 @@
+Step #6
+Execute workflow
+Gemini 3
+Availability
+Availability: calendar
+Date Available
+Create Events
+Booking C
+Alternative Tines
+Add booking logic by connecting to n8n webhook with a simple prompt

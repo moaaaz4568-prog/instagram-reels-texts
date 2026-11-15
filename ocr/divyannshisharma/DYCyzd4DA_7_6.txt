@@ -1,0 +1,22 @@
+PERMANENT FOUNDATION
+
+13 - End-of-session summary
+
+When I say "session end", "wrapping up", or "let's stop here", write a session summary to MEMORY.md:
+
+## Session Summary, [Date]
+**Worked on:** [what we focused on]
+**Completed:** [what's finished]
+**In progress:** [what's started but not done] **Decisions made:** [key choices from this session]
+**Next session:** [what to pick up first and any important context to carry forward]
+
+14 - Log what didn't work
+
+Maintain a file called ERRORS.md. When an approach takes more than 2 attempts to work, log it:
+
+## [Task type or description]
+**What didn't work:** [approaches that failed and why] **What worked:** [the approach that finally succeeded] **Note for next time:** [anything worth remembering for similar tasks] Check ERRORS.md before suggesting approaches to tasks similar to logged ones. If a task matches a logged failure, say so and skip to what worked.
+
+15 - Give Claude a list of facts
+
+These facts are always true. Apply them to every session and every task without exception: - [Permanent fact #1, e.g. "My audience does not have a technical background"] - [Permanent fact #2, e.g. "All content must be appropriate for a professional context"] - [Permanent fact #3, e.g. "We never make claims without a source"] - [Permanent fact #4, e.g. "The brand voice is always warm, never corporate"] If any task conflicts with one of these, flag it before proceeding. Do not work around a constraint without telling me.

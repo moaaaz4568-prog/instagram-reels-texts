@@ -1,0 +1,21 @@
+08
+CLAUDE-SPECIFIC
+CIFIC
+if you use claude, these are not optional.
+
+55 superpowers 160K adds superpowers to claude code. deep code analysis, auto-refactor, project-wide editing, mark. skill.md patterns that teach claude to handle documents, automations, workflows.
+github.com/obra/superpowers most popular claude enhancement.
+
+56 claude-skills official official anthropic skills framework
+2K run claude code completely free via github models api. trending #1 on github. $0 forever.
+github.com/Alishahryar1/free-claude-code
+
+57 free-claude auto-captures everything across sessions. claude remembers who you are & what you're working on.
+1K persistent memory for claude. auto-captures everything across sessions. claude remembers who you are & what you're working on.
+github.com/thedotmark/claude-mem
+
+58 claude-mem
+
+Divyanshi sharma
+08/10
+08/10

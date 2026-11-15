@@ -1,0 +1,3 @@
+Sales Call Analysis
+Fathom for call recordings, Claude to synthesize & grade the call, Slack to deliver the report.
+@tstylergermain

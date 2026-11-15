@@ -1,0 +1,5 @@
+3. Add Your Plugin
+
+Open Plugins then click Create Plugin and after click on upload plugin
+
+You're now ready to give Claude new capabilities beyond its default knowledge.

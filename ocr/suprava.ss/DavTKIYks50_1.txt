@@ -1,0 +1,17 @@
+Finds me funded companies ⬇️
+Artifacts
+Search
+Skills
+funded-company-leads
+Funded Company Leads
+Purpose
+Find funded companies for Supra's cold outreach workflow, qualify them against Supe...
+qualified accounts with Founder/GTM contacts, and return a CSV-ready lead list.
+Assume:
+- The Affinity MCP is connected to Claude.
+- The Prospeo MCP is connected to Claude.
+- No local config file exists.
+- Ask the user for all run settings at the start.
+- Do not ask for API keys unless a connected MCP explicitly reports that credentials are missing.
+Required User Inputs
+Before running tools, ask the user for any missing settings below. Keep the questions concise and

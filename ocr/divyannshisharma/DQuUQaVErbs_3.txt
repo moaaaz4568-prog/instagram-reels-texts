@@ -1,0 +1,7 @@
+2→
+Scrape the Website
+Configuration:
+URL: {{Step 1 - Column A}}
+Crawler Type: Cheerio (fast, lightweight)
+Tips and tricks ⚡
+GAMMA

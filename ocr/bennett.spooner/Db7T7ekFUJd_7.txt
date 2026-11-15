@@ -1,0 +1,24 @@
+08 / 09
+@BENNETTOS
+// 06 • THE METAL
+RAILWAY, OR
+A MAC MINI.
+A Mac mini in the room if you want sovereignty – Docker sandboxes every worker, and the OS answers only on your tailnet. Railway, if you want zero ops: two services, a volume, auto-deploy on push. Either way, Tailscale is the only front door.
+$ docker compose up -d # worker sandboxes
+$ tailscale up # the only front door
+// OPTION A
+MAC MINI M4
+TAILNET-ONLY • NO OPEN PORTS • YOURS
+// OPTION B – ZERO OPS
+@bennettos
+PRO • 24GB
+OPEN PORTS • YOURS
+RAILWAY ~$15/MO
+SWIPE →
+MAC MINI M4 PRO • 24GB
+TAILNET-ONLY • NO OPEN PORTS • YOURS
+// OPTION A
+// OPTION B – ZERO OPS
+@bennettos
+RAILWAY
+SWIPE –

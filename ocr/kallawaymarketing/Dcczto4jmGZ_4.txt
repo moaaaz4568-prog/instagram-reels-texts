@@ -1,0 +1,8 @@
+HOW TO USE
+IN CLAUDE
+You can also talk directly to this data inside Claude.
+Claude
+Which hooks perform best?
+Opus 5
+Ask any content question and it can actually answer because
+it has all your social data and deep analysis of every video

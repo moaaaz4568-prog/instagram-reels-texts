@@ -1,0 +1,5 @@
+Step #10
+Copy the API key and paste it into
+the header under Authorization.
+API key and paste it into
+the header under Authorization.

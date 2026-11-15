@@ -1,0 +1,24 @@
+obra/superpowers
+An agentic skills framework & software development methodology that works.
+13
+64
+2k
+Contributors
+Issues
+Stars
+Forks
+Superpowers
+Claude brainstorm, plan, then build
+instead of rushing into code. The fix for AI slop.
+README
+Code of conduct
+MIT license
+Superpowers
+Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
+We're Hiring!
+We're hiring someone to help build out full time with Superpowers community and code work. You can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/ If this sounds like someone you know, definitely send them our way.
+Quickstart
+github.com/obra/superpowers
+Manthan Patel | @leadgenman
+3 / 15
+github.com/obra/superpowers

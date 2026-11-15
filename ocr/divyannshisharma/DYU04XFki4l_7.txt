@@ -1,0 +1,94 @@
+8.
+@os.operator
+Explore real prompts.
+Learn what works.
+Ship faster.
+operatoros.ai
+Agent Skills
+(Official Anthropic Course Covers)
+agent-skills.md
+Introduction to
+agent skills
+Learn how to build, configure, and share Skills in
+Claude Code — reusable markdown instructions
+that Claude automatically applies to the right tasks
+at the right time. This course takes you to the next
+step starting Claude once. You’ll discover what Skills are and
+how they differ from other Claude Code customization
+options like CLAUDE.md, hooks, and subagents. You’ll create
+your first Skill from scratch — writing the SKILL.md
+frontmatter, crafting effective descriptions that reliably trigger
+matching, and organizing your skill directory with progressive
+disclosure to keep context windows efficient. You’ll also
+explore advanced configuration options like restricting tool
+access with allowed-tools and using scripts that execute
+without consuming context.
+What are skills?
+Claude
+Claude
+Opus 4
+/skills
+Watch on YouTube
+Build better
+with Claude Code
+Prompt
+Create a Python script
+to scrape a website
+and save the data to
+CSV.
+Copy
+1. Copy
+Browse proven prompts
+that actually work.
+Day 2
+Write code
+faster
+Refactor with
+confidence
+Debug smarter,
+not harder
+Ship reliable
+software
+Steal working prompts.
+Fastest way to learn.
+Prompt
+Refactor this function
+for readability and
+performance.
+Copy
+2. Modify
+Adapt to your context.
+Make it yours.
+3. Deploy
+Use with Claude.
+Get insane results.
+Become dangerous.*
+Curriculum
+What are skills?
+You’ll discover what Skills are and
+how they differ from other Claude
+Code customization
+options like CLAUDE.md, hooks,
+and subagents. You’ll create
+your first Skill from scratch —
+writing the SKILL.md
+frontmatter, crafting effective
+descriptions that reliably trigger
+matching, and organizing your
+skill directory with progressive
+disclosure to keep context
+windows efficient. You’ll also
+explore advanced configuration
+options like restricting tool
+access with allowed-tools and
+using scripts that execute
+without consuming context.
+Troubleshooting skills
+Register | FREE
+Already registered? Sign In
+Skill
+Configuration and multi-file skills
+Skills vs. other Claude Code features
+Sharing skills
+Day 3
+Dangerous.*

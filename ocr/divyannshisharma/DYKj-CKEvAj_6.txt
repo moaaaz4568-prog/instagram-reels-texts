@@ -1,0 +1,11 @@
+#6: CLAUDE SKILLS
+
+232+ Claude Code skills & agent plugins for Claude
+Code, Codex, Gemini CLI, Cursor, and 8 more coding
+agents – engineering, marketing, product, compliance.
+
+github.com/alirezarezvani/claude-skills
+
+Divyanshi sharma
+
+06/10

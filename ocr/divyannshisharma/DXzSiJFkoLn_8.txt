@@ -1,0 +1,40 @@
+8. SubAgents
+
+Multi-agent orchestration across AI tools
+• Claude Code, Codex CLI, Ant custom slash commands
+• bidirectional collaboration
+• intelligent task routing
+
+Repo: https://github.com/OxAstin/Agent-Fusion
+
+Manager for Claude Code sub agents
+• adds hooks and custom slash commands
+• 175+ stars
+• lightweight setup
+
+Repo: https://github.com/webdevtodayjason/sub-agents
+
+Curated 100+ subagent prompts
+• 74+ stars
+• MCP servers included
+• community-maintained index
+
+Repo: https://github.com/dotneet/sub-agents-directory
+
+Multi-agent research orchestration
+• 72+ stars
+• parallel research agents
+• built specifically for Claude Code heavy
+
+Repo: https://github.com/iamcatdev/claude-code-agents
+
+QA-focused agent collection
+• 455+ stars
+• testing agents, validators
+• drop-in QA workflow
+
+Repo: https://github.com/webdevtodayjason/claudeCodeAgents
+
+Divyanshi sharma
+
+Category 4/10

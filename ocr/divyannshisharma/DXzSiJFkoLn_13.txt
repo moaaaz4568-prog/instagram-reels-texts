@@ -1,0 +1,52 @@
+13. Memory
+
+Long-term memory via compression
+• persists context between sessions + filesystem persistence
+• lightweight and composable
+• solves the #1 Claude Code complaint
+Repo: https://github.com/thedotron...
+
+Minimal hierarchical memory system
+• background agents + filesystem persistence
+• low-friction setup
+• works alongside existing skills
+• works alongside claude-mem-skill
+Repo: https://github.com/hanfang/claude-memory
+
+Reply...
++ 📋
+
+Background agent whispering guidance
+• 2.4k+ stars
+• watches sessions, reads files
+• builds memory over time
+Repo: https://github.com/0xurray/claude-subconscious
+
+Reply...
++ 📋
+
+Persistent semantic memory for Claude Code
+• 70+ stars
+• vector-based recall
+• session continuity
+Repo: https://github.com/dheerajoruganty/claude-code-semantic-memory
+
+Reply...
++ 📋
+
+User memory system with 12 specialist agents
+• 125+ stars
+• intelligent orchestration
+• auto-selects right specialist
+Repo: https://github.com/brennercruvinel/claude-user-memory
+
+Reply...
++ 📋
+
+Divyanshi sharma
+
+Category 7/10
+
+Divyanshi sharma
+
+Category 7/10

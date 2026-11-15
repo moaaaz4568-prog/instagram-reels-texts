@@ -1,0 +1,10 @@
+@aashna_kumar
+STEP 2
+Tell Claude Who It Is
+Start your prompt with a clear role.
+Example: “You’re an expert Instagram carousel strategist known for high-save, high-share content.”
+When you position Claude as an expert, it writes like one.
+You can angle it as:
+• Growth-focused strategist
+• Elite content creator
+• Scroll-stopping carousel expert

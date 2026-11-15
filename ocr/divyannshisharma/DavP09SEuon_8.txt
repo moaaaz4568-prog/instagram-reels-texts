@@ -1,0 +1,26 @@
+9 The full stack + what wastes money
+Build smart. Spend less.
+claude
+kicks off N tasks
+N can be in the 100s
+TASK 1
+TASK 2
+TASK N
+implementer
+verifiers
+fixer
+returns when done
+AGENT TEAMS
+DYNAMIC WORKFLOWS
+When it's all connected: Skills = your recipes, Routines = what triggers it,
+Auto Mode = handles permissions, Audit Logs = your morning review.
+You don't need all of it day one. Week 1 → first loop. Week 2 → Desktop task.
+Week 3 → Cloud Routine. Week 4 → Skills + Workflows once it gets complex.
+Mistakes that cost you:
+✗ never trying /loopo — it's free
+✗ forgetting the 7-day expiry
+✗ Opus for every automation — Sonnet's cheaper and does the job
+✗ no goal — Claude stops at "good enough"
+✗ blanket-approving everything
+✗ vague routine prompts — ambiguous in, random out
+✗ running heavy automation on Pro — rate limits will ruin your day

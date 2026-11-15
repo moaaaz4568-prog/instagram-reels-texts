@@ -1,0 +1,11 @@
+Step 2: Research
+The One That Started Everything
+Old way: open 15 tabs, skim docs, copy-paste quotes into a Google Doc. Now I upload my rules.md and type this:
+markdown
+Research [TOPIC].
+Structure:
+1. Executive summary (3 sentences max)
+2. Key findings (top 5, ranked by impact)
+3. What's missing: gaps in available info
+4. Sources with URLs
+Swipe →

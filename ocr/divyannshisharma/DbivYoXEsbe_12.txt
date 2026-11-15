@@ -1,0 +1,36 @@
+Slide 12 —
+Tool 10: Bitwarden Send
+12 / 12
+bitwarden / server Public
+Code Issues 31 Pull requests 175
+main 540 Branches 235 Tags
+mcnadid-bw [DOPS-177] Update MYSQL Docker...
+.aspire
+.checkmarx
+.claude
+.config
+.devcontainer
+.git-hooks
+.github
+.run
+.vscode
+AppHost
+About
+Bitwarden infrastructure/backend (API, database, Docker, etc).
+bitwarden.com
+Readme
+Unknown. Apache-2.0 license found
+Contributing
+Security policy
+Activity
+Custom properties
+19.2k stars
+218 watching
+1.7k forks
+Report repository
+What it does:
+Sends files to anyone with full encryption and an automatic expiration timer so the link disappears after a set time.
+What it replaces:
+WeTransfer Pro + Dropbox $20 a month
+Send anything to anyone securely. The link expires automatically. No one else can access it.
+github.com/bitwarden/server

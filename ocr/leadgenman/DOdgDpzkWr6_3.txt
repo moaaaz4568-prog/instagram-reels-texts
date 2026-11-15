@@ -1,0 +1,33 @@
+Agentic RAG
+Workflow
+User Query
+Response
+Memory
+Generate
+Response
+Answered
+this question
+before?
+Yes
+No
+Additional
+information
+required?
+Decompose
+query into
+sub-queries
+for each
+sub-query
+Query routing &
+processing (e.g.,
+extract metadata
+filters)
+Retrieved
+information
+relevant?
+No
+Yes
+Legend
+Processing
+Tool use
+Memory

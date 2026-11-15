@@ -1,0 +1,9 @@
+Infrastructure:
+31. AWS MCP: Manage AWS resources through Claude. EC2, S3, Lambda, CloudWatch. Build deployment and monitoring workflows through natural language.
+https://github.com/aws-samples/sample-mcp-server
+32. Cloudflare MCP: Manage Cloudflare Workers, KV storage, R2 buckets, and DNS. Deploy edge functions and manage infrastructure through Claude.
+https://github.com/cloudflare/mcp-server-cloudflare
+33. Kubernetes MCP: Manage Kubernetes clusters. List pods, check logs, scale deployments, inspect services. Kubernetes operations at the speed of conversation.
+https://github.com/strowk/mcp-k8s
+34. Vercel MCP: Manage Vercel deployments, domains, and environment variables. Deploy and monitor your applications through Claude.
+https://github.com/vercel/mcp

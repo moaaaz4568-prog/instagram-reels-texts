@@ -1,0 +1,38 @@
+Without Warmup
+Optimizing subject lines while 60% of emails
+never reach the inbox
+
+Subject
+Lines
+
+CTAs
+
+Copy
+
+DKIM
+
+DMARC
+
+Open Rate
+
+Personalization
+
+A/B Tests
+
+Inbox Placement
+
+With Warmup
+Optimizing sender reputation so your copy
+actually gets seen
+
+Sender Reputation
+
+SPF
+
+DNS
+
+Warmup
+
+Replies
+
+Adeline AI

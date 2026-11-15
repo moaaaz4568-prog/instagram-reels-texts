@@ -1,0 +1,26 @@
+04 IT WILL ASK YOU QUESTIONS FIRST
+
+It will ask you
+questions first.
+
+Before Fable starts a big task
+it will ask you a series of
+clarifying questions.
+
+This is not a bug.
+This is by design.
+
+It does this because it needs to
+fully understand the job before it runs
+autonomously for a long time.
+The more clearly you answer its questions
+upfront, the better the final
+result will be.
+
+Don’t skip this step.
+It saves you
+hours later.
+
+Better questions
+upfront, better
+results later.

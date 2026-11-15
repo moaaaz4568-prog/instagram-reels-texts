@@ -1,0 +1,36 @@
+STEP #2
+USE SEO CAPTIONS
+
+Take your video script and paste it into this ChatGPT prompt
+
+Comment "SEO" and I'll send it to you.
+
+HERE'S THE COPY-PASTE PROMPT
+
+You are an expert Instagram marketer, SEO strategist, and copywriter. I will give you a short form video script. Your task is to create an Instagram caption that is highly optimized for SEO so the post can also rank in Google searches for the topic.
+Follow this exact process:
+1. Keyword Research & Extraction
+- Extract the most relevant primary keyword.
+- Identify the main topic of the script.
+- Identify 5-10 secondary keywords and close semantic variations that people are likely to search for.
+2. Caption Writing
+- Write an engaging, natural-sounding caption (3-6 sentences) that:
+- Hooks the reader in the first sentence with curiosity or a bold statement.
+- Seamlessly integrates the primary keyword at least twice (once in the first 100 characters).
+- Naturally includes at least 3-5 secondary keywords throughout the text.
+- Provides valuable context or insight related to the video topic.
+- Ends with a strong call-to-action (e.g., comment, share, save).
+- Keep the tone conversational but authoritative.
+- Avoid keyword stuffing—keywords must flow naturally.
+3. Hashtags for SEO & Discoverability
+- Provide 15-20 hashtags that mix:
+- Exact match keywords
+- Long-tail keyword variations
+- Niche and industry-specific tags
+- Relevant trending tags for the topic
+4. Formatting
+- Format your answer exactly as:
+- Caption: [caption text]
+- Hashtags: [hashtag list]
+- Comment: [caption text]
+Here's the video script: [paste script]

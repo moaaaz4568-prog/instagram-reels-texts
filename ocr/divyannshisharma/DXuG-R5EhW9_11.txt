@@ -1,0 +1,40 @@
+PART 11: DATA & RESEARCH
+
+scientific-agent-skills by K-Dense
+18,900 stars, 133 skills
+
+AI-research-SKILLS by Orchestra
+87 skills, 115K lines
+
+paper-writing-skill by SNL-UCSB
+Five-stage pipeline
+
+econ-writing-skill by hanlulong
+Economics 50+ guide
+
+Awesome-Scientific-Skills by Intern
+Open skill collection
+
+Research-Paper-Writing by Master
+Abstract Conclusion
+
+research-skills by Imbad
+Cognitive framework
+
+academic-paper-skills by lishix520
+Strategist + Composer
+
+design, migration-architect
+alirezavani/claude
+
+nutrient-agent-skill by PSPDFKit-labs
+40+ agents, 97+ format
+
+kreuzberg by kreuzberg-dev
+97+ formats, 248 lang
+
+claude-office-skills by claude-skills
+OCR, Doc Parser, Layout
+
+@divyanshisharma
+>>>
