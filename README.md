@@ -12,6 +12,10 @@ Clean, real extracted texts from **238 Instagram accounts** — speech transcrip
 
 See `counts.json` for the machine-readable counts.
 
+## Suprava Sabat collection
+
+The `suprava/` folder holds one creator's complete collected public posts in one place: Instagram (162 posts, merged), X (1,792 tweets + replies), LinkedIn (810 posts, complete), and YouTube (guest appearances only — see `suprava/README.md` for counts and known gaps). It is separate from the per-post files above; the per-post Instagram files for `@suprava.ss` also live under `transcripts/suprava.ss/` and `ocr/suprava.ss/`.
+
 ## What is NOT in this repo (excluded on purpose)
 
 - **Qwen error placeholders** — ~14,224 transcript files that only contain a rate-limit / API error text (`429` / `400` / `请求失败`). Those files are being repaired locally with Whisper and will be added here as they become real.

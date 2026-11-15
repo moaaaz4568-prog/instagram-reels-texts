@@ -1,0 +1,81 @@
+{
+ "version": 4,
+ "built": "2026-11-15",
+ "posts": 162,
+ "clips": 90,
+ "carousels": 57,
+ "feed": 15,
+ "date_range": [
+  "2023-08-29",
+  "2026-10-03"
+ ],
+ "likes_total": 897006,
+ "comments_total": 84924,
+ "transcripts_present": 90,
+ "real_transcripts": 70,
+ "no_speech_music": 10,
+ "placeholder_429": 0,
+ "no_audio_mp4": 10,
+ "no_transcript_file": 72,
+ "ocr_files": 467,
+ "ocr_posts": 69,
+ "ocr_hcnsec_files": 399,
+ "ocr_rapidocr_files": 68,
+ "audio_files": 90,
+ "audio_bytes": 53054480,
+ "image_files": 557,
+ "image_bytes": 209664314,
+ "merged": {
+  "lines": 11249,
+  "words": 49236,
+  "bytes": 350319
+ },
+ "web": {
+  "x": {
+   "handle": "Suprva02",
+   "user_id": "1646519458868105217",
+   "live_tweet_count": 1818,
+   "live_followers": 2519,
+   "retrieved": 1792,
+   "originals": 551,
+   "retweets": 19,
+   "replies": 1222,
+   "articles": 2,
+   "date_range": [
+    "2023-04-13",
+    "2026-11-13"
+   ],
+   "missing": 26,
+   "truncated_by_x": 5,
+   "merged": {
+    "lines": 18132,
+    "words": 85108,
+    "bytes": 708857
+   },
+   "raw_pages": {
+    "usertweets": 44,
+    "replies": 68,
+    "articles": 1
+   },
+   "long_tweets_repaired_20261115": 124
+  },
+  "linkedin": {
+   "profile": "suprava-sabat-saasleadgen",
+   "member_id": "853838098",
+   "retrieved": 810,
+   "own_posts": 688,
+   "reshares": 122,
+   "date_range": [
+    "2020-11-24",
+    "2026-11-11"
+   ],
+   "own_text_chars": 593400,
+   "merged": {
+    "lines": 30616,
+    "words": 133326,
+    "bytes": 932759
+   },
+   "raw_pages": 10
+  }
+ }
+}

@@ -1,7 +1,7 @@
 {
  "transcripts": {
-  "files": 45104,
-  "bytes": 44459976,
+  "files": 45105,
+  "bytes": 44461296,
   "users": 215
  },
  "ocr": {
@@ -10,8 +10,12 @@
   "users": 63
  },
  "ocr_collisions_hcnsec_kept": 0,
- "total_files": 72121,
- "total_bytes": 52277922,
- "built_utc": "2026-11-15T17:15:54.734510+00:00",
+ "total_files": 72122,
+ "total_bytes": 52279242,
+ "suprava": {
+  "files": 11,
+  "bytes": 4209278
+ },
+ "built_utc": "2026-11-15T17:55:01.609154+00:00",
  "excluded": "Qwen error placeholders (429/400), empty files, and [No speech]/[No audio] marker files"
 }
